@@ -1,0 +1,76 @@
+{
+  "table_id": "2-2",
+  "title": "PocketQubes Market Solutions(The fields indicate maximum capability; organizations may offer multiple options including smaller capabilities within the PocketQube category)",
+  "chapter_num": 2,
+  "chapter_title": "Complete Spacecraft Platforms",
+  "source_url": "https://www.nasa.gov/smallsat-institute/sst-soa/platforms",
+  "edition": "2024",
+  "scrape_date": "2026-04-09",
+  "type": "products",
+  "columns": [
+    "Organization Headquarters",
+    "Peak Power (W)",
+    "3-σ Pointing Control/ Knowledge",
+    "Comm Options",
+    "Intended Destination",
+    "Maturity",
+    "US Office"
+  ],
+  "_notes": [],
+  "data": [
+    {
+      "Organization Headquarters": "Alba Orbital (UK)",
+      "Peak Power (W)": "15",
+      "3-σ Pointing Control/ Knowledge": "5°/2°",
+      "Comm Options": "UHF, S",
+      "Intended Destination": "LEO",
+      "Maturity": "Flown LEO",
+      "US Office": "Yes"
+    },
+    {
+      "Organization Headquarters": "DIYSATELLITE (Argentina)",
+      "Peak Power (W)": "9",
+      "3-σ Pointing Control/ Knowledge": "<5°/<5°",
+      "Comm Options": "VHF, UHF, SHF",
+      "Intended Destination": "LEO, GEO, Lunar",
+      "Maturity": "Flown LEO",
+      "US Office": "No"
+    },
+    {
+      "Organization Headquarters": "FOSSA Systems (Spain)",
+      "Peak Power (W)": "10",
+      "3-σ Pointing Control/ Knowledge": "<5°/<5°",
+      "Comm Options": "UHF, S",
+      "Intended Destination": "LEO",
+      "Maturity": "Flown LEO",
+      "US Office": "No"
+    },
+    {
+      "Organization Headquarters": "Hydra Space Systems (Spain)",
+      "Peak Power (W)": "8",
+      "3-σ Pointing Control/ Knowledge": "5°/5°",
+      "Comm Options": "VHF, UHF",
+      "Intended Destination": "LEO",
+      "Maturity": "Flown LEO",
+      "US Office": "No"
+    },
+    {
+      "Organization Headquarters": "Innova Space (Argentina)",
+      "Peak Power (W)": "3.9",
+      "3-σ Pointing Control/ Knowledge": "N/A -Magnetic Passive",
+      "Comm Options": "UHF",
+      "Intended Destination": "LEO",
+      "Maturity": "Flown LEO",
+      "US Office": "Yes"
+    },
+    {
+      "Organization Headquarters": "Quub, Inc. (USA)",
+      "Peak Power (W)": "26",
+      "3-σ Pointing Control/ Knowledge": "5°/2°",
+      "Comm Options": "UHF, S",
+      "Intended Destination": "LEO, Lunar",
+      "Maturity": "Flown LEO",
+      "US Office": "Yes"
+    }
+  ]
+}

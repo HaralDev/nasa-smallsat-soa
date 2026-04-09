@@ -1,0 +1,85 @@
+{
+  "table_id": "7-11",
+  "title": "Active Thermal Systems – Electrical Heaters",
+  "chapter_num": 7,
+  "chapter_title": "Thermal Control",
+  "source_url": "https://www.nasa.gov/smallsat-institute/sst-soa/thermal-control",
+  "edition": "2024",
+  "scrape_date": "2026-04-09",
+  "type": "products",
+  "columns": [
+    "Manufacturer",
+    "Product",
+    "Power(W/cm2)",
+    "Temp Limits",
+    "Material",
+    "Notes"
+  ],
+  "_notes": [],
+  "data": [
+    {
+      "Manufacturer": "Omega",
+      "Product": "KHLVA, PLM-Series",
+      "Power(W/cm2)": "0.4 to 1.56",
+      "Temp Limits": "-40°C to 149°C (w/PSA)-57°C to 232°C (w/o PSA)",
+      "Material": "Kapton (polyimide)",
+      "Notes": "Various sizes, rectangular/square/round, w & w/o pressure sensitive adhesive (PSA), Low-Outgassing"
+    },
+    {
+      "Manufacturer": "Omega",
+      "Product": "Polyimide Heater Kit",
+      "Power(W/cm2)": "0.4 to 1.56",
+      "Temp Limits": "-200°C to 200°C (w/PSA)",
+      "Material": "Kapton (polyimide)",
+      "Notes": "Various shapes. Temp limit max for short excursions. 149°C for continuous ops due to PSA limits."
+    },
+    {
+      "Manufacturer": "Tempco",
+      "Product": "SHK Series",
+      "Power(W/cm2)": "0.8 to 6.2",
+      "Temp Limits": "-35°C to 150°C (w/ Al Foil)",
+      "Material": "Kapton (polyimide)Some w/ Al Foil",
+      "Notes": "Rectangular/square/round, w/ (PSA). Some model available w/ AL foil for extended temp limits."
+    },
+    {
+      "Manufacturer": "Minco",
+      "Product": "Polyimide ThermofoilHK Series",
+      "Power(W/cm2)": "0.8 to 5.1",
+      "Temp Limits": "-200°C to 200°C -200°C to 150°C (w/ Al Foil)",
+      "Material": "Kapton (polyimide)Some w/ Al Foil",
+      "Notes": "Mountings: #12 & arcrylic PSA, epoxy, shrink band, stretch tape, clamping.NASA rated for materials & vacuum."
+    },
+    {
+      "Manufacturer": "Birk Manufacturing",
+      "Product": "Polyimide-Traditional",
+      "Power(W/cm2)": "0.02 to 3.1",
+      "Temp Limits": "See Notes",
+      "Material": "Kapton (polyimide)",
+      "Notes": "Max Temps: FEP-Bonded & All Polyimide(260°C); Acrylic Bonded(120°C)."
+    },
+    {
+      "Manufacturer": "Birk Manufacturing",
+      "Product": "Polyimide-High Temp",
+      "Power(W/cm2)": "0.02 to 7.75",
+      "Temp Limits": "See Notes",
+      "Material": "Kapton (polyimide)",
+      "Notes": "Max Temp: up to 300°C"
+    },
+    {
+      "Manufacturer": "Chromalox",
+      "Product": "KPH, KPM Series",
+      "Power(W/cm2)": "0.4 to 1.56",
+      "Temp Limits": "-200°C to 200°C* -200°C to 121°C**",
+      "Material": "Kapton (polyimide)",
+      "Notes": "* FEP Construction, Acrylic construction"
+    },
+    {
+      "Manufacturer": "All Flex Solutions",
+      "Product": "Custom Designs",
+      "Power(W/cm2)": "",
+      "Temp Limits": "",
+      "Material": "",
+      "Notes": "See website for design guide, options."
+    }
+  ]
+}

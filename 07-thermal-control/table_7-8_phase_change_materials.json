@@ -1,0 +1,73 @@
+{
+  "table_id": "7-8",
+  "title": "Phase Change Materials",
+  "chapter_num": 7,
+  "chapter_title": "Thermal Control",
+  "source_url": "https://www.nasa.gov/smallsat-institute/sst-soa/thermal-control",
+  "edition": "2024",
+  "scrape_date": "2026-04-09",
+  "type": "products",
+  "columns": [
+    "Material",
+    "Melting Point (°C)",
+    "Heat of Fusion (kJ/kg)"
+  ],
+  "_notes": [],
+  "data": [
+    {
+      "Material": "Salicylic Acid",
+      "Melting Point (°C)": "159",
+      "Heat of Fusion (kJ/kg)": "199"
+    },
+    {
+      "Material": "Bee Wax",
+      "Melting Point (°C)": "61.8",
+      "Heat of Fusion (kJ/kg)": "177"
+    },
+    {
+      "Material": "Paraffin",
+      "Melting Point (°C)": "20-60",
+      "Heat of Fusion (kJ/kg)": "140-280"
+    },
+    {
+      "Material": "Polyethylene glycol 600",
+      "Melting Point (°C)": "20-25",
+      "Heat of Fusion (kJ/kg)": "146"
+    },
+    {
+      "Material": "Glycerol",
+      "Melting Point (°C)": "18",
+      "Heat of Fusion (kJ/kg)": "199"
+    },
+    {
+      "Material": "Acetic acid",
+      "Melting Point (°C)": "17",
+      "Heat of Fusion (kJ/kg)": "187"
+    },
+    {
+      "Material": "Water",
+      "Melting Point (°C)": "0",
+      "Heat of Fusion (kJ/kg)": "333"
+    },
+    {
+      "Material": "Isopropyl alcohol",
+      "Melting Point (°C)": "-89",
+      "Heat of Fusion (kJ/kg)": "88"
+    },
+    {
+      "Material": "Butane",
+      "Melting Point (°C)": "-135",
+      "Heat of Fusion (kJ/kg)": "76"
+    },
+    {
+      "Material": "Ethane",
+      "Melting Point (°C)": "-172",
+      "Heat of Fusion (kJ/kg)": "93"
+    },
+    {
+      "Material": "Methane",
+      "Melting Point (°C)": "-183",
+      "Heat of Fusion (kJ/kg)": "59"
+    }
+  ]
+}

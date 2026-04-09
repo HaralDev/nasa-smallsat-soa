@@ -1,0 +1,63 @@
+{
+  "table_id": "7-9",
+  "title": "Thermal Switches",
+  "chapter_num": 7,
+  "chapter_title": "Thermal Control",
+  "source_url": "https://www.nasa.gov/smallsat-institute/sst-soa/thermal-control",
+  "edition": "2024",
+  "scrape_date": "2026-04-09",
+  "type": "products",
+  "columns": [
+    "Manufacturer",
+    "Product",
+    "Type",
+    "Max Conductance",
+    "Min Conductance",
+    "Mass",
+    "Max Q",
+    "Notes"
+  ],
+  "_notes": [],
+  "data": [
+    {
+      "Manufacturer": "ACT",
+      "Product": "(Study)",
+      "Type": "VCHP",
+      "Max Conductance": "20 W/K",
+      "Min Conductance": "0.01 to 0.04 W/K",
+      "Mass": "0.3 to 0.5 kg",
+      "Max Q": "—",
+      "Notes": "VCHP Variable Cond. Heat Pipe)"
+    },
+    {
+      "Manufacturer": "Sierra Nevada",
+      "Product": "Passive Thermal Control Heat Switch",
+      "Type": "Mechanical",
+      "Max Conductance": "1 W/K",
+      "Min Conductance": "0.015 W/K",
+      "Mass": "~0.110 kg",
+      "Max Q": "6 W",
+      "Notes": "Originally designed for Martian surface ops."
+    },
+    {
+      "Manufacturer": "Sierra Nevada",
+      "Product": "HP Thin Plate",
+      "Type": "Mechanical",
+      "Max Conductance": "607 W/m^2/°C",
+      "Min Conductance": "7.8 W/m^2/°C",
+      "Mass": "2.72 g/cm^3",
+      "Max Q": "12 W",
+      "Notes": "Based on single “cell” design (25.4 mm x 25.4 mm)"
+    },
+    {
+      "Manufacturer": "Sierra Nevada",
+      "Product": "Diaphragm Thin Plate",
+      "Type": "Mechanical",
+      "Max Conductance": "607 W/m^2/°C",
+      "Min Conductance": "7.1 W/m^2/°C",
+      "Mass": "2.72 g/cm^3",
+      "Max Q": "12 W",
+      "Notes": "Based on single “cell” design (41.3 mm x 41.3 mm)"
+    }
+  ]
+}

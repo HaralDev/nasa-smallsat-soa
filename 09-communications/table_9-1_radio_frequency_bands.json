@@ -1,0 +1,57 @@
+{
+  "table_id": "9-1",
+  "title": "Radio Frequency Bands",
+  "chapter_num": 9,
+  "chapter_title": "Communications",
+  "source_url": "https://www.nasa.gov/smallsat-institute/sst-soa/soa-communications",
+  "edition": "2024",
+  "scrape_date": "2026-04-09",
+  "type": "specifications",
+  "columns": [
+    "Band",
+    "Frequency"
+  ],
+  "_notes": [],
+  "data": [
+    {
+      "Band": "VHF",
+      "Frequency": "30 to 300 MHz"
+    },
+    {
+      "Band": "UHF",
+      "Frequency": "300 to 1000 MHz"
+    },
+    {
+      "Band": "L",
+      "Frequency": "1 to 2 GHz"
+    },
+    {
+      "Band": "S",
+      "Frequency": "2 to 4 GHz"
+    },
+    {
+      "Band": "C",
+      "Frequency": "4 to 8 GHz"
+    },
+    {
+      "Band": "X",
+      "Frequency": "8 to 12 GHz"
+    },
+    {
+      "Band": "Ku",
+      "Frequency": "12 to 18 GHz"
+    },
+    {
+      "Band": "K",
+      "Frequency": "18 to 27 GHz"
+    },
+    {
+      "Band": "Ka",
+      "Frequency": "27 to 40 GHz"
+    },
+    {
+      "Band": "V",
+      "Frequency": "40 to 75 GHz"
+    }
+  ]
+}

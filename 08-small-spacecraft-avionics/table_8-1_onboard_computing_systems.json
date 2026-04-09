@@ -1,0 +1,755 @@
+{
+  "table_id": "8-1",
+  "title": "Sample of Highly Integrated Onboard Computing Systems",
+  "chapter_num": 8,
+  "chapter_title": "Small Spacecraft Avionics",
+  "source_url": "https://www.nasa.gov/smallsat-institute/sst-soa/small-spacecraft-avionics",
+  "edition": "2024",
+  "scrape_date": "2026-04-09",
+  "type": "products",
+  "columns": [
+    "Manufacturer Headquarters",
+    "Product",
+    "Processor/ SoC/ FPGA",
+    "Radiation Hardness Assurance (RHA)",
+    "Board Dimension (cm)",
+    "Power Consumption (W)",
+    "Orbits Flown",
+    "Ref"
+  ],
+  "_notes": [
+    "*Orbits flown are on larger spacecraft"
+  ],
+  "data": [
+    {
+      "Manufacturer Headquarters": "AAC Clyde Space (Sweden)",
+      "Product": "Kryten-M3",
+      "Processor/ SoC/ FPGA": "Smart Fusion 2 SoC including an ARM Cortex-M3 processor delivering 62.5 DMIPS",
+      "Radiation Hardness Assurance (RHA)": "TID 20 krad (system level)",
+      "Board Dimension (cm)": "9.589×9.017×0.551",
+      "Power Consumption (W)": "0.4",
+      "Orbits Flown": "LEO",
+      "Ref": "(1)"
+    },
+    {
+      "Manufacturer Headquarters": "AAC Clyde Space (Sweden)",
+      "Product": "Sirius OBC & TCM",
+      "Processor/ SoC/ FPGA": "32-bit LEON3FT (IEEE-1754 SPARC v8) fault-tolerant processor",
+      "Radiation Hardness Assurance (RHA)": "TID 20 krad (system level)",
+      "Board Dimension (cm)": "9.589×9.017×1.720",
+      "Power Consumption (W)": "1.3",
+      "Orbits Flown": "LEO, lunar lander",
+      "Ref": "(2)"
+    },
+    {
+      "Manufacturer Headquarters": "Alén Space (Spain)",
+      "Product": "DARA OBC",
+      "Processor/ SoC/ FPGA": "ARM 32-bit Cortex-M7 with FPU",
+      "Radiation Hardness Assurance (RHA)": "N/A",
+      "Board Dimension (cm)": "8.93×9.33×1.2",
+      "Power Consumption (W)": "Max: 0.280",
+      "Orbits Flown": "LEO, 2024",
+      "Ref": "(4)"
+    },
+    {
+      "Manufacturer Headquarters": "Alén Space (Spain)",
+      "Product": "TRISKEL OBC+TTC",
+      "Processor/ SoC/ FPGA": "ARM 32-bit Cortex-M7 with FPU",
+      "Radiation Hardness Assurance (RHA)": "N/A",
+      "Board Dimension (cm)": "8.93×9.33×1.2",
+      "Power Consumption (W)": "OBC_max:0.280 TTC_max: 5.865",
+      "Orbits Flown": "LEO, 2025",
+      "Ref": "(3)"
+    },
+    {
+      "Manufacturer Headquarters": "Aitech Systems Inc.",
+      "Product": "SP0-S",
+      "Processor/ SoC/ FPGA": "Power PC 1020, Alcatel RTAX",
+      "Radiation Hardness Assurance (RHA)": "100 krad TID, SEL/LET 40 Mev-cm2/mg (without enclosure)",
+      "Board Dimension (cm)": "3U cPCI: 10.06x16x20.3",
+      "Power Consumption (W)": "12",
+      "Orbits Flown": "LEO, MEO, GEO, Lunar, Deep Space*",
+      "Ref": "(5)"
+    },
+    {
+      "Manufacturer Headquarters": "Aitech Systems Inc.",
+      "Product": "SP1-S",
+      "Processor/ SoC/ FPGA": "64-bit Arm® Cortex®-A72 cores @ 1.8 GHz",
+      "Radiation Hardness Assurance (RHA)": "100 krad TID (Target)",
+      "Board Dimension (cm)": "3U Space VPX: 10.06x16x20.3",
+      "Power Consumption (W)": "<25",
+      "Orbits Flown": "TBD",
+      "Ref": ""
+    },
+    {
+      "Manufacturer Headquarters": "Aitech Systems Inc.",
+      "Product": "S-A1760",
+      "Processor/ SoC/ FPGA": "Pascal™ Architecture GPU w/256 CUDA® cores NVIDIA Denver 2 Dual-Core ARM® CPU + Cortex® A57 Quad-Core ARM® CPU",
+      "Radiation Hardness Assurance (RHA)": "1.05 krad TID, < 1 type 2 SEFI update in 158 days (without enclosure)",
+      "Board Dimension (cm)": "12.7×12.7×5.2",
+      "Power Consumption (W)": "Configurable ≤ 5 Idle, 8-10 under typical CUDA load,<20 when System on Module is fully utilized",
+      "Orbits Flown": "LEO*",
+      "Ref": "(6) (7)"
+    },
+    {
+      "Manufacturer Headquarters": "Aitech Systems Inc.",
+      "Product": "S-C8780",
+      "Processor/ SoC/ FPGA": "Intel® Pentium-D or Xeon-D, discrete 2D GPU, Xilinx UltraScale+ FPGA w/Dual-core ARM® CPU",
+      "Radiation Hardness Assurance (RHA)": "TBD",
+      "Board Dimension (cm)": "3U Open VPX: 10.06x16x20.3",
+      "Power Consumption (W)": "Configurable 25-55",
+      "Orbits Flown": "TBD",
+      "Ref": "(8)"
+    },
+    {
+      "Manufacturer Headquarters": "Aitech Systems Inc.",
+      "Product": "S-C8500",
+      "Processor/ SoC/ FPGA": "Intel® Tiger Lake UP3 SoC, 4 cores/8 threads, integrated GPGPU with 96 Execution Units, Xilinx UltraScale+ FPGA w/Dual-Core ARM® CPU is Optional",
+      "Radiation Hardness Assurance (RHA)": "1 krad TID, SEL/LET TBD (without enclosure)",
+      "Board Dimension (cm)": "3U Open VPX: 10.06x16x20.3",
+      "Power Consumption (W)": "CPU Configurable from 12-28, Total system 22-42 configurations.",
+      "Orbits Flown": "TBD",
+      "Ref": "(9)"
+    },
+    {
+      "Manufacturer Headquarters": "Aerospacelab (Belgium)",
+      "Product": "OBC",
+      "Processor/ SoC/ FPGA": "Xilinx Zynq-7045 ARM dual-core Cortex A9 running at 667MHz Kintex-7 FPGA with 350k Programmable Logic Cells, 218,600 Look-up tables (LUT) and 437,200 flip-flops (FF) Linux and FreeRTOS compatible",
+      "Radiation Hardness Assurance (RHA)": "Radiation hardened supervisor MCU Radiation hardened watchdog Heavy ions (62.5 MeV) No destructive event",
+      "Board Dimension (cm)": "187×84.1×116.6 mm³ L x W x H Mass 1.325 kg",
+      "Power Consumption (W)": "<4",
+      "Orbits Flown": "LEO",
+      "Ref": ""
+    },
+    {
+      "Manufacturer Headquarters": "AndesAerospace (Chile)",
+      "Product": "Andes OBC",
+      "Processor/ SoC/ FPGA": "2x ARM 32-bit Cortex-M7 with FPU @up to 550MHz",
+      "Radiation Hardness Assurance (RHA)": "Estimated TID: 30krad (not tested) OBC+MRAM+NAND full cold redundancy",
+      "Board Dimension (cm)": "10x10x1.4",
+      "Power Consumption (W)": "Depends onconfiguration.Active: ~0.1",
+      "Orbits Flown": "Designed for LEO",
+      "Ref": ""
+    },
+    {
+      "Manufacturer Headquarters": "Argotec (Italy) ()",
+      "Product": "OBC FERMI",
+      "Processor/ SoC/ FPGA": "Dual-Core LEON3FT SPARC V8 Processor with fault-tolerant memory controller +Microchip RTG4",
+      "Radiation Hardness Assurance (RHA)": "Rad-hard",
+      "Board Dimension (cm)": "10.24x10x4.49",
+      "Power Consumption (W)": "5 (depending on load)",
+      "Orbits Flown": "Deep Space, Lunar Orbit, LEO",
+      "Ref": "(10) (11)"
+    },
+    {
+      "Manufacturer Headquarters": "Berlin Space Technologies GmbH (Germany) ()",
+      "Product": "CDH-110",
+      "Processor/ SoC/ FPGA": "STM32F103",
+      "Radiation Hardness Assurance (RHA)": "TID 30kRad (PCB level)",
+      "Board Dimension (cm)": "17.6×9.4×6.9",
+      "Power Consumption (W)": "< 2",
+      "Orbits Flown": "LEO",
+      "Ref": ""
+    },
+    {
+      "Manufacturer Headquarters": "Bradford Space (Netherlands)",
+      "Product": "Stellar OBC + PDHS",
+      "Processor/ SoC/ FPGA": "Dual Polarfire SoC",
+      "Radiation Hardness Assurance (RHA)": "30 krad (Si) + functional SEE resilience through SW EDAC and internal cold redundancy",
+      "Board Dimension (cm)": "13.3×11.5",
+      "Power Consumption (W)": "< 25W Full Load / < 3 Typical / < 1 Idle",
+      "Orbits Flown": "TBD",
+      "Ref": "(12)"
+    },
+    {
+      "Manufacturer Headquarters": "C3S Electronics Development LLC (Hungary) ()",
+      "Product": "OBC",
+      "Processor/ SoC/ FPGA": "32-bit ARM Cortex-M7",
+      "Radiation Hardness Assurance (RHA)": "Continuous integrity check on the program memory, multi-level watchdog system, MRAM storage",
+      "Board Dimension (cm)": "0.92×0.895×0.123 without daughterboard, 0.92×0.895×0.136 with daughterboard",
+      "Power Consumption (W)": "0.46 (measured in test mode, using eMMC as mass storage)",
+      "Orbits Flown": "LEO",
+      "Ref": "(13)"
+    },
+    {
+      "Manufacturer Headquarters": "CesiumAstro (USA)",
+      "Product": "SBC-1461",
+      "Processor/ SoC/ FPGA": "1.4 GHz ARM Cortex",
+      "Radiation Hardness Assurance (RHA)": "Rad Tolerant",
+      "Board Dimension (cm)": "5×8.4×1.3",
+      "Power Consumption (W)": "8 typ.",
+      "Orbits Flown": "LEO",
+      "Ref": "(14)"
+    },
+    {
+      "Manufacturer Headquarters": "CesiumAstro (USA)",
+      "Product": "RDP-23FV",
+      "Processor/ SoC/ FPGA": "Xilinx Versal",
+      "Radiation Hardness Assurance (RHA)": "Rad Tolerant to Rad Hard",
+      "Board Dimension (cm)": "16x10x2.54",
+      "Power Consumption (W)": "50",
+      "Orbits Flown": "LEO (2025)",
+      "Ref": ""
+    },
+    {
+      "Manufacturer Headquarters": "EnduroSat",
+      "Product": "OBC",
+      "Processor/ SoC/ FPGA": "ARM Cortex M7",
+      "Radiation Hardness Assurance (RHA)": "Tested at 40 krad TID",
+      "Board Dimension (cm)": "8.9×9.4×2.3 (with integrated GNSS)",
+      "Power Consumption (W)": "1.5 Peak 0.2 Idle",
+      "Orbits Flown": "400-600 km SSO, equatorial",
+      "Ref": "(15)"
+    },
+    {
+      "Manufacturer Headquarters": "EnduroSat",
+      "Product": "Payload Controller",
+      "Processor/ SoC/ FPGA": "Xilinx UltraScale+ SoC",
+      "Radiation Hardness Assurance (RHA)": "Tested at 20 krad TID",
+      "Board Dimension (cm)": "9.8x10x6.4",
+      "Power Consumption (W)": "<50 Peak 15Idle",
+      "Orbits Flown": "Designed for LEO",
+      "Ref": ""
+    },
+    {
+      "Manufacturer Headquarters": "GomSpace",
+      "Product": "NanoMind HP MK3",
+      "Processor/ SoC/ FPGA": "Xilinx Zynq 7030/7045",
+      "Radiation Hardness Assurance (RHA)": ">20 krad",
+      "Board Dimension (cm)": "9.5×9.5×3.15",
+      "Power Consumption (W)": "Dependent on customer application",
+      "Orbits Flown": "LEO",
+      "Ref": "(16)"
+    },
+    {
+      "Manufacturer Headquarters": "Ibeos",
+      "Product": "EDGE-1100 (3U SpaceVPX)",
+      "Processor/ SoC/ FPGA": "AMD Ryzen SOC",
+      "Radiation Hardness Assurance (RHA)": "TID: 30 krad SEE: >37 MeV",
+      "Board Dimension (cm)": "3U SpaceVPX; 16(L) x 10(W) x 2.5(Pitch)",
+      "Power Consumption (W)": "6-35",
+      "Orbits Flown": "Designed for LEO and GEO",
+      "Ref": ""
+    },
+    {
+      "Manufacturer Headquarters": "Ibeos",
+      "Product": "EDGE-1100 Genie",
+      "Processor/ SoC/ FPGA": "AMD Ryzen SOC",
+      "Radiation Hardness Assurance (RHA)": "TID: 30 krad SEE: >37 MeV",
+      "Board Dimension (cm)": "14.8(L) x 10.8 (W) x 3.4(H) – Stand-alone box",
+      "Power Consumption (W)": "8-35",
+      "Orbits Flown": "Designed for LEO and GEO",
+      "Ref": ""
+    },
+    {
+      "Manufacturer Headquarters": "Ibeos",
+      "Product": "Core-250",
+      "Processor/ SoC/ FPGA": "High Performance Space Computer Processor (HPSC), 8 x RISC-V cores, 3U SpaceVPX",
+      "Radiation Hardness Assurance (RHA)": "—",
+      "Board Dimension (cm)": "16(L) x 10(W) x 2.5(Pitch)",
+      "Power Consumption (W)": "<25",
+      "Orbits Flown": "Designed for LEO, GEO, and Beyond",
+      "Ref": ""
+    },
+    {
+      "Manufacturer Headquarters": "Innoflight",
+      "Product": "CFC-400XS",
+      "Processor/ SoC/ FPGA": "Defense Grade Xilinx UltraScale+ MPSoC",
+      "Radiation Hardness Assurance (RHA)": "TID: 30 krad",
+      "Board Dimension (cm)": "8.2×8.2×2.7",
+      "Power Consumption (W)": "6-25",
+      "Orbits Flown": "LEO (2021) & GEO (2022)",
+      "Ref": "(17)"
+    },
+    {
+      "Manufacturer Headquarters": "Innoflight",
+      "Product": "CFC-400XP",
+      "Processor/ SoC/ FPGA": "Defense Grade Xilinx UltraScale+ MPSoC",
+      "Radiation Hardness Assurance (RHA)": "TID: 30 krad",
+      "Board Dimension (cm)": "17.2x10x2.5",
+      "Power Consumption (W)": "4-30",
+      "Orbits Flown": "LEO in 2024",
+      "Ref": "(18)"
+    },
+    {
+      "Manufacturer Headquarters": "Innoflight",
+      "Product": "CFC-510P",
+      "Processor/ SoC/ FPGA": "AMD Ryzen GPGPU",
+      "Radiation Hardness Assurance (RHA)": "TID: 30 krad",
+      "Board Dimension (cm)": "17.2x10x2.5",
+      "Power Consumption (W)": "12-40",
+      "Orbits Flown": "LEO in 2024",
+      "Ref": ""
+    },
+    {
+      "Manufacturer Headquarters": "KP Labs",
+      "Product": "Antelope OBC and DPU",
+      "Processor/ SoC/ FPGA": "OBC – RM57 Herkules microcontroller (Dual 300 MHz ARM Cortex-R5F with FPU in lock-step)DPU – AMD Xilinx Zynq UltraScale+ MPSoC (ZU2EG, ZU3EG, ZU4EG, ZU5EG), Quad ARM Cortex-A53 CPU, Dual ARM Cortex-R5 in lock-step",
+      "Radiation Hardness Assurance (RHA)": "COTS with SEE mitigation",
+      "Board Dimension (cm)": "Motherboard – 1x1x1Daughterboard – 7x4x2",
+      "Power Consumption (W)": "From less than 0.5 (DPU is off) to 6 (DPU processes the data)",
+      "Orbits Flown": "LEO",
+      "Ref": "(19)"
+    },
+    {
+      "Manufacturer Headquarters": "KP Labs",
+      "Product": "Leopard DPU",
+      "Processor/ SoC/ FPGA": "AMD Xilinx Zynq UltraScale+ MPSoC (ZU6EG, ZU9EG, ZU15EG); Quad ARM Cortex-A53 CPU; Dual ARM Cortex-R5 in lock-step",
+      "Radiation Hardness Assurance (RHA)": "COTS with SEE mitigation",
+      "Board Dimension (cm)": "Non-redundant: 9×9.5×5Redundant: 9×9.5×7.8",
+      "Power Consumption (W)": "7 static power consumption; up to 10 for deep learning inference",
+      "Orbits Flown": "LEO",
+      "Ref": "(20)"
+    },
+    {
+      "Manufacturer Headquarters": "KP Labs",
+      "Product": "Lion DPU",
+      "Processor/ SoC/ FPGA": "AMD Xilinx Kintex Ultrascale FPGA (KU035, KU060, KU095)",
+      "Radiation Hardness Assurance (RHA)": "COTS with SEE mitigation",
+      "Board Dimension (cm)": "16x10x5",
+      "Power Consumption (W)": "<15 for KU035 version",
+      "Orbits Flown": "TBD",
+      "Ref": "(21)"
+    },
+    {
+      "Manufacturer Headquarters": "Laboratory for Atmospheric and Space Physics",
+      "Product": "LASP Generic Small-sat FPGA Board",
+      "Processor/ SoC/ FPGA": "Kintex-7",
+      "Radiation Hardness Assurance (RHA)": "25 krad",
+      "Board Dimension (cm)": "8.763×8.763",
+      "Power Consumption (W)": "1",
+      "Orbits Flown": "LEO",
+      "Ref": "(24)"
+    },
+    {
+      "Manufacturer Headquarters": "Micro Aerospace Solutions",
+      "Product": "MAS-SBC-107",
+      "Processor/ SoC/ FPGA": "Arm® Cortex®-M7",
+      "Radiation Hardness Assurance (RHA)": "Total Ionizing Dose of 30 krad (Si)",
+      "Board Dimension (cm)": "9×9.6",
+      "Power Consumption (W)": "<30",
+      "Orbits Flown": "LEO",
+      "Ref": ""
+    },
+    {
+      "Manufacturer Headquarters": "Nara Space Technology",
+      "Product": "NSTOBC",
+      "Processor/ SoC/ FPGA": "Atmel ARM 9 based Microprocessor Unit",
+      "Radiation Hardness Assurance (RHA)": "<24 krad",
+      "Board Dimension (cm)": "9x9x1.6",
+      "Power Consumption (W)": "0.429 (Idle)",
+      "Orbits Flown": "LEO",
+      "Ref": "(22)"
+    },
+    {
+      "Manufacturer Headquarters": "NOVI",
+      "Product": "Gen 2 OBC",
+      "Processor/ SoC/ FPGA": "AMD/Xilinx Versal (AI Edge Series): Dual-core ARM® Cortex®-A72,Dual-core ARM® Cortex®-R5F,Programmable Logic (FPGA),AI Engines. Vorago ARM MCU:Low-power ARM® Cortex®-M4, Embedded rad-hard FRAM.",
+      "Radiation Hardness Assurance (RHA)": "Radiation-hardened Vorago ARM MCU,SEL immune Xilinx processor,Optional radiation-hardened memory,Built in SEU/SEFI mitigation,ECC protected memory interfaces,Redundant storage for boot images.",
+      "Board Dimension (cm)": "9.3×9.3×2.5",
+      "Power Consumption (W)": "<0.75W (Low Power Mode)5-50W (High Performance Modes, Application Dependent)",
+      "Orbits Flown": "LEO",
+      "Ref": "(23)"
+    },
+    {
+      "Manufacturer Headquarters": "Novo Space",
+      "Product": "SBC002AV",
+      "Processor/ SoC/ FPGA": "Zynq Ultrascale+",
+      "Radiation Hardness Assurance (RHA)": "TID: 30 krad; Automotive parts with Rad-tolerant in high criticality parts; Rich telemetry with local event response; Board sectorization and power control; ECC in Volatile memories; CRC / Reed-Solomon / Interleaving in Non-Volatile memories; FPGA and fabric use selective TRM on critical functionality; Scrubbing on soft FPGAs.",
+      "Board Dimension (cm)": "16×10",
+      "Power Consumption (W)": "application dependentactive mode max: 15",
+      "Orbits Flown": "TBD",
+      "Ref": "(25)"
+    },
+    {
+      "Manufacturer Headquarters": "Novo Space",
+      "Product": "SBC003AV",
+      "Processor/ SoC/ FPGA": "SmartFusion2",
+      "Radiation Hardness Assurance (RHA)": "TID: 30 krad; Automotive parts with Rad-tolerant in high criticality parts; Rich telemetry with local event response; Board sectorization and power control; ECC in Volatile memories; CRC / Reed-Solomon / Interleaving in Non-Volatile memories; FPGA and fabric use selective TRM on critical functionality; Scrubbing on soft FPGAs.",
+      "Board Dimension (cm)": "16×10",
+      "Power Consumption (W)": "application dependentactive mode max: 8",
+      "Orbits Flown": "TBD",
+      "Ref": "(26)"
+    },
+    {
+      "Manufacturer Headquarters": "Novo Space",
+      "Product": "SBC004AF",
+      "Processor/ SoC/ FPGA": "Versal ACAP",
+      "Radiation Hardness Assurance (RHA)": "TID: 30 krad; Automotive parts with Rad-tolerant in high criticality parts; Rich telemetry with local event response; Board sectorization and power control; ECC in Volatile memories; CRC / Reed-Solomon / Interleaving in Non-Volatile memories; FPGA and fabric use selective TRM on critical functionality; Scrubbing on soft FPGAs.",
+      "Board Dimension (cm)": "16×10",
+      "Power Consumption (W)": "Under development",
+      "Orbits Flown": "TBD",
+      "Ref": "(27)"
+    },
+    {
+      "Manufacturer Headquarters": "Novo Space",
+      "Product": "SBC005AF",
+      "Processor/ SoC/ FPGA": "Polarfire",
+      "Radiation Hardness Assurance (RHA)": "TID: 30 krad; Automotive parts with Rad-tolerant in high criticality parts; Rich telemetry with local event response; Board sectorization and power control; ECC in Volatile memories; CRC / Reed-Solomon / Interleaving in Non-Volatile memories; FPGA and fabric use selective TRM on critical functionality; Scrubbing on soft FPGAs.",
+      "Board Dimension (cm)": "16×10",
+      "Power Consumption (W)": "application dependentactive mode max: 8",
+      "Orbits Flown": "TBD",
+      "Ref": "(28)"
+    },
+    {
+      "Manufacturer Headquarters": "Novo Space",
+      "Product": "GPU001AF",
+      "Processor/ SoC/ FPGA": "Jetson TX2i",
+      "Radiation Hardness Assurance (RHA)": "TID: 30 krad; Automotive parts with Rad-tolerant in high criticality parts; Rich telemetry with local event response; Board sectorization and power control; ECC in Volatile memories; CRC / Reed-Solomon / Interleaving in Non-Volatile memories; FPGA and fabric use selective TRM on critical functionality; Scrubbing on soft FPGAs.",
+      "Board Dimension (cm)": "8.7×5",
+      "Power Consumption (W)": "active mode min:9active mode max:15",
+      "Orbits Flown": "TBD",
+      "Ref": "(29)"
+    },
+    {
+      "Manufacturer Headquarters": "Novo Space",
+      "Product": "GPU002AF",
+      "Processor/ SoC/ FPGA": "Jetson Orin Nano",
+      "Radiation Hardness Assurance (RHA)": "TID: 30 krad",
+      "Board Dimension (cm)": "8.7×5",
+      "Power Consumption (W)": "active mode min:6active mode max:11",
+      "Orbits Flown": "TBD",
+      "Ref": "(30)"
+    },
+    {
+      "Manufacturer Headquarters": "Pumpkin Space Systems",
+      "Product": "PPM A1",
+      "Processor/ SoC/ FPGA": "MCU+DSP",
+      "Radiation Hardness Assurance (RHA)": "N/A",
+      "Board Dimension (cm)": "90×96",
+      "Power Consumption (W)": "0.05",
+      "Orbits Flown": "LEO",
+      "Ref": ""
+    },
+    {
+      "Manufacturer Headquarters": "Pumpkin Space Systems",
+      "Product": "PPM A2",
+      "Processor/ SoC/ FPGA": "MCU+DSP",
+      "Radiation Hardness Assurance (RHA)": "N/A",
+      "Board Dimension (cm)": "90×96",
+      "Power Consumption (W)": "0.05",
+      "Orbits Flown": "LEO",
+      "Ref": ""
+    },
+    {
+      "Manufacturer Headquarters": "Pumpkin Space Systems",
+      "Product": "PPM A3",
+      "Processor/ SoC/ FPGA": "MCU+DSP",
+      "Radiation Hardness Assurance (RHA)": "N/A",
+      "Board Dimension (cm)": "90×96",
+      "Power Consumption (W)": "0.05",
+      "Orbits Flown": "LEO",
+      "Ref": ""
+    },
+    {
+      "Manufacturer Headquarters": "Pumpkin Space Systems",
+      "Product": "PPM B1",
+      "Processor/ SoC/ FPGA": "MCU+DSP",
+      "Radiation Hardness Assurance (RHA)": "N/A",
+      "Board Dimension (cm)": "90×96",
+      "Power Consumption (W)": "0.05",
+      "Orbits Flown": "LEO",
+      "Ref": ""
+    },
+    {
+      "Manufacturer Headquarters": "Pumpkin Space Systems",
+      "Product": "PPM D1",
+      "Processor/ SoC/ FPGA": "MCU",
+      "Radiation Hardness Assurance (RHA)": "N/A",
+      "Board Dimension (cm)": "90×96",
+      "Power Consumption (W)": "0.05",
+      "Orbits Flown": "LEO",
+      "Ref": ""
+    },
+    {
+      "Manufacturer Headquarters": "Pumpkin Space Systems",
+      "Product": "PPM D2",
+      "Processor/ SoC/ FPGA": "MCU+DSP",
+      "Radiation Hardness Assurance (RHA)": "N/A",
+      "Board Dimension (cm)": "90×96",
+      "Power Consumption (W)": "0.05",
+      "Orbits Flown": "LEO",
+      "Ref": ""
+    },
+    {
+      "Manufacturer Headquarters": "Pumpkin Space Systems",
+      "Product": "PPM E1",
+      "Processor/ SoC/ FPGA": "MCU",
+      "Radiation Hardness Assurance (RHA)": "N/A",
+      "Board Dimension (cm)": "90×96",
+      "Power Consumption (W)": "0.05",
+      "Orbits Flown": "LEO",
+      "Ref": ""
+    },
+    {
+      "Manufacturer Headquarters": "Pumpkin Space Systems",
+      "Product": "PPM B1",
+      "Processor/ SoC/ FPGA": "MCU+DSP",
+      "Radiation Hardness Assurance (RHA)": "N/A",
+      "Board Dimension (cm)": "90×96",
+      "Power Consumption (W)": "0.05",
+      "Orbits Flown": "LEO",
+      "Ref": ""
+    },
+    {
+      "Manufacturer Headquarters": "Pumpkin Space Systems",
+      "Product": "PPM D1",
+      "Processor/ SoC/ FPGA": "MCU",
+      "Radiation Hardness Assurance (RHA)": "N/A",
+      "Board Dimension (cm)": "90×96",
+      "Power Consumption (W)": "0.05",
+      "Orbits Flown": "LEO",
+      "Ref": ""
+    },
+    {
+      "Manufacturer Headquarters": "Pumpkin Space Systems",
+      "Product": "MBM2 w/BBB",
+      "Processor/ SoC/ FPGA": "MCU",
+      "Radiation Hardness Assurance (RHA)": "~5 krad",
+      "Board Dimension (cm)": "90×96",
+      "Power Consumption (W)": "2",
+      "Orbits Flown": "LEO",
+      "Ref": ""
+    },
+    {
+      "Manufacturer Headquarters": "Ramon Space",
+      "Product": "NuPod",
+      "Processor/ SoC/ FPGA": "Space Grade Xilinx Versal ACAP, Cortex A72 4x / 16x Core ARM",
+      "Radiation Hardness Assurance (RHA)": "TID: 30 krad SEL: 43 MeV·cm2/mg",
+      "Board Dimension (cm)": "28.7×21.5×7.5 Mounted enclosure",
+      "Power Consumption (W)": "20-90",
+      "Orbits Flown": "TBD",
+      "Ref": "(31)"
+    },
+    {
+      "Manufacturer Headquarters": "Resilient Computing",
+      "Product": "RadPC-SBC-001",
+      "Processor/ SoC/ FPGA": "RISC-V 32-Bit (AMD Artix 7)",
+      "Radiation Hardness Assurance (RHA)": "COTS with SEE mitigation",
+      "Board Dimension (cm)": "10×10",
+      "Power Consumption (W)": "1.5",
+      "Orbits Flown": "LEO, Lunar (2024)",
+      "Ref": "(32)"
+    },
+    {
+      "Manufacturer Headquarters": "Sierra Space",
+      "Product": "UMCD",
+      "Processor/ SoC/ FPGA": "Microchip RTSX72",
+      "Radiation Hardness Assurance (RHA)": "100kRad TID (Si)",
+      "Board Dimension (cm)": "11.4×11.4×4.4",
+      "Power Consumption (W)": "7",
+      "Orbits Flown": "LEO, GEO",
+      "Ref": "(33)"
+    },
+    {
+      "Manufacturer Headquarters": "SkyLabs",
+      "Product": "NANOhpc-obc",
+      "Processor/ SoC/ FPGA": "4x RISC-V 64-bit / PolarFire / SoC",
+      "Radiation Hardness Assurance (RHA)": "COTS w/ SEE mitigation",
+      "Board Dimension (cm)": "9.5×9.1×1.3",
+      "Power Consumption (W)": "~10 Peak",
+      "Orbits Flown": "TBD",
+      "Ref": "(34) (36)"
+    },
+    {
+      "Manufacturer Headquarters": "SkyLabs",
+      "Product": "NANOhpm-obc",
+      "Processor/ SoC/ FPGA": "32-bit RISC-V core / PolarFire",
+      "Radiation Hardness Assurance (RHA)": "COTS w/ SEE mitigation",
+      "Board Dimension (cm)": "9.5×9.1×1.3",
+      "Power Consumption (W)": "<5",
+      "Orbits Flown": "LEO, MEO",
+      "Ref": "(35) (38)"
+    },
+    {
+      "Manufacturer Headquarters": "SkyLabs",
+      "Product": "NANOobc-2",
+      "Processor/ SoC/ FPGA": "PicoSkyFT / IGLOO 2",
+      "Radiation Hardness Assurance (RHA)": "COTS w/ SEE mitigation",
+      "Board Dimension (cm)": "9.5×9.1×1.1",
+      "Power Consumption (W)": "<1 Peak, <0.9 Idle",
+      "Orbits Flown": "LEO, MEO",
+      "Ref": "(37)"
+    },
+    {
+      "Manufacturer Headquarters": "Space Dynamics Laboratory",
+      "Product": "SDL-25",
+      "Processor/ SoC/ FPGA": "UT700 LEON3-FT + RT3P FPGA",
+      "Radiation Hardness Assurance (RHA)": "10 krad",
+      "Board Dimension (cm)": "13×9",
+      "Power Consumption (W)": "2-6",
+      "Orbits Flown": "LEO, GEO",
+      "Ref": ""
+    },
+    {
+      "Manufacturer Headquarters": "Space Dynamics Laboratory",
+      "Product": "LEON 4",
+      "Processor/ SoC/ FPGA": "GR740 LEON4 + RTG4",
+      "Radiation Hardness Assurance (RHA)": "50 krad",
+      "Board Dimension (cm)": "SpaceVPX 6U",
+      "Power Consumption (W)": "12",
+      "Orbits Flown": "LEO, GEO",
+      "Ref": ""
+    },
+    {
+      "Manufacturer Headquarters": "SPiN USA",
+      "Product": "MA61C CubeSat",
+      "Processor/ SoC/ FPGA": "GR712RC dual-core 32-bit LEON3 fault-tolerant, SPARC V8 processor",
+      "Radiation Hardness Assurance (RHA)": "Processor is 300 krad",
+      "Board Dimension (cm)": "9.599×9.027",
+      "Power Consumption (W)": "1-1.2",
+      "Orbits Flown": "TBD",
+      "Ref": "(39)"
+    },
+    {
+      "Manufacturer Headquarters": "SPiN USA",
+      "Product": "MA61C smallsat",
+      "Processor/ SoC/ FPGA": "GR712RC dual-core 32-bit LEON3 fault-tolerantSPARC V8 processor",
+      "Radiation Hardness Assurance (RHA)": "Processor is 300 krad",
+      "Board Dimension (cm)": "10.5×10.5",
+      "Power Consumption (W)": "1-1.2",
+      "Orbits Flown": "TBD",
+      "Ref": "(40)"
+    },
+    {
+      "Manufacturer Headquarters": "SPiN USA",
+      "Product": "MA61C cPCI serial space",
+      "Processor/ SoC/ FPGA": "GR712RC dual-core 32-bit LEON3 fault-tolerantSPARC V8 processor",
+      "Radiation Hardness Assurance (RHA)": "Processor is 300 krad",
+      "Board Dimension (cm)": "16×10",
+      "Power Consumption (W)": "1-1.2",
+      "Orbits Flown": "TBD",
+      "Ref": "(41)"
+    },
+    {
+      "Manufacturer Headquarters": "Spiral Blue",
+      "Product": "Space Edge One",
+      "Processor/ SoC/ FPGA": "Nvidia Jetson Xavier NX",
+      "Radiation Hardness Assurance (RHA)": "N/A",
+      "Board Dimension (cm)": "10×10",
+      "Power Consumption (W)": "7",
+      "Orbits Flown": "LEO",
+      "Ref": "(42)"
+    },
+    {
+      "Manufacturer Headquarters": "Southwest Research Institute (®) (SwRI (®))",
+      "Product": "Centaur SBC",
+      "Processor/ SoC/ FPGA": "GR712RC dual core LEON3-FT CPU, Xilinx Ultrascale or Microchip RT-ProAsic or RTG4 FPGA",
+      "Radiation Hardness Assurance (RHA)": "TID: Up to 60 krad (Si), more with shieldingSEL: Immune to >67eV/mg/cm2SEU: < 1 error per 24-hour period",
+      "Board Dimension (cm)": "Available in 3U/6U cPCI form factors",
+      "Power Consumption (W)": "Low power < 4 Operation",
+      "Orbits Flown": "LEO",
+      "Ref": ""
+    },
+    {
+      "Manufacturer Headquarters": "Southwest Research Institute (®) (SwRI (®))",
+      "Product": "HP-SBC",
+      "Processor/ SoC/ FPGA": "PowerPC based MPC8548e CPU, Microsemi RT-ProASIC FPGA, Optional: Microsemi RTG4 FPGA, Optional: Xilinx Ultrascale FPGA",
+      "Radiation Hardness Assurance (RHA)": "TID: Up to 60 krad (Si), more with shieldingSEL: Immune to >67eV/mg/cm2SEU: < 1 error per 24-hour period",
+      "Board Dimension (cm)": "Available in 3U/6U cPCI form factors",
+      "Power Consumption (W)": "12-20 depending on clock frequency and FPGA pairing",
+      "Orbits Flown": "Leo and GEO",
+      "Ref": "(43)"
+    },
+    {
+      "Manufacturer Headquarters": "Spacemanic",
+      "Product": "DeepThought_OBC",
+      "Processor/ SoC/ FPGA": "SAMV71",
+      "Radiation Hardness Assurance (RHA)": "-",
+      "Board Dimension (cm)": "6.7×4.2×0.7",
+      "Power Consumption (W)": "0.1",
+      "Orbits Flown": "GRBAlphaBDSat1 & 2PlanetumVeronikaCroCube",
+      "Ref": "(44)"
+    },
+    {
+      "Manufacturer Headquarters": "Spacemanic",
+      "Product": "Eddie_OBC",
+      "Processor/ SoC/ FPGA": "MSP430",
+      "Radiation Hardness Assurance (RHA)": "–",
+      "Board Dimension (cm)": "6.7×4.2×0.7",
+      "Power Consumption (W)": "0.1",
+      "Orbits Flown": "LEO (500-550 SSO), PlanetumVeronikaCroCube",
+      "Ref": "(45)"
+    },
+    {
+      "Manufacturer Headquarters": "TelePIX Co.,Ltd.",
+      "Product": "TetraPLEX OBP",
+      "Processor/ SoC/ FPGA": "1. Microchip PolarFire® SoC(MPFS250T)– 64-bit RV64GC Quad Applicationprocessing cores (667 MHz)– 64-bit RV64IMAC monitor processorcore (667 MHz)2. NVIDIA® Jetson ORIN NX 16GBSystem-on-Module– 64-bit Cortex A78AE Armv8.2(Eight-core) with Ampere GPU (1024NVIDIA® CUDA® cores 32 Tensorcores)",
+      "Radiation Hardness Assurance (RHA)": "N/A",
+      "Board Dimension (cm)": "10x10x10",
+      "Power Consumption (W)": "36 (max)",
+      "Orbits Flown": "LEO (SSO)",
+      "Ref": "(46)"
+    },
+    {
+      "Manufacturer Headquarters": "Trident Space Electronic Systems",
+      "Product": "VDRT",
+      "Processor/ SoC/ FPGA": "Versal VC1902",
+      "Radiation Hardness Assurance (RHA)": "30 krad / 50MeV LU",
+      "Board Dimension (cm)": "10×14.6×2.54",
+      "Power Consumption (W)": "<60",
+      "Orbits Flown": "LEO/MEO capable",
+      "Ref": "(46)"
+    },
+    {
+      "Manufacturer Headquarters": "Trident Space Electronic Systems",
+      "Product": "UDRT",
+      "Processor/ SoC/ FPGA": "MPSoC ZU19",
+      "Radiation Hardness Assurance (RHA)": "30 krad / 40MeV LU",
+      "Board Dimension (cm)": "10×14.6×2.54",
+      "Power Consumption (W)": "<50",
+      "Orbits Flown": "Multiple LEO 400-1200km missions",
+      "Ref": "(47)"
+    },
+    {
+      "Manufacturer Headquarters": "Unibap",
+      "Product": "iX10-100A",
+      "Processor/ SoC/ FPGA": "AMD Ryzen V1000 (CPU and GPU), Intel Myriad-X (VPU)",
+      "Radiation Hardness Assurance (RHA)": "Radiation Tolerant COTS with SEE mitigation",
+      "Board Dimension (cm)": "10x10x6",
+      "Power Consumption (W)": "25-40",
+      "Orbits Flown": "LEO",
+      "Ref": "(48)"
+    },
+    {
+      "Manufacturer Headquarters": "Unibap",
+      "Product": "iX5-106",
+      "Processor/ SoC/ FPGA": "AMD Steppe Eagle (CPU and GPU), Intel Myriad-X (VPU)Microchip SmartFusion2 (FPGA)",
+      "Radiation Hardness Assurance (RHA)": "Radiation Tolerant COTS with SEE mitigation",
+      "Board Dimension (cm)": "10x10x5",
+      "Power Consumption (W)": "15-25",
+      "Orbits Flown": "",
+      "Ref": ""
+    },
+    {
+      "Manufacturer Headquarters": "Xiphos",
+      "Product": "Q7S",
+      "Processor/ SoC/ FPGA": "AMD-Xilinx Zynq-7020 Dual-core ARM Cortex-A9",
+      "Radiation Hardness Assurance (RHA)": "25 krad",
+      "Board Dimension (cm)": "7.8×4.3×0.9",
+      "Power Consumption (W)": "2",
+      "Orbits Flown": "LEO",
+      "Ref": ""
+    },
+    {
+      "Manufacturer Headquarters": "Xiphos",
+      "Product": "Q8S",
+      "Processor/ SoC/ FPGA": "AMD-Xilinx Zynq Ultrascale+ MPSOC Quad-core ARM Cortex-A53",
+      "Radiation Hardness Assurance (RHA)": "30 krad",
+      "Board Dimension (cm)": "8x8x1.12",
+      "Power Consumption (W)": ">5",
+      "Orbits Flown": "LEO",
+      "Ref": ""
+    },
+    {
+      "Manufacturer Headquarters": "Xiphos",
+      "Product": "Q8Js",
+      "Processor/ SoC/ FPGA": "AMD-Xilinx Zynq Ultrascale+ MPSOC Quad-core ARM Cortex-A53",
+      "Radiation Hardness Assurance (RHA)": "30 krad",
+      "Board Dimension (cm)": "8x8x1.12",
+      "Power Consumption (W)": ">5",
+      "Orbits Flown": "LEO",
+      "Ref": ""
+    }
+  ]
+}

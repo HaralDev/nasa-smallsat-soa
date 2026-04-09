@@ -1,0 +1,39 @@
+{
+  "table_id": "4-1",
+  "subgroup": "4.6.3 PROPELLANTLESS PROPULSION TECHNOLOGIES",
+  "title": "Summary of Propulsion Technologies Surveyed",
+  "chapter_num": 4,
+  "chapter_title": "In-Space Propulsion",
+  "source_url": "https://www.nasa.gov/smallsat-institute/sst-soa/in-space_propulsion",
+  "edition": "2024",
+  "scrape_date": "2026-04-09",
+  "type": "reference",
+  "columns": [
+    "Technology",
+    "Thrust Range",
+    "Specific Impulse Range [sec]"
+  ],
+  "_notes": [],
+  "data": [
+    {
+      "Technology": "Solar Sails",
+      "Thrust Range": "TBD",
+      "Specific Impulse Range [sec]": "–"
+    },
+    {
+      "Technology": "Tethers",
+      "Thrust Range": "TBD",
+      "Specific Impulse Range [sec]": "–"
+    },
+    {
+      "Technology": "Electric Sails",
+      "Thrust Range": "TBD",
+      "Specific Impulse Range [sec]": "–"
+    },
+    {
+      "Technology": "Aerodynamic Drag",
+      "Thrust Range": "TBD",
+      "Specific Impulse Range [sec]": "–"
+    }
+  ]
+}

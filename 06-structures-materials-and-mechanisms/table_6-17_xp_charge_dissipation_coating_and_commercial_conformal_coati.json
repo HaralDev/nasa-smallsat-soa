@@ -1,0 +1,29 @@
+{
+  "table_id": "6-17",
+  "title": "XP Charge Dissipation Coating and Commercial Conformal Coating Resistivity Comparisons",
+  "chapter_num": 6,
+  "chapter_title": "Structures, Materials, and Mechanisms",
+  "source_url": "https://www.nasa.gov/smallsat-institute/sst-soa/structures-materials-and-mechanisms",
+  "edition": "2024",
+  "scrape_date": "2026-04-09",
+  "type": "specifications",
+  "columns": [
+    "Material",
+    "Volume Resistivity (Ohm-cm)"
+  ],
+  "_notes": [],
+  "data": [
+    {
+      "Material": "XP Charge Dissipation Coating",
+      "Volume Resistivity (Ohm-cm)": "10 (8)– 10 (12), 4.7 x 10 (9) at 25°C"
+    },
+    {
+      "Material": "Arathane 5750 A/B",
+      "Volume Resistivity (Ohm-cm)": "9.3 X 10 (15) at 25°C, 2.0 X 10 (13) at 95°C"
+    },
+    {
+      "Material": "Humiseal 1B73",
+      "Volume Resistivity (Ohm-cm)": "5.5 x 10 (14)Ohms (Insulation Resistance per MIL-I-46058C)"
+    }
+  ]
+}

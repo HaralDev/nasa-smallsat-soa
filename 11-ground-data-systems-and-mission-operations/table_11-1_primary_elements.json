@@ -1,0 +1,33 @@
+{
+  "table_id": "11-1",
+  "title": "Primary Elements of a Ground System",
+  "chapter_num": 11,
+  "chapter_title": "Ground Data Systems and Mission Operations",
+  "source_url": "https://www.nasa.gov/smallsat-institute/sst-soa/ground-data-systems-and-mission-operations",
+  "edition": "2024",
+  "scrape_date": "2026-04-09",
+  "type": "reference",
+  "columns": [
+    "Element",
+    "Function"
+  ],
+  "_notes": [],
+  "data": [
+    {
+      "Element": "Ground Stations",
+      "Function": "Telemetry, tracking, and command interface with the spacecraft"
+    },
+    {
+      "Element": "Ground Networks",
+      "Function": "Connection between multiple ground elements"
+    },
+    {
+      "Element": "Control Centers",
+      "Function": "Management of the spacecraft operations"
+    },
+    {
+      "Element": "Remote Terminals",
+      "Function": "User interface to retrieve transmitted information for additional processing"
+    }
+  ]
+}

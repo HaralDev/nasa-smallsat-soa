@@ -1,0 +1,49 @@
+{
+  "table_id": "11-11",
+  "title": "Software for Ground Systems",
+  "chapter_num": 11,
+  "chapter_title": "Ground Data Systems and Mission Operations",
+  "source_url": "https://www.nasa.gov/smallsat-institute/sst-soa/ground-data-systems-and-mission-operations",
+  "edition": "2024",
+  "scrape_date": "2026-04-09",
+  "type": "products",
+  "columns": [
+    "Product",
+    "Manufacturer",
+    "TRL",
+    "Type of Product"
+  ],
+  "_notes": [],
+  "data": [
+    {
+      "Product": "softFEP",
+      "Manufacturer": "AMERGINT",
+      "TRL": "9",
+      "Type of Product": "Emulation ground systems software"
+    },
+    {
+      "Product": "OpenSpace quantumFEP",
+      "Manufacturer": "Kratos",
+      "TRL": "9",
+      "Type of Product": "Software that performs data formatting and interface conversion for commands and telemetry, with full support for NSA Type 1 and AES encryption/decryption devices"
+    },
+    {
+      "Product": "Gpredict",
+      "Manufacturer": "Alexandru Csete",
+      "TRL": "9",
+      "Type of Product": "Open-source software that tracks satellites and provides orbit prediction in real-time. Radio and antenna rotator control for autonomous tracking"
+    },
+    {
+      "Product": "GNU Radio",
+      "Manufacturer": "GNU Project",
+      "TRL": "9",
+      "Type of Product": "Free software development toolkit that provides signal processing blocks to implement software- defined radios and signal processing systems"
+    },
+    {
+      "Product": "HWCNTRL",
+      "Manufacturer": "DeWitt & Associates",
+      "TRL": "9",
+      "Type of Product": "Ground station control program with an automation software package"
+    }
+  ]
+}

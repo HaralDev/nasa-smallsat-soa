@@ -1,0 +1,132 @@
+{
+  "table_id": "11-7",
+  "title": "Viasat Ground Stations",
+  "chapter_num": 11,
+  "chapter_title": "Ground Data Systems and Mission Operations",
+  "source_url": "https://www.nasa.gov/smallsat-institute/sst-soa/ground-data-systems-and-mission-operations",
+  "edition": "2024",
+  "scrape_date": "2026-04-09",
+  "type": "products",
+  "columns": [
+    "Location",
+    "Antenna",
+    "L-band Uplink",
+    "S-band Uplink",
+    "S-band Downlink",
+    "X-band Downlink",
+    "Ka-band Downlink"
+  ],
+  "_notes": [
+    "*Denotes antenna redundancy"
+  ],
+  "data": [
+    {
+      "Location": "Pendergrass, GA, USA (PGG)",
+      "Antenna": "5.4 m X-Y Full motion 5 (o)/sec max speed",
+      "L-band Uplink": "N/A",
+      "S-band Uplink": "2025-2110 MHz EIRP: 53.2 dBW Selectable RHCP or LHCP",
+      "S-band Downlink": "2200-2290 MHz G/T: 17 dB/K Simultaneous RHCP and LHCP",
+      "X-band Downlink": "8025-8400 MHz G/T: 30 dB/K Simultaneous RHCP and LHCP",
+      "Ka-band Downlink": "N/A"
+    },
+    {
+      "Location": "Guildford, UK (GDD)",
+      "Antenna": "5.4 m X-Y Full motion 5 (o)/sec max speed",
+      "L-band Uplink": "N/A",
+      "S-band Uplink": "2025-2110 MHz EIRP: 53.2 dBW Selectable RHCP or LHCP",
+      "S-band Downlink": "2200-2290 MHz G/T: 17 dB/K Simultaneous RHCP and LHCP",
+      "X-band Downlink": "8025-8400 MHz G/T: 30 dB/K Simultaneous RHCP and LHCP",
+      "Ka-band Downlink": "N/A"
+    },
+    {
+      "Location": "Alice Springs, AU (ASP01, ASP02)",
+      "Antenna": "7.3 m X-Y Full motion 6 (o)/sec max speed quantity 2",
+      "L-band Uplink": "1755-1850 MHz EIRP: 63.4 dBW",
+      "S-band Uplink": "2025-2110 MHz EIRP: 65.0 dBW Selectable RHCP or LHCP",
+      "S-band Downlink": "2200-2290 MHz G/T: 18 dB/K Simultaneous RHCP and LHCP",
+      "X-band Downlink": "8025-8400 MHz G/T: 32 dB/K Simultaneous RHCP and LHCP",
+      "Ka-band Downlink": "25500-27000 MHz G/T: 34.5 dB/K Simultaneous RHPC and LHCP"
+    },
+    {
+      "Location": "Accra, Ghana (ACC)",
+      "Antenna": "7.3 m X-Y Full motion 6 (o)/sec max speed",
+      "L-band Uplink": "1755-1850 MHz EIRP: 63.4 dBW",
+      "S-band Uplink": "2025-2110 MHz EIRP: 65.0 dBW Selectable RHCP or LHCP",
+      "S-band Downlink": "2200-2290 MHz G/T: 18 dB/K Simultaneous RHCP and LHCP",
+      "X-band Downlink": "8025-8400 MHz G/T: 32 dB/K Simultaneous RHCP and LHCP",
+      "Ka-band Downlink": "25500-27000 MHz G/T: 34.5 dB/K Simultaneous RHCP and LHCP"
+    },
+    {
+      "Location": "Cordoba, AR (COR)",
+      "Antenna": "5.4 m X-Y Full motion 5 (o)/sec max speed",
+      "L-band Uplink": "N/A",
+      "S-band Uplink": "2025-2110 MHz EIRP: 53.2 dBW Selectable RHCP or LHCP",
+      "S-band Downlink": "2200-2290 MHz G/T: 17 dB/K Simultaneous RHCP and LHCP",
+      "X-band Downlink": "8025-8400 MHz G/T: 30 dB/K Simultaneous RHCP and LHCP",
+      "Ka-band Downlink": "N/A"
+    },
+    {
+      "Location": "Öjebyn, Sweden (OJY)",
+      "Antenna": "7.3 m X-Y Full motion 6 (o)/sec max speed",
+      "L-band Uplink": "N/A",
+      "S-band Uplink": "2025-2110 MHz EIRP: 55.2 dBW Selectable RHCP or LHCP",
+      "S-band Downlink": "2200-2290 MHz G/T: 18 dB/K Simultaneous RHCP and LHCP",
+      "X-band Downlink": "8025-8400 MHz G/T: 32 dB/K Simultaneous RHCP and LHCP",
+      "Ka-band Downlink": "25500-27000 MHz G/T: 34.5 dB/K Simultaneous RHCP and LHCP"
+    },
+    {
+      "Location": "Pretoria, South Africa (PRY)",
+      "Antenna": "7.3 m X-Y Full motion 6 (o)/sec max speed",
+      "L-band Uplink": "N/A",
+      "S-band Uplink": "2025-2110 MHz EIRP: 55.2 dBW Selectable RHCP or LHCP",
+      "S-band Downlink": "2200-2290 MHz G/T: 18 dB/K Simultaneous RHCP and LHCP",
+      "X-band Downlink": "8025-8400 MHz G/T: 32 dB/K Simultaneous RHCP and LHCP",
+      "Ka-band Downlink": "25500-27000 MHz G/T: 34.5 dB/K Simultaneous RHCP and LHCP"
+    },
+    {
+      "Location": "Obihiro, Japan (OBO)",
+      "Antenna": "7.3 m X-Y Full motion 6 (o)/sec max speed",
+      "L-band Uplink": "N/A",
+      "S-band Uplink": "2025-2110 MHz EIRP: 55.2 dBW Selectable RHCP or LHCP",
+      "S-band Downlink": "2200-2290 MHz G/T: 18 dB/K Simultaneous RHCP and LHCP",
+      "X-band Downlink": "8025-8400 MHz G/T: 32 dB/K Simultaneous RHCP and LHCP",
+      "Ka-band Downlink": "25500-27000 MHz G/T: 34.5 dB/K Simultaneous RHCP and LHCP"
+    },
+    {
+      "Location": "North Pole Alaska USA 7.3 m (NTP01)",
+      "Antenna": "7.3 m El-Az-Train El & Az: 15 (o)/s max speed Train 6 (o)/s max",
+      "L-band Uplink": "N/A",
+      "S-band Uplink": "2025 – 2120 MHz EIRP: 53 dBW Selectable RHCP or LHCP",
+      "S-band Downlink": "2200–2300 MHz G/T: 19 dB/K Simultaneous RHCP and LHCP",
+      "X-band Downlink": "8000–8500 MHz G/T: 32 dB/K Simultaneous RHCP or LHCP",
+      "Ka-band Downlink": "N/A"
+    },
+    {
+      "Location": "North Pole Alaska USA (9.1 m (NTP02)",
+      "Antenna": "9.1 m El-Az-Train",
+      "L-band Uplink": "N/A",
+      "S-band Uplink": "2042–2052 MHz EIRP 38 dBW Selectable RHCP or LHCP",
+      "S-band Downlink": "N/A",
+      "X-band Downlink": "8000–8500 MHz G/T: 34 dB/K RHCP",
+      "Ka-band Downlink": "N/A"
+    },
+    {
+      "Location": "Tierra del Fuego, Argentina (USH)",
+      "Antenna": "7.3 m El-Az-Train El & Az: 15 (o)/s max speed Train 6 (o)/s max",
+      "L-band Uplink": "N/A",
+      "S-band Uplink": "2025-2110 MHz EIRP: 55.2 dBW Selectable RHCP or LHCP",
+      "S-band Downlink": "2200-2290 MHz G/T: 17.9 dB/K Simultaneous RHCP and LHCP",
+      "X-band Downlink": "8025-8400 MHz G/T: 32 dB/K Simultaneous RHCP and LHCP",
+      "Ka-band Downlink": "25500-27000 MHz G/T: 34.7 dB/K Simultaneous RHCP and LHCP (Upgrade required)"
+    },
+    {
+      "Location": "Dubai, UAE",
+      "Antenna": "9.1 m El-Az-Train",
+      "L-band Uplink": "",
+      "S-band Uplink": "2025-2110 MHz EIRP 38 dBW Selectable RHCP or LHCP",
+      "S-band Downlink": "2200-2290 MHz G/T: 20 dB/K Simultaneous RHCP and LHCP",
+      "X-band Downlink": "8025-8400 MHz G/T: 34 dB/K Simultaneous RHCP and LHCP",
+      "Ka-band Downlink": "N/A"
+    }
+  ]
+}

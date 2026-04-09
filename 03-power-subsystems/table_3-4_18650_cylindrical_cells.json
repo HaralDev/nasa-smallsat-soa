@@ -1,0 +1,43 @@
+{
+  "table_id": "3-4",
+  "title": "18650 Cylindrical Cells",
+  "chapter_num": 3,
+  "chapter_title": "Power Subsystems",
+  "source_url": "https://www.nasa.gov/smallsat-institute/sst-soa/power-subsystems",
+  "edition": "2024",
+  "scrape_date": "2026-04-09",
+  "type": "products",
+  "columns": [
+    "Cell",
+    "Specific Energy (Wh kg-1)",
+    "Flight Heritage"
+  ],
+  "_notes": [],
+  "data": [
+    {
+      "Cell": "LG ICR18650 B3 (2600 mAh)",
+      "Specific Energy (Wh kg-1)": "191",
+      "Flight Heritage": "NASA’s PhoneSat, NoDES"
+    },
+    {
+      "Cell": "Panasonic NCR18650B (3350 mAh)",
+      "Specific Energy (Wh kg-1)": "243",
+      "Flight Heritage": "MarCO, ADAPT (Sept 2022*: BioSentinel, Lunar Flashlight, NeaScout)"
+    },
+    {
+      "Cell": "Molicel ICR18650H (2200 mAh)",
+      "Specific Energy (Wh kg-1)": "182",
+      "Flight Heritage": "NASA’s EDSN mission"
+    },
+    {
+      "Cell": "Canon BP-930s (3000 mAh)",
+      "Specific Energy (Wh kg-1)": "112",
+      "Flight Heritage": "NASA’s TechEdSat missions"
+    },
+    {
+      "Cell": "LG MJ1 (3500 mAh)",
+      "Specific Energy (Wh kg-1)": "260",
+      "Flight Heritage": "NASA’s PACE mission"
+    }
+  ]
+}

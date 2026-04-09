@@ -1,0 +1,49 @@
+{
+  "table_id": "3-7",
+  "title": "Solid-State Batteries",
+  "chapter_num": 3,
+  "chapter_title": "Power Subsystems",
+  "source_url": "https://www.nasa.gov/smallsat-institute/sst-soa/power-subsystems",
+  "edition": "2024",
+  "scrape_date": "2026-04-09",
+  "type": "products",
+  "columns": [
+    "Manufacturer",
+    "Product",
+    "Wh/kg",
+    "Wh/L"
+  ],
+  "_notes": [],
+  "data": [
+    {
+      "Manufacturer": "Solid Power",
+      "Product": "Silicon EV Cell",
+      "Wh/kg": "390",
+      "Wh/L": "930"
+    },
+    {
+      "Manufacturer": "Solid Power",
+      "Product": "Lithium Metal",
+      "Wh/kg": "440",
+      "Wh/L": "930"
+    },
+    {
+      "Manufacturer": "Solid Power",
+      "Product": "Conversion Reaction Cell",
+      "Wh/kg": "560",
+      "Wh/L": "785"
+    },
+    {
+      "Manufacturer": "QuantumScape",
+      "Product": "LFP (projected)",
+      "Wh/kg": "230",
+      "Wh/L": "600"
+    },
+    {
+      "Manufacturer": "QuantumScape",
+      "Product": "NMC (projected)",
+      "Wh/kg": "300",
+      "Wh/L": "1000"
+    }
+  ]
+}

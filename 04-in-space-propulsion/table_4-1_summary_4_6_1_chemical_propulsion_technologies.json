@@ -1,0 +1,49 @@
+{
+  "table_id": "4-1",
+  "subgroup": "4.6.1 CHEMICAL PROPULSION TECHNOLOGIES",
+  "title": "Summary of Propulsion Technologies Surveyed",
+  "chapter_num": 4,
+  "chapter_title": "In-Space Propulsion",
+  "source_url": "https://www.nasa.gov/smallsat-institute/sst-soa/in-space_propulsion",
+  "edition": "2024",
+  "scrape_date": "2026-04-09",
+  "type": "reference",
+  "columns": [
+    "Technology",
+    "Thrust Range",
+    "Specific Impulse Range [sec]"
+  ],
+  "_notes": [],
+  "data": [
+    {
+      "Technology": "Hydrazine Monopropellant",
+      "Thrust Range": "0.25 – 28 N",
+      "Specific Impulse Range [sec]": "180 – 285"
+    },
+    {
+      "Technology": "Alternative Mono- and Bipropellants",
+      "Thrust Range": "50 mN – 22 N",
+      "Specific Impulse Range [sec]": "150 – 310"
+    },
+    {
+      "Technology": "Hybrids",
+      "Thrust Range": "8 – 222 N",
+      "Specific Impulse Range [sec]": "215 – 300"
+    },
+    {
+      "Technology": "Cold Gas",
+      "Thrust Range": "10 μN – 3.6 N",
+      "Specific Impulse Range [sec]": "40 – 110"
+    },
+    {
+      "Technology": "Solid Motors",
+      "Thrust Range": "37 – 461 N",
+      "Specific Impulse Range [sec]": "187 – 269"
+    },
+    {
+      "Technology": "Propellant Management Devices",
+      "Thrust Range": "–",
+      "Specific Impulse Range [sec]": "–"
+    }
+  ]
+}

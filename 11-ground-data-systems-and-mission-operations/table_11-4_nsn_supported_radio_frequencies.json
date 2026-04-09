@@ -1,0 +1,48 @@
+{
+  "table_id": "11-4",
+  "title": "NSN Supported Radio Frequencies and Bandwidths",
+  "chapter_num": 11,
+  "chapter_title": "Ground Data Systems and Mission Operations",
+  "source_url": "https://www.nasa.gov/smallsat-institute/sst-soa/ground-data-systems-and-mission-operations",
+  "edition": "2024",
+  "scrape_date": "2026-04-09",
+  "type": "specifications",
+  "columns": [
+    "Band",
+    "Function",
+    "Frequency Band (MHz)"
+  ],
+  "_notes": [],
+  "data": [
+    {
+      "Band": "S Uplink",
+      "Function": "Earth to Space",
+      "Frequency Band (MHz)": "2,025 – 2,110"
+    },
+    {
+      "Band": "X Uplink",
+      "Function": "Earth to Space",
+      "Frequency Band (MHz)": "7,190 – 7,235(Two NEN sites to 7,200)"
+    },
+    {
+      "Band": "S Downlink",
+      "Function": "Space to Earth",
+      "Frequency Band (MHz)": "2,200 – 2,300"
+    },
+    {
+      "Band": "X Downlink",
+      "Function": "Space to Earth, Earth Exploration",
+      "Frequency Band (MHz)": "8,025 – 8,400"
+    },
+    {
+      "Band": "X Downlink",
+      "Function": "Space to Earth, Space Research",
+      "Frequency Band (MHz)": "8,450 – 8,500"
+    },
+    {
+      "Band": "Ka Downlink",
+      "Function": "Space to Earth",
+      "Frequency Band (MHz)": "25,500 – 27,000"
+    }
+  ]
+}

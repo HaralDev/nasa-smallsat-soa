@@ -1,0 +1,55 @@
+{
+  "table_id": "5-14",
+  "title": "USTP Initiative GNC Projects",
+  "chapter_num": 5,
+  "chapter_title": "Guidance, Navigation, and Control",
+  "source_url": "https://www.nasa.gov/smallsat-institute/sst-soa/guidance-navigation-and-control",
+  "edition": "2024",
+  "scrape_date": "2026-04-09",
+  "type": "reference",
+  "columns": [
+    "Project",
+    "University",
+    "Current Status",
+    "Reference"
+  ],
+  "_notes": [],
+  "data": [
+    {
+      "Project": "On-Orbit Demonstration of Surface Feature-Based Navigation and Timing",
+      "University": "University of Texas, Austin",
+      "Current Status": "Still in development",
+      "Reference": "USTP Technology Expo presentation"
+    },
+    {
+      "Project": "Autonomous Nanosatellite Swarming (ANS) using Radio Frequency and Optical Navigation",
+      "University": "Stanford University",
+      "Current Status": "Onboard Starling mission (Launched in 2023)",
+      "Reference": "USTP Technology Expo presentation"
+    },
+    {
+      "Project": "Distributed multi-GNSS Timing and Localization (DiGiTaL)",
+      "University": "Stanford University",
+      "Current Status": "Leveraged technology used in Starling mission",
+      "Reference": "STP Technology Expo presentation"
+    },
+    {
+      "Project": "Mems Reaction Control and Maneuvering for Picosat beyond LEO",
+      "University": "Purdue University",
+      "Current Status": "Awarded a suborbital flight test through NASA’s Flight Opportunities program",
+      "Reference": "(29)"
+    },
+    {
+      "Project": "A Small Satellite Lunar Communications and Navigation System",
+      "University": "University of Boulder, Colorado",
+      "Current Status": "Still in development",
+      "Reference": "USTP Technology Expo presentation"
+    },
+    {
+      "Project": "A high-precision continuous-time PNT compact module for the LunaNet small spacecraft",
+      "University": "University of California, Los Angeles",
+      "Current Status": "Still in development",
+      "Reference": "USTP Technology Expo presentation"
+    }
+  ]
+}

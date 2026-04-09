@@ -1,0 +1,41 @@
+{
+  "table_id": "7-6",
+  "title": "Bolted Joint Thermal Conductance Design Guideline",
+  "chapter_num": 7,
+  "chapter_title": "Thermal Control",
+  "source_url": "https://www.nasa.gov/smallsat-institute/sst-soa/thermal-control",
+  "edition": "2024",
+  "scrape_date": "2026-04-09",
+  "type": "specifications",
+  "columns": [
+    "",
+    "Conductance [W/K]"
+  ],
+  "_notes": [],
+  "data": [
+    {
+      "": "2-56",
+      "Conductance [W/K]": "0.21"
+    },
+    {
+      "": "4-40",
+      "Conductance [W/K]": "0.26"
+    },
+    {
+      "": "6-32",
+      "Conductance [W/K]": "0.42"
+    },
+    {
+      "": "8-32",
+      "Conductance [W/K]": "0.80"
+    },
+    {
+      "": "10-32",
+      "Conductance [W/K]": "1.32"
+    },
+    {
+      "": "1/4-28",
+      "Conductance [W/K]": "3.51"
+    }
+  ]
+}

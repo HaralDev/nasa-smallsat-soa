@@ -1,0 +1,41 @@
+{
+  "table_id": "7-1",
+  "title": "SmallSat Thermal Control Challenges",
+  "chapter_num": 7,
+  "chapter_title": "Thermal Control",
+  "source_url": "https://www.nasa.gov/smallsat-institute/sst-soa/thermal-control",
+  "edition": "2024",
+  "scrape_date": "2026-04-09",
+  "type": "reference",
+  "columns": [
+    "SmallSat Property",
+    "Challenge"
+  ],
+  "_notes": [],
+  "data": [
+    {
+      "SmallSat Property": "Low thermal mass",
+      "Challenge": "The spacecraft is more reactive to changing thermal environments."
+    },
+    {
+      "SmallSat Property": "Limited external surface area",
+      "Challenge": "There is less real estate to be allocated to solar cells, designated radiator area, and/or viewports required for science instruments."
+    },
+    {
+      "SmallSat Property": "Limited volume",
+      "Challenge": "There is less space for electronic components, science instruments, and thermal control hardware. Components can be more thermally coupled, and it can be harder to isolate different thermal zones."
+    },
+    {
+      "SmallSat Property": "Limited power",
+      "Challenge": "There is less power available for powered thermal control technology."
+    },
+    {
+      "SmallSat Property": "Power Density",
+      "Challenge": "There is a big challenge to dissipate power as electronics are stacked close to each other, sometimes with no direct path to radiator."
+    },
+    {
+      "SmallSat Property": "MLI Edge Effects",
+      "Challenge": "MLI can “short” along the edges resulting in degraded performance, not specific to SmallSats but more of a general spacecraft issue."
+    }
+  ]
+}

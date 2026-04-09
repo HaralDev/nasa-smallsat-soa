@@ -1,0 +1,58 @@
+{
+  "table_id": "7-7",
+  "title": "Thermal Interface Materials and Conductive Gaskets",
+  "chapter_num": 7,
+  "chapter_title": "Thermal Control",
+  "source_url": "https://www.nasa.gov/smallsat-institute/sst-soa/thermal-control",
+  "edition": "2024",
+  "scrape_date": "2026-04-09",
+  "type": "products",
+  "columns": [
+    "Manufacturer",
+    "Product",
+    "Recommended Conductance (W/in2-C)"
+  ],
+  "_notes": [],
+  "data": [
+    {
+      "Manufacturer": "Parker Chomerics",
+      "Product": "Nusil CV-2946",
+      "Recommended Conductance (W/in2-C)": "3.5"
+    },
+    {
+      "Manufacturer": "NeoGraf",
+      "Product": "Egraf HT-1210",
+      "Recommended Conductance (W/in2-C)": "2"
+    },
+    {
+      "Manufacturer": "NeoGraf",
+      "Product": "Egraf HT-C3200",
+      "Recommended Conductance (W/in2-C)": "2.5"
+    },
+    {
+      "Manufacturer": "Parker Chomerics",
+      "Product": "Chotherm 1671",
+      "Recommended Conductance (W/in2-C)": "0.75"
+    },
+    {
+      "Manufacturer": "Parker Chomerics",
+      "Product": "Therm a gap 579",
+      "Recommended Conductance (W/in2-C)": "0.9"
+    },
+    {
+      "Manufacturer": "Laird Performance Materials",
+      "Product": "T-PLI 220",
+      "Recommended Conductance (W/in2-C)": "1.5"
+    },
+    {
+      "Manufacturer": "Henkel Corporation",
+      "Product": "Gap Pad 300",
+      "Recommended Conductance (W/in2-C)": "1.25"
+    },
+    {
+      "Manufacturer": "Indium Corporation",
+      "Product": "Indium foil 0.005″",
+      "Recommended Conductance (W/in2-C)": "0.9"
+    }
+  ]
+}

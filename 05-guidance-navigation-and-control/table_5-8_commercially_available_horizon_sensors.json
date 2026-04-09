@@ -1,0 +1,68 @@
+{
+  "table_id": "5-8",
+  "title": "Commercially Available Horizon Sensors",
+  "chapter_num": 5,
+  "chapter_title": "Guidance, Navigation, and Control",
+  "source_url": "https://www.nasa.gov/smallsat-institute/sst-soa/guidance-navigation-and-control",
+  "edition": "2024",
+  "scrape_date": "2026-04-09",
+  "type": "products",
+  "columns": [
+    "Manufacturer",
+    "Model",
+    "Sensor Type",
+    "Mass (kg)",
+    "Peak Power (W)",
+    "Analog or Digital",
+    "Accuracy",
+    "# Measurement Angles",
+    "Rad Tolerance (krad)"
+  ],
+  "_notes": [],
+  "data": [
+    {
+      "Manufacturer": "CubeSpace Satellite Systems",
+      "Model": "CubeSense Earth",
+      "Sensor Type": "Infrared camera",
+      "Mass (kg)": "0.018",
+      "Peak Power (W)": "0.28",
+      "Analog or Digital": "Digital",
+      "Accuracy": "1°",
+      "# Measurement Angles": "–",
+      "Rad Tolerance (krad)": "24"
+    },
+    {
+      "Manufacturer": "Servo",
+      "Model": "Mini Digital HCI",
+      "Sensor Type": "Pyroelectric",
+      "Mass (kg)": "0.050",
+      "Peak Power (W)": "Voltage Dependent",
+      "Analog or Digital": "Digital",
+      "Accuracy": "0.75°",
+      "# Measurement Angles": "—",
+      "Rad Tolerance (krad)": "—"
+    },
+    {
+      "Manufacturer": "Servo",
+      "Model": "RH 310 HCI",
+      "Sensor Type": "Pyroelectric",
+      "Mass (kg)": "1.5",
+      "Peak Power (W)": "1",
+      "Analog or Digital": "—",
+      "Accuracy": "0.015°",
+      "# Measurement Angles": "—",
+      "Rad Tolerance (krad)": "20"
+    },
+    {
+      "Manufacturer": "Solar MEMS Technologies",
+      "Model": "HSNS",
+      "Sensor Type": "Infrared",
+      "Mass (kg)": "0.120",
+      "Peak Power (W)": "0.150",
+      "Analog or Digital": "Digital",
+      "Accuracy": "1°",
+      "# Measurement Angles": "2",
+      "Rad Tolerance (krad)": "30"
+    }
+  ]
+}

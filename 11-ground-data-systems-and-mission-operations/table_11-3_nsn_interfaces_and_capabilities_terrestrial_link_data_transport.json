@@ -1,0 +1,49 @@
+{
+  "table_id": "11-3",
+  "subgroup": "Terrestrial Link Data Transport Capabilities",
+  "title": "NSN Interfaces and Capabilities",
+  "chapter_num": 11,
+  "chapter_title": "Ground Data Systems and Mission Operations",
+  "source_url": "https://www.nasa.gov/smallsat-institute/sst-soa/ground-data-systems-and-mission-operations",
+  "edition": "2024",
+  "scrape_date": "2026-04-09",
+  "type": "specifications",
+  "columns": [
+    "Interface/ Capability1",
+    "Direct to Earth",
+    "Space Relay"
+  ],
+  "_notes": [],
+  "data": [
+    {
+      "Interface/ Capability1": "Data Storage (1)",
+      "Direct to Earth": "Station Storage: 5-30 daysCloud-based: Mission-driven",
+      "Space Relay": "7 days"
+    },
+    {
+      "Interface/ Capability1": "Network Data Rate (1)",
+      "Direct to Earth": "Mission-driven (up to 1.2 Gbps)",
+      "Space Relay": "Mission-driven (up to 1.2 Gbps)"
+    },
+    {
+      "Interface/ Capability1": "SLE Protocols",
+      "Direct to Earth": "F-CLTU, EF-CLTU (Forward)RAF, RCF, ROCF (Return)",
+      "Space Relay": "F-CLTU, EF-CLTU (Forward)RAF, RCF, ROCF (Return)"
+    },
+    {
+      "Interface/ Capability1": "SLE Versions Supported (2)",
+      "Direct to Earth": "CCSDS 910.4, CCSDS 911.1, CCSDS 911.2, CCSDS 911.5, CCSDS 912.1, CCSDS 912.11, CCSDS 912.3, CCSDS 913.1",
+      "Space Relay": "CCSDS 910.4, CCSDS 911.1, CCSDS 911.2, CCSDS 911.5, CCSDS 912.1, CCSDS 912.11, CCSDS 912.3, CCSDS 913.1"
+    },
+    {
+      "Interface/ Capability1": "Offline-DataTransfer",
+      "Direct to Earth": "CFDP, SFTP",
+      "Space Relay": "CFDP, SFTP"
+    },
+    {
+      "Interface/ Capability1": "Security",
+      "Direct to Earth": "Trusted Networks (Access Controls, Firewalls, Authentications, etc.)",
+      "Space Relay": "Trusted Networks (Access Controls, Firewalls, Authentications, etc.)"
+    }
+  ]
+}

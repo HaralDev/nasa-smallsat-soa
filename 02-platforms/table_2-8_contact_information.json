@@ -1,0 +1,475 @@
+{
+  "table_id": "2-8",
+  "title": "List of Contact Information for Organizations in this Chapter",
+  "chapter_num": 2,
+  "chapter_title": "Complete Spacecraft Platforms",
+  "source_url": "https://www.nasa.gov/smallsat-institute/sst-soa/platforms",
+  "edition": "2024",
+  "scrape_date": "2026-04-09",
+  "type": "reference",
+  "columns": [
+    "Organization",
+    "Source",
+    "Contact Email",
+    "Website"
+  ],
+  "_notes": [],
+  "data": [
+    {
+      "Organization": "AAC Clyde Space",
+      "Source": "2025",
+      "Contact Email": "2025",
+      "Website": "enquiries@aac-clydespace.com"
+    },
+    {
+      "Organization": "Aerospacelab",
+      "Source": "Aerospacelab",
+      "Contact Email": "2025",
+      "Website": "gerry.jansson@aerospacelab.com"
+    },
+    {
+      "Organization": "Airbus US Space & Defense",
+      "Source": "2024",
+      "Contact Email": "2024",
+      "Website": "deborah.horn@airbusus.com"
+    },
+    {
+      "Organization": "Alba Orbital",
+      "Source": "2025",
+      "Contact Email": "2025",
+      "Website": "contact@albaorbital.com"
+    },
+    {
+      "Organization": "Alén Space",
+      "Source": "2025",
+      "Contact Email": "2025",
+      "Website": "sales@alen.space"
+    },
+    {
+      "Organization": "Apex Space",
+      "Source": "Apex Space",
+      "Contact Email": "2025",
+      "Website": "General Inquiries Page"
+    },
+    {
+      "Organization": "Argotec",
+      "Source": "2025",
+      "Contact Email": "2025",
+      "Website": "info@argotecgroup.com"
+    },
+    {
+      "Organization": "Artemis Space Technologies",
+      "Source": "2024",
+      "Contact Email": "2024",
+      "Website": "info@spaceartemis.com"
+    },
+    {
+      "Organization": "Astranis Space Technologies Corp.",
+      "Source": "2025",
+      "Contact Email": "2025",
+      "Website": "scott@astranis.com"
+    },
+    {
+      "Organization": "Astro Digital",
+      "Source": "2025",
+      "Contact Email": "2025",
+      "Website": "brian@astrodigital.com"
+    },
+    {
+      "Organization": "Astroscale-us",
+      "Source": "2025",
+      "Contact Email": "2025",
+      "Website": "k.shahady@astroscale-us.com"
+    },
+    {
+      "Organization": "Axelspace",
+      "Source": "2024",
+      "Contact Email": "2024",
+      "Website": "Contact Page"
+    },
+    {
+      "Organization": "BAE Systems Inc., Space and Mission Systems (BAES)",
+      "Source": "2025",
+      "Contact Email": "2025",
+      "Website": "Space & Mission Systems Team Contact"
+    },
+    {
+      "Organization": "Berlin Space Technologies",
+      "Source": "2025",
+      "Contact Email": "2025",
+      "Website": "info@berlin-space-tech.com"
+    },
+    {
+      "Organization": "Blue Canyon Technologies",
+      "Source": "2024",
+      "Contact Email": "2024",
+      "Website": "info@bluecanyontech.com"
+    },
+    {
+      "Organization": "C3S Electronics Development",
+      "Source": "2025",
+      "Contact Email": "2025",
+      "Website": "info@c3s.hu"
+    },
+    {
+      "Organization": "CesiumAstro",
+      "Source": "2025",
+      "Contact Email": "2025",
+      "Website": "info@cesiumastro.com"
+    },
+    {
+      "Organization": "CREOTECH",
+      "Source": "CREOTECH",
+      "Contact Email": "2025",
+      "Website": "kontakt@creotech.pl"
+    },
+    {
+      "Organization": "Deimos Space",
+      "Source": "Deimos Space",
+      "Contact Email": "2025",
+      "Website": "cmentrena@deimos-space.com"
+    },
+    {
+      "Organization": "DIYSATELLITE",
+      "Source": "2025",
+      "Contact Email": "2025",
+      "Website": "gus@diysatellite.com"
+    },
+    {
+      "Organization": "EnduroSat",
+      "Source": "2025",
+      "Contact Email": "2025",
+      "Website": "Contact Page"
+    },
+    {
+      "Organization": "FOSSA Systems",
+      "Source": "2025",
+      "Contact Email": "2025",
+      "Website": "contact@fossa.systems"
+    },
+    {
+      "Organization": "General Atomics EMS",
+      "Source": "2024",
+      "Contact Email": "2024",
+      "Website": "Chris.white@ga.com"
+    },
+    {
+      "Organization": "German Orbital Systems",
+      "Source": "2024",
+      "Contact Email": "2024",
+      "Website": "info@orbitalsystems.de"
+    },
+    {
+      "Organization": "GomSpace",
+      "Source": "2024",
+      "Contact Email": "2024",
+      "Website": "info@gomspace.com"
+    },
+    {
+      "Organization": "Gran Systems",
+      "Source": "2025",
+      "Contact Email": "2025",
+      "Website": "info@gransystems.com"
+    },
+    {
+      "Organization": "GUMUSH AeroSpace",
+      "Source": "2025",
+      "Contact Email": "2025",
+      "Website": "gumush@gumush.com.tr"
+    },
+    {
+      "Organization": "Harpy Aerospace",
+      "Source": "Harpy Aerospace",
+      "Contact Email": "2025",
+      "Website": "jayakumar@harpyaerospace.in"
+    },
+    {
+      "Organization": "Hemeria",
+      "Source": "2025",
+      "Contact Email": "2025",
+      "Website": "Contact Form"
+    },
+    {
+      "Organization": "Hex20",
+      "Source": "2025",
+      "Contact Email": "2025",
+      "Website": "lloyd@hex20.com.au"
+    },
+    {
+      "Organization": "Hydra Space Systems",
+      "Source": "Hydra Space Systems",
+      "Contact Email": "2025",
+      "Website": "contacto@hydra-space.com"
+    },
+    {
+      "Organization": "IMT",
+      "Source": "2024",
+      "Contact Email": "2024",
+      "Website": "giovanni.cucinella@imtsrl.it"
+    },
+    {
+      "Organization": "Innova Space",
+      "Source": "2025",
+      "Contact Email": "2025",
+      "Website": "info@innova-space.com"
+    },
+    {
+      "Organization": "ISISPACE",
+      "Source": "2025",
+      "Contact Email": "2025",
+      "Website": "sales@isispace.nl"
+    },
+    {
+      "Organization": "LeoStella",
+      "Source": "2025",
+      "Contact Email": "2025",
+      "Website": "mike.kaplan@leostella.com"
+    },
+    {
+      "Organization": "Lockheed Martin",
+      "Source": "2025",
+      "Contact Email": "2025",
+      "Website": "timothy.m.linn@lmco.com"
+    },
+    {
+      "Organization": "Loft Orbital",
+      "Source": "2025",
+      "Contact Email": "2025",
+      "Website": "gautier@loftorbital.com"
+    },
+    {
+      "Organization": "Magellan Aerospace",
+      "Source": "2025",
+      "Contact Email": "2025",
+      "Website": "rushi.ghadawala@magellan.aero"
+    },
+    {
+      "Organization": "Malin Space Science Systems",
+      "Source": "2025",
+      "Contact Email": "2025",
+      "Website": "yee@msss.com"
+    },
+    {
+      "Organization": "Moog",
+      "Source": "2025",
+      "Contact Email": "2025",
+      "Website": "Hfreeman2@moog.com"
+    },
+    {
+      "Organization": "Momentus Space",
+      "Source": "2025",
+      "Contact Email": "2025",
+      "Website": "sales@momentus.space"
+    },
+    {
+      "Organization": "Muon Space",
+      "Source": "2025",
+      "Contact Email": "2025",
+      "Website": "info@muonspace.com"
+    },
+    {
+      "Organization": "NanoAvionics",
+      "Source": "2025",
+      "Contact Email": "2025",
+      "Website": "info@nanoavionics.com"
+    },
+    {
+      "Organization": "Nara Space",
+      "Source": "Nara Space",
+      "Contact Email": "2025",
+      "Website": "sales@naraspace.com"
+    },
+    {
+      "Organization": "NearSpace Launch",
+      "Source": "2025",
+      "Contact Email": "2025",
+      "Website": "nsl@nearspacelaunch.com"
+    },
+    {
+      "Organization": "Northrop Grumman",
+      "Source": "2025",
+      "Contact Email": "2025",
+      "Website": "John.Dyster@ngc.com"
+    },
+    {
+      "Organization": "NovaWurks",
+      "Source": "2025",
+      "Contact Email": "2025",
+      "Website": "info@NovaWurks.com"
+    },
+    {
+      "Organization": "NPC SPACEMIND",
+      "Source": "2025",
+      "Contact Email": "2025",
+      "Website": "info@npcspacemind.com"
+    },
+    {
+      "Organization": "OHB LuxSpace",
+      "Source": "2025",
+      "Contact Email": "2025",
+      "Website": "info@luxspace.lu"
+    },
+    {
+      "Organization": "OHB Sweden",
+      "Source": "OHB Sweden",
+      "Contact Email": "2025",
+      "Website": "spacesales@ohb-sweden.se"
+    },
+    {
+      "Organization": "Open Cosmos",
+      "Source": "2024",
+      "Contact Email": "2024",
+      "Website": "partnerships@open-cosmos.com"
+    },
+    {
+      "Organization": "Orbital Astronautics",
+      "Source": "2024",
+      "Contact Email": "2024",
+      "Website": "hello@orbastro.com"
+    },
+    {
+      "Organization": "Orion Space Solutions",
+      "Source": "2024",
+      "Contact Email": "2024",
+      "Website": "contact@orionspace.com"
+    },
+    {
+      "Organization": "Pumpkin Space Systems",
+      "Source": "2025",
+      "Contact Email": "2025",
+      "Website": "sales@pumpkininc.com"
+    },
+    {
+      "Organization": "Quantum Space",
+      "Source": "2025",
+      "Contact Email": "2025",
+      "Website": "sales@quantumspace.us"
+    },
+    {
+      "Organization": "Quub, Inc.",
+      "Source": "2025",
+      "Contact Email": "2025",
+      "Website": "info@quub.space"
+    },
+    {
+      "Organization": "Rocket Lab",
+      "Source": "Web",
+      "Contact Email": "Web",
+      "Website": "spacesystems@rocketlabusa.com"
+    },
+    {
+      "Organization": "Redwire Space",
+      "Source": "2024",
+      "Contact Email": "2024",
+      "Website": "sales@redwirespace.com"
+    },
+    {
+      "Organization": "Reflex Aerospace",
+      "Source": "Reflex Aerospace",
+      "Contact Email": "2025",
+      "Website": "sales@reflexaerospace.com"
+    },
+    {
+      "Organization": "SatRev",
+      "Source": "2025",
+      "Contact Email": "2025",
+      "Website": "engage@satrev.space"
+    },
+    {
+      "Organization": "Sierra Space",
+      "Source": "2025",
+      "Contact Email": "2025",
+      "Website": "spaceapps@sierraspace.com"
+    },
+    {
+      "Organization": "SITAEL",
+      "Source": "2025",
+      "Contact Email": "2025",
+      "Website": "sales.space@sitael.com"
+    },
+    {
+      "Organization": "SkyLabs",
+      "Source": "2025",
+      "Contact Email": "2025",
+      "Website": "sales@skylabs.si"
+    },
+    {
+      "Organization": "Southwest Research Institute",
+      "Source": "2024",
+      "Contact Email": "2024",
+      "Website": "spacecraft-info@swri.org"
+    },
+    {
+      "Organization": "Space Dynamics Laboratory",
+      "Source": "2025",
+      "Contact Email": "2025",
+      "Website": "info@sdl.usu.edu"
+    },
+    {
+      "Organization": "Space Flight Laboratory",
+      "Source": "2025",
+      "Contact Email": "2025",
+      "Website": "info@utias-sfl.net"
+    },
+    {
+      "Organization": "Space Information Laboratories",
+      "Source": "2024",
+      "Contact Email": "2024",
+      "Website": "sales@spaceinformationlabs.com"
+    },
+    {
+      "Organization": "SpaceX",
+      "Source": "Web",
+      "Contact Email": "Web",
+      "Website": "Julianna.Scheiman@spacex.com"
+    },
+    {
+      "Organization": "Space Inventor",
+      "Source": "2024",
+      "Contact Email": "2024",
+      "Website": "sales@space-inventor.com"
+    },
+    {
+      "Organization": "Spacemanic",
+      "Source": "2025",
+      "Contact Email": "2025",
+      "Website": "sales@spacemanic.com"
+    },
+    {
+      "Organization": "Spire Global",
+      "Source": "2024",
+      "Contact Email": "2024",
+      "Website": "joe.carroll@spire.com"
+    },
+    {
+      "Organization": "Surrey Satellite Technology Ltd.",
+      "Source": "2025",
+      "Contact Email": "2025",
+      "Website": "info@sstl.co.uk"
+    },
+    {
+      "Organization": "Terran Orbital",
+      "Source": "2025",
+      "Contact Email": "2025",
+      "Website": "info@terranorbital.com"
+    },
+    {
+      "Organization": "Varda Space Industries",
+      "Source": "Web",
+      "Contact Email": "Web",
+      "Website": "info@varda.com"
+    },
+    {
+      "Organization": "Xplore",
+      "Source": "2024",
+      "Contact Email": "2024",
+      "Website": "inquire@xplore.com"
+    },
+    {
+      "Organization": "York Space Systems",
+      "Source": "2025",
+      "Contact Email": "2025",
+      "Website": "BD@yorkspacesystems.com"
+    }
+  ]
+}

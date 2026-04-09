@@ -1,0 +1,75 @@
+{
+  "table_id": "13-3",
+  "title": "Active TechEdSat-N Spacecraft",
+  "chapter_num": 13,
+  "chapter_title": "Deorbit Systems",
+  "source_url": "https://www.nasa.gov/smallsat-institute/sst-soa/deorbit-systems",
+  "edition": "2024",
+  "scrape_date": "2026-04-09",
+  "type": "reference",
+  "columns": [
+    "TES-n mission (Volume)",
+    "Deorbit Technology Type (Active or Passive)",
+    "Deployment (month, year)",
+    "Deorbit Duration, Reentry Year",
+    "Nominal Drag Area (m2)",
+    "Deployed Orbit Alt. & Inc.",
+    "Technology Tested Notes",
+    "Ref."
+  ],
+  "_notes": [
+    "*at the time of writing, spacecraft is still on orbit."
+  ],
+  "data": [
+    {
+      "TES-n mission (Volume)": "TES-8 (6U)",
+      "Deorbit Technology Type (Active or Passive)": "Active",
+      "Deployment (month, year)": "January 2019",
+      "Deorbit Duration, Reentry Year": "April 2020",
+      "Nominal Drag Area (m2)": "0.5",
+      "Deployed Orbit Alt. & Inc.": "406 km, 51.6 deg",
+      "Technology Tested Notes": "Hot Exo-Brake; improved version of TES-5 and -6 designed for continued operation in high temperature environment",
+      "Ref.": "(39)"
+    },
+    {
+      "TES-n mission (Volume)": "TES-10 (6U)",
+      "Deorbit Technology Type (Active or Passive)": "Active",
+      "Deployment (month, year)": "July 2020",
+      "Deorbit Duration, Reentry Year": "March 2021",
+      "Nominal Drag Area (m2)": "0.564",
+      "Deployed Orbit Alt. & Inc.": "416 km, 51.6 deg",
+      "Technology Tested Notes": "largest iteration Exo-Brake and will perform targeting experiment",
+      "Ref.": "(40)"
+    },
+    {
+      "TES-n mission (Volume)": "TES-13 (3U)",
+      "Deorbit Technology Type (Active or Passive)": "Active",
+      "Deployment (month, year)": "January 2022",
+      "Deorbit Duration, Reentry Year": "July 2024",
+      "Nominal Drag Area (m2)": "0.087",
+      "Deployed Orbit Alt. & Inc.": "504 km 45 deg",
+      "Technology Tested Notes": "Autonomous navigation and targeted reentry;",
+      "Ref.": "(42)"
+    },
+    {
+      "TES-n mission (Volume)": "TES-15 (3U)",
+      "Deorbit Technology Type (Active or Passive)": "Active",
+      "Deployment (month, year)": "October 2022",
+      "Deorbit Duration, Reentry Year": "October 2022",
+      "Nominal Drag Area (m2)": "0.087",
+      "Deployed Orbit Alt. & Inc.": "250 km, 137 deg",
+      "Technology Tested Notes": "Hot Exo-Brake re-entry test; unable to complete full test",
+      "Ref.": "(40)"
+    },
+    {
+      "TES-n mission (Volume)": "TES-22 (1U)",
+      "Deorbit Technology Type (Active or Passive)": "Pending",
+      "Deployment (month, year)": "January 2025",
+      "Deorbit Duration, Reentry Year": "TBD",
+      "Nominal Drag Area (m2)": "2.00",
+      "Deployed Orbit Alt. & Inc.": "~500 km",
+      "Technology Tested Notes": "Rapid Disposal (Exo- Brake /Heliophysics Test Probe)",
+      "Ref.": ""
+    }
+  ]
+}

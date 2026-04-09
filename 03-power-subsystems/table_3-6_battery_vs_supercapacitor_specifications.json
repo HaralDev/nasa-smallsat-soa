@@ -1,0 +1,108 @@
+{
+  "table_id": "3-6",
+  "title": "Battery-vs-Supercapacitor Specifications",
+  "chapter_num": 3,
+  "chapter_title": "Power Subsystems",
+  "source_url": "https://www.nasa.gov/smallsat-institute/sst-soa/power-subsystems",
+  "edition": "2024",
+  "scrape_date": "2026-04-09",
+  "type": "specifications",
+  "columns": [
+    "Feature",
+    "Li-Ion Battery",
+    "Supercapacitor"
+  ],
+  "_notes": [],
+  "data": [
+    {
+      "Feature": "Gravimetric energy (Wh kg (-1))",
+      "Li-Ion Battery": "100 – 265",
+      "Supercapacitor": "4 – 10"
+    },
+    {
+      "Feature": "Volumetric energy (Wh L (-1))",
+      "Li-Ion Battery": "220 – 400",
+      "Supercapacitor": "4 – 14"
+    },
+    {
+      "Feature": "Power density (W kg (-1))",
+      "Li-Ion Battery": "1,500",
+      "Supercapacitor": "3,000 – 40,000"
+    },
+    {
+      "Feature": "Voltage of a cell (V)",
+      "Li-Ion Battery": "3.6",
+      "Supercapacitor": "2.7 – 3"
+    },
+    {
+      "Feature": "ESR (mΩ)",
+      "Li-Ion Battery": "500",
+      "Supercapacitor": "40 – 300"
+    },
+    {
+      "Feature": "Efficiency (%)",
+      "Li-Ion Battery": "75 – 90",
+      "Supercapacitor": "98"
+    },
+    {
+      "Feature": "Cyclability (nb charges)",
+      "Li-Ion Battery": "500 – 1,000",
+      "Supercapacitor": "500,000 – 20, 000,000"
+    },
+    {
+      "Feature": "Life (years)",
+      "Li-Ion Battery": "5 – 10",
+      "Supercapacitor": "10 – 15"
+    },
+    {
+      "Feature": "Self-discharge (% per month)",
+      "Li-Ion Battery": "2",
+      "Supercapacitor": "40 – 50 (descending)"
+    },
+    {
+      "Feature": "Charge temperature",
+      "Li-Ion Battery": "0 to 45°C",
+      "Supercapacitor": "-40 to 65°C"
+    },
+    {
+      "Feature": "Discharge temperature",
+      "Li-Ion Battery": "-20C~60°C",
+      "Supercapacitor": "-40 to 65°C"
+    },
+    {
+      "Feature": "Deep discharge pb",
+      "Li-Ion Battery": "yes",
+      "Supercapacitor": "no"
+    },
+    {
+      "Feature": "Overload pb",
+      "Li-Ion Battery": "yes",
+      "Supercapacitor": "no"
+    },
+    {
+      "Feature": "Risk of explosion",
+      "Li-Ion Battery": "yes",
+      "Supercapacitor": "no"
+    },
+    {
+      "Feature": "Charging 1 cell",
+      "Li-Ion Battery": "complex",
+      "Supercapacitor": "easy"
+    },
+    {
+      "Feature": "Charging cells in series",
+      "Li-Ion Battery": "complex",
+      "Supercapacitor": "complex"
+    },
+    {
+      "Feature": "Voltage on discharge",
+      "Li-Ion Battery": "stable",
+      "Supercapacitor": "decreasing"
+    },
+    {
+      "Feature": "cost ($) per kW h",
+      "Li-Ion Battery": "235 – 1,179",
+      "Supercapacitor": "11,792"
+    }
+  ]
+}

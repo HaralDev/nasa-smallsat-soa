@@ -1,0 +1,48 @@
+{
+  "table_id": "6-1",
+  "title": "CubeSat Standard Structure Dimensions",
+  "chapter_num": 6,
+  "chapter_title": "Structures, Materials, and Mechanisms",
+  "source_url": "https://www.nasa.gov/smallsat-institute/sst-soa/structures-materials-and-mechanisms",
+  "edition": "2024",
+  "scrape_date": "2026-04-09",
+  "type": "specifications",
+  "columns": [
+    "Type",
+    "Dimension (mm)",
+    "Average Weight (kg)"
+  ],
+  "_notes": [],
+  "data": [
+    {
+      "Type": "1U",
+      "Dimension (mm)": "100 x 100 x 113.5",
+      "Average Weight (kg)": "0.118"
+    },
+    {
+      "Type": "1.5U",
+      "Dimension (mm)": "100 x 100 x 170.2",
+      "Average Weight (kg)": "0.142-0.25"
+    },
+    {
+      "Type": "2U",
+      "Dimension (mm)": "100 x 100 x 227",
+      "Average Weight (kg)": "0.220"
+    },
+    {
+      "Type": "3U",
+      "Dimension (mm)": "100 x 100 x 340.5",
+      "Average Weight (kg)": "0.352"
+    },
+    {
+      "Type": "6U",
+      "Dimension (mm)": "100 x 226.3 x 366",
+      "Average Weight (kg)": "0.916-1.94"
+    },
+    {
+      "Type": "12U",
+      "Dimension (mm)": "226.3 x 226.3 x 366",
+      "Average Weight (kg)": "1.84"
+    }
+  ]
+}

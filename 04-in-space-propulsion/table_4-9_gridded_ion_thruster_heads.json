@@ -1,0 +1,80 @@
+{
+  "table_id": "4-9",
+  "subgroup": "Thruster Heads",
+  "title": "Gridded-Ion Electric Propulsion",
+  "chapter_num": 4,
+  "chapter_title": "In-Space Propulsion",
+  "source_url": "https://www.nasa.gov/smallsat-institute/sst-soa/in-space_propulsion",
+  "edition": "2024",
+  "scrape_date": "2026-04-09",
+  "type": "products",
+  "columns": [
+    "Manufacturer",
+    "Product",
+    "Type",
+    "Propellant",
+    "Thrust*",
+    "Specific Impulse*",
+    "Total Impulse*",
+    "Mass",
+    "Envelope",
+    "Power",
+    "Cathode Type",
+    "PMI Status",
+    "Missions",
+    "References"
+  ],
+  "_notes": [
+    "Note that all data is documented as provided in the references. Unless otherwise published, do not assume the data has been independently verified. *nominal values (see references for full performance ranges), ** anticipated launch date, † denotes a wet mass, ‡ denotes a dry mass, “-“ = denotes data not available or applicable, RF = Radio Frequency, DC = Direct Current, DDL = Destroyed During Launch"
+  ],
+  "data": [
+    {
+      "Manufacturer": "Ariane Group (Germany)",
+      "Product": "RIT µX",
+      "Type": "RF Ion",
+      "Propellant": "Xenon",
+      "Thrust*": "< 0.5",
+      "Specific Impulse*": "–",
+      "Total Impulse*": "–",
+      "Mass": "0.44 (‡)",
+      "Envelope": "7.8 x 7.8 x 7.6",
+      "Power": "< 50",
+      "Cathode Type": "RF",
+      "PMI Status": "D",
+      "Missions": "–",
+      "References": "(353) (354) (355) (356) (357) (358)"
+    },
+    {
+      "Manufacturer": "Ariane Group (Germany)",
+      "Product": "RIT 10 EVO",
+      "Type": "RF Ion",
+      "Propellant": "Xenon",
+      "Thrust*": "< 15",
+      "Specific Impulse*": "–",
+      "Total Impulse*": "–",
+      "Mass": "1.8 (‡)",
+      "Envelope": "18.6 x 18.6 x 13.4",
+      "Power": "< 435",
+      "Cathode Type": "Hollow",
+      "PMI Status": "E",
+      "Missions": "(Identical to flight-heritage RIT-10 with contemporary grid design)",
+      "References": "(353) (355) (359)"
+    },
+    {
+      "Manufacturer": "QinetiQ (UK)",
+      "Product": "T5",
+      "Type": "DC Ion",
+      "Propellant": "Xenon",
+      "Thrust*": "< 20",
+      "Specific Impulse*": "< 3,000",
+      "Total Impulse*": "–",
+      "Mass": "2 (‡)",
+      "Envelope": "19 x 19 x 24.2",
+      "Power": "< 600",
+      "Cathode Type": "Hollow",
+      "PMI Status": "F",
+      "Missions": "GOCE",
+      "References": "(178) (179) (180) (181)"
+    }
+  ]
+}

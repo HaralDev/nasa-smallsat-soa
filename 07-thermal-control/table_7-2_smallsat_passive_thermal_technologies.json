@@ -1,0 +1,53 @@
+{
+  "table_id": "7-2",
+  "title": "SmallSat Passive Thermal Technologies",
+  "chapter_num": 7,
+  "chapter_title": "Thermal Control",
+  "source_url": "https://www.nasa.gov/smallsat-institute/sst-soa/thermal-control",
+  "edition": "2024",
+  "scrape_date": "2026-04-09",
+  "type": "reference",
+  "columns": [
+    "Passive Technology",
+    "Description"
+  ],
+  "_notes": [],
+  "data": [
+    {
+      "Passive Technology": "Sprayable Thermal Control Coatings",
+      "Description": "Specialized liquid coatings applied to the spacecraft surfaces to manage and regulate the ratio of absorptivity and emissivity for optimal energy balance and thermal performance."
+    },
+    {
+      "Passive Technology": "Films, Tapes, and MLI",
+      "Description": "Materials used to modify spacecraft surface properties to manage and regulate temperature."
+    },
+    {
+      "Passive Technology": "Thermal Straps",
+      "Description": "Provide a conductive link between a heat source and thermal sink to conductively transfer heat."
+    },
+    {
+      "Passive Technology": "Thermal Contact Conductance and Bolted Joint Conductance",
+      "Description": "Heat transfer by “contact” conductance between two surfaces pressed together by uniform pressure can be varied by using interface filler materials and conductive gaskets."
+    },
+    {
+      "Passive Technology": "Sunshields",
+      "Description": "Deployed material that reduces the amount of incident solar flux on a spacecraft."
+    },
+    {
+      "Passive Technology": "Thermal Louvers",
+      "Description": "Controls heat transfer between spacecraft surfaces."
+    },
+    {
+      "Passive Technology": "Deployable Radiators",
+      "Description": "Dedicated surface for dissipating excess heat via radiative heat transfer."
+    },
+    {
+      "Passive Technology": "Phase Change Materials",
+      "Description": "Energy is absorbed as material within a metal compartment changes phase because of exposure to a heat source."
+    },
+    {
+      "Passive Technology": "Thermal Switches",
+      "Description": "An electromechanical device which controls the flow of electrical current in response to temperature change."
+    }
+  ]
+}

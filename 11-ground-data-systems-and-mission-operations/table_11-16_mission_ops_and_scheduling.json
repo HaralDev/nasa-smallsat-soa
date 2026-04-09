@@ -1,0 +1,61 @@
+{
+  "table_id": "11-16",
+  "title": "Mission Operations and Scheduling Software",
+  "chapter_num": 11,
+  "chapter_title": "Ground Data Systems and Mission Operations",
+  "source_url": "https://www.nasa.gov/smallsat-institute/sst-soa/ground-data-systems-and-mission-operations",
+  "edition": "2024",
+  "scrape_date": "2026-04-09",
+  "type": "products",
+  "columns": [
+    "Product",
+    "Manufacturer",
+    "TRL",
+    "Type of Product"
+  ],
+  "_notes": [],
+  "data": [
+    {
+      "Product": "COSMOS",
+      "Manufacturer": "OpenC3",
+      "TRL": "9",
+      "Type of Product": "Open-source command and control system that can be used in all phases of testing and operations"
+    },
+    {
+      "Product": "Galaxy",
+      "Manufacturer": "The Hammers Company",
+      "TRL": "9",
+      "Type of Product": "Command and telemetry system that has been available since 2000"
+    },
+    {
+      "Product": "Orbit Logic Family of Products",
+      "Manufacturer": "Orbit Logic",
+      "TRL": "9",
+      "Type of Product": "Group of mission planning and scheduling products for both aerial and satellite imaging applications"
+    },
+    {
+      "Product": "Yamcs",
+      "Manufacturer": "Space Applications Services",
+      "TRL": "9",
+      "Type of Product": "Open-source command and control system"
+    },
+    {
+      "Product": "ACE Premier Family of Products",
+      "Manufacturer": "Braxton Technologies",
+      "TRL": "8+",
+      "Type of Product": "Group of hardware and software components for end-to-end Satellite Operations Center (SOC)"
+    },
+    {
+      "Product": "Mission Control Software",
+      "Manufacturer": "Bright Ascension",
+      "TRL": "8+",
+      "Type of Product": "Monitoring and control interface with “lights- out” automation features built-in"
+    },
+    {
+      "Product": "Major Tom",
+      "Manufacturer": "Xplore",
+      "TRL": "8+",
+      "Type of Product": "Cloud-based command and telemetry system that can interface with some COTS flight software"
+    }
+  ]
+}

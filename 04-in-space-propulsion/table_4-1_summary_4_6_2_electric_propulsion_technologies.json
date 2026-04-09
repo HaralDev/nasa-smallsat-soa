@@ -1,0 +1,49 @@
+{
+  "table_id": "4-1",
+  "subgroup": "4.6.2 ELECTRIC PROPULSION TECHNOLOGIES",
+  "title": "Summary of Propulsion Technologies Surveyed",
+  "chapter_num": 4,
+  "chapter_title": "In-Space Propulsion",
+  "source_url": "https://www.nasa.gov/smallsat-institute/sst-soa/in-space_propulsion",
+  "edition": "2024",
+  "scrape_date": "2026-04-09",
+  "type": "reference",
+  "columns": [
+    "Technology",
+    "Thrust Range",
+    "Specific Impulse Range [sec]"
+  ],
+  "_notes": [],
+  "data": [
+    {
+      "Technology": "Electrothermal",
+      "Thrust Range": "0.1 mN – 1 N",
+      "Specific Impulse Range [sec]": "20 – 350"
+    },
+    {
+      "Technology": "Electrosprays",
+      "Thrust Range": "20 μN – 20 mN",
+      "Specific Impulse Range [sec]": "225 – 3,000"
+    },
+    {
+      "Technology": "Gridded Ion",
+      "Thrust Range": "0.1 – 20 mN",
+      "Specific Impulse Range [sec]": "500 – 3,000"
+    },
+    {
+      "Technology": "Hall-Effect",
+      "Thrust Range": "0.25 – 55 mN",
+      "Specific Impulse Range [sec]": "200 – 1,920"
+    },
+    {
+      "Technology": "Pulsed Plasma and Vacuum Arc Thrusters",
+      "Thrust Range": "4 – 500 μN",
+      "Specific Impulse Range [sec]": "87 – 3,200"
+    },
+    {
+      "Technology": "Ambipolar",
+      "Thrust Range": "0.5 – 17 mN",
+      "Specific Impulse Range [sec]": "400 – 1,100"
+    }
+  ]
+}

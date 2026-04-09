@@ -1,0 +1,65 @@
+{
+  "table_id": "11-2",
+  "title": "Frequency Bands",
+  "chapter_num": 11,
+  "chapter_title": "Ground Data Systems and Mission Operations",
+  "source_url": "https://www.nasa.gov/smallsat-institute/sst-soa/ground-data-systems-and-mission-operations",
+  "edition": "2024",
+  "scrape_date": "2026-04-09",
+  "type": "specifications",
+  "columns": [
+    "Band",
+    "Frequency"
+  ],
+  "_notes": [],
+  "data": [
+    {
+      "Band": "HF",
+      "Frequency": "3 to 30 MHz"
+    },
+    {
+      "Band": "VHF",
+      "Frequency": "30 to 300 MHz"
+    },
+    {
+      "Band": "UHF",
+      "Frequency": "300 to 1000 MHz"
+    },
+    {
+      "Band": "L",
+      "Frequency": "1 to 2 GHz"
+    },
+    {
+      "Band": "S",
+      "Frequency": "2 to 4 GHz"
+    },
+    {
+      "Band": "C",
+      "Frequency": "4 to 8 GHz"
+    },
+    {
+      "Band": "X",
+      "Frequency": "8 to 12 GHz"
+    },
+    {
+      "Band": "Ku",
+      "Frequency": "12 to 18 GHz"
+    },
+    {
+      "Band": "Ka",
+      "Frequency": "27 to 40 GHz"
+    },
+    {
+      "Band": "V",
+      "Frequency": "40 to 75 GHz"
+    },
+    {
+      "Band": "W",
+      "Frequency": "75 to 110 GHz"
+    },
+    {
+      "Band": "mm",
+      "Frequency": "110 to 300 GHz"
+    }
+  ]
+}

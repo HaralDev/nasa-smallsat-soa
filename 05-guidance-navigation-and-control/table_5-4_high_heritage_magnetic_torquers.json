@@ -1,0 +1,339 @@
+{
+  "table_id": "5-4",
+  "title": "High Heritage Magnetic Torquers",
+  "chapter_num": 5,
+  "chapter_title": "Guidance, Navigation, and Control",
+  "source_url": "https://www.nasa.gov/smallsat-institute/sst-soa/guidance-navigation-and-control",
+  "edition": "2024",
+  "scrape_date": "2026-04-09",
+  "type": "products",
+  "columns": [
+    "Manufacturer",
+    "Model",
+    "Mass (kg)",
+    "Power (W)",
+    "Peak Dipole(A m2)",
+    "# Axes",
+    "Radiation Tolerance (krad)"
+  ],
+  "_notes": [
+    "* Only EEE parts are connector and wires. Magnetorquer is not sensitive to ionizing radiation.** ZARM Technik: Over 200 models available with design to mass/power optimization."
+  ],
+  "data": [
+    {
+      "Manufacturer": "AAC Clyde Space",
+      "Model": "MTQ800",
+      "Mass (kg)": "0.395",
+      "Power (W)": "3",
+      "Peak Dipole(A m2)": "15",
+      "# Axes": "1",
+      "Radiation Tolerance (krad)": "—"
+    },
+    {
+      "Manufacturer": "CubeSpace Satellite Systems",
+      "Model": "CubeTorquer CR0002",
+      "Mass (kg)": "0.0165",
+      "Power (W)": "0.49",
+      "Peak Dipole(A m2)": "0.2",
+      "# Axes": "1",
+      "Radiation Tolerance (krad)": "24"
+    },
+    {
+      "Manufacturer": "CubeSpace Satellite Systems",
+      "Model": "CubeTorquer CR0003",
+      "Mass (kg)": "0.023",
+      "Power (W)": "0.38",
+      "Peak Dipole(A m2)": "0.3",
+      "# Axes": "1",
+      "Radiation Tolerance (krad)": "24"
+    },
+    {
+      "Manufacturer": "CubeSpace Satellite Systems",
+      "Model": "CubeTorquer CR0004",
+      "Mass (kg)": "0.023",
+      "Power (W)": "0.63",
+      "Peak Dipole(A m2)": "0.4",
+      "# Axes": "1",
+      "Radiation Tolerance (krad)": "24"
+    },
+    {
+      "Manufacturer": "CubeSpace Satellite Systems",
+      "Model": "CubeTorquer CR0006",
+      "Mass (kg)": "0.031",
+      "Power (W)": "0.56",
+      "Peak Dipole(A m2)": "0.6",
+      "# Axes": "1",
+      "Radiation Tolerance (krad)": "24"
+    },
+    {
+      "Manufacturer": "CubeSpace Satellite Systems",
+      "Model": "CubeTorquer CR0008",
+      "Mass (kg)": "0.028",
+      "Power (W)": "0.56",
+      "Peak Dipole(A m2)": "0.8",
+      "# Axes": "1",
+      "Radiation Tolerance (krad)": "24"
+    },
+    {
+      "Manufacturer": "CubeSpace Satellite Systems",
+      "Model": "CubeTorquer CR0010",
+      "Mass (kg)": "0.037",
+      "Power (W)": "0.67",
+      "Peak Dipole(A m2)": "1",
+      "# Axes": "1",
+      "Radiation Tolerance (krad)": "24"
+    },
+    {
+      "Manufacturer": "CubeSpace Satellite Systems",
+      "Model": "CubeTorquer CR0012",
+      "Mass (kg)": "0.045",
+      "Power (W)": "0.68",
+      "Peak Dipole(A m2)": "1.2",
+      "# Axes": "1",
+      "Radiation Tolerance (krad)": "24"
+    },
+    {
+      "Manufacturer": "CubeSpace Satellite Systems",
+      "Model": "CubeTorquer CR0020",
+      "Mass (kg)": "0.054",
+      "Power (W)": "0.77",
+      "Peak Dipole(A m2)": "2",
+      "# Axes": "1",
+      "Radiation Tolerance (krad)": "24"
+    },
+    {
+      "Manufacturer": "GomSpace",
+      "Model": "Nano Torque GST-600",
+      "Mass (kg)": "–",
+      "Power (W)": "–",
+      "Peak Dipole(A m2)": "0.31–0.34",
+      "# Axes": "3",
+      "Radiation Tolerance (krad)": "–"
+    },
+    {
+      "Manufacturer": "GomSpace",
+      "Model": "NanoTorque Z-axis Internal",
+      "Mass (kg)": "0.106",
+      "Power (W)": "–",
+      "Peak Dipole(A m2)": "0.139",
+      "# Axes": "1",
+      "Radiation Tolerance (krad)": "–"
+    },
+    {
+      "Manufacturer": "ISISPACE",
+      "Model": "Magnetorquer Board",
+      "Mass (kg)": "0.196",
+      "Power (W)": "1.2",
+      "Peak Dipole(A m2)": "0.20",
+      "# Axes": "3",
+      "Radiation Tolerance (krad)": "–"
+    },
+    {
+      "Manufacturer": "MEISEI",
+      "Model": "Magnetic Torque Actuator for Spacecraft",
+      "Mass (kg)": "0.5",
+      "Power (W)": "1",
+      "Peak Dipole(A m2)": "12",
+      "# Axes": "1",
+      "Radiation Tolerance (krad)": "–"
+    },
+    {
+      "Manufacturer": "NanoAvionics",
+      "Model": "MTQ3X",
+      "Mass (kg)": "0.205",
+      "Power (W)": "0.4",
+      "Peak Dipole(A m2)": "0.30",
+      "# Axes": "3",
+      "Radiation Tolerance (krad)": "–"
+    },
+    {
+      "Manufacturer": "NanoAvionics",
+      "Model": "MTQ MP42",
+      "Mass (kg)": "0.215",
+      "Power (W)": "2.5",
+      "Peak Dipole(A m2)": "5",
+      "# Axes": "1",
+      "Radiation Tolerance (krad)": ""
+    },
+    {
+      "Manufacturer": "NewSpace Systems",
+      "Model": "NCTR-M003",
+      "Mass (kg)": "0.030",
+      "Power (W)": "0.25",
+      "Peak Dipole(A m2)": "0.29",
+      "# Axes": "1",
+      "Radiation Tolerance (krad)": "–"
+    },
+    {
+      "Manufacturer": "NewSpace Systems",
+      "Model": "NCTR-M012",
+      "Mass (kg)": "0.053",
+      "Power (W)": "0.8",
+      "Peak Dipole(A m2)": "1.19",
+      "# Axes": "1",
+      "Radiation Tolerance (krad)": "–"
+    },
+    {
+      "Manufacturer": "NewSpace Systems",
+      "Model": "NCTR-M016",
+      "Mass (kg)": "0.053",
+      "Power (W)": "1.2",
+      "Peak Dipole(A m2)": "1.6",
+      "# Axes": "1",
+      "Radiation Tolerance (krad)": "–"
+    },
+    {
+      "Manufacturer": "Rocket Lab",
+      "Model": "TQ-40",
+      "Mass (kg)": "0.825",
+      "Power (W)": "–",
+      "Peak Dipole(A m2)": "48.00",
+      "# Axes": "1",
+      "Radiation Tolerance (krad)": "–"
+    },
+    {
+      "Manufacturer": "Rocket Lab",
+      "Model": "TQ-15",
+      "Mass (kg)": "0.400",
+      "Power (W)": "–",
+      "Peak Dipole(A m2)": "19.00",
+      "# Axes": "1",
+      "Radiation Tolerance (krad)": "–"
+    },
+    {
+      "Manufacturer": "ZARM Technik**",
+      "Model": "MT0.2-1",
+      "Mass (kg)": "0.012-0.014",
+      "Power (W)": "0.135-0.25",
+      "Peak Dipole(A m2)": "0.2",
+      "# Axes": "1",
+      "Radiation Tolerance (krad)": "NA*"
+    },
+    {
+      "Manufacturer": "ZARM Technik**",
+      "Model": "MT0.5-1",
+      "Mass (kg)": "0.009",
+      "Power (W)": "0.275",
+      "Peak Dipole(A m2)": "0.5",
+      "# Axes": "1",
+      "Radiation Tolerance (krad)": "NA*"
+    },
+    {
+      "Manufacturer": "ZARM Technik**",
+      "Model": "MT0.7-1-01",
+      "Mass (kg)": "0.035",
+      "Power (W)": "0.5",
+      "Peak Dipole(A m2)": "0.7",
+      "# Axes": "1",
+      "Radiation Tolerance (krad)": "NA*"
+    },
+    {
+      "Manufacturer": "ZARM Technik**",
+      "Model": "MT1-1-01",
+      "Mass (kg)": "0.065",
+      "Power (W)": "0.23",
+      "Peak Dipole(A m2)": "1",
+      "# Axes": "1",
+      "Radiation Tolerance (krad)": "NA*"
+    },
+    {
+      "Manufacturer": "ZARM Technik**",
+      "Model": "MT1.5-1-01",
+      "Mass (kg)": "0.097",
+      "Power (W)": "0.4",
+      "Peak Dipole(A m2)": "1.5",
+      "# Axes": "1",
+      "Radiation Tolerance (krad)": "NA*"
+    },
+    {
+      "Manufacturer": "ZARM Technik**",
+      "Model": "MT2-1-02",
+      "Mass (kg)": "0.1",
+      "Power (W)": "0.5",
+      "Peak Dipole(A m2)": "2",
+      "# Axes": "1",
+      "Radiation Tolerance (krad)": "NA*"
+    },
+    {
+      "Manufacturer": "ZARM Technik**",
+      "Model": "MT3-1-D22042701",
+      "Mass (kg)": "0.15",
+      "Power (W)": "0.7",
+      "Peak Dipole(A m2)": "3",
+      "# Axes": "1",
+      "Radiation Tolerance (krad)": "NA*"
+    },
+    {
+      "Manufacturer": "ZARM Technik**",
+      "Model": "MT4-1",
+      "Mass (kg)": "0.15",
+      "Power (W)": "0.6",
+      "Peak Dipole(A m2)": "4",
+      "# Axes": "1",
+      "Radiation Tolerance (krad)": "NA*"
+    },
+    {
+      "Manufacturer": "ZARM Technik**",
+      "Model": "MT5-1",
+      "Mass (kg)": "0.19-0.3",
+      "Power (W)": "0.73-0.75",
+      "Peak Dipole(A m2)": "5",
+      "# Axes": "1",
+      "Radiation Tolerance (krad)": "NA*"
+    },
+    {
+      "Manufacturer": "ZARM Technik**",
+      "Model": "MT5-2",
+      "Mass (kg)": "0.31",
+      "Power (W)": "0.77",
+      "Peak Dipole(A m2)": "5",
+      "# Axes": "1",
+      "Radiation Tolerance (krad)": "NA*"
+    },
+    {
+      "Manufacturer": "ZARM Technik**",
+      "Model": "MT6-2",
+      "Mass (kg)": "0.25-0.3",
+      "Power (W)": "0.48-1.1",
+      "Peak Dipole(A m2)": "6",
+      "# Axes": "1",
+      "Radiation Tolerance (krad)": "NA*"
+    },
+    {
+      "Manufacturer": "ZARM Technik**",
+      "Model": "MT7-2",
+      "Mass (kg)": "0.4",
+      "Power (W)": "0.9",
+      "Peak Dipole(A m2)": "7",
+      "# Axes": "1",
+      "Radiation Tolerance (krad)": "NA*"
+    },
+    {
+      "Manufacturer": "ZARM Technik**",
+      "Model": "MT10-1",
+      "Mass (kg)": "0.35-0.4",
+      "Power (W)": "0.53-0.8",
+      "Peak Dipole(A m2)": "10",
+      "# Axes": "1",
+      "Radiation Tolerance (krad)": "NA*"
+    },
+    {
+      "Manufacturer": "ZARM Technik**",
+      "Model": "MT10-2",
+      "Mass (kg)": "0.37-0.48",
+      "Power (W)": "0.7-1",
+      "Peak Dipole(A m2)": "10",
+      "# Axes": "1",
+      "Radiation Tolerance (krad)": "NA*"
+    },
+    {
+      "Manufacturer": "ZARM Technik**",
+      "Model": "MT15-1",
+      "Mass (kg)": "0.4-0.55",
+      "Power (W)": "1.0-1.55",
+      "Peak Dipole(A m2)": "15",
+      "# Axes": "1",
+      "Radiation Tolerance (krad)": "NA*"
+    }
+  ]
+}

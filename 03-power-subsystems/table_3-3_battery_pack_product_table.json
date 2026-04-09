@@ -1,0 +1,225 @@
+{
+  "table_id": "3-3",
+  "title": "Battery (Pack) Product Table",
+  "chapter_num": 3,
+  "chapter_title": "Power Subsystems",
+  "source_url": "https://www.nasa.gov/smallsat-institute/sst-soa/power-subsystems",
+  "edition": "2024",
+  "scrape_date": "2026-04-09",
+  "type": "products",
+  "columns": [
+    "Company Headquarters",
+    "Product",
+    "Volumetric Energy Density [Wh L-1]",
+    "Specific Energy [Wh kg-1]",
+    "Typical Capacity [Ah]",
+    "Max Discharge Rate [A]",
+    "Cells Used",
+    "Ref"
+  ],
+  "_notes": [
+    "* Available with Inquiry to Manufacturer"
+  ],
+  "data": [
+    {
+      "Company Headquarters": "AAC Clyde Space (Sweden)",
+      "Product": "Optimus",
+      "Volumetric Energy Density [Wh L-1]": "169.5",
+      "Specific Energy [Wh kg-1]": "119.4",
+      "Typical Capacity [Ah]": "4.84",
+      "Max Discharge Rate [A]": "2.6",
+      "Cells Used": "Clyde Space Li-Polymer",
+      "Ref": "(39)"
+    },
+    {
+      "Company Headquarters": "Aerospacelab (Belgium)",
+      "Product": "BM",
+      "Volumetric Energy Density [Wh L-1]": "380",
+      "Specific Energy [Wh kg-1]": "–",
+      "Typical Capacity [Ah]": "14",
+      "Max Discharge Rate [A]": "12 (in / out)",
+      "Cells Used": "4 independent battery packs of 8 lithium-ion cells each",
+      "Ref": ""
+    },
+    {
+      "Company Headquarters": "Astro Digital",
+      "Product": "Direct Energy Pack",
+      "Volumetric Energy Density [Wh L-1]": "187",
+      "Specific Energy [Wh kg-1]": "144",
+      "Typical Capacity [Ah]": "10",
+      "Max Discharge Rate [A]": "50",
+      "Cells Used": "21700 Li-Ion",
+      "Ref": ""
+    },
+    {
+      "Company Headquarters": "Argotech (Italy)",
+      "Product": "ELEKTRA",
+      "Volumetric Energy Density [Wh L-1]": "243.5",
+      "Specific Energy [Wh kg-1]": "152.5",
+      "Typical Capacity [Ah]": "3.4",
+      "Max Discharge Rate [A]": "4",
+      "Cells Used": "Li-Ion",
+      "Ref": "(40)"
+    },
+    {
+      "Company Headquarters": "Berlin Space Technologies (Germany)",
+      "Product": "BAT-110 Modular Battery (Nominal 3 strings)",
+      "Volumetric Energy Density [Wh L-1]": "69.73",
+      "Specific Energy [Wh kg-1]": "57.75",
+      "Typical Capacity [Ah]": "7.5",
+      "Max Discharge Rate [A]": "3",
+      "Cells Used": "Li-Fe",
+      "Ref": ""
+    },
+    {
+      "Company Headquarters": "EaglePicher Technologies (USA)",
+      "Product": "NPD-002271",
+      "Volumetric Energy Density [Wh L-1]": "271",
+      "Specific Energy [Wh kg-1]": "153.5",
+      "Typical Capacity [Ah]": "14.5",
+      "Max Discharge Rate [A]": "15",
+      "Cells Used": "EaglePicher Li-ion",
+      "Ref": ""
+    },
+    {
+      "Company Headquarters": "EnduroSat (Bulgaria)",
+      "Product": "EPS IV (BMS)",
+      "Volumetric Energy Density [Wh L-1]": "222.9",
+      "Specific Energy [Wh kg-1]": "178.1",
+      "Typical Capacity [Ah]": "33.5",
+      "Max Discharge Rate [A]": "100",
+      "Cells Used": "Li-Ion",
+      "Ref": ""
+    },
+    {
+      "Company Headquarters": "GomSpace (Denmark)",
+      "Product": "Nanopower BPX 3000mAh (e.g., 4S-2P)",
+      "Volumetric Energy Density [Wh L-1]": "262.2",
+      "Specific Energy [Wh kg-1]": "172",
+      "Typical Capacity [Ah]": "6.0",
+      "Max Discharge Rate [A]": "4",
+      "Cells Used": "GomSpace NanoPower Li-ion",
+      "Ref": "(42)"
+    },
+    {
+      "Company Headquarters": "GomSpace (Denmark)",
+      "Product": "Nanopower BP4 3000mAh (e.g., 2S-2P)",
+      "Volumetric Energy Density [Wh L-1]": "239.8",
+      "Specific Energy [Wh kg-1]": "168.8",
+      "Typical Capacity [Ah]": "6.0",
+      "Max Discharge Rate [A]": "4",
+      "Cells Used": "GomSpace NanoPower Li-ion",
+      "Ref": "(43)"
+    },
+    {
+      "Company Headquarters": "GomSpace (Denmark)",
+      "Product": "Nanopower BP8 (8S-1P)",
+      "Volumetric Energy Density [Wh L-1]": "227.36",
+      "Specific Energy [Wh kg-1]": "177.3",
+      "Typical Capacity [Ah]": "3.0",
+      "Max Discharge Rate [A]": "4",
+      "Cells Used": "GomSpace NanoPower Li-ion",
+      "Ref": ""
+    },
+    {
+      "Company Headquarters": "GUMUSH AeroSpace (Istanbul)",
+      "Product": "n-ART BAT",
+      "Volumetric Energy Density [Wh L-1]": "184.5",
+      "Specific Energy [Wh kg-1]": "155.1",
+      "Typical Capacity [Ah]": "6.01",
+      "Max Discharge Rate [A]": "8",
+      "Cells Used": "Li-Ion",
+      "Ref": ""
+    },
+    {
+      "Company Headquarters": "Ibeos (USA)",
+      "Product": "28V Modular Battery",
+      "Volumetric Energy Density [Wh L-1]": "151.1",
+      "Specific Energy [Wh kg-1]": "109.8",
+      "Typical Capacity [Ah]": "8 – 30+",
+      "Max Discharge Rate [A]": "20",
+      "Cells Used": "*",
+      "Ref": "(44)"
+    },
+    {
+      "Company Headquarters": "ISISPACE (The Netherlands)",
+      "Product": "PBP-2S1P",
+      "Volumetric Energy Density [Wh L-1]": "129.1",
+      "Specific Energy [Wh kg-1]": "156.5",
+      "Typical Capacity [Ah]": "6.4",
+      "Max Discharge Rate [A]": "4",
+      "Cells Used": "Li-Ion",
+      "Ref": ""
+    },
+    {
+      "Company Headquarters": "ISISPACE (The Netherlands)",
+      "Product": "PBP-2S2P",
+      "Volumetric Energy Density [Wh L-1]": "327.85",
+      "Specific Energy [Wh kg-1]": "160",
+      "Typical Capacity [Ah]": "12.8",
+      "Max Discharge Rate [A]": "8",
+      "Cells Used": "Li-Ion",
+      "Ref": ""
+    },
+    {
+      "Company Headquarters": "ISISPACE (The Netherlands)",
+      "Product": "PBP-4S1P",
+      "Volumetric Energy Density [Wh L-1]": "327.85",
+      "Specific Energy [Wh kg-1]": "160",
+      "Typical Capacity [Ah]": "12.8",
+      "Max Discharge Rate [A]": "4",
+      "Cells Used": "Li-Ion",
+      "Ref": ""
+    },
+    {
+      "Company Headquarters": "NPC SPACEMIND (Italy)",
+      "Product": "KANON",
+      "Volumetric Energy Density [Wh L-1]": "167",
+      "Specific Energy [Wh kg-1]": "250",
+      "Typical Capacity [Ah]": "13.6",
+      "Max Discharge Rate [A]": "6",
+      "Cells Used": "Li-Ion",
+      "Ref": ""
+    },
+    {
+      "Company Headquarters": "Saft (France)",
+      "Product": "VES16 4S1P",
+      "Volumetric Energy Density [Wh L-1]": "109.2",
+      "Specific Energy [Wh kg-1]": "91",
+      "Typical Capacity [Ah]": "4.5",
+      "Max Discharge Rate [A]": "4.5 – Cont.9 – Pulse",
+      "Cells Used": "SAFT Li-ion",
+      "Ref": "(46)"
+    },
+    {
+      "Company Headquarters": "SkyLabs (Slovenia)",
+      "Product": "SKY-NANOeps-BMM",
+      "Volumetric Energy Density [Wh L-1]": "103",
+      "Specific Energy [Wh kg-1]": "89",
+      "Typical Capacity [Ah]": "up to 18",
+      "Max Discharge Rate [A]": "up to 54",
+      "Cells Used": "LiFePO4",
+      "Ref": "(47)"
+    },
+    {
+      "Company Headquarters": "Space Dynamics Laboratory (USA)",
+      "Product": "SDL 12V Battery Pack",
+      "Volumetric Energy Density [Wh L-1]": "144",
+      "Specific Energy [Wh kg-1]": "75",
+      "Typical Capacity [Ah]": "12.0",
+      "Max Discharge Rate [A]": "96",
+      "Cells Used": "EaglePicher LP32975",
+      "Ref": ""
+    },
+    {
+      "Company Headquarters": "Vectronic Aerospace GmbH (Germany)",
+      "Product": "VLB-X",
+      "Volumetric Energy Density [Wh L-1]": "101.96",
+      "Specific Energy [Wh kg-1]": "74.6",
+      "Typical Capacity [Ah]": "12",
+      "Max Discharge Rate [A]": "10 – Cont.20 – Pulse",
+      "Cells Used": "SAFT Li-Ion",
+      "Ref": "(48)"
+    }
+  ]
+}

@@ -1,0 +1,265 @@
+{
+  "table_id": "5-9",
+  "title": "Gyros Available for Small Spacecraft",
+  "chapter_num": 5,
+  "chapter_title": "Guidance, Navigation, and Control",
+  "source_url": "https://www.nasa.gov/smallsat-institute/sst-soa/guidance-navigation-and-control",
+  "edition": "2024",
+  "scrape_date": "2026-04-09",
+  "type": "products",
+  "columns": [
+    "Manufacturer",
+    "Model",
+    "Sensor Type",
+    "Technology",
+    "Mass (kg)",
+    "Power (W)",
+    "Gyros",
+    "Accelerometers"
+  ],
+  "_notes": [
+    "*Small form-factor versions of these products available.— Represents unknown data"
+  ],
+  "data": [
+    {
+      "Manufacturer": "Emcore",
+      "Model": "QRS11",
+      "Sensor Type": "Gyro",
+      "Technology": "MEMS",
+      "Mass (kg)": "≤0.06",
+      "Power (W)": "0.8",
+      "Gyros": "1",
+      "Accelerometers": "6"
+    },
+    {
+      "Manufacturer": "Emcore",
+      "Model": "QRS28",
+      "Sensor Type": "Gyro",
+      "Technology": "MEMS",
+      "Mass (kg)": "≤0.025",
+      "Power (W)": "0.5",
+      "Gyros": "2",
+      "Accelerometers": "–"
+    },
+    {
+      "Manufacturer": "Honeywell",
+      "Model": "MIMU",
+      "Sensor Type": "IMU",
+      "Technology": "RLG",
+      "Mass (kg)": "4",
+      "Power (W)": "34",
+      "Gyros": "3",
+      "Accelerometers": "0.05"
+    },
+    {
+      "Manufacturer": "Honeywell",
+      "Model": "HG1700",
+      "Sensor Type": "IMU",
+      "Technology": "RLG",
+      "Mass (kg)": "0.9",
+      "Power (W)": "5.000",
+      "Gyros": "3",
+      "Accelerometers": "1.000"
+    },
+    {
+      "Manufacturer": "Honeywell",
+      "Model": "HG4934SRS (PN: 68904934-BA60)",
+      "Sensor Type": "IRU",
+      "Technology": "MEMS",
+      "Mass (kg)": "0.145",
+      "Power (W)": "<5.500 peak",
+      "Gyros": "3",
+      "Accelerometers": "< 3.0"
+    },
+    {
+      "Manufacturer": "L3",
+      "Model": "CIRUS",
+      "Sensor Type": "Gyros",
+      "Technology": "FOG",
+      "Mass (kg)": "15.400",
+      "Power (W)": "40.000",
+      "Gyros": "3",
+      "Accelerometers": "0.000"
+    },
+    {
+      "Manufacturer": "NewSpace Systems",
+      "Model": "NSGY-001",
+      "Sensor Type": "IRU",
+      "Technology": "Image-based rotation estimate",
+      "Mass (kg)": "0.055",
+      "Power (W)": "0.200",
+      "Gyros": "3",
+      "Accelerometers": "–"
+    },
+    {
+      "Manufacturer": "Northrop Grumman",
+      "Model": "LN-200S",
+      "Sensor Type": "IMU",
+      "Technology": "FOG, SiAc",
+      "Mass (kg)": "0.748",
+      "Power (W)": "12",
+      "Gyros": "3",
+      "Accelerometers": "1.000"
+    },
+    {
+      "Manufacturer": "NovAtel",
+      "Model": "OEM-IMU-STIM300",
+      "Sensor Type": "IMU",
+      "Technology": "MEMS",
+      "Mass (kg)": "0.055",
+      "Power (W)": "1.50",
+      "Gyros": "3",
+      "Accelerometers": "0.500"
+    },
+    {
+      "Manufacturer": "Safran",
+      "Model": "STIM202",
+      "Sensor Type": "IRU",
+      "Technology": "MEMS",
+      "Mass (kg)": "0.055",
+      "Power (W)": "1.500",
+      "Gyros": "3",
+      "Accelerometers": "0.400"
+    },
+    {
+      "Manufacturer": "Safran",
+      "Model": "STIM210",
+      "Sensor Type": "IRU",
+      "Technology": "MEMS",
+      "Mass (kg)": "0.052",
+      "Power (W)": "1.500",
+      "Gyros": "3",
+      "Accelerometers": "0.300"
+    },
+    {
+      "Manufacturer": "Safran",
+      "Model": "STIM300",
+      "Sensor Type": "IMU",
+      "Technology": "MEMS",
+      "Mass (kg)": "0.055",
+      "Power (W)": "2.000",
+      "Gyros": "3",
+      "Accelerometers": "0.300"
+    },
+    {
+      "Manufacturer": "Safran",
+      "Model": "STIM318",
+      "Sensor Type": "IMU",
+      "Technology": "MEMS",
+      "Mass (kg)": "0.057",
+      "Power (W)": "2.500",
+      "Gyros": "3",
+      "Accelerometers": "0.300"
+    },
+    {
+      "Manufacturer": "Safran",
+      "Model": "STIM320",
+      "Sensor Type": "IMU",
+      "Technology": "MEMS",
+      "Mass (kg)": "0.057",
+      "Power (W)": "2.500",
+      "Gyros": "3",
+      "Accelerometers": "0.300"
+    },
+    {
+      "Manufacturer": "Safran",
+      "Model": "STIM277H",
+      "Sensor Type": "IRU",
+      "Technology": "MEMS",
+      "Mass (kg)": "0.052",
+      "Power (W)": "1.500",
+      "Gyros": "3",
+      "Accelerometers": "0.300"
+    },
+    {
+      "Manufacturer": "Safran",
+      "Model": "STIM377H",
+      "Sensor Type": "IMU",
+      "Technology": "MEMS",
+      "Mass (kg)": "0.055",
+      "Power (W)": "2.000",
+      "Gyros": "3",
+      "Accelerometers": "0.300"
+    },
+    {
+      "Manufacturer": "Silicon Sensing Systems",
+      "Model": "CRH03",
+      "Sensor Type": "Gyro",
+      "Technology": "MEMS",
+      "Mass (kg)": "0.42",
+      "Power (W)": "0.2W",
+      "Gyros": "1",
+      "Accelerometers": "CRH03-010 – 0.03CRH03-025 – 0.04CRH03-100 – 0.04CRH03-200 – 0.05CRH03-400 – 0.1"
+    },
+    {
+      "Manufacturer": "Silicon Sensing Systems",
+      "Model": "CRH03(OEM)",
+      "Sensor Type": "Gyro",
+      "Technology": "MEMS",
+      "Mass (kg)": "0.18",
+      "Power (W)": "0.2W",
+      "Gyros": "1",
+      "Accelerometers": "CRH03-010 – 0.03CRH03-025 – 0.04CRH03-100 – 0.04CRH03-200 – 0.05CRH03-400 – 0.1"
+    },
+    {
+      "Manufacturer": "Silicon Sensing Systems",
+      "Model": "RPU30",
+      "Sensor Type": "Gyro",
+      "Technology": "MEMS",
+      "Mass (kg)": "1.35",
+      "Power (W)": "<0.8W",
+      "Gyros": "3",
+      "Accelerometers": "0.06"
+    },
+    {
+      "Manufacturer": "Silicon Sensing Systems",
+      "Model": "DMU41",
+      "Sensor Type": "9 DoF IMU",
+      "Technology": "MEMS",
+      "Mass (kg)": "<2",
+      "Power (W)": "<1.5W",
+      "Gyros": "3",
+      "Accelerometers": "0.1"
+    },
+    {
+      "Manufacturer": "Silicon Sensing Systems",
+      "Model": "CAS",
+      "Sensor Type": "Acc",
+      "Technology": "MEMS",
+      "Mass (kg)": "0.004",
+      "Power (W)": "–",
+      "Gyros": "0",
+      "Accelerometers": "–"
+    },
+    {
+      "Manufacturer": "VectorNav",
+      "Model": "VN-100*",
+      "Sensor Type": "IMU + magnetometers +barometer",
+      "Technology": "MEMS",
+      "Mass (kg)": "0.015",
+      "Power (W)": "0.220",
+      "Gyros": "3",
+      "Accelerometers": "10.000"
+    },
+    {
+      "Manufacturer": "VectorNav",
+      "Model": "VN-110*",
+      "Sensor Type": "IMU + magnetometers",
+      "Technology": "MEMS",
+      "Mass (kg)": "0.125",
+      "Power (W)": "2.500",
+      "Gyros": "3",
+      "Accelerometers": "1.000"
+    },
+    {
+      "Manufacturer": "–",
+      "Model": "–",
+      "Sensor Type": "–",
+      "Technology": "–",
+      "Mass (kg)": "–",
+      "Power (W)": "–",
+      "Gyros": "–",
+      "Accelerometers": "–"
+    }
+  ]
+}

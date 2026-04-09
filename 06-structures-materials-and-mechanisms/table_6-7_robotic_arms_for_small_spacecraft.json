@@ -1,0 +1,59 @@
+{
+  "table_id": "6-7",
+  "title": "Robotic Arms for Small Spacecraft",
+  "chapter_num": 6,
+  "chapter_title": "Structures, Materials, and Mechanisms",
+  "source_url": "https://www.nasa.gov/smallsat-institute/sst-soa/structures-materials-and-mechanisms",
+  "edition": "2024",
+  "scrape_date": "2026-04-09",
+  "type": "products",
+  "columns": [
+    "Manufacturer",
+    "Product",
+    "Mass (kg)",
+    "Extendable length (mm)",
+    "Stowed Envelope (mm)",
+    "DOF",
+    "Power Consumption (W)",
+    "Actuator method",
+    "Form Factor"
+  ],
+  "_notes": [
+    "– Represents unknown data"
+  ],
+  "data": [
+    {
+      "Manufacturer": "U.S. Naval Academy",
+      "Product": "3U CubeSat with two robotic arms",
+      "Mass (kg)": "4",
+      "Extendable length (mm)": "600",
+      "Stowed Envelope (mm)": "300x100x100",
+      "DOF": "6 plus “claw” end-effector actuation",
+      "Power Consumption (W)": "–",
+      "Actuator method": "Stepper motor",
+      "Form Factor": "RECS 3U (Nov 2022)"
+    },
+    {
+      "Manufacturer": "Redwire Space",
+      "Product": "–",
+      "Mass (kg)": "–",
+      "Extendable length (mm)": "1 to 4 m reach",
+      "Stowed Envelope (mm)": "–",
+      "DOF": "5 to 7",
+      "Power Consumption (W)": "8 to 65",
+      "Actuator method": "–",
+      "Form Factor": "ESPA class satellites"
+    },
+    {
+      "Manufacturer": "Sierra Lobo",
+      "Product": "Sierra Lobo Arm (SLAC1)",
+      "Mass (kg)": "–",
+      "Extendable length (mm)": "100x100x100",
+      "Stowed Envelope (mm)": "30x50x65",
+      "DOF": "3",
+      "Power Consumption (W)": "1.5",
+      "Actuator method": "–",
+      "Form Factor": "–"
+    }
+  ]
+}

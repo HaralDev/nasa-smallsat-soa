@@ -1,0 +1,79 @@
+{
+  "table_id": "6-8",
+  "title": "Polylactic Acid Filaments",
+  "chapter_num": 6,
+  "chapter_title": "Structures, Materials, and Mechanisms",
+  "source_url": "https://www.nasa.gov/smallsat-institute/sst-soa/structures-materials-and-mechanisms",
+  "edition": "2024",
+  "scrape_date": "2026-04-09",
+  "type": "products",
+  "columns": [
+    "Filament Name (Citation)",
+    "ISO 75/ASTM D648 Deflection Temp (°C)",
+    "ISO 179-1 Hardness (kJ/m2) or Izod D256-10A (J/m)",
+    "ISO 527-1/ASTM D638 ZX Tensile strength (MPa)",
+    "ASTM D790/ISO 178 Flexural strength (MPa)",
+    "Nozzle Temp (°C)",
+    "Bed Temp (°C)",
+    "Density (g/cc)",
+    "ESD Risk* (Ω-cm)"
+  ],
+  "_notes": [],
+  "data": [
+    {
+      "Filament Name (Citation)": "Prusament PLA",
+      "ISO 75/ASTM D648 Deflection Temp (°C)": "55",
+      "ISO 179-1 Hardness (kJ/m2) or Izod D256-10A (J/m)": "12 kJ/m (2)",
+      "ISO 527-1/ASTM D638 ZX Tensile strength (MPa)": "57",
+      "ASTM D790/ISO 178 Flexural strength (MPa)": "N/A",
+      "Nozzle Temp (°C)": "215",
+      "Bed Temp (°C)": "50-60",
+      "Density (g/cc)": "1.24",
+      "ESD Risk* (Ω-cm)": "No"
+    },
+    {
+      "Filament Name (Citation)": "Verbatim PLA",
+      "ISO 75/ASTM D648 Deflection Temp (°C)": "50",
+      "ISO 179-1 Hardness (kJ/m2) or Izod D256-10A (J/m)": "16 kJ/m (2)",
+      "ISO 527-1/ASTM D638 ZX Tensile strength (MPa)": "63",
+      "ASTM D790/ISO 178 Flexural strength (MPa)": "N/A",
+      "Nozzle Temp (°C)": "210",
+      "Bed Temp (°C)": "50-60",
+      "Density (g/cc)": "1.24",
+      "ESD Risk* (Ω-cm)": "No"
+    },
+    {
+      "Filament Name (Citation)": "ColorFabb PLA-PHA (51)",
+      "ISO 75/ASTM D648 Deflection Temp (°C)": "N/A",
+      "ISO 179-1 Hardness (kJ/m2) or Izod D256-10A (J/m)": "30 kJ/m (2)",
+      "ISO 527-1/ASTM D638 ZX Tensile strength (MPa)": "61",
+      "ASTM D790/ISO 178 Flexural strength (MPa)": "89",
+      "Nozzle Temp (°C)": "210",
+      "Bed Temp (°C)": "50-60",
+      "Density (g/cc)": "1.24",
+      "ESD Risk* (Ω-cm)": "No"
+    },
+    {
+      "Filament Name (Citation)": "Stratasys PLA (52)",
+      "ISO 75/ASTM D648 Deflection Temp (°C)": "51",
+      "ISO 179-1 Hardness (kJ/m2) or Izod D256-10A (J/m)": "27 kJ/m (2)",
+      "ISO 527-1/ASTM D638 ZX Tensile strength (MPa)": "26",
+      "ASTM D790/ISO 178 Flexural strength (MPa)": "84",
+      "Nozzle Temp (°C)": "N/A",
+      "Bed Temp (°C)": "N/A",
+      "Density (g/cc)": "1.264",
+      "ESD Risk* (Ω-cm)": "No, 10 (15)"
+    },
+    {
+      "Filament Name (Citation)": "3DXSTAT™ ESD-PLA",
+      "ISO 75/ASTM D648 Deflection Temp (°C)": "55",
+      "ISO 179-1 Hardness (kJ/m2) or Izod D256-10A (J/m)": "N/A",
+      "ISO 527-1/ASTM D638 ZX Tensile strength (MPa)": "55",
+      "ASTM D790/ISO 178 Flexural strength (MPa)": "95",
+      "Nozzle Temp (°C)": "210",
+      "Bed Temp (°C)": "23-60",
+      "Density (g/cc)": "1.26",
+      "ESD Risk* (Ω-cm)": "Yes, 10 (6)-10 (9)"
+    }
+  ]
+}

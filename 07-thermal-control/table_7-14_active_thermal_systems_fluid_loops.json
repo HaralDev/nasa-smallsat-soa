@@ -1,0 +1,42 @@
+{
+  "table_id": "7-14",
+  "title": "Active Thermal Systems – Fluid Loops",
+  "chapter_num": 7,
+  "chapter_title": "Thermal Control",
+  "source_url": "https://www.nasa.gov/smallsat-institute/sst-soa/thermal-control",
+  "edition": "2024",
+  "scrape_date": "2026-04-09",
+  "type": "products",
+  "columns": [
+    "Manufacturer",
+    "Product",
+    "Cooling Capacity",
+    "Mass",
+    "Volume",
+    "TRL",
+    "Notes"
+  ],
+  "_notes": [
+    "TRL values provided are specific to low-Earth environments for SmallSats <180 kg."
+  ],
+  "data": [
+    {
+      "Manufacturer": "Netherlands Aerospace Centre",
+      "Product": "Mini-MPL",
+      "Cooling Capacity": ">20 W",
+      "Mass": "–",
+      "Volume": "< 1U",
+      "TRL": "4 – 6",
+      "Notes": "Scalable to ≤ 200W"
+    },
+    {
+      "Manufacturer": "Lockheed Martin",
+      "Product": "Joule-ThomsonMicrocryocooler",
+      "Cooling Capacity": "–",
+      "Mass": "0.2 kg",
+      "Volume": "< 1U (Est.)",
+      "TRL": "4 – 5",
+      "Notes": ""
+    }
+  ]
+}

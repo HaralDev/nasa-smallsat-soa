@@ -1,0 +1,73 @@
+{
+  "table_id": "5-1",
+  "title": "State-of-the-Art GNC Subsystems",
+  "chapter_num": 5,
+  "chapter_title": "Guidance, Navigation, and Control",
+  "source_url": "https://www.nasa.gov/smallsat-institute/sst-soa/guidance-navigation-and-control",
+  "edition": "2024",
+  "scrape_date": "2026-04-09",
+  "type": "reference",
+  "columns": [
+    "Component",
+    "Performance",
+    "TRL"
+  ],
+  "_notes": [],
+  "data": [
+    {
+      "Component": "Reaction Wheels",
+      "Performance": "0.00023 – 0.3 Nm peak torque, 0.0005 – 8 N m s storage",
+      "TRL": "7-9"
+    },
+    {
+      "Component": "Magnetic Torquers",
+      "Performance": "0.15 A m (2) – 15 A m (2)",
+      "TRL": "7-9"
+    },
+    {
+      "Component": "Star Trackers",
+      "Performance": "8 arcsec pointing knowledge",
+      "TRL": "7-9"
+    },
+    {
+      "Component": "Sun Sensors",
+      "Performance": "0.1° accuracy",
+      "TRL": "7-9"
+    },
+    {
+      "Component": "Earth Sensors",
+      "Performance": "0.25° accuracy",
+      "TRL": "7-9"
+    },
+    {
+      "Component": "Inertial Sensors",
+      "Performance": "Gyros: 0.15° h (-1) bias stability, 0.02° h (-1/2) ARWAccels: 3 µg bias stability, 0.02 (m s (-1))/h (-1/2) VRW",
+      "TRL": "7-9"
+    },
+    {
+      "Component": "GPS Receivers",
+      "Performance": "1.5 m position accuracy",
+      "TRL": "7-9"
+    },
+    {
+      "Component": "Integrated Units",
+      "Performance": "0.002-5° pointing capability",
+      "TRL": "7-9"
+    },
+    {
+      "Component": "Atomic Clocks",
+      "Performance": "10 – 150 Frequency Range (MHz)",
+      "TRL": "5-6"
+    },
+    {
+      "Component": "Deep Space Navigation",
+      "Performance": "Bands: X, Ka, S, and UHF",
+      "TRL": "7-9"
+    },
+    {
+      "Component": "Altimeters",
+      "Performance": "~15 meters altitude, ~3 cm accuracy",
+      "TRL": "7"
+    }
+  ]
+}

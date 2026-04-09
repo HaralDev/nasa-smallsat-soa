@@ -1,0 +1,73 @@
+{
+  "table_id": "6-2",
+  "title": "Commercial Primary CubeSat Structures",
+  "chapter_num": 6,
+  "chapter_title": "Structures, Materials, and Mechanisms",
+  "source_url": "https://www.nasa.gov/smallsat-institute/sst-soa/structures-materials-and-mechanisms",
+  "edition": "2024",
+  "scrape_date": "2026-04-09",
+  "type": "products",
+  "columns": [
+    "Manufacturer Headquarters",
+    "Structure (U)"
+  ],
+  "_notes": [],
+  "data": [
+    {
+      "Manufacturer Headquarters": "AAC Clyde Space (Sweden)",
+      "Structure (U)": "ZAPHOD 1U, 2U, 3U, 6U, 12U"
+    },
+    {
+      "Manufacturer Headquarters": "C3S Electronics Development LLC (Hungary)",
+      "Structure (U)": "3U/3U Plus, 6U, 12U, 16U"
+    },
+    {
+      "Manufacturer Headquarters": "Cervos Space (Turkey)",
+      "Structure (U)": "1U, 2U, 3U, 6U"
+    },
+    {
+      "Manufacturer Headquarters": "EnduroSat (Bulgaria)",
+      "Structure (U)": "1U, 1.5U, 3U, 6UXL, 8U 12UXL, 16U"
+    },
+    {
+      "Manufacturer Headquarters": "German Orbital Systems (Germany)",
+      "Structure (U)": "1U, 2U, 3U, 6U, 12U"
+    },
+    {
+      "Manufacturer Headquarters": "GomSpace (Denmark)",
+      "Structure (U)": "3U, 6U, 8U, 12U, 16U"
+    },
+    {
+      "Manufacturer Headquarters": "Gran Systems (USA)",
+      "Structure (U)": "1U, 1.5U, 2U, 3U, 6U, 6UXL"
+    },
+    {
+      "Manufacturer Headquarters": "Gumush (Istanbul)",
+      "Structure (U)": "n-ART 1U, 2U, 3U"
+    },
+    {
+      "Manufacturer Headquarters": "ISISPACE (The Netherlands)",
+      "Structure (U)": "1U, 2U, 2UXL, 3U, 6U, 8U, 12U, 16U"
+    },
+    {
+      "Manufacturer Headquarters": "Ishitoshi Machining (Japan)",
+      "Structure (U)": "MBF-1U, 3U"
+    },
+    {
+      "Manufacturer Headquarters": "NanoAvionics (Lithuania)",
+      "Structure (U)": "1U, 2U, 3U, 6U, 12U, 16U"
+    },
+    {
+      "Manufacturer Headquarters": "Pumpkin Space Systems (USA)",
+      "Structure (U)": "Supernova 1U, 3U, 6U, 12U"
+    },
+    {
+      "Manufacturer Headquarters": "NPC Spacemind (Italy)",
+      "Structure (U)": "SM 1U, 1.5U, 2U, 3U, 6U, 6U XL, 8U, 12U, 12U XL, 16U"
+    },
+    {
+      "Manufacturer Headquarters": "Nara Space (South Korea)",
+      "Structure (U)": "12U, 16U"
+    }
+  ]
+}

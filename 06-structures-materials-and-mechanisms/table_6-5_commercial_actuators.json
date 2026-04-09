@@ -1,0 +1,249 @@
+{
+  "table_id": "6-5",
+  "title": "Commercial Actuators",
+  "chapter_num": 6,
+  "chapter_title": "Structures, Materials, and Mechanisms",
+  "source_url": "https://www.nasa.gov/smallsat-institute/sst-soa/structures-materials-and-mechanisms",
+  "edition": "2024",
+  "scrape_date": "2026-04-09",
+  "type": "products",
+  "columns": [
+    "Manufacturer Headquarters",
+    "Product",
+    "Mass (kg)",
+    "Size (mm)",
+    "Power Consumption",
+    "Actuation method",
+    "Ref"
+  ],
+  "_notes": [
+    "Data unknown is represented by –* See reference"
+  ],
+  "data": [
+    {
+      "Manufacturer Headquarters": "Beyond Gravity (Switzerland)",
+      "Product": "Separation Nut PSM 3/8B",
+      "Mass (kg)": "0.23",
+      "Size (mm)": "58.5x36x56",
+      "Power Consumption": "–",
+      "Actuation method": "–",
+      "Ref": "(23)"
+    },
+    {
+      "Manufacturer Headquarters": "Comat Space (France)",
+      "Product": "Solar Array Drive Mechanism – 400",
+      "Mass (kg)": "0.465",
+      "Size (mm)": "83x62x46",
+      "Power Consumption": "4 W",
+      "Actuation method": "Geared motor",
+      "Ref": "(18)"
+    },
+    {
+      "Manufacturer Headquarters": "Comat Space (France)",
+      "Product": "Solar Array Drive Mechanism – 1500",
+      "Mass (kg)": "3.5",
+      "Size (mm)": "201×132",
+      "Power Consumption": "13 W",
+      "Actuation method": "Geared motor",
+      "Ref": "(19)"
+    },
+    {
+      "Manufacturer Headquarters": "DCUBED (Germany)",
+      "Product": "Micro Pin Puller (uD3PP)",
+      "Mass (kg)": "0.08",
+      "Size (mm)": "25.5×25.5x 25.5",
+      "Power Consumption": "–",
+      "Actuation method": "SMA",
+      "Ref": "(21)"
+    },
+    {
+      "Manufacturer Headquarters": "DCUBED (Germany)",
+      "Product": "Nano Pin Puller (nD3PP)",
+      "Mass (kg)": "0.025",
+      "Size (mm)": "17x17x17",
+      "Power Consumption": "–",
+      "Actuation method": "SMA",
+      "Ref": "(21)"
+    },
+    {
+      "Manufacturer Headquarters": "DCUBED (Germany)",
+      "Product": "Micro Release Nut (uD3RN)",
+      "Mass (kg)": "0.078",
+      "Size (mm)": "25x25x25",
+      "Power Consumption": "–",
+      "Actuation method": "SMA",
+      "Ref": "(22)"
+    },
+    {
+      "Manufacturer Headquarters": "DHV Technology (Spain)",
+      "Product": "MicroSADA-10",
+      "Mass (kg)": "<0.25",
+      "Size (mm)": "100x100x100",
+      "Power Consumption": "–",
+      "Actuation method": "Stepper motor",
+      "Ref": "(20)"
+    },
+    {
+      "Manufacturer Headquarters": "DHV Technology (Spain)",
+      "Product": "MicroSADA-18",
+      "Mass (kg)": "<0.95",
+      "Size (mm)": "226x80x18",
+      "Power Consumption": "–",
+      "Actuation method": "Stepper motor",
+      "Ref": "(20)"
+    },
+    {
+      "Manufacturer Headquarters": "Ensign-Bickford Aerospace & Defense Company (USA)",
+      "Product": "TiNi™ Flat Pack",
+      "Mass (kg)": "",
+      "Size (mm)": "",
+      "Power Consumption": "",
+      "Actuation method": "",
+      "Ref": "(24)"
+    },
+    {
+      "Manufacturer Headquarters": "Ensign-Bickford Aerospace & Defense Company (USA)",
+      "Product": "TiNi™ FD04 Frangibolt",
+      "Mass (kg)": "0.007",
+      "Size (mm)": "13.72×10.16",
+      "Power Consumption": "15 W @ 9 VD",
+      "Actuation method": "SMA",
+      "Ref": "(14)"
+    },
+    {
+      "Manufacturer Headquarters": "Ensign-Bickford Aerospace & Defense Company (USA)",
+      "Product": "TiNi™ ML50",
+      "Mass (kg)": "0.010",
+      "Size (mm)": "11.45 diamx12.7",
+      "Power Consumption": "9 W @ 7 VD",
+      "Actuation method": "SMA",
+      "Ref": "(15)"
+    },
+    {
+      "Manufacturer Headquarters": "Ensign-Bickford Aerospace & Defense Company (USA)",
+      "Product": "TiNi™P5 Nano Pin Puller",
+      "Mass (kg)": "0.015",
+      "Size (mm)": "25.4 diamx16.5",
+      "Power Consumption": "1.5A to 3.75A",
+      "Actuation method": "SMA",
+      "Ref": "(25)"
+    },
+    {
+      "Manufacturer Headquarters": "Ensign-Bickford Aerospace & Defense Company (USA)",
+      "Product": "TiNi™ P5 Pin Puller",
+      "Mass (kg)": "0.018",
+      "Size (mm)": "28 diamx26",
+      "Power Consumption": "0.5A to 2A",
+      "Actuation method": "SMA",
+      "Ref": ""
+    },
+    {
+      "Manufacturer Headquarters": "Ensign-Bickford Aerospace & Defense Company (USA)",
+      "Product": "NEA 9040 Mini",
+      "Mass (kg)": "0.030",
+      "Size (mm)": "28 diamx32",
+      "Power Consumption": "0.4A to 1.5A",
+      "Actuation method": "SMA",
+      "Ref": ""
+    },
+    {
+      "Manufacturer Headquarters": "Ensign-Bickford Aerospace & Defense Company (USA)",
+      "Product": "NEA 1120 Pin Puller",
+      "Mass (kg)": "0.014",
+      "Size (mm)": "21×22",
+      "Power Consumption": "Min 3A",
+      "Actuation method": "Split Spool",
+      "Ref": "(26)"
+    },
+    {
+      "Manufacturer Headquarters": "Honeybee and MMA Design (USA)",
+      "Product": "Solar Array Drive Actuator (SADA)",
+      "Mass (kg)": "3.1",
+      "Size (mm)": "127×210",
+      "Power Consumption": "–",
+      "Actuation method": "Stepper Motor",
+      "Ref": "(17)"
+    },
+    {
+      "Manufacturer Headquarters": "Nimesis Technology (France)",
+      "Product": "Triggy",
+      "Mass (kg)": "0.004-0.271",
+      "Size (mm)": "*",
+      "Power Consumption": "*",
+      "Actuation method": "SMA",
+      "Ref": "(28)"
+    },
+    {
+      "Manufacturer Headquarters": "Nimesis Technology (France)",
+      "Product": "Gripper",
+      "Mass (kg)": "<0.032",
+      "Size (mm)": "39x35x7.6",
+      "Power Consumption": "7.4 W (average)",
+      "Actuation method": "SMA",
+      "Ref": ""
+    },
+    {
+      "Manufacturer Headquarters": "Moog (USA)",
+      "Product": "Type 2 Side-Drive Solar Array Drive Mechanism (SADM)",
+      "Mass (kg)": "5",
+      "Size (mm)": "234×278.6",
+      "Power Consumption": "15 W",
+      "Actuation method": "–",
+      "Ref": "(16)"
+    },
+    {
+      "Manufacturer Headquarters": "Revolv Space (Netherlands)",
+      "Product": "Solar array drive actuator (SARA)",
+      "Mass (kg)": "0.3",
+      "Size (mm)": "97x97x23",
+      "Power Consumption": "0.2 W (idle)",
+      "Actuation method": "–",
+      "Ref": "(25)"
+    },
+    {
+      "Manufacturer Headquarters": "Sierra Space (USA) ()",
+      "Product": "High-Output Paraffin Actuator (HOPA)",
+      "Mass (kg)": "0.35",
+      "Size (mm)": "44x14x14",
+      "Power Consumption": "5W",
+      "Actuation method": "Paraffin",
+      "Ref": ""
+    },
+    {
+      "Manufacturer Headquarters": "Sierra Space (USA) ()",
+      "Product": "C14E-TC Solar Array Drive Assembly (SADA)",
+      "Mass (kg)": "2.9",
+      "Size (mm)": "210x140x140",
+      "Power Consumption": "–",
+      "Actuation method": "Stepper Motor",
+      "Ref": "(29)"
+    },
+    {
+      "Manufacturer Headquarters": "Sierra Space (USA) ()",
+      "Product": "C14C-TC Solar Array Drive Assembly (SADA)",
+      "Mass (kg)": "2.2",
+      "Size (mm)": "172x140x140",
+      "Power Consumption": "–",
+      "Actuation method": "Stepper Motor",
+      "Ref": "(29)"
+    },
+    {
+      "Manufacturer Headquarters": "Sierra Space (USA) ()",
+      "Product": "C14 Bi-Axis Gimbal",
+      "Mass (kg)": "1.23",
+      "Size (mm)": "155x72x72",
+      "Power Consumption": "–",
+      "Actuation method": "Stepper Motor",
+      "Ref": "(29)"
+    },
+    {
+      "Manufacturer Headquarters": "Sierra Space (USA) ()",
+      "Product": "C14E Bi-Axis Gimbal",
+      "Mass (kg)": "1.72",
+      "Size (mm)": "221x112x112",
+      "Power Consumption": "–",
+      "Actuation method": "Stepper Motor",
+      "Ref": "(29)"
+    }
+  ]
+}

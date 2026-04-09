@@ -1,0 +1,55 @@
+{
+  "table_id": "12-1",
+  "title": "Types of Tracking Aids",
+  "chapter_num": 12,
+  "chapter_title": "Identification and Tracking Systems",
+  "source_url": "https://www.nasa.gov/smallsat-institute/sst-soa/identification-and-tracking-systems",
+  "edition": "2024",
+  "scrape_date": "2026-04-09",
+  "type": "reference",
+  "columns": [
+    "Technology Scheme",
+    "Description and Reference Mission",
+    "TRL",
+    "Citation"
+  ],
+  "_notes": [],
+  "data": [
+    {
+      "Technology Scheme": "CubeSat position and ID via radio",
+      "Description and Reference Mission": "A position, navigation, and timing (PNT) receiver is attached to a CubeSat, along with a radio to transmit the information via a LEO communications provider (or directly to the ground); example: BlackBox, Blinker.",
+      "TRL": "7-9",
+      "Citation": "(12) (13)"
+    },
+    {
+      "Technology Scheme": "Coded light signals from light source on exterior of CubeSat",
+      "Description and Reference Mission": "Exterior-mounted LEDs with large-aperture telescopes to receive the signal or diffused LED lasers with ground-based photon-counting cameras.",
+      "TRL": "6-7",
+      "Citation": "(14) (15)"
+    },
+    {
+      "Technology Scheme": "Radio Frequency interrogation of an exterior Van Atta array",
+      "Description and Reference Mission": "For example, exterior mounted radio frequency identification (RFID) tag & commensurate radar.",
+      "TRL": "7-9",
+      "Citation": "(16)"
+    },
+    {
+      "Technology Scheme": "Laser interrogated corner cube reflectors (CCR)",
+      "Description and Reference Mission": "One or several small CCRs can be attached to CubeSat exterior; ground-based laser and receiver telescope needed to distinguish number of CCRs.",
+      "TRL": "7-9",
+      "Citation": "(17)"
+    },
+    {
+      "Technology Scheme": "Passive augmentations to visibility",
+      "Description and Reference Mission": "Use of high-albedo paint or tape, improving overall conductance of the exterior of the satellite or other methods to increase visibility.",
+      "TRL": "7-9",
+      "Citation": ""
+    },
+    {
+      "Technology Scheme": "Orbital Whereabout Locator (OWL)",
+      "Description and Reference Mission": "A tuna can mounted plug and play device equipped with a battery that helps identify and keep track of a satellite with a GNSS based tracker, monitors key parameters of a satellite and downloads data using an omnidirectional antenna in any orientation.",
+      "TRL": "7-9",
+      "Citation": ""
+    }
+  ]
+}

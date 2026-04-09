@@ -1,0 +1,687 @@
+{
+  "table_id": "3-2",
+  "title": "Solar Array/Panel Products",
+  "chapter_num": 3,
+  "chapter_title": "Power Subsystems",
+  "source_url": "https://www.nasa.gov/smallsat-institute/sst-soa/power-subsystems",
+  "edition": "2024",
+  "scrape_date": "2026-04-09",
+  "type": "products",
+  "columns": [
+    "Company Headquarters",
+    "Product",
+    "Panel Type",
+    "Specific Power (W/kg)",
+    "Peak BOL Solar Array Power (W)",
+    "Ref"
+  ],
+  "_notes": [
+    "* Available with inquiry to manufacturer** For SmallSat use"
+  ],
+  "data": [
+    {
+      "Company Headquarters": "AAC Clyde Space (Sweden)",
+      "Product": "Photon",
+      "Panel Type": "*",
+      "Specific Power (W/kg)": "*",
+      "Peak BOL Solar Array Power (W)": "9.25 per 3U-12 Face",
+      "Ref": "(12)"
+    },
+    {
+      "Company Headquarters": "Agencia Espacial Civil Ecuatoriana (Italy)",
+      "Product": "Deployable Multifunction Solar Array",
+      "Panel Type": "Deployed Rigid",
+      "Specific Power (W/kg)": "–",
+      "Peak BOL Solar Array Power (W)": "–",
+      "Ref": ""
+    },
+    {
+      "Company Headquarters": "Airbus Netherlands (The Netherlands)",
+      "Product": "Sparkwing Solar Panel 600x570mm 36V",
+      "Panel Type": "Body Mounted, 1-3 deployed panels, Rigid",
+      "Specific Power (W/kg)": "18",
+      "Peak BOL Solar Array Power (W)": "88 per panel",
+      "Ref": "(13)"
+    },
+    {
+      "Company Headquarters": "Airbus Netherlands (The Netherlands)",
+      "Product": "Sparkwing Solar Panel 600x700mm 36V",
+      "Panel Type": "Body Mounted, 1-3 deployed panels, Rigid",
+      "Specific Power (W/kg)": "21",
+      "Peak BOL Solar Array Power (W)": "111 per panel",
+      "Ref": ""
+    },
+    {
+      "Company Headquarters": "Airbus Netherlands (The Netherlands)",
+      "Product": "Sparkwing Solar Panel 600x820mm 36V",
+      "Panel Type": "Body Mounted, 1-3 deployed panels, Rigid",
+      "Specific Power (W/kg)": "24",
+      "Peak BOL Solar Array Power (W)": "133 per panel",
+      "Ref": ""
+    },
+    {
+      "Company Headquarters": "Airbus Netherlands (The Netherlands)",
+      "Product": "Sparkwing Solar Panel 600x965mm 36V",
+      "Panel Type": "Body Mounted, 1-3 deployed panels, Rigid",
+      "Specific Power (W/kg)": "25",
+      "Peak BOL Solar Array Power (W)": "155 per panel",
+      "Ref": ""
+    },
+    {
+      "Company Headquarters": "Airbus Netherlands (The Netherlands)",
+      "Product": "Sparkwing Solar Panel 750x820mm 36V",
+      "Panel Type": "Body Mounted, 1-3 deployed panels, Rigid",
+      "Specific Power (W/kg)": "29",
+      "Peak BOL Solar Array Power (W)": "177 per panel",
+      "Ref": ""
+    },
+    {
+      "Company Headquarters": "Airbus Netherlands (The Netherlands)",
+      "Product": "Sparkwing Solar Panel 750x965mm 36V",
+      "Panel Type": "Body Mounted, 1-3 deployed panels, Rigid",
+      "Specific Power (W/kg)": "30",
+      "Peak BOL Solar Array Power (W)": "199 per panel",
+      "Ref": ""
+    },
+    {
+      "Company Headquarters": "Airbus Netherlands (The Netherlands)",
+      "Product": "Sparkwing Solar Panel 750x1100mm 36V",
+      "Panel Type": "Body Mounted, 1-3 deployed panels, Rigid",
+      "Specific Power (W/kg)": "34",
+      "Peak BOL Solar Array Power (W)": "243 per panel",
+      "Ref": ""
+    },
+    {
+      "Company Headquarters": "Airbus Netherlands (The Netherlands)",
+      "Product": "Sparkwing Solar Panel 910x820mm 36V",
+      "Panel Type": "Body Mounted, 1-3 deployed panels, Rigid",
+      "Specific Power (W/kg)": "33",
+      "Peak BOL Solar Array Power (W)": "221 per panel",
+      "Ref": ""
+    },
+    {
+      "Company Headquarters": "Airbus Netherlands (The Netherlands)",
+      "Product": "Sparkwing Solar Panel 910x965mm 36V",
+      "Panel Type": "Body Mounted, 1-3 deployed panels, Rigid",
+      "Specific Power (W/kg)": "37",
+      "Peak BOL Solar Array Power (W)": "265 per panel",
+      "Ref": ""
+    },
+    {
+      "Company Headquarters": "Airbus Netherlands (The Netherlands)",
+      "Product": "Sparkwing Solar Panel 1000x570mm 36V",
+      "Panel Type": "Body Mounted, 1-3 deployed panels, Rigid",
+      "Specific Power (W/kg)": "29",
+      "Peak BOL Solar Array Power (W)": "176 per panel",
+      "Ref": ""
+    },
+    {
+      "Company Headquarters": "Airbus Netherlands (The Netherlands)",
+      "Product": "Sparkwing Solar Panel 1000x1100mm 36V",
+      "Panel Type": "Body Mounted, 1-3 deployed panels, Rigid",
+      "Specific Power (W/kg)": "39",
+      "Peak BOL Solar Array Power (W)": "309 per panel",
+      "Ref": ""
+    },
+    {
+      "Company Headquarters": "Airbus Netherlands (The Netherlands)",
+      "Product": "Sparkwing Solar Panel 1070x820mm 36V",
+      "Panel Type": "Body Mounted, 1-3 deployed panels, Rigid",
+      "Specific Power (W/kg)": "37",
+      "Peak BOL Solar Array Power (W)": "265 per panel",
+      "Ref": ""
+    },
+    {
+      "Company Headquarters": "Airbus Netherlands (The Netherlands)",
+      "Product": "Sparkwing Solar Panel 600x570mm 50V",
+      "Panel Type": "Body Mounted, 1-3 deployed panels, Rigid",
+      "Specific Power (W/kg)": "19",
+      "Peak BOL Solar Array Power (W)": "92 per panel",
+      "Ref": ""
+    },
+    {
+      "Company Headquarters": "Airbus Netherlands (The Netherlands)",
+      "Product": "Sparkwing Solar Panel 600x800mm 50V",
+      "Panel Type": "Body Mounted, 1-3 deployed panels, Rigid",
+      "Specific Power (W/kg)": "22",
+      "Peak BOL Solar Array Power (W)": "122 per panel",
+      "Ref": ""
+    },
+    {
+      "Company Headquarters": "Airbus Netherlands (The Netherlands)",
+      "Product": "Sparkwing Solar Panel 600x965mm 50V",
+      "Panel Type": "Body Mounted, 1-3 deployed panels, Rigid",
+      "Specific Power (W/kg)": "25",
+      "Peak BOL Solar Array Power (W)": "153 per panel",
+      "Ref": ""
+    },
+    {
+      "Company Headquarters": "Airbus Netherlands (The Netherlands)",
+      "Product": "Sparkwing Solar Panel 600x1100mm 50V",
+      "Panel Type": "Body Mounted, 1-3 deployed panels, Rigid",
+      "Specific Power (W/kg)": "28",
+      "Peak BOL Solar Array Power (W)": "183 per panel",
+      "Ref": ""
+    },
+    {
+      "Company Headquarters": "Airbus Netherlands (The Netherlands)",
+      "Product": "Sparkwing Solar Panel 750x570mm 50V",
+      "Panel Type": "Body Mounted, 1-3 deployed panels, Rigid",
+      "Specific Power (W/kg)": "23",
+      "Peak BOL Solar Array Power (W)": "122 per panel",
+      "Ref": ""
+    },
+    {
+      "Company Headquarters": "Airbus Netherlands (The Netherlands)",
+      "Product": "Sparkwing Solar Panel 750x800mm 50V",
+      "Panel Type": "Body Mounted, 1-3 deployed panels, Rigid",
+      "Specific Power (W/kg)": "25",
+      "Peak BOL Solar Array Power (W)": "153 per panel",
+      "Ref": ""
+    },
+    {
+      "Company Headquarters": "Airbus Netherlands (The Netherlands)",
+      "Product": "Sparkwing Solar Panel 750x965mm 50V",
+      "Panel Type": "Body Mounted, 1-3 deployed panels, Rigid",
+      "Specific Power (W/kg)": "36",
+      "Peak BOL Solar Array Power (W)": "241 per panel",
+      "Ref": ""
+    },
+    {
+      "Company Headquarters": "Airbus Netherlands (The Netherlands)",
+      "Product": "Sparkwing Solar Panel 750x1100mm 50V",
+      "Panel Type": "Body Mounted, 1-3 deployed panels, Rigid",
+      "Specific Power (W/kg)": "34",
+      "Peak BOL Solar Array Power (W)": "244 per panel",
+      "Ref": ""
+    },
+    {
+      "Company Headquarters": "Airbus Netherlands (The Netherlands)",
+      "Product": "Sparkwing Solar Panel 910x570mm 50V",
+      "Panel Type": "Body Mounted, 1-3 deployed panels, Rigid",
+      "Specific Power (W/kg)": "26",
+      "Peak BOL Solar Array Power (W)": "153 per panel",
+      "Ref": ""
+    },
+    {
+      "Company Headquarters": "Airbus Netherlands (The Netherlands)",
+      "Product": "Sparkwing Solar Panel 910x800mm 50V",
+      "Panel Type": "Body Mounted, 1-3 deployed panels, Rigid",
+      "Specific Power (W/kg)": "32",
+      "Peak BOL Solar Array Power (W)": "214 per panel",
+      "Ref": ""
+    },
+    {
+      "Company Headquarters": "Airbus Netherlands (The Netherlands)",
+      "Product": "Sparkwing Solar Panel 910x965mm 50V",
+      "Panel Type": "Body Mounted, 1-3 deployed panels, Rigid",
+      "Specific Power (W/kg)": "34",
+      "Peak BOL Solar Array Power (W)": "244 per panel",
+      "Ref": ""
+    },
+    {
+      "Company Headquarters": "Airbus Netherlands (The Netherlands)",
+      "Product": "Sparkwing Solar Panel 910x1100mm 50V",
+      "Panel Type": "Body Mounted, 1-3 deployed panels, Rigid",
+      "Specific Power (W/kg)": "40",
+      "Peak BOL Solar Array Power (W)": "305 per panel",
+      "Ref": ""
+    },
+    {
+      "Company Headquarters": "Airbus Netherlands (The Netherlands)",
+      "Product": "Sparkwing Solar Panel 1070x570mm 50V",
+      "Panel Type": "Body Mounted, 1-3 deployed panels, Rigid",
+      "Specific Power (W/kg)": "29",
+      "Peak BOL Solar Array Power (W)": "183 per panel",
+      "Ref": ""
+    },
+    {
+      "Company Headquarters": "Airbus Netherlands (The Netherlands)",
+      "Product": "Sparkwing Solar Panel 1070x800mm 50V",
+      "Panel Type": "Body Mounted, 1-3 deployed panels, Rigid",
+      "Specific Power (W/kg)": "34",
+      "Peak BOL Solar Array Power (W)": "244 per panel",
+      "Ref": ""
+    },
+    {
+      "Company Headquarters": "Airbus Netherlands (The Netherlands)",
+      "Product": "Sparkwing Solar Panel 1070x965mm 50V",
+      "Panel Type": "Body Mounted, 1-3 deployed panels, Rigid",
+      "Specific Power (W/kg)": "39",
+      "Peak BOL Solar Array Power (W)": "305 per panel",
+      "Ref": ""
+    },
+    {
+      "Company Headquarters": "Airbus Netherlands (The Netherlands)",
+      "Product": "Sparkwing Solar Panel 1070x1100mm 50V",
+      "Panel Type": "Body Mounted, 1-3 deployed panels, Rigid",
+      "Specific Power (W/kg)": "45",
+      "Peak BOL Solar Array Power (W)": "366 per panel",
+      "Ref": ""
+    },
+    {
+      "Company Headquarters": "Airbus Netherlands (The Netherlands)",
+      "Product": "Sparkwing Solar Panel 1230x570mm 50V",
+      "Panel Type": "Body Mounted, 1-3 deployed panels, Rigid",
+      "Specific Power (W/kg)": "31",
+      "Peak BOL Solar Array Power (W)": "214 per panel",
+      "Ref": ""
+    },
+    {
+      "Company Headquarters": "Airbus Netherlands (The Netherlands)",
+      "Product": "Sparkwing Solar Panel 1230x800mm 50V",
+      "Panel Type": "Body Mounted, 1-3 deployed panels, Rigid",
+      "Specific Power (W/kg)": "36",
+      "Peak BOL Solar Array Power (W)": "275 per panel",
+      "Ref": ""
+    },
+    {
+      "Company Headquarters": "Blue Canyon Technologies (USA)",
+      "Product": "BCT Solar Array",
+      "Panel Type": "Body Mount + Deployed Rigid",
+      "Specific Power (W/kg)": "*",
+      "Peak BOL Solar Array Power (W)": "28 – 42 for 3U / 48-118 for 6U-12U",
+      "Ref": "(14)"
+    },
+    {
+      "Company Headquarters": "DHV Technologies (Spain)",
+      "Product": "CubeSats Solar Panels",
+      "Panel Type": "Body Mounted (Polyimide)",
+      "Specific Power (W/kg)": "50",
+      "Peak BOL Solar Array Power (W)": "2 for 1U Face",
+      "Ref": "(15)"
+    },
+    {
+      "Company Headquarters": "DHV Technologies (Spain)",
+      "Product": "CubeSats Solar Panels",
+      "Panel Type": "Body Mounted (Polyimide)",
+      "Specific Power (W/kg)": "49",
+      "Peak BOL Solar Array Power (W)": "4 for 2U Face",
+      "Ref": ""
+    },
+    {
+      "Company Headquarters": "DHV Technologies (Spain)",
+      "Product": "CubeSats Solar Panels",
+      "Panel Type": "Body Mounted (Polyimide)",
+      "Specific Power (W/kg)": "75",
+      "Peak BOL Solar Array Power (W)": "8 for 3U Face",
+      "Ref": ""
+    },
+    {
+      "Company Headquarters": "DHV Technologies (Spain)",
+      "Product": "CubeSats Solar Panels",
+      "Panel Type": "Body Mounted (Polyimide)",
+      "Specific Power (W/kg)": "68",
+      "Peak BOL Solar Array Power (W)": "18 for 6U Face",
+      "Ref": ""
+    },
+    {
+      "Company Headquarters": "DHV Technologies (Spain)",
+      "Product": "CubeSats Solar Panels",
+      "Panel Type": "Deployed Rigid (Polyimide)",
+      "Specific Power (W/kg)": "42",
+      "Peak BOL Solar Array Power (W)": "12 for 3U Double Deployable and Body Mounted",
+      "Ref": ""
+    },
+    {
+      "Company Headquarters": "DHV Technologies (Spain)",
+      "Product": "CubeSats Solar Panels",
+      "Panel Type": "Deployed Rigid (Polyimide)",
+      "Specific Power (W/kg)": "69",
+      "Peak BOL Solar Array Power (W)": "57 for 6/12U Double Deployable and Body Mounted",
+      "Ref": ""
+    },
+    {
+      "Company Headquarters": "DHV Technologies (Spain)",
+      "Product": "CubeSats Solar Panels",
+      "Panel Type": "Deployed Rigid (Polyimide)",
+      "Specific Power (W/kg)": "108",
+      "Peak BOL Solar Array Power (W)": "34 for 3U Quadruple Deployable",
+      "Ref": ""
+    },
+    {
+      "Company Headquarters": "DHV Technologies (Spain)",
+      "Product": "CubeSats Solar Panels",
+      "Panel Type": "Deployed Rigid (CFRP)",
+      "Specific Power (W/kg)": "69",
+      "Peak BOL Solar Array Power (W)": "68 for 6U Quadruple Deployable",
+      "Ref": ""
+    },
+    {
+      "Company Headquarters": "DHV Technologies (Spain)",
+      "Product": "CubeSats Solar Panels",
+      "Panel Type": "Body Mounted (Polyimide)",
+      "Specific Power (W/kg)": "50",
+      "Peak BOL Solar Array Power (W)": "2 for 1U Face",
+      "Ref": ""
+    },
+    {
+      "Company Headquarters": "DHV Technologies (Spain)",
+      "Product": "CubeSats Solar Panels",
+      "Panel Type": "Body Mounted (Polyimide)",
+      "Specific Power (W/kg)": "49",
+      "Peak BOL Solar Array Power (W)": "4 for 2U Face",
+      "Ref": ""
+    },
+    {
+      "Company Headquarters": "DHV Technologies (Spain)",
+      "Product": "Body mounted solar array panel",
+      "Panel Type": "Sandwich CFRP substrate",
+      "Specific Power (W/kg)": "84",
+      "Peak BOL Solar Array Power (W)": "179",
+      "Ref": ""
+    },
+    {
+      "Company Headquarters": "DHV Technologies (Spain)",
+      "Product": "Body mounted solar array panel",
+      "Panel Type": "Low thickness monolithic CFRP substrate",
+      "Specific Power (W/kg)": "140",
+      "Peak BOL Solar Array Power (W)": "96",
+      "Ref": ""
+    },
+    {
+      "Company Headquarters": "DHV Technologies (Spain)",
+      "Product": "Multiple deployable solar array wing",
+      "Panel Type": "Sandwich CFRP substrate",
+      "Specific Power (W/kg)": "57",
+      "Peak BOL Solar Array Power (W)": "697",
+      "Ref": ""
+    },
+    {
+      "Company Headquarters": "EnduroSat (Bulgaria)",
+      "Product": "1U Solar Panel",
+      "Panel Type": "Deployed Rigid",
+      "Specific Power (W/kg)": "63",
+      "Peak BOL Solar Array Power (W)": "2.4",
+      "Ref": "(16)"
+    },
+    {
+      "Company Headquarters": "EnduroSat (Bulgaria)",
+      "Product": "1.5U Solar Panel",
+      "Panel Type": "Deployed Rigid",
+      "Specific Power (W/kg)": "55",
+      "Peak BOL Solar Array Power (W)": "3.6",
+      "Ref": ""
+    },
+    {
+      "Company Headquarters": "EnduroSat (Bulgaria)",
+      "Product": "3U Solar Panel/Array",
+      "Panel Type": "Deployed Rigid",
+      "Specific Power (W/kg)": "66",
+      "Peak BOL Solar Array Power (W)": "14.4",
+      "Ref": ""
+    },
+    {
+      "Company Headquarters": "EnduroSat (Bulgaria)",
+      "Product": "6U Solar Panel/Array",
+      "Panel Type": "Deployed Rigid",
+      "Specific Power (W/kg)": "64",
+      "Peak BOL Solar Array Power (W)": "19.2",
+      "Ref": ""
+    },
+    {
+      "Company Headquarters": "EnduroSat (Bulgaria)",
+      "Product": "8U Solar Panel/Array",
+      "Panel Type": "Deployed Rigid",
+      "Specific Power (W/kg)": "65",
+      "Peak BOL Solar Array Power (W)": "24.0",
+      "Ref": ""
+    },
+    {
+      "Company Headquarters": "ExoTerra Resource (USA)",
+      "Product": "Fold Out Solar Arrays (FOSA)",
+      "Panel Type": "Deployed Flexible",
+      "Specific Power (W/kg)": "140",
+      "Peak BOL Solar Array Power (W)": "150",
+      "Ref": "(17)"
+    },
+    {
+      "Company Headquarters": "GomSpace (Denmark)",
+      "Product": "Nanopower DSP",
+      "Panel Type": "Deployed Rigid",
+      "Specific Power (W/kg)": "*",
+      "Peak BOL Solar Array Power (W)": "1.2",
+      "Ref": "(18)"
+    },
+    {
+      "Company Headquarters": "GomSpace (Denmark)",
+      "Product": "NanoPower P110",
+      "Panel Type": "Fixed",
+      "Specific Power (W/kg)": "36.9 – 92",
+      "Peak BOL Solar Array Power (W)": "1.2 per cell 2.4",
+      "Ref": "(19)"
+    },
+    {
+      "Company Headquarters": "GomSpace (Denmark)",
+      "Product": "NanoPower MSP 16 cell",
+      "Panel Type": "Fixed",
+      "Specific Power (W/kg)": "42",
+      "Peak BOL Solar Array Power (W)": "1.2 per cell 19.2",
+      "Ref": "(20)"
+    },
+    {
+      "Company Headquarters": "GomSpace (Denmark)",
+      "Product": "NanoPower TSP Per wing",
+      "Panel Type": "Deployed Rigid",
+      "Specific Power (W/kg)": "60",
+      "Peak BOL Solar Array Power (W)": "45",
+      "Ref": ""
+    },
+    {
+      "Company Headquarters": "ISISPACE (The Netherlands)",
+      "Product": "Smallsat Solar Panels",
+      "Panel Type": "Body Mount + Deployed Rigid",
+      "Specific Power (W/kg)": "46",
+      "Peak BOL Solar Array Power (W)": "2.3 per U",
+      "Ref": "(21)"
+    },
+    {
+      "Company Headquarters": "Lockheed Martin (USA)",
+      "Product": "SmallSat Solar Array",
+      "Panel Type": "Deployed Rigid with Additively Manufactured Substrate",
+      "Specific Power (W/kg)": "53.6",
+      "Peak BOL Solar Array Power (W)": "170 per panel BOL at 28C",
+      "Ref": ""
+    },
+    {
+      "Company Headquarters": "MMA Design (USA)",
+      "Product": "Hawk",
+      "Panel Type": "Deployed Rigid (PCB)",
+      "Specific Power (W/kg)": "121",
+      "Peak BOL Solar Array Power (W)": "36-112",
+      "Ref": "(22)"
+    },
+    {
+      "Company Headquarters": "MMA Design (USA)",
+      "Product": "zHawk",
+      "Panel Type": "Deployed Rigid (PCB)",
+      "Specific Power (W/kg)": "95",
+      "Peak BOL Solar Array Power (W)": "36",
+      "Ref": ""
+    },
+    {
+      "Company Headquarters": "MMA Design (USA)",
+      "Product": "Next-Gen HaWK",
+      "Panel Type": "Deployed Rigid (PCB)",
+      "Specific Power (W/kg)": "100",
+      "Peak BOL Solar Array Power (W)": "45 – 310",
+      "Ref": ""
+    },
+    {
+      "Company Headquarters": "NPC Spacemind (Italy)",
+      "Product": "SP1X",
+      "Panel Type": "Body Mounted 1U",
+      "Specific Power (W/kg)": "68",
+      "Peak BOL Solar Array Power (W)": "2.4",
+      "Ref": ""
+    },
+    {
+      "Company Headquarters": "NPC Spacemind (Italy)",
+      "Product": "SP1Z",
+      "Panel Type": "Body Mounted 1U Top",
+      "Specific Power (W/kg)": "68",
+      "Peak BOL Solar Array Power (W)": "2.4",
+      "Ref": ""
+    },
+    {
+      "Company Headquarters": "NPC Spacemind (Italy)",
+      "Product": "SP2X",
+      "Panel Type": "Body Mounted 2U",
+      "Specific Power (W/kg)": "64",
+      "Peak BOL Solar Array Power (W)": "4.8",
+      "Ref": ""
+    },
+    {
+      "Company Headquarters": "NPC Spacemind (Italy)",
+      "Product": "SP2Z",
+      "Panel Type": "Body Mounted 2U Top",
+      "Specific Power (W/kg)": "64",
+      "Peak BOL Solar Array Power (W)": "4.8",
+      "Ref": ""
+    },
+    {
+      "Company Headquarters": "NPC Spacemind (Italy)",
+      "Product": "SP3X",
+      "Panel Type": "Body Mounted 3U",
+      "Specific Power (W/kg)": "76",
+      "Peak BOL Solar Array Power (W)": "8.4",
+      "Ref": ""
+    },
+    {
+      "Company Headquarters": "NPC Spacemind (Italy)",
+      "Product": "SP4X",
+      "Panel Type": "Body Mounted 4U",
+      "Specific Power (W/kg)": "75",
+      "Peak BOL Solar Array Power (W)": "10.8",
+      "Ref": ""
+    },
+    {
+      "Company Headquarters": "NPC Spacemind (Italy)",
+      "Product": "SP4Z",
+      "Panel Type": "Body Mounted 4U Top",
+      "Specific Power (W/kg)": "58",
+      "Peak BOL Solar Array Power (W)": "9.6",
+      "Ref": ""
+    },
+    {
+      "Company Headquarters": "NPC Spacemind (Italy)",
+      "Product": "SP6X",
+      "Panel Type": "Body Mounted 6U",
+      "Specific Power (W/kg)": "74",
+      "Peak BOL Solar Array Power (W)": "19.2",
+      "Ref": ""
+    },
+    {
+      "Company Headquarters": "NPC Spacemind (Italy)",
+      "Product": "SP8X",
+      "Panel Type": "Body Mounted 8U",
+      "Specific Power (W/kg)": "68",
+      "Peak BOL Solar Array Power (W)": "24",
+      "Ref": ""
+    },
+    {
+      "Company Headquarters": "NPC Spacemind (Italy)",
+      "Product": "SP3X Deployable",
+      "Panel Type": "Double wing Deployable 3U",
+      "Specific Power (W/kg)": "75",
+      "Peak BOL Solar Array Power (W)": "21.6",
+      "Ref": ""
+    },
+    {
+      "Company Headquarters": "NPC Spacemind (Italy)",
+      "Product": "SP4X Deployable",
+      "Panel Type": "Double wing Deployable 4U",
+      "Specific Power (W/kg)": "58",
+      "Peak BOL Solar Array Power (W)": "28.8",
+      "Ref": ""
+    },
+    {
+      "Company Headquarters": "NPC Spacemind (Italy)",
+      "Product": "SP6X Deployable",
+      "Panel Type": "Double wing Deployable 6U",
+      "Specific Power (W/kg)": "74",
+      "Peak BOL Solar Array Power (W)": "57.6",
+      "Ref": ""
+    },
+    {
+      "Company Headquarters": "NPC Spacemind (Italy)",
+      "Product": "SP8X Deployable",
+      "Panel Type": "Double wing Deployable 8U",
+      "Specific Power (W/kg)": "68",
+      "Peak BOL Solar Array Power (W)": "72",
+      "Ref": ""
+    },
+    {
+      "Company Headquarters": "Pumpkin Space Systems (USA)",
+      "Product": "Dual Articulated Deployable Solar Array",
+      "Panel Type": "Deployed Rigid",
+      "Specific Power (W/kg)": "31",
+      "Peak BOL Solar Array Power (W)": "135",
+      "Ref": "(24)"
+    },
+    {
+      "Company Headquarters": "Pumpkin Space Systems (USA)",
+      "Product": "Dual-Quad Articulated Deployable Solar Array",
+      "Panel Type": "Deployed Rigid",
+      "Specific Power (W/kg)": "30",
+      "Peak BOL Solar Array Power (W)": "240",
+      "Ref": ""
+    },
+    {
+      "Company Headquarters": "Pumpkin Space Systems (USA)",
+      "Product": "Deployable Clamshell Solar Array (DCSA)",
+      "Panel Type": "Deployed Rigid",
+      "Specific Power (W/kg)": "44",
+      "Peak BOL Solar Array Power (W)": "220",
+      "Ref": "(25)"
+    },
+    {
+      "Company Headquarters": "Pumpkin Space Systems (USA)",
+      "Product": "Deployable Clamshell Solar Array (DCSA)",
+      "Panel Type": "Deployed Rigid",
+      "Specific Power (W/kg)": "38",
+      "Peak BOL Solar Array Power (W)": "350",
+      "Ref": ""
+    },
+    {
+      "Company Headquarters": "Redwire Space (USA)",
+      "Product": "ROSA",
+      "Panel Type": "Flexible PV blanket",
+      "Specific Power (W/kg)": "100",
+      "Peak BOL Solar Array Power (W)": "1000",
+      "Ref": "(26)"
+    },
+    {
+      "Company Headquarters": "Redwire Space (USA)",
+      "Product": "Aladdin SmallSat Array",
+      "Panel Type": "Hybrid Array: Flex Rigid",
+      "Specific Power (W/kg)": "80",
+      "Peak BOL Solar Array Power (W)": "300",
+      "Ref": ""
+    },
+    {
+      "Company Headquarters": "Sierra Space Corp",
+      "Product": "Surface Mount Technology Solar Panel",
+      "Panel Type": "Composite",
+      "Specific Power (W/kg)": "",
+      "Peak BOL Solar Array Power (W)": "2500",
+      "Ref": ""
+    },
+    {
+      "Company Headquarters": "Spacemanic (Czech Republic)",
+      "Product": "RA_Solar_Panels",
+      "Panel Type": "Triple Junction GaAs",
+      "Specific Power (W/kg)": "46",
+      "Peak BOL Solar Array Power (W)": "2.4",
+      "Ref": ""
+    },
+    {
+      "Company Headquarters": "Space Dynamics Laboratory (USA)",
+      "Product": "SDL Modular Solar Panels",
+      "Panel Type": "Deployed Rigid",
+      "Specific Power (W/kg)": "84.5",
+      "Peak BOL Solar Array Power (W)": "180 per panel",
+      "Ref": ""
+    }
+  ]
+}

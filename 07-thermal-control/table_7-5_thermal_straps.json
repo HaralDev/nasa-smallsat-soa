@@ -1,0 +1,108 @@
+{
+  "table_id": "7-5",
+  "title": "Thermal Straps",
+  "chapter_num": 7,
+  "chapter_title": "Thermal Control",
+  "source_url": "https://www.nasa.gov/smallsat-institute/sst-soa/thermal-control",
+  "edition": "2024",
+  "scrape_date": "2026-04-09",
+  "type": "products",
+  "columns": [
+    "Manufacturer",
+    "Product",
+    "Material"
+  ],
+  "_notes": [],
+  "data": [
+    {
+      "Manufacturer": "Technology Applications, Inc.",
+      "Product": "Copper Cable",
+      "Material": "Copper"
+    },
+    {
+      "Manufacturer": "Technology Applications, Inc.",
+      "Product": "Copper Foil",
+      "Material": "Copper"
+    },
+    {
+      "Manufacturer": "Technology Applications, Inc.",
+      "Product": "Aluminum Foil",
+      "Material": "Aluminum 1100"
+    },
+    {
+      "Manufacturer": "Technology Applications, Inc.",
+      "Product": "PGL",
+      "Material": "Pyro Graphite"
+    },
+    {
+      "Manufacturer": "Technology Applications, Inc.",
+      "Product": "GFTS",
+      "Material": "Graphite Fiber"
+    },
+    {
+      "Manufacturer": "Thermotive",
+      "Product": "Copper Foil",
+      "Material": "Copper"
+    },
+    {
+      "Manufacturer": "Thermotive",
+      "Product": "Aluminum Foil",
+      "Material": "Aluminum 1100"
+    },
+    {
+      "Manufacturer": "Thermotive",
+      "Product": "Pyrovo",
+      "Material": "Pyro Graphite Film"
+    },
+    {
+      "Manufacturer": "Space Dynamics Laboratory",
+      "Product": "PGS",
+      "Material": "Pyrolytic Graphite Sheet"
+    },
+    {
+      "Manufacturer": "Space Dynamics Laboratory",
+      "Product": "Aluminum Foil",
+      "Material": "Aluminum 99.999% and 1235"
+    },
+    {
+      "Manufacturer": "Space Dynamics Laboratory",
+      "Product": "Copper Foil",
+      "Material": "Copper 101 and 110"
+    },
+    {
+      "Manufacturer": "Space Dynamics Laboratory",
+      "Product": "Copper Braid",
+      "Material": "Copper Braid"
+    },
+    {
+      "Manufacturer": "Redwire Space",
+      "Product": "Q-Strap",
+      "Material": "High-k graphite material"
+    },
+    {
+      "Manufacturer": "Thermal Management Technologies",
+      "Product": "TMT010-200 Series",
+      "Material": "Copper Foil"
+    },
+    {
+      "Manufacturer": "Thermal Management Technologies",
+      "Product": "TMT010-300 Series",
+      "Material": "Copper Braid (small)"
+    },
+    {
+      "Manufacturer": "Thermal Management Technologies",
+      "Product": "TMT010-400 Series",
+      "Material": "Copper Braid (large)"
+    },
+    {
+      "Manufacturer": "Thermal Management Technologies",
+      "Product": "Customized",
+      "Material": "Copper braid or foil or using aluminum foil"
+    },
+    {
+      "Manufacturer": "Boyd Corporation",
+      "Product": "k-Core Graphite-Encapsulated",
+      "Material": "Pyrolytic graphite"
+    }
+  ]
+}

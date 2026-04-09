@@ -1,0 +1,63 @@
+{
+  "table_id": "11-10",
+  "title": "Ground System Components",
+  "chapter_num": 11,
+  "chapter_title": "Ground Data Systems and Mission Operations",
+  "source_url": "https://www.nasa.gov/smallsat-institute/sst-soa/ground-data-systems-and-mission-operations",
+  "edition": "2024",
+  "scrape_date": "2026-04-09",
+  "type": "reference",
+  "columns": [
+    "Product",
+    "Manufacturer",
+    "Type of Product"
+  ],
+  "_notes": [],
+  "data": [
+    {
+      "Product": "Tracking Antenna",
+      "Manufacturer": "Viasat, Safran",
+      "Type of Product": "Antennas for small satellites in and S, X and Ka-band frequencies"
+    },
+    {
+      "Product": "Antenna Feed",
+      "Manufacturer": "See End-to-End Hardware Section 11.7.2",
+      "Type of Product": "RF pickup, mechanical filters, LNA"
+    },
+    {
+      "Product": "Radio, Software Defined",
+      "Manufacturer": "NI Ettus Research",
+      "Type of Product": "USRP X410, up to 7.2 GHz with RFSOC advanced FPGA and meeting wide bandwidth requirements. USRP X310: DC-6 GHz with up to 160 MHz of baseband bandwidth, multiple high-speed interfaces"
+    },
+    {
+      "Product": "Data Receiver",
+      "Manufacturer": "Safran Data Systems",
+      "Type of Product": "Cortex CRT (low data rate) and HDR (high data rate (previously by Zodiac)"
+    },
+    {
+      "Product": "Modem, for TT&C and Payload Reception",
+      "Manufacturer": "Safran Data Systems",
+      "Type of Product": "Satcore, plug-and-play modem for TT&C and Payload Reception"
+    },
+    {
+      "Product": "Digital Processing",
+      "Manufacturer": "Kratos",
+      "Type of Product": "SpectralNet: Digital IF product that converts analog signals at RF frequencies up to S-band into digital IF packets."
+    },
+    {
+      "Product": "Radome",
+      "Manufacturer": "Infinite Technologies",
+      "Type of Product": "Antenna radomes"
+    },
+    {
+      "Product": "Ground Station Dongle",
+      "Manufacturer": "GAUSS",
+      "Type of Product": "A USB low-power board to simulate ground station in laboratory conditions. The USB dongle integrates both a low-power UHF transceiver and a TNC, thus miniaturizing common ground station rack systems"
+    },
+    {
+      "Product": "Integrated Testing Systems (EGSE) & Ground Station TT&C Modems",
+      "Manufacturer": "Celestia Satellite Test & Simulation",
+      "Type of Product": "Hardware and software elements all operating within a single reference platform and environment"
+    }
+  ]
+}

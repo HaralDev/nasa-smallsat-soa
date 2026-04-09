@@ -1,0 +1,49 @@
+{
+  "table_id": "11-3",
+  "subgroup": "Spacecraft Navigation Tracking Capabilities",
+  "title": "NSN Interfaces and Capabilities",
+  "chapter_num": 11,
+  "chapter_title": "Ground Data Systems and Mission Operations",
+  "source_url": "https://www.nasa.gov/smallsat-institute/sst-soa/ground-data-systems-and-mission-operations",
+  "edition": "2024",
+  "scrape_date": "2026-04-09",
+  "type": "specifications",
+  "columns": [
+    "Interface/ Capability1",
+    "Direct to Earth",
+    "Space Relay"
+  ],
+  "_notes": [],
+  "data": [
+    {
+      "Interface/ Capability1": "Radiometric Tracking Services (1)",
+      "Direct to Earth": "Tone Ranging 1-way or 2-way Doppler Antenna Angle Data",
+      "Space Relay": "Spread Spectrum Ranging 1-way or 2-way Doppler Antenna Angle Data"
+    },
+    {
+      "Interface/ Capability1": "Radiometric Measurement Accuracy (1)",
+      "Direct to Earth": "Range: S-band: < 5 meters, 1σ Doppler (Range-Rate): S-band 1-way: ≤ 30 mm/s, 1σ S-band 2-way: ≤ 15 mm/s, 1σ X-band 1-way: ≤ 7 mm/s, 1σ Ka-band 1-way: ≤ 2 mm/s, 1σ Antenna Angles: S: 0.03°, X: 0.05° Ka: 0.01° (auto), 0.05° (program)",
+      "Space Relay": "Range: ≤ 2.73 meters, 1σ Doppler (Range-Rate): 1-way ≤ 1.55 mm/s, 1σ 2-way ≤ 3.1 mm/s, 1σ Antenna Angles: ≤ 0.1°"
+    },
+    {
+      "Interface/ Capability1": "Radar Tracking Service Bands",
+      "Direct to Earth": "C-band (5.4-5.9 GHz) Single Object X-Band (10.499 GHz) Multi Object",
+      "Space Relay": "N/A"
+    },
+    {
+      "Interface/ Capability1": "Radar Tracking Loop Gain (dB)",
+      "Direct to Earth": "C-Band: 212-245 (227 Typical) X-Band: 246 (nominal)",
+      "Space Relay": "N/A"
+    },
+    {
+      "Interface/ Capability1": "Other (1)",
+      "Direct to Earth": "Ground Antenna Slew Rate:",
+      "Space Relay": "Time Transfer Measurement:"
+    },
+    {
+      "Interface/ Capability1": "Other (1)",
+      "Direct to Earth": "Azimuth and Elevation:≥ 10°/sec (10°/sec (2)) *Train: ≥ 5°/sec (5°/sec (2))* WS1 18-m system ≥ 2°/sec (1°/sec (2))",
+      "Space Relay": "User Spacecraft Clock Calibration System: ≤ ±5 μs Return Channel Time Delay: ±25% of a bit period"
+    }
+  ]
+}

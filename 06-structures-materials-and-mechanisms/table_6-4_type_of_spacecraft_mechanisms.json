@@ -1,0 +1,33 @@
+{
+  "table_id": "6-4",
+  "title": "Type of Spacecraft Mechanisms",
+  "chapter_num": 6,
+  "chapter_title": "Structures, Materials, and Mechanisms",
+  "source_url": "https://www.nasa.gov/smallsat-institute/sst-soa/structures-materials-and-mechanisms",
+  "edition": "2024",
+  "scrape_date": "2026-04-09",
+  "type": "reference",
+  "columns": [
+    "Type of Mechanism",
+    "Description",
+    "Technology Examples"
+  ],
+  "_notes": [],
+  "data": [
+    {
+      "Type of Mechanism": "Separation and Release",
+      "Description": "Reliable stowage and release of spacecraft and deployable components upon an external command (active) or spring-loaded (passive).",
+      "Technology Examples": "Clamp band systems, Frangibolts, release nuts, pin pullers, bolts, burn wire, hinges, and passive spring-loaded switches"
+    },
+    {
+      "Type of Mechanism": "Motorized",
+      "Description": "Allows for rotatory motion of spacecraft components.",
+      "Technology Examples": "Solar Array Drive Assembly, directional antennas, combination of dampeners and absorbers"
+    },
+    {
+      "Type of Mechanism": "Attitude Control",
+      "Description": "Provides pointing accuracy and stability for spacecraft and components.",
+      "Technology Examples": "Reaction (momentum) wheel assembly, gimbals, component pointing, passive methods"
+    }
+  ]
+}

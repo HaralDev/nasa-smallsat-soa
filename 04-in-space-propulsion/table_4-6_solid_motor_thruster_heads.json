@@ -1,0 +1,76 @@
+{
+  "table_id": "4-6",
+  "subgroup": "Thruster Heads",
+  "title": "Solid Motor Chemical Propulsion",
+  "chapter_num": 4,
+  "chapter_title": "In-Space Propulsion",
+  "source_url": "https://www.nasa.gov/smallsat-institute/sst-soa/in-space_propulsion",
+  "edition": "2024",
+  "scrape_date": "2026-04-09",
+  "type": "products",
+  "columns": [
+    "Manufacturer",
+    "Product",
+    "Propellant",
+    "Thrust (Quantity)",
+    "Specific Impulse",
+    "Total Impulse",
+    "Mass",
+    "Envelope",
+    "Power",
+    "ACS",
+    "PMI Status",
+    "Missions",
+    "References"
+  ],
+  "_notes": [
+    "Note that all data is documented as provided in the references. Unless otherwise published, do not assume the data has been independently verified. † denotes a wet mass, ‡ denotes a dry mass, “-“ = denotes data not available or applicable"
+  ],
+  "data": [
+    {
+      "Manufacturer": "Industrial Solid Propulsion (USA)",
+      "Product": "ISP 30 sec. Motor",
+      "Propellant": "80% Solids HTPB/AP",
+      "Thrust (Quantity)": "37",
+      "Specific Impulse": "187",
+      "Total Impulse": "996",
+      "Mass": "0.95 (†)",
+      "Envelope": "5.7",
+      "Power": "–",
+      "ACS": "–",
+      "PMI Status": "D",
+      "Missions": "Optical target at Kirtland AFB",
+      "References": "(131)"
+    },
+    {
+      "Manufacturer": "Northrop Grumman (USA)",
+      "Product": "STAR 3",
+      "Propellant": "TP-H-3498",
+      "Thrust (Quantity)": "461",
+      "Specific Impulse": "266",
+      "Total Impulse": "1,250",
+      "Mass": "1.16 (†)",
+      "Envelope": "8 dia. x 29",
+      "Power": "–",
+      "ACS": "–",
+      "PMI Status": "E",
+      "Missions": "Mars Exploration Rover Spirit lander",
+      "References": "(132)"
+    },
+    {
+      "Manufacturer": "Northrop Grumman (USA)",
+      "Product": "STAR 4G",
+      "Propellant": "TP-H-3399",
+      "Thrust (Quantity)": "258",
+      "Specific Impulse": "269",
+      "Total Impulse": "2,650",
+      "Mass": "1.5 (†)",
+      "Envelope": "11.3 dia. x 13.8",
+      "Power": "–",
+      "ACS": "–",
+      "PMI Status": "D",
+      "Missions": "–",
+      "References": "(132)"
+    }
+  ]
+}

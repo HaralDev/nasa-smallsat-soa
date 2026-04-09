@@ -1,0 +1,76 @@
+{
+  "table_id": "4-7",
+  "subgroup": "Thruster Heads",
+  "title": "Electrothermal Electric Propulsion",
+  "chapter_num": 4,
+  "chapter_title": "In-Space Propulsion",
+  "source_url": "https://www.nasa.gov/smallsat-institute/sst-soa/in-space_propulsion",
+  "edition": "2024",
+  "scrape_date": "2026-04-09",
+  "type": "products",
+  "columns": [
+    "Manufacturer",
+    "Product",
+    "Propellant",
+    "Thrust*",
+    "Specific Impulse*",
+    "Total Impulse*",
+    "Mass",
+    "Envelope",
+    "Power",
+    "ACS",
+    "PMI Status",
+    "Missions",
+    "References"
+  ],
+  "_notes": [
+    "Note that all data is documented as provided in the references. Unless otherwise published, do not assume the data has been independently verified. *nominal values (see references for full performance ranges), ** anticipated launch date, † denotes a wet mass, ‡ denotes a dry mass, £ per active thruster, “-“ = denotes data not available or applicable"
+  ],
+  "data": [
+    {
+      "Manufacturer": "SITAEL (Italy)",
+      "Product": "XR-50",
+      "Propellant": "Ar, Xe, N2",
+      "Thrust*": "100",
+      "Specific Impulse*": "55-85",
+      "Total Impulse*": "≤ 72,000",
+      "Mass": "0.22 (‡)",
+      "Envelope": "45.8",
+      "Power": "≤ 50",
+      "ACS": "–",
+      "PMI Status": "D",
+      "Missions": "–",
+      "References": "(320) (321)"
+    },
+    {
+      "Manufacturer": "SITAEL (Italy)",
+      "Product": "XR-100",
+      "Propellant": "Ar, Xe, N2",
+      "Thrust*": "125",
+      "Specific Impulse*": "63-105",
+      "Total Impulse*": "≤ 90,000",
+      "Mass": "0.22 (‡)",
+      "Envelope": "45.8",
+      "Power": "≤ 80",
+      "ACS": "–",
+      "PMI Status": "D",
+      "Missions": "–",
+      "References": "(320) (321)"
+    },
+    {
+      "Manufacturer": "SITAEL (Italy)",
+      "Product": "XR-150",
+      "Propellant": "Ar, Xe, N2",
+      "Thrust*": "250 (Ar) 100 (Xe)",
+      "Specific Impulse*": "58-110",
+      "Total Impulse*": "≤ 180,000",
+      "Mass": "0.22 (‡)",
+      "Envelope": "45.8",
+      "Power": "≤ 95",
+      "ACS": "–",
+      "PMI Status": "D",
+      "Missions": "–",
+      "References": "(320) (321)"
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "table_id": "7-3",
+  "title": "Sprayable Thermal Control Coatings",
+  "chapter_num": 7,
+  "chapter_title": "Thermal Control",
+  "source_url": "https://www.nasa.gov/smallsat-institute/sst-soa/thermal-control",
+  "edition": "2024",
+  "scrape_date": "2026-04-09",
+  "type": "products",
+  "columns": [
+    "Manufacturer",
+    "Product",
+    "Color",
+    "Cost",
+    "Difficulty to Apply*",
+    "Notes"
+  ],
+  "_notes": [
+    "*1 not difficult, 5 extremely**All silicates require temperature and RH control"
+  ],
+  "data": [
+    {
+      "Manufacturer": "Socomore",
+      "Product": "Z306 Polyurethane",
+      "Color": "Black",
+      "Cost": "$",
+      "Difficulty to Apply*": "1",
+      "Notes": ""
+    },
+    {
+      "Manufacturer": "Socomore",
+      "Product": "Z307 Polyurethane",
+      "Color": "Black",
+      "Cost": "$$",
+      "Difficulty to Apply*": "1",
+      "Notes": ""
+    },
+    {
+      "Manufacturer": "Socomore",
+      "Product": "A276 Polyurethane",
+      "Color": "White",
+      "Cost": "$",
+      "Difficulty to Apply*": "1",
+      "Notes": "Not UV stable"
+    },
+    {
+      "Manufacturer": "Huntington Ingalls Industries (formerly Alion and IITRI)",
+      "Product": "Z93P Silicate",
+      "Color": "White",
+      "Cost": "$$",
+      "Difficulty to Apply*": "3",
+      "Notes": "**"
+    },
+    {
+      "Manufacturer": "Huntington Ingalls Industries (formerly Alion and IITRI)",
+      "Product": "Z93-C55 Silicate",
+      "Color": "White",
+      "Cost": "$$$",
+      "Difficulty to Apply*": "4",
+      "Notes": "Thickness control paramount **"
+    },
+    {
+      "Manufacturer": "Huntington Ingalls Industries (formerly Alion and IITRI)",
+      "Product": "S13GP:6N/LO-1 Silicone",
+      "Color": "White",
+      "Cost": "$$$",
+      "Difficulty to Apply*": "1",
+      "Notes": "Dedicated equipment/cross contamination"
+    },
+    {
+      "Manufacturer": "AZ Technology",
+      "Product": "AZ-93 Silicate",
+      "Color": "White",
+      "Cost": "$$",
+      "Difficulty to Apply*": "3",
+      "Notes": "**"
+    },
+    {
+      "Manufacturer": "AZ Technology",
+      "Product": "AZ2000 Silicate",
+      "Color": "Off-white",
+      "Cost": "$$$",
+      "Difficulty to Apply*": "4",
+      "Notes": "May require specialty, epoxy primer **"
+    },
+    {
+      "Manufacturer": "AZ Technology",
+      "Product": "AZW/LA-II Silicate",
+      "Color": "White",
+      "Cost": "$$$$",
+      "Difficulty to Apply*": "5",
+      "Notes": "Thickness control paramount **"
+    }
+  ]
+}

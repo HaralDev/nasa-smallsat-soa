@@ -1,0 +1,103 @@
+{
+  "table_id": "7-4",
+  "title": "Films, Tapes and MLI",
+  "chapter_num": 7,
+  "chapter_title": "Thermal Control",
+  "source_url": "https://www.nasa.gov/smallsat-institute/sst-soa/thermal-control",
+  "edition": "2024",
+  "scrape_date": "2026-04-09",
+  "type": "products",
+  "columns": [
+    "Manufacturer",
+    "Film Product",
+    "Typical Solar Absorptivity BOL"
+  ],
+  "_notes": [],
+  "data": [
+    {
+      "Manufacturer": "Astral Technologies Unlimited",
+      "Film Product": "StaMet/100XC Kapton",
+      "Typical Solar Absorptivity BOL": "0.5"
+    },
+    {
+      "Manufacturer": "Astral Technologies Unlimited",
+      "Film Product": "StaMet/275XC Kapton",
+      "Typical Solar Absorptivity BOL": "0.56"
+    },
+    {
+      "Manufacturer": "Astral Technologies UnlimitedMultek/Sheldahl",
+      "Film Product": "0.010″ FEP/Ag/Inconel",
+      "Typical Solar Absorptivity BOL": "0.08"
+    },
+    {
+      "Manufacturer": "Astral Technologies UnlimitedMultek/Sheldahl",
+      "Film Product": "0.005″ FEP/Ag/Inconel",
+      "Typical Solar Absorptivity BOL": "0.07"
+    },
+    {
+      "Manufacturer": "Astral Technologies UnlimitedMultek/Sheldahl",
+      "Film Product": "ITO/0.010″ FEP/Ag/Inconel, perforated",
+      "Typical Solar Absorptivity BOL": "0.09"
+    },
+    {
+      "Manufacturer": "Astral Technologies UnlimitedMultek/Sheldahl",
+      "Film Product": "ITO/0.005″ FEP/Ag/Inconel, perforated",
+      "Typical Solar Absorptivity BOL": "0.08"
+    },
+    {
+      "Manufacturer": "Astral Technologies UnlimitedMultek/Sheldahl",
+      "Film Product": "Germanium/100XC Kapton",
+      "Typical Solar Absorptivity BOL": "0.55"
+    },
+    {
+      "Manufacturer": "DunmoreMultek/Sheldahl",
+      "Film Product": "VDA/200HN/PSA",
+      "Typical Solar Absorptivity BOL": "0.08"
+    },
+    {
+      "Manufacturer": "DunmoreMultek/Sheldahl",
+      "Film Product": "200HN/VDA/PSA",
+      "Typical Solar Absorptivity BOL": "0.41"
+    },
+    {
+      "Manufacturer": "DunmoreMultek/Sheldahl",
+      "Film Product": "100HN/VDA/PSA",
+      "Typical Solar Absorptivity BOL": "0.38"
+    },
+    {
+      "Manufacturer": "DunmoreMultek/Sheldahl",
+      "Film Product": "VDG/200HN/PSA",
+      "Typical Solar Absorptivity BOL": "0.2"
+    },
+    {
+      "Manufacturer": "NASA GSFC",
+      "Film Product": "GSFC Silver Composite Coating/ 200HN Kapton",
+      "Typical Solar Absorptivity BOL": "0.1"
+    },
+    {
+      "Manufacturer": "NASA GSFC",
+      "Film Product": "GSFC Aluminum Composite Coating/200HN Kapton",
+      "Typical Solar Absorptivity BOL": "0.14"
+    },
+    {
+      "Manufacturer": "NASA GSFC",
+      "Film Product": "GSFC Aluminum Composite Coating/100XC Kapton",
+      "Typical Solar Absorptivity BOL": "0.2"
+    },
+    {
+      "Manufacturer": "NASA GSFC",
+      "Film Product": "GSFC Aluminum Composite Coating/275XC Kapton",
+      "Typical Solar Absorptivity BOL": "0.28"
+    },
+    {
+      "Manufacturer": "NASA GSFC",
+      "Film Product": "GSFC Tailorable Emittance Coating/200HN Kapton",
+      "Typical Solar Absorptivity BOL": "0.14"
+    },
+    {
+      "Manufacturer": "Thales",
+      "Film Product": "Optical Solar Reflector CMX 0.005″",
+      "Typical Solar Absorptivity BOL": "0.08"
+    }
+  ]
+}

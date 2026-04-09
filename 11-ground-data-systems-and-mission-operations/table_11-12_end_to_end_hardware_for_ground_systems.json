@@ -1,0 +1,49 @@
+{
+  "table_id": "11-12",
+  "title": "End-to-End Hardware for Ground Systems",
+  "chapter_num": 11,
+  "chapter_title": "Ground Data Systems and Mission Operations",
+  "source_url": "https://www.nasa.gov/smallsat-institute/sst-soa/ground-data-systems-and-mission-operations",
+  "edition": "2024",
+  "scrape_date": "2026-04-09",
+  "type": "products",
+  "columns": [
+    "Product",
+    "Manufacturer",
+    "TRL",
+    "Type of Product"
+  ],
+  "_notes": [],
+  "data": [
+    {
+      "Product": "Complete Ground Solution",
+      "Manufacturer": "GAUSS",
+      "TRL": "9",
+      "Type of Product": "Small satellite provider offering a complete ground solution. UHV, VHF, and S-band"
+    },
+    {
+      "Product": "Complete Ground Solution",
+      "Manufacturer": "ISISPACE",
+      "TRL": "9",
+      "Type of Product": "Small satellite provider offering a complete ground solution. UHV, VHF, and S-band"
+    },
+    {
+      "Product": "Complete Ground Solution",
+      "Manufacturer": "GomSpace",
+      "TRL": "9",
+      "Type of Product": "Small satellite provider offering a complete ground solution. UHV, VHF, and S-band"
+    },
+    {
+      "Product": "Surrey Ground Segment",
+      "Manufacturer": "Surrey Satellite Technology Ltd.",
+      "TRL": "9",
+      "Type of Product": "Major contractor offering a complete ground solution. S-band uplink/downlink and X-Band downlink capability"
+    },
+    {
+      "Product": "Quantum",
+      "Manufacturer": "Kratos",
+      "TRL": "9",
+      "Type of Product": "Major contractor with a complete ground solution"
+    }
+  ]
+}

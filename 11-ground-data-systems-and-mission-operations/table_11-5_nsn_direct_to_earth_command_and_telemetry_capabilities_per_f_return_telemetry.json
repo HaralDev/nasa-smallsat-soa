@@ -1,0 +1,54 @@
+{
+  "table_id": "11-5",
+  "subgroup": "Return (Telemetry) Communications",
+  "title": "NSN Direct to Earth Command and Telemetry Capabilities per Frequency",
+  "chapter_num": 11,
+  "chapter_title": "Ground Data Systems and Mission Operations",
+  "source_url": "https://www.nasa.gov/smallsat-institute/sst-soa/ground-data-systems-and-mission-operations",
+  "edition": "2024",
+  "scrape_date": "2026-04-09",
+  "type": "specifications",
+  "columns": [
+    "Interface/ Capability1",
+    "Direct to Earth",
+    "Space Relay"
+  ],
+  "_notes": [],
+  "data": [
+    {
+      "Interface/ Capability1": "FrequencyBands(Near-Earth Use)",
+      "Direct to Earth": "S-band: 2200-2290 MHz X-band: 8025-8400 MHz X-band (SRS): 8450-8500 MHz Ka-band: 25.5 – 27 GHz (4)",
+      "Space Relay": "S-band: 2200-2290 MHz Ku-band: 15.0034 GHz Ka-band: 25.25 – 27.5 GHz (4)"
+    },
+    {
+      "Interface/ Capability1": "Maximum Bandwidth",
+      "Direct to Earth": "S-band: 5 MHzX-band: 375 MHzX-band (SRS): 10 MHzKa-band: 1500 MHz",
+      "Space Relay": "S-band (MAR & SAR): 6 MHzKu/Ka-band: 225 MHz (4)Ka-band (Wide): 650 MHz (4)"
+    },
+    {
+      "Interface/ Capability1": "Return Max Data Rate (1,2) (prior to encoding)",
+      "Direct to Earth": "Rates will vary – examples: S-band: 2.2 Mbps (PACE) X-band: 220 Mbps (ICESat-2) X-band (SRS): 13.1 Mbps (IRIS) Ka-band: 3.5 Gbps (NISAR)",
+      "Space Relay": "S-band MA: 1 Mbps S-band SA: 14.1 Mbps Ku/Ka-band: 600 Mbps (4) Ka-band (Wide): 1200 Mbps (4)"
+    },
+    {
+      "Interface/ Capability1": "Antenna System G/T (dBW) (1)",
+      "Direct to Earth": "S-band: 19.1-29.6 (21 Typical) X-band: 30.5-37.8 (32 Typical) Ka-band: 38-45 (41.3 Typical)",
+      "Space Relay": "S-band MA: 3.2 (for LEO) S-band SA: 9.5 (for LEO) Ku-band: 24.4 (for LEO) Ka-band: 26.5 (for LEO) (4)"
+    },
+    {
+      "Interface/ Capability1": "Demodulation (2,3)",
+      "Direct to Earth": "PM, FM, PCM, PCM/PM, PCM/PSK/PM, BPSK, QPSK, OQPSK, AQPSK, SQPN, 8PSK",
+      "Space Relay": "Spread spectrum: BPSK or UQPSK Non-spread: BPSK, QPSK, OQPSK, PCM/PM, or PCM/PSK/PM"
+    },
+    {
+      "Interface/ Capability1": "Decoding (2,3)",
+      "Direct to Earth": "Uncoded, Rate ½ Conv. and/or Reed-Solomon, LDPC ½ or 7/8, or Turbo Rate ½",
+      "Space Relay": "Uncoded, Rate ½ Conv., Reed- Solomon, Concatenated (½ Conv. + RS), LDPC ½ or 7/8, Rate 7/8 TPC"
+    },
+    {
+      "Interface/ Capability1": "Polarization",
+      "Direct to Earth": "Circular (LHC, RHC)",
+      "Space Relay": "Circular (LHC, RHC) (LHC only for MA services)"
+    }
+  ]
+}

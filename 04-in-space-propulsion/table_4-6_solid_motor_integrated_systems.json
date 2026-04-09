@@ -1,0 +1,46 @@
+{
+  "table_id": "4-6",
+  "subgroup": "Integrated Propulsion Systems",
+  "title": "Solid Motor Chemical Propulsion",
+  "chapter_num": 4,
+  "chapter_title": "In-Space Propulsion",
+  "source_url": "https://www.nasa.gov/smallsat-institute/sst-soa/in-space_propulsion",
+  "edition": "2024",
+  "scrape_date": "2026-04-09",
+  "type": "products",
+  "columns": [
+    "Manufacturer",
+    "Product",
+    "Propellant",
+    "Thrust (Quantity)",
+    "Specific Impulse",
+    "Total Impulse",
+    "Mass",
+    "Envelope",
+    "Power",
+    "ACS",
+    "PMI Status",
+    "Missions",
+    "References"
+  ],
+  "_notes": [
+    "Note that all data is documented as provided in the references. Unless otherwise published, do not assume the data has been independently verified. † denotes a wet mass, ‡ denotes a dry mass, “-“ = denotes data not available or applicable"
+  ],
+  "data": [
+    {
+      "Manufacturer": "PacSci EMC (USA)",
+      "Product": "MAPS",
+      "Propellant": "–",
+      "Thrust (Quantity)": "–",
+      "Specific Impulse": "–",
+      "Total Impulse": "–",
+      "Mass": "–",
+      "Envelope": "–",
+      "Power": "–",
+      "ACS": "–",
+      "PMI Status": "E",
+      "Missions": "PacSciSat",
+      "References": "(99) (100)"
+    }
+  ]
+}
