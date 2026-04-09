@@ -40,7 +40,7 @@
 
 ## References
 
-(1) Mission Integration – this includes development of service agreements, interfaces, documentation, support of reviews, etc.
-(2) Mission Planning and Scheduling – this includes performing link and loading analyses, supporting service requests, and generating and implementing operational schedules.
-(3) User Mission Data Transfer – this includes primarily spacecraft forward command and return telemetry data.
-(4) Position, Navigation and Timing (PNT) – this includes navigation.
+1. Mission Integration – this includes development of service agreements, interfaces, documentation, support of reviews, etc.
+2. Mission Planning and Scheduling – this includes performing link and loading analyses, supporting service requests, and generating and implementing operational schedules.
+3. User Mission Data Transfer – this includes primarily spacecraft forward command and return telemetry data.
+4. Position, Navigation and Timing (PNT) – this includes navigation.

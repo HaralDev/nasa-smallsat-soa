@@ -18,9 +18,9 @@
 
 ## References
 
-(1) Avionics and onboard computing form factors
-(2) Highly integrated onboard computing products
-(3) Radiation-tolerant processors and FPGAs
-(4) Memory, electronic function blocks, and components
-(5) Bus electrical CDH interfaces
-(6) Radiation mitigation and tolerance schemes
+1. Avionics and onboard computing form factors
+2. Highly integrated onboard computing products
+3. Radiation-tolerant processors and FPGAs
+4. Memory, electronic function blocks, and components
+5. Bus electrical CDH interfaces
+6. Radiation mitigation and tolerance schemes

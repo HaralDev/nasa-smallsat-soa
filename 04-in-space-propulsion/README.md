@@ -43,6 +43,6 @@
 
 ## References
 
-(1) In-Space Chemical Propulsion (4.6.1)
-(2) In-Space Electric Propulsion (4.6.2)
-(3) In-Space Propellant-less Propulsion (4.6.3)
+1. In-Space Chemical Propulsion (4.6.1)
+2. In-Space Electric Propulsion (4.6.2)
+3. In-Space Propellant-less Propulsion (4.6.3)

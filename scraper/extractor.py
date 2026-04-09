@@ -475,7 +475,7 @@ def extract_tables(html: str, chapter_config) -> list[dict]:
 def extract_references(html: str) -> list[str]:
     """
     Extract the numbered reference list from the bottom of a chapter page.
-    Returns a list of strings like ["(1) Author, Title, URL", "(2) ..."].
+    Returns a list of strings like ["1. Author, Title, URL", "2. ..."].
     """
     soup = BeautifulSoup(html, "html.parser")
     refs: list[str] = []
@@ -488,15 +488,16 @@ def extract_references(html: str) -> list[str]:
             for i, li in enumerate(items, 1):
                 text = _clean_text(li.get_text())
                 if text:
-                    refs.append(f"({i}) {text}")
+                    refs.append(f"{i}. {text}")
             if refs:
                 return refs
 
-    # Pattern 2: paragraphs starting with (N)
+    # Pattern 2: paragraphs starting with (N) — normalize to "N. text"
     ref_re = re.compile(r"^\s*\((\d+)\)\s+")
     for p in soup.find_all("p"):
         text = _clean_text(p.get_text())
-        if ref_re.match(text):
-            refs.append(text)
+        m = ref_re.match(text)
+        if m:
+            refs.append(f"{m.group(1)}. {text[m.end():]}")
 
     return refs
