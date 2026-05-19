@@ -1,0 +1,103 @@
+{
+  "table_id": "8-5",
+  "title": "FSW comparison table",
+  "chapter_num": 8,
+  "chapter_title": "Small Spacecraft Avionics",
+  "source_url": "https://www.nasa.gov/smallsat-institute/sst-soa/small-spacecraft-avionics",
+  "edition": "2026",
+  "scrape_date": "2026-05-19",
+  "type": "products",
+  "columns": [
+    "Framework",
+    "Primary purpose/ Scope",
+    "Core Language",
+    "Open-Source?",
+    "Modularity",
+    "CCSDS",
+    "Released Quarter"
+  ],
+  "_notes": [],
+  "data": [
+    {
+      "Framework": "cFS (core Flight System) (26)",
+      "Primary purpose/ Scope": "Reusable flight software framework for spacecraft of all sizes (CubeSat to flagship).",
+      "Core Language": "C",
+      "Open-Source?": "GitHub cfs.gsfc.nasa.gov",
+      "Modularity": "Yes",
+      "CCSDS": "Yes",
+      "Released Quarter": "Q1 2026"
+    },
+    {
+      "Framework": "F’ (F Prime)",
+      "Primary purpose/ Scope": "Used to model embedded systems framework.",
+      "Core Language": "C++",
+      "Open-Source?": "github.com/nasa/fprime",
+      "Modularity": "Yes",
+      "CCSDS": "No",
+      "Released Quarter": "Q3 2025"
+    },
+    {
+      "Framework": "NanoSat Mission Operations Framework",
+      "Primary purpose/ Scope": "Supports missions by facilitating the development, distribution, and deployment of Apps on satellite missions.",
+      "Core Language": "Java",
+      "Open-Source?": "nanosat-mo-framework.github.io",
+      "Modularity": "Yes",
+      "CCSDS": "Yes",
+      "Released Quarter": "Q2 2025"
+    },
+    {
+      "Framework": "Space ROS/ ROS 2 (Space Robot Operating System)",
+      "Primary purpose/ Scope": "Reusable software framework based on ROS2 for robotics and autonomous space systems.",
+      "Core Language": "C++ 14",
+      "Open-Source?": "github.com/david-dorf/spaceros_gz_demos",
+      "Modularity": "Yes",
+      "CCSDS": "With Bridge",
+      "Released Quarter": "Q1 2026"
+    },
+    {
+      "Framework": "PyCubed",
+      "Primary purpose/ Scope": "Open-source, radiation-tested CubeSat avionics platform.",
+      "Core Language": "Python",
+      "Open-Source?": "github.com/pycubed",
+      "Modularity": "Yes",
+      "CCSDS": "Yes",
+      "Released Quarter": "Q1 2023"
+    },
+    {
+      "Framework": "pysimCoder",
+      "Primary purpose/ Scope": "Rapid Prototyping application, that can be used to generate realtime code for different targets.",
+      "Core Language": "Linux",
+      "Open-Source?": "www.robots5.com/pysimcoder-installation-tutorial github.com/robertobucher/pysimCoder",
+      "Modularity": "Yes",
+      "CCSDS": "Not native",
+      "Released Quarter": "Q3 2022"
+    },
+    {
+      "Framework": "Matrix Laboratory",
+      "Primary purpose/ Scope": "Proprietary programming and numeric computing platform.",
+      "Core Language": "Matlab",
+      "Open-Source?": "www.mathworks.com/discovery/what-is-matlab.html",
+      "Modularity": "Yes",
+      "CCSDS": "Yes",
+      "Released Quarter": "Q3 2025"
+    },
+    {
+      "Framework": "GEneRIC Onboard Software (GERICOS)",
+      "Primary purpose/ Scope": "Offers a set of generic, reusable and customizable software components for the rapid development of payload flight software.",
+      "Core Language": "C++",
+      "Open-Source?": "No",
+      "Modularity": "Yes",
+      "CCSDS": "No",
+      "Released Quarter": "Unk"
+    },
+    {
+      "Framework": "Realtime Object-Oriented Distributed Operating System (RODOS)",
+      "Primary purpose/ Scope": "a real-time embedded operating system.",
+      "Core Language": "C, C++",
+      "Open-Source?": "github.com/SpaceTeam/rodos",
+      "Modularity": "Yes",
+      "CCSDS": "Yes",
+      "Released Quarter": "Unk"
+    }
+  ]
+}

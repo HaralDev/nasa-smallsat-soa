@@ -21,26 +21,34 @@ import requests
 
 sys.path.insert(0, str(Path(__file__).parent.parent))
 
-from scraper.config import CHAPTERS, ChapterConfig
+from scraper.config import CHAPTERS, EDITION, ChapterConfig
 from scraper.extractor import extract_references, extract_tables
 
 SCRAPE_DATE = date.today().isoformat()
 CACHE_DIR = Path(__file__).parent / ".cache"
 
-# Table type classification for README display.
+# Table type classification for README display. Keyed by NASA table_id and
+# curated for the 2026 edition (NASA renumbers tables between editions, so this
+# map must be reviewed whenever EDITION is bumped).
 # "products"      — rows are commercial/organizational products or services with specs
 # "specifications" — reference data, standards, design parameters (not specific products)
 # "reference"     — overview/summary/comparison tables, not specific products
+#
+# NASA's 2026 pages reuse some table numbers for two different tables (e.g.
+# "Table 4-1" labels both the propulsion summary and the hydrazine table;
+# "Table 6-7" labels both robotic arms and PLA filaments). The type below
+# reflects the legitimately numbered table for that id; the duplicate inherits
+# it. See the "Known Limitations" section of README.md.
 TABLE_TYPES: dict[str, str] = {
     # Chapter 2 — Platforms
     "2-1": "products", "2-2": "products", "2-3": "products", "2-4": "products",
     "2-5": "products", "2-6": "products", "2-7": "products", "2-8": "reference",
-    # Chapter 3 — Power
+    "2-9": "reference",
+    # Chapter 3 — Power (3-9 removed in 2026)
     "3-1": "products", "3-2": "products", "3-3": "products", "3-4": "products",
     "3-5": "products", "3-6": "specifications", "3-7": "products", "3-8": "products",
-    "3-9": "products",
-    # Chapter 4 — Propulsion
-    "4-1": "reference", "4-2": "products", "4-3": "products", "4-4": "products",
+    # Chapter 4 — Propulsion (4-2 not labeled in 2026; 4-1 also labels Hydrazine)
+    "4-1": "reference", "4-3": "products", "4-4": "products",
     "4-5": "products", "4-6": "products", "4-7": "products", "4-8": "products",
     "4-9": "products", "4-10": "products", "4-11": "products", "4-12": "products",
     "4-13": "products",
@@ -49,31 +57,32 @@ TABLE_TYPES: dict[str, str] = {
     "5-5": "products", "5-6": "products", "5-7": "products", "5-8": "products",
     "5-9": "products", "5-10": "products", "5-11": "products", "5-12": "products",
     "5-13": "products", "5-14": "reference",
-    # Chapter 6 — Structures
-    "6-1": "specifications", "6-2": "products", "6-3": "specifications",
-    "6-4": "reference", "6-5": "products", "6-6": "products", "6-7": "products",
+    # Chapter 6 — Structures (6-3 and 6-17 removed; 6-7 also labels PLA filaments)
+    "6-1": "specifications", "6-2": "products", "6-4": "reference",
+    "6-5": "products", "6-6": "products", "6-7": "products",
     "6-8": "products", "6-9": "products", "6-10": "products", "6-11": "products",
-    "6-12": "products", "6-13": "products", "6-14": "products", "6-15": "products",
-    "6-16": "specifications", "6-17": "specifications",
+    "6-12": "products", "6-13": "products", "6-14": "products",
+    "6-15": "specifications", "6-16": "specifications",
     # Chapter 7 — Thermal
     "7-1": "reference", "7-2": "reference", "7-3": "products", "7-4": "products",
     "7-5": "products", "7-6": "specifications", "7-7": "products", "7-8": "products",
     "7-9": "products", "7-10": "reference", "7-11": "products", "7-12": "products",
     "7-13": "products", "7-14": "products",
-    # Chapter 8 — Avionics
-    "8-1": "products", "8-2": "specifications",
+    # Chapter 8 — Avionics (expanded 2 -> 6 tables in 2026)
+    "8-1": "specifications", "8-2": "specifications", "8-3": "reference",
+    "8-4": "products", "8-5": "products", "8-6": "products",
     # Chapter 9 — Communications
     "9-1": "specifications", "9-2": "products", "9-3": "products",
     "9-4": "reference", "9-5": "reference",
-    # Chapter 10 — Integration/Launch
-    "10-1": "products",
-    # Chapter 11 — Ground Data
+    # Chapter 10 — Integration, Launch, Deployment (expanded 1 -> 4 tables)
+    "10-1": "products", "10-2": "products", "10-3": "products", "10-4": "products",
+    # Chapter 11 — Ground Data (11-17 removed in 2026)
     "11-1": "reference", "11-2": "specifications", "11-3": "specifications",
     "11-4": "specifications", "11-5": "specifications", "11-6": "reference",
     "11-7": "products", "11-8": "products", "11-9": "products",
-    "11-10": "reference", "11-11": "products", "11-12": "products",
+    "11-10": "products", "11-11": "products", "11-12": "products",
     "11-13": "specifications", "11-14": "products", "11-15": "specifications",
-    "11-16": "products", "11-17": "specifications",
+    "11-16": "products",
     # Chapter 12 — ID & Tracking
     "12-1": "reference",
     # Chapter 13 — Deorbit
@@ -255,7 +264,7 @@ def write_chapter_readme(
         f"# Chapter {chapter.chapter_num} \u2014 {chapter.title}",
         "",
         f"**Source:** {chapter.url}  ",
-        f"**Edition:** 2024  ",
+        f"**Edition:** {EDITION}  ",
         f"**Data scraped:** {SCRAPE_DATE}",
         "",
     ]
@@ -350,10 +359,22 @@ def scrape_chapter(
     references = extract_references(html)
 
     written = []
+    written_names: set[str] = set()
     for t in tables:
         path = write_table_json(t, output_dir)
         print(f"    wrote {path.name}  ({len(t['data'])} rows)")
         written.append(t)
+        written_names.add(path.name)
+
+    # Prune stale table files from previous editions. NASA renumbers and
+    # renames tables between editions, so a file written last year may no
+    # longer be produced this run. Remove any table_*.json in this chapter's
+    # folder that the current scrape did not write, keeping the repo a clean
+    # snapshot of a single edition.
+    for stale in sorted(output_dir.glob("table_*.json")):
+        if stale.name not in written_names:
+            stale.unlink()
+            print(f"    pruned {stale.name}  (stale, not in this edition)")
 
     write_chapter_readme(chapter, written, references, output_dir)
     print(f"    wrote README.md")
@@ -363,7 +384,7 @@ def scrape_chapter(
 
 def main() -> None:
     parser = argparse.ArgumentParser(
-        description="Scrape NASA SST-SOA 2024 chapter pages into JSON files."
+        description=f"Scrape NASA SST-SOA {EDITION} chapter pages into JSON files."
     )
     parser.add_argument(
         "--chapters",

@@ -4,40 +4,50 @@
   "chapter_num": 3,
   "chapter_title": "Power Subsystems",
   "source_url": "https://www.nasa.gov/smallsat-institute/sst-soa/power-subsystems",
-  "edition": "2024",
-  "scrape_date": "2026-04-09",
+  "edition": "2026",
+  "scrape_date": "2026-05-19",
   "type": "products",
   "columns": [
     "Cell",
-    "Specific Energy (Wh kg-1)",
+    "Specific Energy (Wh/kg)",
     "Flight Heritage"
   ],
   "_notes": [],
   "data": [
     {
-      "Cell": "LG ICR18650 B3 (2600 mAh)",
-      "Specific Energy (Wh kg-1)": "191",
-      "Flight Heritage": "NASA’s PhoneSat, NoDES"
+      "Cell": "Sony SE US18650 VTC4",
+      "Specific Energy (Wh/kg)": "250",
+      "Flight Heritage": "Ingenuity Mars Helicopter"
+    },
+    {
+      "Cell": "LG Chem ICR18650 B3 (2600 mAh)",
+      "Specific Energy (Wh/kg)": "191-205",
+      "Flight Heritage": "NASA’s PhoneSat, NoDES, Europa Clipper"
     },
     {
       "Cell": "Panasonic NCR18650B (3350 mAh)",
-      "Specific Energy (Wh kg-1)": "243",
-      "Flight Heritage": "MarCO, ADAPT (Sept 2022*: BioSentinel, Lunar Flashlight, NeaScout)"
+      "Specific Energy (Wh/kg)": "243",
+      "Flight Heritage": "MarCO, ADAPT, BioSentinel, Lunar Flashlight, NeaScout"
     },
     {
       "Cell": "Molicel ICR18650H (2200 mAh)",
-      "Specific Energy (Wh kg-1)": "182",
+      "Specific Energy (Wh/kg)": "182",
       "Flight Heritage": "NASA’s EDSN mission"
     },
     {
       "Cell": "Canon BP-930s (3000 mAh)",
-      "Specific Energy (Wh kg-1)": "112",
+      "Specific Energy (Wh/kg)": "112",
       "Flight Heritage": "NASA’s TechEdSat missions"
     },
     {
-      "Cell": "LG MJ1 (3500 mAh)",
-      "Specific Energy (Wh kg-1)": "260",
+      "Cell": "LG Chem INR18650-MJ1 (3500 mAh)",
+      "Specific Energy (Wh/kg)": "260",
       "Flight Heritage": "NASA’s PACE mission"
+    },
+    {
+      "Cell": "Samsung SDI INR18650-25R (2500 mAh)",
+      "Specific Energy (Wh/kg)": "210",
+      "Flight Heritage": "UNION/Lian-Hé mission"
     }
   ]
 }

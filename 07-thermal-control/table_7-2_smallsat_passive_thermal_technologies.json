@@ -4,8 +4,8 @@
   "chapter_num": 7,
   "chapter_title": "Thermal Control",
   "source_url": "https://www.nasa.gov/smallsat-institute/sst-soa/thermal-control",
-  "edition": "2024",
-  "scrape_date": "2026-04-09",
+  "edition": "2026",
+  "scrape_date": "2026-05-19",
   "type": "reference",
   "columns": [
     "Passive Technology",
@@ -46,7 +46,7 @@
       "Description": "Energy is absorbed as material within a metal compartment changes phase because of exposure to a heat source."
     },
     {
-      "Passive Technology": "Thermal Switches",
+      "Passive Technology": "Mechanical Thermostat",
       "Description": "An electromechanical device which controls the flow of electrical current in response to temperature change."
     }
   ]

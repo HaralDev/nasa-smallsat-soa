@@ -4,102 +4,90 @@
   "chapter_num": 13,
   "chapter_title": "Deorbit Systems",
   "source_url": "https://www.nasa.gov/smallsat-institute/sst-soa/deorbit-systems",
-  "edition": "2024",
-  "scrape_date": "2026-04-09",
+  "edition": "2026",
+  "scrape_date": "2026-05-19",
   "type": "reference",
   "columns": [
     "TES-n mission (Volume)",
     "Deployment (month, year)",
-    "Deorbit Duration, Reentry Year",
+    "Deorbit Duration Reentry Year",
     "Nominal Drag Area (m2)",
     "Deployed Orbit Alt. & Inc.",
-    "Technology Tested Notes",
-    "Ref"
+    "Technology Tested Notes (ref)"
   ],
-  "_notes": [
-    "*At the time of writing, spacecraft is still on orbit."
-  ],
+  "_notes": [],
   "data": [
     {
       "TES-n mission (Volume)": "TES-1 (1U)",
       "Deployment (month, year)": "October 2012",
-      "Deorbit Duration, Reentry Year": "May 2013",
+      "Deorbit Duration Reentry Year": "May 2013",
       "Nominal Drag Area (m2)": "NA",
-      "Deployed Orbit Alt. & Inc.": "412 km, 51.7 deg",
-      "Technology Tested Notes": "–",
-      "Ref": "(36)"
+      "Deployed Orbit Alt. & Inc.": "412 km, 51.7°",
+      "Technology Tested Notes (ref)": "(33)"
     },
     {
       "TES-n mission (Volume)": "TES-2 (1U)",
       "Deployment (month, year)": "April 2013",
-      "Deorbit Duration, Reentry Year": "April 2013",
+      "Deorbit Duration Reentry Year": "April 2013",
       "Nominal Drag Area (m2)": "NA",
-      "Deployed Orbit Alt. & Inc.": "223 km, 51.6 deg",
-      "Technology Tested Notes": "First test of Iridium",
-      "Ref": "(37)"
+      "Deployed Orbit Alt. & Inc.": "223 km, 51.6°",
+      "Technology Tested Notes (ref)": "First test of Iridium (34)"
     },
     {
       "TES-n mission (Volume)": "TES-3 (3U)",
       "Deployment (month, year)": "November 2013",
-      "Deorbit Duration, Reentry Year": "January 2014",
+      "Deorbit Duration Reentry Year": "January 2014",
       "Nominal Drag Area (m2)": "0.35",
-      "Deployed Orbit Alt. & Inc.": "413 km, 51.6 deg",
-      "Technology Tested Notes": "Original Passive Exo-Brake",
-      "Ref": ""
+      "Deployed Orbit Alt. & Inc.": "413 km, 51.6°",
+      "Technology Tested Notes (ref)": "Original Passive Exo-Brake"
     },
     {
       "TES-n mission (Volume)": "TES-4 (3U)",
       "Deployment (month, year)": "March 2015",
-      "Deorbit Duration, Reentry Year": "April 2015",
+      "Deorbit Duration Reentry Year": "April 2015",
       "Nominal Drag Area (m2)": "0.35",
-      "Deployed Orbit Alt. & Inc.": "398 km, 51.6 deg",
-      "Technology Tested Notes": "Upgraded Exo-Brake design",
-      "Ref": ""
+      "Deployed Orbit Alt. & Inc.": "398 km, 51.6°",
+      "Technology Tested Notes (ref)": "Upgraded Exo-Brake design"
     },
     {
       "TES-n mission (Volume)": "TES-5 (3.5U)",
       "Deployment (month, year)": "March 2017",
-      "Deorbit Duration, Reentry Year": "July 2017",
+      "Deorbit Duration Reentry Year": "July 2017",
       "Nominal Drag Area (m2)": "0.35",
-      "Deployed Orbit Alt. & Inc.": "403 km, 51.6 deg",
-      "Technology Tested Notes": "Two-state Drag Modulated Exo-Brake for targeted re-entry",
-      "Ref": "(38)"
+      "Deployed Orbit Alt. & Inc.": "403 km, 51.6°",
+      "Technology Tested Notes (ref)": "Two-state Drag Modulated Exo-Brake for targeted re-entry (35)"
     },
     {
       "TES-n mission (Volume)": "TES-6 (3.5U)",
       "Deployment (month, year)": "November 2017",
-      "Deorbit Duration, Reentry Year": "May 2018",
+      "Deorbit Duration Reentry Year": "May 2018",
       "Nominal Drag Area (m2)": "0.564",
-      "Deployed Orbit Alt. & Inc.": "402 km, 51.7 deg",
-      "Technology Tested Notes": "Variable Exo-Brake settings",
-      "Ref": "(39)"
+      "Deployed Orbit Alt. & Inc.": "402 km, 51.7°",
+      "Technology Tested Notes (ref)": "Variable Exo-Brake settings (36)"
     },
     {
       "TES-n mission (Volume)": "TES-7 (2U)",
       "Deployment (month, year)": "January 2021",
-      "Deorbit Duration, Reentry Year": "May 2022",
+      "Deorbit Duration Reentry Year": "May 2022",
       "Nominal Drag Area (m2)": "1.2",
-      "Deployed Orbit Alt. & Inc.": "499 km 60.7 deg",
-      "Technology Tested Notes": "High Packing Density Exo-Brake",
-      "Ref": "(40)"
+      "Deployed Orbit Alt. & Inc.": "499 km, 60.7°",
+      "Technology Tested Notes (ref)": "High Packing Density Exo-Brake (37)"
     },
     {
       "TES-n mission (Volume)": "TES-9 (3U)",
-      "Deployment (month, year)": "Planned†",
-      "Deorbit Duration, Reentry Year": "–",
+      "Deployment (month, year)": "Planned",
+      "Deorbit Duration Reentry Year": "TBD",
       "Nominal Drag Area (m2)": "–",
       "Deployed Orbit Alt. & Inc.": "–",
-      "Technology Tested Notes": "Automatic deorbiting using the Exo-Brake system",
-      "Ref": ""
+      "Technology Tested Notes (ref)": "Automatic deorbiting using the Exo-Brake system"
     },
     {
       "TES-n mission (Volume)": "TES-11 (6U-W)",
       "Deployment (month, year)": "July 2024",
-      "Deorbit Duration, Reentry Year": "Future*",
+      "Deorbit Duration Reentry Year": "February 2026",
       "Nominal Drag Area (m2)": "0.790",
-      "Deployed Orbit Alt. & Inc.": "508 km, 97.4 deg",
-      "Technology Tested Notes": "Advanced disposal Exo-Brake mechanism",
-      "Ref": ""
+      "Deployed Orbit Alt. & Inc.": "508 km, 97.4°",
+      "Technology Tested Notes (ref)": "Advanced disposal Exo-Brake mechanism"
     }
   ]
 }

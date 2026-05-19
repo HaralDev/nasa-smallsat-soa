@@ -4,12 +4,12 @@
   "chapter_num": 11,
   "chapter_title": "Ground Data Systems and Mission Operations",
   "source_url": "https://www.nasa.gov/smallsat-institute/sst-soa/ground-data-systems-and-mission-operations",
-  "edition": "2024",
-  "scrape_date": "2026-04-09",
+  "edition": "2026",
+  "scrape_date": "2026-05-19",
   "type": "products",
   "columns": [
     "Product",
-    "Dish Sizes",
+    "Dish Sizes (m)",
     "Services",
     "MSPA"
   ],
@@ -17,61 +17,61 @@
   "data": [
     {
       "Product": "ATLAS Global Network",
-      "Dish Sizes": "Various partners with other stations",
+      "Dish Sizes (m)": "Various partners with other stations",
       "Services": "S-band, X-band, UHF (Ka-band in 2017) Built on AWS cloud infrastructure",
       "MSPA": "Partner dependent"
     },
     {
       "Product": "KSAT and KSAT (LITE) by Konsberg Sat. Services",
-      "Dish Sizes": "> 10 m part of NSN or 3.7 m (KSAT (LITE))",
+      "Dish Sizes (m)": "> 10 part of NSN or 3.7 (KSAT (LITE))",
       "Services": "X-band and S-band D/L and S-band U/L. VHF, UHF, Ka-band D/L. KSAT (LITE) designed specifically for SmallSats",
       "MSPA": "No"
     },
     {
       "Product": "SSC Infinity by Swedish Space Corporation",
-      "Dish Sizes": "13 m, 7.3 m NSN partner",
+      "Dish Sizes (m)": "13, 7.3 NSN partner",
       "Services": "Designed specifically for SmallSats; Uses standardized HW",
       "MSPA": "Not found"
     },
     {
       "Product": "AWS Ground Station by Amazon",
-      "Dish Sizes": "5.4 m",
+      "Dish Sizes (m)": "5.4",
       "Services": "Built on AWS cloud infrastructure",
       "MSPA": "Not found"
     },
     {
       "Product": "Viasat",
-      "Dish Sizes": "7.3 m, 5.4 m",
+      "Dish Sizes (m)": "7.3, 5.4",
       "Services": "Global network operating in S, X, and Ka-bands that can reach LEO, MEO, GEO, and HEO orbits",
       "MSPA": "Mission Dependent"
     },
     {
       "Product": "Leaf Space",
-      "Dish Sizes": "3.7 m",
+      "Dish Sizes (m)": "3.7",
       "Services": "Standardized global network accessible through UHF, S, X and Ka-band",
       "MSPA": "Yes"
     },
     {
       "Product": "NASA, Near Space Network",
-      "Dish Sizes": "9 to 11 m, & 5 m",
+      "Dish Sizes (m)": "9 to 11, & 5",
       "Services": "Global network operating in S, X, and Ka- bands that can reach LEO, GEO, HEO, and Lunar orbits; up to 2 mil km",
       "MSPA": "Legacy: NoLEGS (18m): planned, Yes"
     },
     {
       "Product": "NASA/ JPL, Deep Space Network",
-      "Dish Sizes": "34 m, 70 m",
+      "Dish Sizes (m)": "34, 70",
       "Services": "Operating at S, X, K, Ka bands. Includes Morehead State 21m in X-band. 8 m optical receive aperture planned for 2030s",
       "MSPA": "Yes"
     },
     {
       "Product": "NASA UHF Ground Station",
-      "Dish Sizes": "18 m",
+      "Dish Sizes (m)": "18",
       "Services": "Operates in UHF (400 – 470 MHz)",
       "MSPA": "No"
     },
     {
       "Product": "RBC Signals Global Ground Station Network",
-      "Dish Sizes": "",
+      "Dish Sizes (m)": "24 to 33",
       "Services": "VHF, UHF, S, C, X, Ku, and Ka-bands",
       "MSPA": "Partner Dependent"
     }

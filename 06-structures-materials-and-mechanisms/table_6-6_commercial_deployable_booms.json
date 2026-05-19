@@ -4,60 +4,50 @@
   "chapter_num": 6,
   "chapter_title": "Structures, Materials, and Mechanisms",
   "source_url": "https://www.nasa.gov/smallsat-institute/sst-soa/structures-materials-and-mechanisms",
-  "edition": "2024",
-  "scrape_date": "2026-04-09",
+  "edition": "2026",
+  "scrape_date": "2026-05-19",
   "type": "products",
   "columns": [
     "Manufacturer",
-    "Product",
-    "Reference"
+    "Product"
   ],
   "_notes": [],
   "data": [
     {
       "Manufacturer": "Composite Technology Development",
-      "Product": "Stable Tubular Extendable Lock-Out Composite (STELOC)",
-      "Reference": "(34)"
+      "Product": "Stable Tubular Extendable Lock-Out Composite (STELOC)"
     },
     {
       "Manufacturer": "Oxford Space Systems",
-      "Product": "AstroTube deployable boom",
-      "Reference": "(35)"
+      "Product": "AstroTube deployable boom"
     },
     {
       "Manufacturer": "Redwire Space",
-      "Product": "Roll Out Composite (ROC) booms",
-      "Reference": "(36)"
+      "Product": "Roll Out Composite (ROC) booms"
     },
     {
       "Manufacturer": "Redwire Space",
-      "Product": "CubeSat ROC Boom Deployer",
-      "Reference": "(37)"
+      "Product": "CubeSat ROC Boom Deployer"
     },
     {
       "Manufacturer": "Redwire Space",
-      "Product": "ROC-FALL system",
-      "Reference": "(37)"
+      "Product": "ROC-FALL system"
     },
     {
       "Manufacturer": "Magellan Aerospace",
-      "Product": "Deployable Boom",
-      "Reference": "(38)"
+      "Product": "Deployable Boom"
     },
     {
       "Manufacturer": "Rolatube Technology",
-      "Product": "Deployable Composite Booms",
-      "Reference": "(39)"
+      "Product": "Deployable Composite Booms"
     },
     {
       "Manufacturer": "Northrup Grumman",
-      "Product": "Coil Booms",
-      "Reference": "(40)"
+      "Product": "Coil Booms"
     },
     {
       "Manufacturer": "Northrup Grumman",
-      "Product": "Telescoping Tube Masts",
-      "Reference": "(41)"
+      "Product": "Telescoping Tube Masts"
     }
   ]
 }

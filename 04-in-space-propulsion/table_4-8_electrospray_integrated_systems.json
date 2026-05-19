@@ -5,8 +5,8 @@
   "chapter_num": 4,
   "chapter_title": "In-Space Propulsion",
   "source_url": "https://www.nasa.gov/smallsat-institute/sst-soa/in-space_propulsion",
-  "edition": "2024",
-  "scrape_date": "2026-04-09",
+  "edition": "2026",
+  "scrape_date": "2026-05-19",
   "type": "products",
   "columns": [
     "Manufacturer",
@@ -55,7 +55,7 @@
       "Neutralizer": "Carbon Nanotube",
       "PMI Status": "E",
       "Missions": "US Government",
-      "References": "(322) (323) (324) (325) (326) (327) (328)"
+      "References": "(329) (330) (331) (332) (333) (334) (335)"
     },
     {
       "Manufacturer": "Busek (USA)",
@@ -70,7 +70,7 @@
       "Neutralizer": "Carbon Nanotube",
       "PMI Status": "D",
       "Missions": "–",
-      "References": "(328)"
+      "References": "(335)"
     },
     {
       "Manufacturer": "Enpulsion (Austria)",
@@ -85,7 +85,7 @@
       "Neutralizer": "Thermionic",
       "PMI Status": "F",
       "Missions": "Flock 3p’, ICEYE X2, Harbinger, NetSat, and others",
-      "References": "(164) (165) (166) (167) (168) (169) (170) (171) (329) (330) (331)"
+      "References": "(164) (165) (166) (167) (168) (169) (170) (171) (336) (337) (338)"
     },
     {
       "Manufacturer": "Enpulsion (Austria)",
@@ -100,7 +100,7 @@
       "Neutralizer": "Thermionic",
       "PMI Status": "E",
       "Missions": "(Evolution of Nano design)",
-      "References": "(171) (172) (332)"
+      "References": "(171) (172) (339)"
     },
     {
       "Manufacturer": "Enpulsion (Austria)",
@@ -115,7 +115,7 @@
       "Neutralizer": "Thermionic",
       "PMI Status": "F",
       "Missions": "GMS-T",
-      "References": "(172) (173) (333) (334)"
+      "References": "(172) (173) (340) (341)"
     },
     {
       "Manufacturer": "Enpulsion (Austria)",
@@ -130,7 +130,7 @@
       "Neutralizer": "Thermionic",
       "PMI Status": "D",
       "Missions": "–",
-      "References": "(335)"
+      "References": "(342)"
     },
     {
       "Manufacturer": "Morpheus Space (Germany)",
@@ -145,7 +145,7 @@
       "Neutralizer": "Propellant-less",
       "PMI Status": "E",
       "Missions": "UWE-4",
-      "References": "(174) (175) (336) (337)"
+      "References": "(174) (175) (343) (344)"
     },
     {
       "Manufacturer": "Morpheus Space (Germany)",
@@ -160,7 +160,7 @@
       "Neutralizer": "Propellant-less",
       "PMI Status": "D",
       "Missions": "–",
-      "References": "(336)"
+      "References": "(343)"
     }
   ]
 }

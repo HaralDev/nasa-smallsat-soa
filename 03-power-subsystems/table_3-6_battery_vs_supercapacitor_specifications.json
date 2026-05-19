@@ -4,8 +4,8 @@
   "chapter_num": 3,
   "chapter_title": "Power Subsystems",
   "source_url": "https://www.nasa.gov/smallsat-institute/sst-soa/power-subsystems",
-  "edition": "2024",
-  "scrape_date": "2026-04-09",
+  "edition": "2026",
+  "scrape_date": "2026-05-19",
   "type": "specifications",
   "columns": [
     "Feature",
@@ -15,13 +15,13 @@
   "_notes": [],
   "data": [
     {
-      "Feature": "Gravimetric energy (Wh kg (-1))",
-      "Li-Ion Battery": "100 – 265",
-      "Supercapacitor": "4 – 10"
+      "Feature": "Gravimetric energy (Wh/kg)",
+      "Li-Ion Battery": "150 – 265+",
+      "Supercapacitor": "5 – 20"
     },
     {
       "Feature": "Volumetric energy (Wh L (-1))",
-      "Li-Ion Battery": "220 – 400",
+      "Li-Ion Battery": "220 – 450",
       "Supercapacitor": "4 – 14"
     },
     {
@@ -41,12 +41,12 @@
     },
     {
       "Feature": "Efficiency (%)",
-      "Li-Ion Battery": "75 – 90",
-      "Supercapacitor": "98"
+      "Li-Ion Battery": "80 – 95",
+      "Supercapacitor": ">98"
     },
     {
       "Feature": "Cyclability (nb charges)",
-      "Li-Ion Battery": "500 – 1,000",
+      "Li-Ion Battery": "2,000 – 70,000",
       "Supercapacitor": "500,000 – 20, 000,000"
     },
     {
@@ -60,14 +60,14 @@
       "Supercapacitor": "40 – 50 (descending)"
     },
     {
-      "Feature": "Charge temperature",
-      "Li-Ion Battery": "0 to 45°C",
-      "Supercapacitor": "-40 to 65°C"
+      "Feature": "Charge temperature (°C)",
+      "Li-Ion Battery": "0 to 45",
+      "Supercapacitor": "-40 to 65"
     },
     {
       "Feature": "Discharge temperature",
-      "Li-Ion Battery": "-20C~60°C",
-      "Supercapacitor": "-40 to 65°C"
+      "Li-Ion Battery": "-20 to 60",
+      "Supercapacitor": "-40 to 85"
     },
     {
       "Feature": "Deep discharge pb",

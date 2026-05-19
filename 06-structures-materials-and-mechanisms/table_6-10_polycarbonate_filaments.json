@@ -1,0 +1,101 @@
+{
+  "table_id": "6-10",
+  "title": "Polycarbonate Filaments",
+  "chapter_num": 6,
+  "chapter_title": "Structures, Materials, and Mechanisms",
+  "source_url": "https://www.nasa.gov/smallsat-institute/sst-soa/structures-materials-and-mechanisms",
+  "edition": "2026",
+  "scrape_date": "2026-05-19",
+  "type": "products",
+  "columns": [
+    "Filament Name (Citation)",
+    "ISO 75/ASTM D648 Deflection Temp (°C)",
+    "ISO 179-1 Hardness (kJ/m2) or Izod D256-10A (J/m)",
+    "ISO 527-1/ASTM D638 ZX Tensile strength (MPa)",
+    "ASTM D790/ISO 178 Flexural strength (MPa)",
+    "Nozzle Temp (°C)",
+    "Bed Temp (°C)",
+    "Density (g/cc)",
+    "ESD Risk (Ω-cm)"
+  ],
+  "_notes": [],
+  "data": [
+    {
+      "Filament Name (Citation)": "Prusament PC Blend (59)",
+      "ISO 75/ASTM D648 Deflection Temp (°C)": "113",
+      "ISO 179-1 Hardness (kJ/m2) or Izod D256-10A (J/m)": "No break for ISO 179",
+      "ISO 527-1/ASTM D638 ZX Tensile strength (MPa)": "63",
+      "ASTM D790/ISO 178 Flexural strength (MPa)": "88-94",
+      "Nozzle Temp (°C)": "275",
+      "Bed Temp (°C)": "110",
+      "Density (g/cc)": "1.22",
+      "ESD Risk (Ω-cm)": "No"
+    },
+    {
+      "Filament Name (Citation)": "Prusament PC Blend Carbon Fiber (59)",
+      "ISO 75/ASTM D648 Deflection Temp (°C)": "114",
+      "ISO 179-1 Hardness (kJ/m2) or Izod D256-10A (J/m)": "35 kJ/m (2)",
+      "ISO 527-1/ASTM D638 ZX Tensile strength (MPa)": "55-65",
+      "ASTM D790/ISO 178 Flexural strength (MPa)": "85-106",
+      "Nozzle Temp (°C)": "285",
+      "Bed Temp (°C)": "110",
+      "Density (g/cc)": "1.16",
+      "ESD Risk (Ω-cm)": "No"
+    },
+    {
+      "Filament Name (Citation)": "Stratasys PC (60)",
+      "ISO 75/ASTM D648 Deflection Temp (°C)": "143",
+      "ISO 179-1 Hardness (kJ/m2) or Izod D256-10A (J/m)": "27-77 J/m",
+      "ISO 527-1/ASTM D638 ZX Tensile strength (MPa)": "60",
+      "ASTM D790/ISO 178 Flexural strength (MPa)": "75",
+      "Nozzle Temp (°C)": "N/A",
+      "Bed Temp (°C)": "N/A",
+      "Density (g/cc)": "1.20",
+      "ESD Risk (Ω-cm)": "No"
+    },
+    {
+      "Filament Name (Citation)": "Polymax PC",
+      "ISO 75/ASTM D648 Deflection Temp (°C)": "99-114",
+      "ISO 179-1 Hardness (kJ/m2) or Izod D256-10A (J/m)": "21.5 kJ/m (2)",
+      "ISO 527-1/ASTM D638 ZX Tensile strength (MPa)": "59.7",
+      "ASTM D790/ISO 178 Flexural strength (MPa)": "94.1",
+      "Nozzle Temp (°C)": "280",
+      "Bed Temp (°C)": "100",
+      "Density (g/cc)": "1.19",
+      "ESD Risk (Ω-cm)": "—"
+    },
+    {
+      "Filament Name (Citation)": "3DXtech ESD-PC",
+      "ISO 75/ASTM D648 Deflection Temp (°C)": "135",
+      "ISO 179-1 Hardness (kJ/m2) or Izod D256-10A (J/m)": "N/A",
+      "ISO 527-1/ASTM D638 ZX Tensile strength (MPa)": "68",
+      "ASTM D790/ISO 178 Flexural strength (MPa)": "95",
+      "Nozzle Temp (°C)": "295",
+      "Bed Temp (°C)": "130",
+      "Density (g/cc)": "1.24",
+      "ESD Risk (Ω-cm)": "10 (7) – 10 (9)"
+    },
+    {
+      "Filament Name (Citation)": "3DXtech CF-PC",
+      "ISO 75/ASTM D648 Deflection Temp (°C)": "133",
+      "ISO 179-1 Hardness (kJ/m2) or Izod D256-10A (J/m)": "N/A",
+      "ISO 527-1/ASTM D638 ZX Tensile strength (MPa)": "70",
+      "ASTM D790/ISO 178 Flexural strength (MPa)": "90",
+      "Nozzle Temp (°C)": "300",
+      "Bed Temp (°C)": "140",
+      "Density (g/cc)": "1.36",
+      "ESD Risk (Ω-cm)": "—"
+    },
+    {
+      "Filament Name (Citation)": "Polymaker PC-ABS",
+      "ISO 75/ASTM D648 Deflection Temp (°C)": "106",
+      "ISO 179-1 Hardness (kJ/m2) or Izod D256-10A (J/m)": "25.8 kJ/m (2)",
+      "ISO 527-1/ASTM D638 ZX Tensile strength (MPa)": "39.9",
+      "ASTM D790/ISO 178 Flexural strength (MPa)": "66.3",
+      "Nozzle Temp (°C)": "250-270",
+      "Bed Temp (°C)": "90-105",
+      "Density (g/cc)": "1.1",
+      "ESD Risk (Ω-cm)": "—"
+    }
+  ]
+}

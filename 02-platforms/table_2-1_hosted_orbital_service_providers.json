@@ -1,16 +1,15 @@
 {
   "table_id": "2-1",
-  "title": "Hosted Orbital Service Providers(The fields indicate maximum capability; organizations may offer multiple options including smaller capabilities within the Hosted Payloads category)",
+  "title": "Hosted Orbital Service Providers (The fields indicate maximum capability; organizations may offer multiple options including smaller capabilities within the Hosted Orbital Services category)",
   "chapter_num": 2,
   "chapter_title": "Complete Spacecraft Platforms",
   "source_url": "https://www.nasa.gov/smallsat-institute/sst-soa/platforms",
-  "edition": "2024",
-  "scrape_date": "2026-04-09",
+  "edition": "2026",
+  "scrape_date": "2026-05-19",
   "type": "products",
   "columns": [
-    "Organization Headquarters",
-    "Max Volume",
-    "Max Mass (kg)",
+    "Organization",
+    "Largest Platform",
     "Peak Power (W)",
     "3-σ Pointing Control/ Knowledge",
     "Destination",
@@ -19,389 +18,514 @@
   "_notes": [],
   "data": [
     {
-      "Organization Headquarters": "Aerospacelab (Belgium)",
-      "Max Volume": "0.125 m (3)",
-      "Max Mass (kg)": "50",
+      "Organization": "2NDSpace (Italy)",
+      "Largest Platform": "CubeSat",
+      "Peak Power (W)": ">100",
+      "3-σ Pointing Control/ Knowledge": "0.1°/0.02°",
+      "Destination": "VLEO, LEO, MEO",
+      "US Office": "No"
+    },
+    {
+      "Organization": "AAC Clyde Space (Sweden)",
+      "Largest Platform": "CubeSat",
+      "Peak Power (W)": "400",
+      "3-σ Pointing Control/ Knowledge": "<0.01°/<0.0075°",
+      "Destination": "LEO",
+      "US Office": "Yes"
+    },
+    {
+      "Organization": "Aerospacelab (Belgium)",
+      "Largest Platform": "ESPA",
       "Peak Power (W)": "300",
       "3-σ Pointing Control/ Knowledge": "<0.005°/ <0.005°",
       "Destination": "LEO, GEO",
       "US Office": "Yes"
     },
     {
-      "Organization Headquarters": "Artemis Space Technologies (UK)",
-      "Max Volume": "0.58 m (3)",
-      "Max Mass (kg)": "500",
+      "Organization": "Alba Orbital (UK)",
+      "Largest Platform": "PocketQube",
+      "Peak Power (W)": "15",
+      "3-σ Pointing Control/ Knowledge": "5°/2°",
+      "Destination": "LEO",
+      "US Office": "Yes"
+    },
+    {
+      "Organization": "Alén Space (Spain)",
+      "Largest Platform": "CubeSat",
+      "Peak Power (W)": "180",
+      "3-σ Pointing Control/ Knowledge": "0.2°/0.1°",
+      "Destination": "LEO",
+      "US Office": "No"
+    },
+    {
+      "Organization": "Apex (USA)",
+      "Largest Platform": "ESPA",
+      "Peak Power (W)": "4,000",
+      "3-σ Pointing Control/ Knowledge": "0.005°/ 0.0025°",
+      "Destination": "LEO, MEO, GEO",
+      "US Office": "Yes"
+    },
+    {
+      "Organization": "Argotec (Italy)",
+      "Largest Platform": "ESPA",
+      "Peak Power (W)": "440",
+      "3-σ Pointing Control/ Knowledge": "<0.01°/<0.008°",
+      "Destination": "LEO, MEO, GEO, Deep Space",
+      "US Office": "Yes"
+    },
+    {
+      "Organization": "Artemis Space Technologies (UK)",
+      "Largest Platform": "ESPA",
       "Peak Power (W)": "1,500",
       "3-σ Pointing Control/ Knowledge": "0.01°/0.01°",
       "Destination": "LEO, MEO, GEO, Lunar and Deep Space",
       "US Office": "No"
     },
     {
-      "Organization Headquarters": "Astranis Space Technologies Corp. (USA)",
-      "Max Volume": "0.02 m (3)",
-      "Max Mass (kg)": "10",
+      "Organization": "Astranis Space Technologies Corp. (USA)",
+      "Largest Platform": "ESPA",
       "Peak Power (W)": "300",
       "3-σ Pointing Control/ Knowledge": "<0.1°/ <0.09°",
       "Destination": "GEO",
       "US Office": "Yes"
     },
     {
-      "Organization Headquarters": "Astro Digital (USA)",
-      "Max Volume": "Unk",
-      "Max Mass (kg)": "Unk",
-      "Peak Power (W)": "Unk",
-      "3-σ Pointing Control/ Knowledge": "Unk",
-      "Destination": "Unk",
+      "Organization": "Astro Digital (USA)",
+      "Largest Platform": "ESPA",
+      "Peak Power (W)": "3,000",
+      "3-σ Pointing Control/ Knowledge": "<0.03°/ <0.02°",
+      "Destination": "LEO, GTO, GEO",
       "US Office": "Yes"
     },
     {
-      "Organization Headquarters": "Axelspace (Japan)",
-      "Max Volume": "0.2 m (3)",
-      "Max Mass (kg)": "30",
-      "Peak Power (W)": "184",
+      "Organization": "Axelspace (Japan)",
+      "Largest Platform": "ESPA",
+      "Peak Power (W)": "1,800",
       "3-σ Pointing Control/ Knowledge": "<0.05°/ <0.04°",
       "Destination": "LEO",
       "US Office": "No"
     },
     {
-      "Organization Headquarters": "Berlin Space Technologies (Germany)",
-      "Max Volume": "1 m (3)",
-      "Max Mass (kg)": "250",
+      "Organization": "BAE Systems SMS (USA)",
+      "Largest Platform": "ESPA",
+      "Peak Power (W)": "2,500",
+      "3-σ Pointing Control/ Knowledge": "<0.006°/<0.003°",
+      "Destination": "LEO, MEO, GEO, Cislunar, Deep Space",
+      "US Office": "Yes"
+    },
+    {
+      "Organization": "Berlin Space Technologies (Germany)",
+      "Largest Platform": "ESPA",
       "Peak Power (W)": "2,500",
       "3-σ Pointing Control/ Knowledge": "<0.017°/< 0.017°",
       "Destination": "LEO",
       "US Office": "Yes"
     },
     {
-      "Organization Headquarters": "C3S Electronics Development (Hungary)",
-      "Max Volume": "16.5U",
-      "Max Mass (kg)": "18.5",
-      "Peak Power (W)": "155",
-      "3-σ Pointing Control/ Knowledge": "0.2°/ 0.2°",
+      "Organization": "Blue Canyon Technologies (USA)",
+      "Largest Platform": "ESPA",
+      "Peak Power (W)": "1,082",
+      "3-σ Pointing Control/ Knowledge": "0.002°/0.002°",
+      "Destination": "LEO, GEO, Deep Space",
+      "US Office": "Yes"
+    },
+    {
+      "Organization": "C3S Electronics Development (Hungary)",
+      "Largest Platform": "CubeSat",
+      "Peak Power (W)": "505",
+      "3-σ Pointing Control/ Knowledge": "0.4°/ 0.6°",
       "Destination": "LEO, MEO",
       "US Office": "No"
     },
     {
-      "Organization Headquarters": "CREOTECH (Poland)",
-      "Max Volume": ">50U",
-      "Max Mass (kg)": "100",
-      "Peak Power (W)": "175",
-      "3-σ Pointing Control/ Knowledge": "<0.015°/< 0.015°",
-      "Destination": "LEO, MEO, GEO, Lunar",
+      "Organization": "CesiumAstro (USA)",
+      "Largest Platform": "ESPA",
+      "Peak Power (W)": "4,500",
+      "3-σ Pointing Control/ Knowledge": "<0.1°/<0.01°",
+      "Destination": "LEO",
+      "US Office": "Yes"
+    },
+    {
+      "Organization": "CREOTECH (Poland)",
+      "Largest Platform": "ESPA",
+      "Peak Power (W)": "600",
+      "3-σ Pointing Control/ Knowledge": "<0.02°/< 0.015°",
+      "Destination": "LEO, MEO, GEO, Lunar, Deep Space",
       "US Office": "No"
     },
     {
-      "Organization Headquarters": "EnduroSat (Bulgaria)",
-      "Max Volume": "150U",
-      "Max Mass (kg)": "70",
+      "Organization": "D-Orbit (Italy)",
+      "Largest Platform": "ESPA",
       "Peak Power (W)": "300",
+      "3-σ Pointing Control/ Knowledge": "0.1°/ 0.05°",
+      "Destination": "LEO",
+      "US Office": "No"
+    },
+    {
+      "Organization": "D-Orbit (USA)",
+      "Largest Platform": "ESPA",
+      "Peak Power (W)": "2,000",
+      "3-σ Pointing Control/ Knowledge": "0.1°/ 0.05°",
+      "Destination": "LEO, GEO",
+      "US Office": "Yes"
+    },
+    {
+      "Organization": "EnduroSat (Bulgaria)",
+      "Largest Platform": "ESPA",
+      "Peak Power (W)": "6,800",
+      "3-σ Pointing Control/ Knowledge": "0.1°/0.006°",
+      "Destination": "LEO",
+      "US Office": "Yes"
+    },
+    {
+      "Organization": "Exobotics (UK)",
+      "Largest Platform": "ESPA",
+      "Peak Power (W)": "3,600",
       "3-σ Pointing Control/ Knowledge": "0.1°/ 0.008°",
-      "Destination": "LEO",
-      "US Office": "Yes"
+      "Destination": "LEO, MEO, HEO, GEO, Lunar",
+      "US Office": "No"
     },
     {
-      "Organization Headquarters": "General Atomics EMS (USA)",
-      "Max Volume": "0.46 m (3)",
-      "Max Mass (kg)": "200",
-      "Peak Power (W)": "450",
-      "3-σ Pointing Control/ Knowledge": "0.03°/ 0.02°",
+      "Organization": "FOSSA Systems (Spain)",
+      "Largest Platform": "CubeSat",
+      "Peak Power (W)": "60",
+      "3-σ Pointing Control/ Knowledge": "<0.1°/<0.1°",
       "Destination": "LEO",
-      "US Office": "Yes"
+      "US Office": "No"
     },
     {
-      "Organization Headquarters": "German Orbital Systems (Germany)",
-      "Max Volume": "4U",
-      "Max Mass (kg)": "8",
-      "Peak Power (W)": "50",
+      "Organization": "German Orbital Systems (Germany)",
+      "Largest Platform": "CubeSat",
+      "Peak Power (W)": "150",
       "3-σ Pointing Control/ Knowledge": "<1°/< 1°",
       "Destination": "LEO",
       "US Office": "No"
     },
     {
-      "Organization Headquarters": "Gran Systems (Taiwan)",
-      "Max Volume": "6U",
-      "Max Mass (kg)": "12",
-      "Peak Power (W)": "50",
-      "3-σ Pointing Control/ Knowledge": "2°/ 2°",
-      "Destination": "LEO, Lunar",
+      "Organization": "GomSpace (Denmark)",
+      "Largest Platform": "CubeSat",
+      "Peak Power (W)": "150",
+      "3-σ Pointing Control/ Knowledge": "0.070°/ 0.056°",
+      "Destination": "LEO, MEO, GEO, Lunar, Deep Space",
       "US Office": "Yes"
     },
     {
-      "Organization Headquarters": "Harpy Aerospace (India)",
-      "Max Volume": "6U",
-      "Max Mass (kg)": "28",
-      "Peak Power (W)": "72",
-      "3-σ Pointing Control/ Knowledge": "<0.1°/< 0.01°",
+      "Organization": "Harpy Aerospace (India)",
+      "Largest Platform": "ESPA",
+      "Peak Power (W)": "2,100",
+      "3-σ Pointing Control/ Knowledge": "0.35°/0.35°",
       "Destination": "LEO, GEO, Lunar, ISS",
       "US Office": "Yes"
     },
     {
-      "Organization Headquarters": "Hemeria (France)",
-      "Max Volume": "0.1 m (3)",
-      "Max Mass (kg)": "35",
+      "Organization": "Hemeria (France)",
+      "Largest Platform": "ESPA",
       "Peak Power (W)": "250",
       "3-σ Pointing Control/ Knowledge": "<0.03°/<0.01°",
       "Destination": "LEO, GTO, GEO",
       "US Office": "No"
     },
     {
-      "Organization Headquarters": "Innova Space (Argentina)",
-      "Max Volume": "0.5U",
-      "Max Mass (kg)": "0.5",
+      "Organization": "HEX20 (India)",
+      "Largest Platform": "CubeSat",
+      "Peak Power (W)": "150",
+      "3-σ Pointing Control/ Knowledge": "0.008°/ 0.008°",
+      "Destination": "LEO, MEO, Lunar",
+      "US Office": "Yes"
+    },
+    {
+      "Organization": "Hydra Space Systems (Spain)",
+      "Largest Platform": "CubeSat",
+      "Peak Power (W)": "30",
+      "3-σ Pointing Control/ Knowledge": "<1°/< 1°",
+      "Destination": "LEO",
+      "US Office": "No"
+    },
+    {
+      "Organization": "Innova Space (Argentina)",
+      "Largest Platform": "CubeSat",
       "Peak Power (W)": "4",
       "3-σ Pointing Control/ Knowledge": "<15°/< 15°",
       "Destination": "LEO",
       "US Office": "Yes"
     },
     {
-      "Organization Headquarters": "Loft Orbital (USA)",
-      "Max Volume": "0.44 m (3)",
-      "Max Mass (kg)": "85",
-      "Peak Power (W)": ">1,000",
-      "3-σ Pointing Control/ Knowledge": "<0.035°/<0.03°",
+      "Organization": "Loft Orbital (USA)",
+      "Largest Platform": "ESPA",
+      "Peak Power (W)": "4,000",
+      "3-σ Pointing Control/ Knowledge": "<0.01°/<0.007°",
       "Destination": "LEO",
       "US Office": "Yes"
     },
     {
-      "Organization Headquarters": "Momentus Space (USA)",
-      "Max Volume": "1 m (3)",
-      "Max Mass (kg)": "800",
+      "Organization": "Magellan Aerospace (Canada)",
+      "Largest Platform": "ESPA",
+      "Peak Power (W)": "200",
+      "3-σ Pointing Control/ Knowledge": "0.01°/0.01°",
+      "Destination": "LEO",
+      "US Office": "No"
+    },
+    {
+      "Organization": "Malin Science Space Systems (USA)",
+      "Largest Platform": "ESPA",
+      "Peak Power (W)": "918",
+      "3-σ Pointing Control/ Knowledge": "<0.015°/<0.015°",
+      "Destination": "Mars",
+      "US Office": "Yes"
+    },
+    {
+      "Organization": "Momentus Space (USA)",
+      "Largest Platform": "ESPA",
       "Peak Power (W)": "3,000",
       "3-σ Pointing Control/ Knowledge": "0.008°/ 0.008°",
       "Destination": "LEO, MEO, GEO, Lunar, Deep Space",
       "US Office": "Yes"
     },
     {
-      "Organization Headquarters": "NanoAvionics (Lithuania)",
-      "Max Volume": "0.7 m (3)",
-      "Max Mass (kg)": "150",
+      "Organization": "Moog (USA)",
+      "Largest Platform": "ESPA",
+      "Peak Power (W)": "2,000",
+      "3-σ Pointing Control/ Knowledge": "<0.050°/<0.033°",
+      "Destination": "LEO, GEO",
+      "US Office": "Yes"
+    },
+    {
+      "Organization": "Muon Space (USA)",
+      "Largest Platform": "ESPA",
+      "Peak Power (W)": "4,000",
+      "3-σ Pointing Control/ Knowledge": "0.01°/0.004°",
+      "Destination": "LEO",
+      "US Office": "Yes"
+    },
+    {
+      "Organization": "NanoAvionics (Lithuania)",
+      "Largest Platform": "ESPA",
       "Peak Power (W)": "378",
       "3-σ Pointing Control/ Knowledge": "0.15°/ 0.03°",
       "Destination": "LEO",
       "US Office": "Yes"
     },
     {
-      "Organization Headquarters": "Nara Space (South Korea)",
-      "Max Volume": "16U",
-      "Max Mass (kg)": "19",
+      "Organization": "Nara Space (South Korea)",
+      "Largest Platform": "CubeSat",
       "Peak Power (W)": "120",
       "3-σ Pointing Control/ Knowledge": "0.05°/ 0.03°",
       "Destination": "LEO",
       "US Office": "No"
     },
     {
-      "Organization Headquarters": "NearSpace Launch (USA)",
-      "Max Volume": "8U",
-      "Max Mass (kg)": "16",
+      "Organization": "NearSpace Launch (USA)",
+      "Largest Platform": "CubeSat",
       "Peak Power (W)": "160",
       "3-σ Pointing Control/ Knowledge": "0.5°/ 0.2°",
       "Destination": "LEO",
       "US Office": "Yes"
     },
     {
-      "Organization Headquarters": "Northrop Grumman (USA)",
-      "Max Volume": "0.37 m (3)",
-      "Max Mass (kg)": "50",
+      "Organization": "Northrop Grumman (USA)",
+      "Largest Platform": "ESPA",
       "Peak Power (W)": "420",
       "3-σ Pointing Control/ Knowledge": "<4°/<1°",
       "Destination": "LEO",
       "US Office": "Yes"
     },
     {
-      "Organization Headquarters": "NovaWurks (USA)",
-      "Max Volume": "1 m (3)",
-      "Max Mass (kg)": "300",
-      "Peak Power (W)": "2000",
+      "Organization": "NovaWurks (USA)",
+      "Largest Platform": "ESPA",
+      "Peak Power (W)": ">5,000",
       "3-σ Pointing Control/ Knowledge": "0.002°/0.0004°",
       "Destination": "LEO, GEO, xGEO",
       "US Office": "Yes"
     },
     {
-      "Organization Headquarters": "NPC SPACEMIND (Italy)",
-      "Max Volume": "12U",
-      "Max Mass (kg)": "24",
+      "Organization": "NPC SPACEMIND (Italy)",
+      "Largest Platform": "CubeSat",
       "Peak Power (W)": "100",
       "3-σ Pointing Control/ Knowledge": "<0.1°/<0.1°",
       "Destination": "LEO, MEO",
-      "US Office": "No"
+      "US Office": "Yes"
     },
     {
-      "Organization Headquarters": "OHB LuxSpace (Luxembourg)",
-      "Max Volume": "0.3 m3",
-      "Max Mass (kg)": "90",
+      "Organization": "OHB LuxSpace (Luxembourg)",
+      "Largest Platform": "ESPA",
       "Peak Power (W)": "600",
       "3-σ Pointing Control/ Knowledge": "<0.022°/ 0.01°",
       "Destination": "LEO",
       "US Office": "No"
     },
     {
-      "Organization Headquarters": "OHB Sweden (Sweden)",
-      "Max Volume": "1 m (3)",
-      "Max Mass (kg)": "300",
+      "Organization": "OHB Sweden (Sweden)",
+      "Largest Platform": "ESPA",
       "Peak Power (W)": "1,500",
       "3-σ Pointing Control/ Knowledge": "0.008°/ 0.008°",
       "Destination": "LEO, MEO",
       "US Office": "No"
     },
     {
-      "Organization Headquarters": "Open Cosmos (UK)",
-      "Max Volume": "12U",
-      "Max Mass (kg)": "18",
-      "Peak Power (W)": "160",
-      "3-σ Pointing Control/ Knowledge": "0.03°/0.02°",
-      "Destination": "LEO",
-      "US Office": "No"
-    },
-    {
-      "Organization Headquarters": "Orbital Astronautics (UK)",
-      "Max Volume": "0.163 m (3)",
-      "Max Mass (kg)": "100",
+      "Organization": "Orbital Astronautics (UK)",
+      "Largest Platform": "ESPA",
       "Peak Power (W)": "5,000",
       "3-σ Pointing Control/ Knowledge": "<0.05°/<0.01°",
       "Destination": "LEO, MEO, GEO, Deep Space",
       "US Office": "No"
     },
     {
-      "Organization Headquarters": "Orion Space Solutions (USA)",
-      "Max Volume": "14U",
-      "Max Mass (kg)": "45",
+      "Organization": "Orion Space Solutions (USA)",
+      "Largest Platform": "CubeSat",
       "Peak Power (W)": "400",
       "3-σ Pointing Control/ Knowledge": "<1°/<1°",
-      "Destination": "LEO, GEO, Lunar",
+      "Destination": "VLEO, LEO, GEO, Lunar",
       "US Office": "Yes"
     },
     {
-      "Organization Headquarters": "Quantum Space (USA)",
-      "Max Volume": "0.5 m (3)",
-      "Max Mass (kg)": "100",
+      "Organization": "Pumpkin Space (USA)",
+      "Largest Platform": "CubeSat",
+      "Peak Power (W)": "400",
+      "3-σ Pointing Control/ Knowledge": "0.05°/<0.05°",
+      "Destination": "LEO, Lunar",
+      "US Office": "Yes"
+    },
+    {
+      "Organization": "Quantum Space (USA)",
+      "Largest Platform": "ESPA",
       "Peak Power (W)": "400",
       "3-σ Pointing Control/ Knowledge": "0.006°/0.006°",
       "Destination": "LEO, GEO, Cislunar, Lunar, Deep Space",
       "US Office": "Yes"
     },
     {
-      "Organization Headquarters": "Redwire Space (USA)",
-      "Max Volume": "0.94 m (3)",
-      "Max Mass (kg)": "104",
+      "Organization": "Quub, Inc. (USA)",
+      "Largest Platform": "CubeSat",
+      "Peak Power (W)": "50",
+      "3-σ Pointing Control/ Knowledge": "5°/2°",
+      "Destination": "LEO, Lunar",
+      "US Office": "Yes"
+    },
+    {
+      "Organization": "Redwire Space (USA)",
+      "Largest Platform": "ESPA",
       "Peak Power (W)": "500",
       "3-σ Pointing Control/ Knowledge": "0.005°/0.0017°",
       "Destination": "LEO, MEO, GEO and Deep Space",
       "US Office": "Yes"
     },
     {
-      "Organization Headquarters": "Rocket Lab (USA)",
-      "Max Volume": "Unk",
-      "Max Mass (kg)": "Unk",
-      "Peak Power (W)": "Unk",
-      "3-σ Pointing Control/ Knowledge": "Unk",
-      "Destination": "LEO",
-      "US Office": "Yes"
-    },
-    {
-      "Organization Headquarters": "SatRev (Poland)",
-      "Max Volume": "3U",
-      "Max Mass (kg)": "3",
-      "Peak Power (W)": "25",
-      "3-σ Pointing Control/ Knowledge": "1°/0.6°",
+      "Organization": "Reflex Aerospace (Germany)",
+      "Largest Platform": "ESPA",
+      "Peak Power (W)": "3,000",
+      "3-σ Pointing Control/ Knowledge": "<0.01°/<0.005°",
       "Destination": "LEO",
       "US Office": "No"
     },
     {
-      "Organization Headquarters": "Sierra Space (USA)",
-      "Max Volume": "0.48 m (3)",
-      "Max Mass (kg)": "250",
+      "Organization": "SatRev (Poland)",
+      "Largest Platform": "CubeSat",
+      "Peak Power (W)": "150",
+      "3-σ Pointing Control/ Knowledge": "1°/1°",
+      "Destination": "LEO",
+      "US Office": "No"
+    },
+    {
+      "Organization": "SFL Missions Inc. (Canada)",
+      "Largest Platform": "ESPA",
+      "Peak Power (W)": "1,500",
+      "3-σ Pointing Control/ Knowledge": "0.009°/0.004°",
+      "Destination": "LEO, GEO, Lunar",
+      "US Office": "No"
+    },
+    {
+      "Organization": "Sierra Space (USA)",
+      "Largest Platform": "ESPA",
       "Peak Power (W)": "500",
       "3-σ Pointing Control/ Knowledge": "0.001°/ <0.001°",
       "Destination": "LEO, MEO, GEO",
       "US Office": "Yes"
     },
     {
-      "Organization Headquarters": "SITAEL (Italy)",
-      "Max Volume": "0.90 m (3)",
-      "Max Mass (kg)": "120",
+      "Organization": "SITAEL (Italy)",
+      "Largest Platform": "ESPA",
       "Peak Power (W)": "2,000",
       "3-σ Pointing Control/ Knowledge": "0.0017°/ 0.001°",
       "Destination": "LEO",
       "US Office": "No"
     },
     {
-      "Organization Headquarters": "SpaceX (USA)",
-      "Max Volume": "Unk",
-      "Max Mass (kg)": "Unk",
-      "Peak Power (W)": "Unk",
-      "3-σ Pointing Control/ Knowledge": "Unk",
-      "Destination": "LEO",
+      "Organization": "Southwest Research Institute (USA)",
+      "Largest Platform": "ESPA",
+      "Peak Power (W)": "1,550",
+      "3-σ Pointing Control/ Knowledge": "0.015°/0.002°",
+      "Destination": "LEO, GEO",
       "US Office": "Yes"
     },
     {
-      "Organization Headquarters": "Space Inventor (Denmark)",
-      "Max Volume": "24U",
-      "Max Mass (kg)": "50",
-      "Peak Power (W)": "400",
-      "3-σ Pointing Control/ Knowledge": "<0.008°/ <0.008°",
-      "Destination": "LEO, GEO, MEO",
+      "Organization": "Space Dynamics Laboratory (USA)",
+      "Largest Platform": "ESPA",
+      "Peak Power (W)": "2,000",
+      "3-σ Pointing Control/ Knowledge": "0.021°/0.021°",
+      "Destination": "LEO, GEO, GTO, Cislunar, Deep Space",
+      "US Office": "Yes"
+    },
+    {
+      "Organization": "Space Inventor (Denmark)",
+      "Largest Platform": "ESPA",
+      "Peak Power (W)": "1,500",
+      "3-σ Pointing Control/ Knowledge": "<0.008°/<0.008°",
+      "Destination": "LEO, GEO, MEO, Lunar",
       "US Office": "No"
     },
     {
-      "Organization Headquarters": "Spacemanic (Czech Republic)",
-      "Max Volume": "12U",
-      "Max Mass (kg)": "18",
-      "Peak Power (W)": "500",
-      "3-σ Pointing Control/ Knowledge": "0.1°/ 0.05°",
+      "Organization": "Spacemanic (Czech Republic)",
+      "Largest Platform": "CubeSat",
+      "Peak Power (W)": "216",
+      "3-σ Pointing Control/ Knowledge": "1°/ 0.5°",
       "Destination": "LEO, MEO, GEO, Lunar",
       "US Office": "No"
     },
     {
-      "Organization Headquarters": "Spire Global (USA)",
-      "Max Volume": "12U",
-      "Max Mass (kg)": "32",
+      "Organization": "Spire Global (USA)",
+      "Largest Platform": "CubeSat",
       "Peak Power (W)": "300",
       "3-σ Pointing Control/ Knowledge": "0.1°/ 0.05°",
       "Destination": "LEO",
       "US Office": "Yes"
     },
     {
-      "Organization Headquarters": "Surrey Satellite Technology Ltd. (UK)",
-      "Max Volume": "0.4m (3)",
-      "Max Mass (kg)": "200",
+      "Organization": "Surrey Satellite Technology Ltd. (UK)",
+      "Largest Platform": "ESPA",
       "Peak Power (W)": "2,000",
       "3-σ Pointing Control/ Knowledge": "<0.01°/ <0.01°",
       "Destination": "LEO, MEO, GEO, Lunar",
       "US Office": "No"
     },
     {
-      "Organization Headquarters": "Terran Orbital (USA)",
-      "Max Volume": "12U",
-      "Max Mass (kg)": "100",
-      "Peak Power (W)": "500",
-      "3-σ Pointing Control/ Knowledge": "0.014°/ 0.002°",
-      "Destination": "LEO, GEO, Deep Space",
-      "US Office": "Yes"
-    },
-    {
-      "Organization Headquarters": "Varda Space Industries (USA)",
-      "Max Volume": "Unk",
-      "Max Mass (kg)": "Unk",
-      "Peak Power (W)": "Unk",
-      "3-σ Pointing Control/ Knowledge": "Unk",
-      "Destination": "Unk",
-      "US Office": "Yes"
-    },
-    {
-      "Organization Headquarters": "Xplore (USA)",
-      "Max Volume": "0.125 m (3)",
-      "Max Mass (kg)": "55",
-      "Peak Power (W)": "210",
-      "3-σ Pointing Control/ Knowledge": "0.17°/ 0.018°",
-      "Destination": "VLEO, LEO, Cislunar",
-      "US Office": "Yes"
-    },
-    {
-      "Organization Headquarters": "York Space Systems (USA)",
-      "Max Volume": "–",
-      "Max Mass (kg)": "300",
+      "Organization": "Terran Orbital (USA)",
+      "Largest Platform": "ESPA",
       "Peak Power (W)": "1,500",
-      "3-σ Pointing Control/ Knowledge": "0.008°/ 0.004°",
+      "3-σ Pointing Control/ Knowledge": "0.014°/0.002°",
+      "Destination": "LEO, GEO, Lunar",
+      "US Office": "Yes"
+    },
+    {
+      "Organization": "U-Space (France)",
+      "Largest Platform": "ESPA",
+      "Peak Power (W)": "250",
+      "3-σ Pointing Control/ Knowledge": "0.007°/0.005°",
+      "Destination": "LEO",
+      "US Office": "No"
+    },
+    {
+      "Organization": "Varda Space Industries (USA)",
+      "Largest Platform": "ESPA",
+      "Peak Power (W)": "500",
+      "3-σ Pointing Control/ Knowledge": "2.25°/ 0.40°",
+      "Destination": "LEO with Re-entry Recovery",
+      "US Office": "Yes"
+    },
+    {
+      "Organization": "York Space Systems (USA)",
+      "Largest Platform": "ESPA",
+      "Peak Power (W)": "2,200",
+      "3-σ Pointing Control/ Knowledge": "0.002°/ 0.0004°",
       "Destination": "LEO, GEO, Lunar",
       "US Office": "Yes"
     }

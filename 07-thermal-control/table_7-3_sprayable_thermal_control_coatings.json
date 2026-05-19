@@ -4,8 +4,8 @@
   "chapter_num": 7,
   "chapter_title": "Thermal Control",
   "source_url": "https://www.nasa.gov/smallsat-institute/sst-soa/thermal-control",
-  "edition": "2024",
-  "scrape_date": "2026-04-09",
+  "edition": "2026",
+  "scrape_date": "2026-05-19",
   "type": "products",
   "columns": [
     "Manufacturer",
@@ -13,7 +13,7 @@
     "Color",
     "Cost",
     "Difficulty to Apply*",
-    "Notes"
+    "Notes:"
   ],
   "_notes": [
     "*1 not difficult, 5 extremely**All silicates require temperature and RH control"
@@ -25,7 +25,7 @@
       "Color": "Black",
       "Cost": "$",
       "Difficulty to Apply*": "1",
-      "Notes": ""
+      "Notes:": ""
     },
     {
       "Manufacturer": "Socomore",
@@ -33,7 +33,7 @@
       "Color": "Black",
       "Cost": "$$",
       "Difficulty to Apply*": "1",
-      "Notes": ""
+      "Notes:": ""
     },
     {
       "Manufacturer": "Socomore",
@@ -41,7 +41,7 @@
       "Color": "White",
       "Cost": "$",
       "Difficulty to Apply*": "1",
-      "Notes": "Not UV stable"
+      "Notes:": "Not UV stable"
     },
     {
       "Manufacturer": "Huntington Ingalls Industries (formerly Alion and IITRI)",
@@ -49,7 +49,7 @@
       "Color": "White",
       "Cost": "$$",
       "Difficulty to Apply*": "3",
-      "Notes": "**"
+      "Notes:": "**"
     },
     {
       "Manufacturer": "Huntington Ingalls Industries (formerly Alion and IITRI)",
@@ -57,7 +57,7 @@
       "Color": "White",
       "Cost": "$$$",
       "Difficulty to Apply*": "4",
-      "Notes": "Thickness control paramount **"
+      "Notes:": "Thickness control paramount **"
     },
     {
       "Manufacturer": "Huntington Ingalls Industries (formerly Alion and IITRI)",
@@ -65,7 +65,7 @@
       "Color": "White",
       "Cost": "$$$",
       "Difficulty to Apply*": "1",
-      "Notes": "Dedicated equipment/cross contamination"
+      "Notes:": "Dedicated equipment/cross contamination"
     },
     {
       "Manufacturer": "AZ Technology",
@@ -73,7 +73,7 @@
       "Color": "White",
       "Cost": "$$",
       "Difficulty to Apply*": "3",
-      "Notes": "**"
+      "Notes:": "**"
     },
     {
       "Manufacturer": "AZ Technology",
@@ -81,7 +81,7 @@
       "Color": "Off-white",
       "Cost": "$$$",
       "Difficulty to Apply*": "4",
-      "Notes": "May require specialty, epoxy primer **"
+      "Notes:": "May require specialty, epoxy primer **"
     },
     {
       "Manufacturer": "AZ Technology",
@@ -89,7 +89,7 @@
       "Color": "White",
       "Cost": "$$$$",
       "Difficulty to Apply*": "5",
-      "Notes": "Thickness control paramount **"
+      "Notes:": "Thickness control paramount **"
     }
   ]
 }

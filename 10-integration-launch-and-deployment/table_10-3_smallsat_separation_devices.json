@@ -1,0 +1,125 @@
+{
+  "table_id": "10-3",
+  "title": "SmallSat Separation Devices",
+  "chapter_num": 10,
+  "chapter_title": "Integration, Launch, Deployment, and Orbital Transport",
+  "source_url": "https://www.nasa.gov/smallsat-institute/sst-soa/integration-launch-and-deployment",
+  "edition": "2026",
+  "scrape_date": "2026-05-19",
+  "type": "products",
+  "columns": [
+    "Manufacturer Headquarters",
+    "Product",
+    "Max Payload capacity (kg)",
+    "Type",
+    "Key features / Compatibility"
+  ],
+  "_notes": [],
+  "data": [
+    {
+      "Manufacturer Headquarters": "Beyond Gravity (Switzerland)",
+      "Product": "PAS 381S, PSR 1575 mm (62”), PSM 3/8B",
+      "Max Payload capacity (kg)": "200",
+      "Type": "Clamp band Multi-point",
+      "Key features / Compatibility": "Vega rocket Moog ESPA"
+    },
+    {
+      "Manufacturer Headquarters": "Ensign Bickford Aerospace & Defense (EBAD) (USA)",
+      "Product": "Payload Release Ring (PRR)-8",
+      "Max Payload capacity (kg)": "70",
+      "Type": "Hold‑Down & Release",
+      "Key features / Compatibility": "Configurable, based on the SpaceX electrical interface"
+    },
+    {
+      "Manufacturer Headquarters": "Ensign Bickford Aerospace & Defense (EBAD) (USA)",
+      "Product": "PRR-15 Release Ring",
+      "Max Payload capacity (kg)": "250",
+      "Type": "Hold‑Down & Release",
+      "Key features / Compatibility": "Configurable, based on the SpaceX electrical interface"
+    },
+    {
+      "Manufacturer Headquarters": "Ensign Bickford Aerospace & Defense (EBAD) (USA)",
+      "Product": "Payload Release Module",
+      "Max Payload capacity (kg)": "1000",
+      "Type": "Hold‑Down & Release",
+      "Key features / Compatibility": "Compatible with SpaceX Transporter 9 and Transporter 12 Rideshare missions"
+    },
+    {
+      "Manufacturer Headquarters": "Exolaunch (Germany)",
+      "Product": "CarboNIX series",
+      "Max Payload capacity (kg)": "500",
+      "Type": "Clamp band",
+      "Key features / Compatibility": "Any launch vehicle"
+    },
+    {
+      "Manufacturer Headquarters": "Exolaunch (Germany)",
+      "Product": "Quadro Arrow",
+      "Max Payload capacity (kg)": "250",
+      "Type": "Spring Pusher System",
+      "Key features / Compatibility": "Supports SpaceX Transporter rides"
+    },
+    {
+      "Manufacturer Headquarters": "Exolaunch (Germany)",
+      "Product": "Quadro Versa",
+      "Max Payload capacity (kg)": "1000",
+      "Type": "Multi-Point",
+      "Key features / Compatibility": "Compatible with SpaceX rideshare interfaces"
+    },
+    {
+      "Manufacturer Headquarters": "ISISPACE (The Netherlands)",
+      "Product": "M3S Micro Satellite Separation System",
+      "Max Payload capacity (kg)": "120",
+      "Type": "Hold‑Down & Release",
+      "Key features / Compatibility": "Configurable and compatible"
+    },
+    {
+      "Manufacturer Headquarters": "Rocket Lab (USA)",
+      "Product": "Mark II Motorized Lightband",
+      "Max Payload capacity (kg)": "1000",
+      "Type": "Clamp band",
+      "Key features / Compatibility": "Configurable and compatible"
+    },
+    {
+      "Manufacturer Headquarters": "Rocket Lab (USA)",
+      "Product": "Advanced Lightband (ALB)",
+      "Max Payload capacity (kg)": "1000",
+      "Type": "Clamp band",
+      "Key features / Compatibility": "Configurable and compatible"
+    },
+    {
+      "Manufacturer Headquarters": "SAB Aerospace (Italy)",
+      "Product": "Vampire",
+      "Max Payload capacity (kg)": "1500",
+      "Type": "Clamp Band",
+      "Key features / Compatibility": "Vega and Vega-C"
+    },
+    {
+      "Manufacturer Headquarters": "Sierra Space (USA)",
+      "Product": "QwkSep LPSS",
+      "Max Payload capacity (kg)": "300",
+      "Type": "Clamp Band",
+      "Key features / Compatibility": "Moog ESPA grande"
+    },
+    {
+      "Manufacturer Headquarters": "UARX Space (Spain)",
+      "Product": "SAU&RON-8",
+      "Max Payload capacity (kg)": "80",
+      "Type": "Clamp Band",
+      "Key features / Compatibility": "ESPA compatible"
+    },
+    {
+      "Manufacturer Headquarters": "UARX Space (Spain)",
+      "Product": "SAU&RON-15",
+      "Max Payload capacity (kg)": "350",
+      "Type": "Clamp Band",
+      "Key features / Compatibility": "ESPA compatible"
+    },
+    {
+      "Manufacturer Headquarters": "UARX Space (Spain)",
+      "Product": "SAU&RON-24",
+      "Max Payload capacity (kg)": "800",
+      "Type": "Clamp Band",
+      "Key features / Compatibility": "ESPA compatible"
+    }
+  ]
+}

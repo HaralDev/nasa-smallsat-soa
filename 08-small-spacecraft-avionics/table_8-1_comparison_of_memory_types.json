@@ -1,0 +1,76 @@
+{
+  "table_id": "8-1",
+  "title": "Comparison of Memory Types",
+  "chapter_num": 8,
+  "chapter_title": "Small Spacecraft Avionics",
+  "source_url": "https://www.nasa.gov/smallsat-institute/sst-soa/small-spacecraft-avionics",
+  "edition": "2026",
+  "scrape_date": "2026-05-19",
+  "type": "specifications",
+  "columns": [
+    "Feature",
+    "SRAM",
+    "DRAM",
+    "Flash",
+    "MRAM",
+    "FERAM",
+    "PCM"
+  ],
+  "_notes": [],
+  "data": [
+    {
+      "Feature": "Non-volatile",
+      "SRAM": "No",
+      "DRAM": "No",
+      "Flash": "Yes",
+      "MRAM": "Yes",
+      "FERAM": "Yes",
+      "PCM": "Yes"
+    },
+    {
+      "Feature": "Operating Voltage",
+      "SRAM": "3.5 – 5 V",
+      "DRAM": "1.35-3.3 V",
+      "Flash": "3.3 & 5 V",
+      "MRAM": "3.3 V",
+      "FERAM": "3.3 V",
+      "PCM": "3.3 V"
+    },
+    {
+      "Feature": "Data Retention (70°C)",
+      "SRAM": "N/A",
+      "DRAM": "N/A",
+      "Flash": ">100 years",
+      "MRAM": "10 years",
+      "FERAM": "10 years",
+      "PCM": "10 years"
+    },
+    {
+      "Feature": "Endurance (Erase/Write cycles)",
+      "SRAM": "Unlimited",
+      "DRAM": "Unlimited",
+      "Flash": "1E5",
+      "MRAM": "1E13",
+      "FERAM": "1E13",
+      "PCM": "1E13"
+    },
+    {
+      "Feature": "Access Time",
+      "SRAM": "10-25 ns",
+      "DRAM": "25 ns",
+      "Flash": "50 ns",
+      "MRAM": "300 ns",
+      "FERAM": "300 ns",
+      "PCM": "100 ns"
+    },
+    {
+      "Feature": "Power",
+      "SRAM": "500 mW",
+      "DRAM": "300 mW",
+      "Flash": "30 mW",
+      "MRAM": "900 mW",
+      "FERAM": "270 mW",
+      "PCM": "Unk"
+    }
+  ]
+}

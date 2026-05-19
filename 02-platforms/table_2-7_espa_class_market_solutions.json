@@ -4,11 +4,11 @@
   "chapter_num": 2,
   "chapter_title": "Complete Spacecraft Platforms",
   "source_url": "https://www.nasa.gov/smallsat-institute/sst-soa/platforms",
-  "edition": "2024",
-  "scrape_date": "2026-04-09",
+  "edition": "2026",
+  "scrape_date": "2026-05-19",
   "type": "products",
   "columns": [
-    "Organization Headquarters",
+    "Organization",
     "Peak Power (W)",
     "3-σ Pointing Control/ Knowledge",
     "Comm Options",
@@ -19,7 +19,7 @@
   "_notes": [],
   "data": [
     {
-      "Organization Headquarters": "Aerospacelab (Belgium)",
+      "Organization": "Aerospacelab (Belgium)",
       "Peak Power (W)": "1,000",
       "3-σ Pointing Control/ Knowledge": "<0.003°/<0.003°",
       "Comm Options": "S, X, Ka, Optical",
@@ -28,61 +28,43 @@
       "US Office": "Yes"
     },
     {
-      "Organization Headquarters": "Airbus US Space & Defense (USA)",
+      "Organization": "Airbus US Space & Defense (USA)",
       "Peak Power (W)": "2,200",
-      "3-σ Pointing Control/ Knowledge": "0.3°/0.3°",
-      "Comm Options": "S, Ka, Optical",
+      "3-σ Pointing Control/ Knowledge": "<0.006°/<0.006°",
+      "Comm Options": "S, X, Ka, Optical",
       "Intended Destination": "LEO",
       "Maturity": "Flown LEO",
       "US Office": "Yes"
     },
     {
-      "Organization Headquarters": "Apex Space (USA)",
+      "Organization": "Apex (USA)",
       "Peak Power (W)": "4,000",
       "3-σ Pointing Control/ Knowledge": "0.005°/0.0025°",
-      "Comm Options": "UHF, S, X",
-      "Intended Destination": "LEO, GEO",
-      "Maturity": "Flown LEO",
+      "Comm Options": "UHF, S, X, Ka",
+      "Intended Destination": "LEO, MEO, GEO",
+      "Maturity": "Flown LEO Under Development GEO",
       "US Office": "Yes"
     },
     {
-      "Organization Headquarters": "Argotec (Italy)",
-      "Peak Power (W)": "400",
+      "Organization": "Argotec (Italy)",
+      "Peak Power (W)": "440",
       "3-σ Pointing Control/ Knowledge": "<0.01°/<0.008°",
       "Comm Options": "UHF, S, X, K, Ka",
-      "Intended Destination": "LEO, MEO, GEO, Deep Space",
+      "Intended Destination": "LEO",
       "Maturity": "Qualified LEO Under Development MEO, GEO, Deep Space",
       "US Office": "Yes"
     },
     {
-      "Organization Headquarters": "Artemis Space Technologies (UK)",
-      "Peak Power (W)": "1,250",
-      "3-σ Pointing Control/ Knowledge": "0.01°/0.01°",
-      "Comm Options": "UHF, S, X, Ka, Ku, Optical",
-      "Intended Destination": "LEO, MEO, GEO, Lunar, Deep Space",
-      "Maturity": "Qualified LEO, MEO, GEO, Lunar and Deep Space",
-      "US Office": "No"
-    },
-    {
-      "Organization Headquarters": "Astranis Space Technologies Corp. (USA)",
-      "Peak Power (W)": "2,500",
-      "3-σ Pointing Control/ Knowledge": "<0.1°/<0.01°",
-      "Comm Options": "MIL-Ka, Ka, Ku, Q, V, X",
-      "Intended Destination": "MEO, GEO, Cislunar, Deep Space, Polar, High Inclination",
-      "Maturity": "Flown GEO",
-      "US Office": "Yes"
-    },
-    {
-      "Organization Headquarters": "Astro Digital (USA)",
-      "Peak Power (W)": "2,000",
-      "3-σ Pointing Control/ Knowledge": "<0.05°/<0.01°",
+      "Organization": "Astro Digital (USA)",
+      "Peak Power (W)": "3,000",
+      "3-σ Pointing Control/ Knowledge": "<0.03°/<0.02°",
       "Comm Options": "UHF, S, X, Ku, Ka, V, W, Optical",
-      "Intended Destination": "LEO, GEO, Deep Space",
+      "Intended Destination": "LEO, GTO, GEO",
       "Maturity": "Flown LEO",
       "US Office": "Yes"
     },
     {
-      "Organization Headquarters": "Astroscale (USA)",
+      "Organization": "Astroscale (USA)",
       "Peak Power (W)": "3,530",
       "3-σ Pointing Control/ Knowledge": "0.05°/0.025°",
       "Comm Options": "S, X, C",
@@ -91,16 +73,25 @@
       "US Office": "Yes"
     },
     {
-      "Organization Headquarters": "BAES (USA)",
+      "Organization": "Axelspace (Japan)",
+      "Peak Power (W)": "1,800",
+      "3-σ Pointing Control/ Knowledge": "<0.05°/<0.04°",
+      "Comm Options": "S, X, Ka",
+      "Intended Destination": "LEO",
+      "Maturity": "Under Development",
+      "US Office": "No"
+    },
+    {
+      "Organization": "BAE Systems SMS (USA)",
       "Peak Power (W)": "2,500",
-      "3-σ Pointing Control/ Knowledge": "<0.007°/<0.006°",
+      "3-σ Pointing Control/ Knowledge": "<0.006°/<0.003°",
       "Comm Options": "L, S, X, Ka",
-      "Intended Destination": "LEO, MEO, GEO, Deep Space",
-      "Maturity": "Flown LEO, Qualified Deep Space",
+      "Intended Destination": "LEO, MEO, GEO, Cislunar, Deep Space",
+      "Maturity": "Flown LEO and Deep Space",
       "US Office": "Yes"
     },
     {
-      "Organization Headquarters": "Berlin Space Technologies (Germany)",
+      "Organization": "Berlin Space Technologies (Germany)",
       "Peak Power (W)": "2,500",
       "3-σ Pointing Control/ Knowledge": "<0.017°/<0.017°",
       "Comm Options": "S, X",
@@ -109,79 +100,7 @@
       "US Office": "Yes"
     },
     {
-      "Organization Headquarters": "Blue Canyon Technologies (USA)",
-      "Peak Power (W)": "1,082",
-      "3-σ Pointing Control/ Knowledge": "0.0025°/0.0025°",
-      "Comm Options": "L, S, X",
-      "Intended Destination": "LEO, GEO, Deep Space",
-      "Maturity": "Flown LEO and GEO Qualified Deep Space",
-      "US Office": "Yes"
-    },
-    {
-      "Organization Headquarters": "CesiumAstro (USA)",
-      "Peak Power (W)": "4,500",
-      "3-σ Pointing Control/ Knowledge": "<0.1°/<0.01°",
-      "Comm Options": "S, L, Ka, Optical",
-      "Intended Destination": "LEO",
-      "Maturity": "Under Development",
-      "US Office": "Yes"
-    },
-    {
-      "Organization Headquarters": "CREOTECH (Poland)",
-      "Peak Power (W)": "150",
-      "3-σ Pointing Control/ Knowledge": "<0.015°/<0.015°",
-      "Comm Options": "S, X, Optical",
-      "Intended Destination": "LEO, MEO, GEO, Lunar, Deep Space",
-      "Maturity": "Flown LEO",
-      "US Office": "No"
-    },
-    {
-      "Organization Headquarters": "Deimos Space (Spain)",
-      "Peak Power (W)": "300",
-      "3-σ Pointing Control/ Knowledge": "<0.005°/<0.005°",
-      "Comm Options": "S, X, iDRS",
-      "Intended Destination": "LEO",
-      "Maturity": "Under Development",
-      "US Office": "No"
-    },
-    {
-      "Organization Headquarters": "EnduroSat (Bulgaria)",
-      "Peak Power (W)": "300/3500",
-      "3-σ Pointing Control/ Knowledge": "0.1°/<0.008°",
-      "Comm Options": "UHF, S, X, K/Ka",
-      "Intended Destination": "LEO",
-      "Maturity": "Qualified LEO (300W) Under Development (3500W)",
-      "US Office": "Yes"
-    },
-    {
-      "Organization Headquarters": "General Atomics EMS (USA)",
-      "Peak Power (W)": "450",
-      "3-σ Pointing Control/ Knowledge": "0.03°/0.02°",
-      "Comm Options": "S, X",
-      "Intended Destination": "LEO",
-      "Maturity": "Qualified LEO",
-      "US Office": "Yes"
-    },
-    {
-      "Organization Headquarters": "Harpy Aerospace (India)",
-      "Peak Power (W)": "2,100",
-      "3-σ Pointing Control/ Knowledge": "0.35°/0.35°",
-      "Comm Options": "S, Ka, Optical",
-      "Intended Destination": "LEO",
-      "Maturity": "Qualified LEO",
-      "US Office": "Yes"
-    },
-    {
-      "Organization Headquarters": "Hemeria (France)",
-      "Peak Power (W)": ">1,000",
-      "3-σ Pointing Control/ Knowledge": "<0.03°/<0.01°",
-      "Comm Options": "S, X",
-      "Intended Destination": "LEO, GEO, GTO",
-      "Maturity": "Flown LEO Qualified GEO and GTO",
-      "US Office": "No"
-    },
-    {
-      "Organization Headquarters": "LeoStella (USA)",
+      "Organization": "BlackSky (USA)",
       "Peak Power (W)": "2,000",
       "3-σ Pointing Control/ Knowledge": "0.013°/0.009°",
       "Comm Options": "UHF, S, X",
@@ -190,7 +109,70 @@
       "US Office": "Yes"
     },
     {
-      "Organization Headquarters": "Lockheed Martin (USA)",
+      "Organization": "Blue Canyon Technologies (USA)",
+      "Peak Power (W)": "1,082",
+      "3-σ Pointing Control/ Knowledge": "0.002°/0.002°",
+      "Comm Options": "L, S, X",
+      "Intended Destination": "LEO, GEO, Deep Space",
+      "Maturity": "Flown LEO and GEO Qualified Deep Space",
+      "US Office": "Yes"
+    },
+    {
+      "Organization": "CREOTECH (Poland)",
+      "Peak Power (W)": "600",
+      "3-σ Pointing Control/ Knowledge": "<0.02°/<0.015°",
+      "Comm Options": "S, X, Optical",
+      "Intended Destination": "LEO, Lunar",
+      "Maturity": "Flown LEO",
+      "US Office": "No"
+    },
+    {
+      "Organization": "Deimos Space (Spain)",
+      "Peak Power (W)": "300",
+      "3-σ Pointing Control/ Knowledge": "<0.005°/<0.005°",
+      "Comm Options": "S, X, iDRS",
+      "Intended Destination": "LEO",
+      "Maturity": "Under Development",
+      "US Office": "No"
+    },
+    {
+      "Organization": "EnduroSat (Bulgaria)",
+      "Peak Power (W)": "3,500/ 7,000",
+      "3-σ Pointing Control/ Knowledge": "0.1°/0.006°",
+      "Comm Options": "S, X, K/Ka, L, Optical",
+      "Intended Destination": "LEO",
+      "Maturity": "Qualified LEO (3,500W) Under Development (7,000W)",
+      "US Office": "Yes"
+    },
+    {
+      "Organization": "Exobotics (UK)",
+      "Peak Power (W)": "3600",
+      "3-σ Pointing Control/ Knowledge": "0.08°/ 0.008°",
+      "Comm Options": "VHF, UHF, S, X, Optical",
+      "Intended Destination": "LEO",
+      "Maturity": "Under Development",
+      "US Office": "No"
+    },
+    {
+      "Organization": "Harpy Aerospace (India)",
+      "Peak Power (W)": "2,100",
+      "3-σ Pointing Control/ Knowledge": "0.35°/0.35°",
+      "Comm Options": "S, Ka, Optical",
+      "Intended Destination": "LEO",
+      "Maturity": "Qualified LEO",
+      "US Office": "Yes"
+    },
+    {
+      "Organization": "Hemeria (France)",
+      "Peak Power (W)": ">1,000",
+      "3-σ Pointing Control/ Knowledge": "<0.03°/<0.01°",
+      "Comm Options": "S, X",
+      "Intended Destination": "LEO, GEO, GTO",
+      "Maturity": "Flown LEO Qualified GEO and GTO",
+      "US Office": "No"
+    },
+    {
+      "Organization": "Lockheed Martin (USA)",
       "Peak Power (W)": "500+",
       "3-σ Pointing Control/ Knowledge": "<0.1°/<0.1°",
       "Comm Options": "S, X, Ka",
@@ -199,16 +181,7 @@
       "US Office": "Yes"
     },
     {
-      "Organization Headquarters": "Loft Orbital (USA)",
-      "Peak Power (W)": ">1,000",
-      "3-σ Pointing Control/ Knowledge": "<0.035°/<0.03°",
-      "Comm Options": "S, X, L",
-      "Intended Destination": "LEO",
-      "Maturity": "Flown LEO",
-      "US Office": "Yes"
-    },
-    {
-      "Organization Headquarters": "Magellan Aerospace (Canada)",
+      "Organization": "Magellan Aerospace (Canada)",
       "Peak Power (W)": "200",
       "3-σ Pointing Control/ Knowledge": "0.01°/0.01°",
       "Comm Options": "S, X",
@@ -217,7 +190,7 @@
       "US Office": "No"
     },
     {
-      "Organization Headquarters": "Malin Science Space Systems (USA)",
+      "Organization": "Malin Science Space Systems (USA)",
       "Peak Power (W)": "918",
       "3-σ Pointing Control/ Knowledge": "<0.015°/<0.015°",
       "Comm Options": "UHF, X, Ka",
@@ -226,7 +199,7 @@
       "US Office": "Yes"
     },
     {
-      "Organization Headquarters": "Moog (USA)",
+      "Organization": "Moog (USA)",
       "Peak Power (W)": "2,000",
       "3-σ Pointing Control/ Knowledge": "<0.050°/<0.033°",
       "Comm Options": "S, X, Ka, Optical",
@@ -235,7 +208,7 @@
       "US Office": "Yes"
     },
     {
-      "Organization Headquarters": "Momentus Space (USA)",
+      "Organization": "Momentus Space (USA)",
       "Peak Power (W)": "3,000",
       "3-σ Pointing Control/ Knowledge": "0.008°/0.008°",
       "Comm Options": "S, X, Ka, Optical",
@@ -244,16 +217,16 @@
       "US Office": "Yes"
     },
     {
-      "Organization Headquarters": "Muon Space (USA)",
-      "Peak Power (W)": "3,000",
-      "3-σ Pointing Control/ Knowledge": "0.012°/0.03°",
-      "Comm Options": "S, X, Ka",
+      "Organization": "Muon Space (USA)",
+      "Peak Power (W)": "4,000",
+      "3-σ Pointing Control/ Knowledge": "0.01°/0.004°",
+      "Comm Options": "S, X, Optical",
       "Intended Destination": "LEO",
       "Maturity": "Flown LEO",
       "US Office": "Yes"
     },
     {
-      "Organization Headquarters": "NanoAvionics (Lithuania)",
+      "Organization": "NanoAvionics (Lithuania)",
       "Peak Power (W)": "660",
       "3-σ Pointing Control/ Knowledge": "0.24°/0.09°",
       "Comm Options": "UHF, S, X",
@@ -262,7 +235,7 @@
       "US Office": "Yes"
     },
     {
-      "Organization Headquarters": "Northrop Grumman (USA)",
+      "Organization": "Northrop Grumman (USA)",
       "Peak Power (W)": "400",
       "3-σ Pointing Control/ Knowledge": "<0.01°/<0.008°",
       "Comm Options": "S, X, Ka",
@@ -271,7 +244,7 @@
       "US Office": "Yes"
     },
     {
-      "Organization Headquarters": "NovaWurks (USA)",
+      "Organization": "NovaWurks (USA)",
       "Peak Power (W)": ">5,000",
       "3-σ Pointing Control/ Knowledge": "0.002°/0.0004°",
       "Comm Options": "UHF, S, L, X, Ka, Ku and Optical",
@@ -280,7 +253,7 @@
       "US Office": "Yes"
     },
     {
-      "Organization Headquarters": "OHB LuxSpace (Luxembourg)",
+      "Organization": "OHB LuxSpace (Luxembourg)",
       "Peak Power (W)": "834",
       "3-σ Pointing Control/ Knowledge": "<0.022°/ 0.01°",
       "Comm Options": "S, X",
@@ -289,7 +262,7 @@
       "US Office": "No"
     },
     {
-      "Organization Headquarters": "OHB Sweden (Sweden)",
+      "Organization": "OHB Sweden (Sweden)",
       "Peak Power (W)": "1,500",
       "3-σ Pointing Control/ Knowledge": "0.008°/0.008°",
       "Comm Options": "S, X, L",
@@ -298,52 +271,52 @@
       "US Office": "No"
     },
     {
-      "Organization Headquarters": "Open Cosmos (UK)",
-      "Peak Power (W)": "2,200",
-      "3-σ Pointing Control/ Knowledge": "<0.033°/0.03°",
-      "Comm Options": "S, X",
-      "Intended Destination": "LEO",
-      "Maturity": "Under Development",
-      "US Office": "No"
-    },
-    {
-      "Organization Headquarters": "Orbital Astronautics (UK)",
+      "Organization": "Orbital Astronautics (UK)",
       "Peak Power (W)": "5,000",
       "3-σ Pointing Control/ Knowledge": "0.05°/0.01°",
       "Comm Options": "S, X, K, Ka, Optical",
-      "Intended Destination": "LEO, MEO, GEO, Deep Space",
+      "Intended Destination": "VLEO, LEO, MEO, GEO, Deep Space",
       "Maturity": "Qualified LEO",
       "US Office": "No"
     },
     {
-      "Organization Headquarters": "Quantum Space (USA)",
+      "Organization": "Quantum Space (USA)",
       "Peak Power (W)": "1,000",
       "3-σ Pointing Control/ Knowledge": "0.006°/0.006°",
       "Comm Options": "S, X, Ka",
       "Intended Destination": "LEO, GEO, Cislunar, Lunar, Deep Space",
-      "Maturity": "Under Development",
+      "Maturity": "Under Qualified Development",
       "US Office": "Yes"
     },
     {
-      "Organization Headquarters": "Reflex Aerospace (Germany)",
-      "Peak Power (W)": ">300",
-      "3-σ Pointing Control/ Knowledge": "<0.01°/<0.01°",
+      "Organization": "Reflex Aerospace (Germany)",
+      "Peak Power (W)": "3,000",
+      "3-σ Pointing Control/ Knowledge": "<0.01°/<0.005°",
       "Comm Options": "S, X, Ka, Ku, Optical",
       "Intended Destination": "LEO",
-      "Maturity": "Under Development",
+      "Maturity": "Flown LEO",
       "US Office": "No"
     },
     {
-      "Organization Headquarters": "Redwire Space (USA)",
+      "Organization": "Redwire Space (USA)",
       "Peak Power (W)": "600",
       "3-σ Pointing Control/ Knowledge": "0.005°/0.0017°",
-      "Comm Options": "X",
-      "Intended Destination": "LEO",
-      "Maturity": "Qualified LEO",
+      "Comm Options": "UHF, S, X",
+      "Intended Destination": "VLEO, LEO, GEO",
+      "Maturity": "Flown LEO Under Development VLEO and GEO",
       "US Office": "Yes"
     },
     {
-      "Organization Headquarters": "Sierra Space (USA)",
+      "Organization": "SFL Missions Inc. (Canada)",
+      "Peak Power (W)": "1,500",
+      "3-σ Pointing Control/ Knowledge": "0.009°/0.004°",
+      "Comm Options": "UHF, S, X, Ka",
+      "Intended Destination": "LEO, GEO, Lunar",
+      "Maturity": "Flown LEO Qualified GEO and Lunar",
+      "US Office": "No"
+    },
+    {
+      "Organization": "Sierra Space (USA)",
       "Peak Power (W)": "500",
       "3-σ Pointing Control/ Knowledge": "0.001°/ <0.001°",
       "Comm Options": "UHF, S, X",
@@ -352,7 +325,7 @@
       "US Office": "Yes"
     },
     {
-      "Organization Headquarters": "SITAEL (Italy)",
+      "Organization": "SITAEL (Italy)",
       "Peak Power (W)": "2,000",
       "3-σ Pointing Control/ Knowledge": "0.0017°/0.001°",
       "Comm Options": "S, X",
@@ -361,7 +334,7 @@
       "US Office": "No"
     },
     {
-      "Organization Headquarters": "Southwest Research Institute (USA)",
+      "Organization": "Southwest Research Institute (USA)",
       "Peak Power (W)": "1,550",
       "3-σ Pointing Control/ Knowledge": "0.015°/0.002°",
       "Comm Options": "S, X, Ka",
@@ -370,8 +343,8 @@
       "US Office": "Yes"
     },
     {
-      "Organization Headquarters": "Space Dynamics Laboratory (USA)",
-      "Peak Power (W)": "1,600",
+      "Organization": "Space Dynamics Laboratory (USA)",
+      "Peak Power (W)": "2,000",
       "3-σ Pointing Control/ Knowledge": "0.021°/0.021°",
       "Comm Options": "UHF, S, X, Ka, Optical",
       "Intended Destination": "LEO, GEO, GTO, Cislunar, Deep Space",
@@ -379,25 +352,16 @@
       "US Office": "Yes"
     },
     {
-      "Organization Headquarters": "Space Flight Laboratory (Canada)",
-      "Peak Power (W)": "1,200",
-      "3-σ Pointing Control/ Knowledge": "0.009°/0.004°",
-      "Comm Options": "UHF, S, X, Ka",
-      "Intended Destination": "LEO, GEO, Lunar",
-      "Maturity": "Flown LEO Qualified GEO and Lunar",
-      "US Office": "No"
-    },
-    {
-      "Organization Headquarters": "Space Inventor (Denmark)",
-      "Peak Power (W)": "400",
+      "Organization": "Space Inventor (Denmark)",
+      "Peak Power (W)": "1,500",
       "3-σ Pointing Control/ Knowledge": "<0.008°/<0.008°",
-      "Comm Options": "VHF, UHF, S, X, L, Ka, Ku, QV",
-      "Intended Destination": "LEO, GEO, MEO",
-      "Maturity": "Qualified LEO",
+      "Comm Options": "VHF, UHF, S, X, Ka, Ku, Q",
+      "Intended Destination": "LEO, GEO, MEO, Lunar",
+      "Maturity": "Flown LEO",
       "US Office": "No"
     },
     {
-      "Organization Headquarters": "Surrey Satellite Technology Ltd. (UK)",
+      "Organization": "Surrey Satellite Technology Ltd. (UK)",
       "Peak Power (W)": "2,000",
       "3-σ Pointing Control/ Knowledge": "<0.01°/<0.01°",
       "Comm Options": "S, X, Ka, Ku, ISL",
@@ -406,30 +370,12 @@
       "US Office": "No"
     },
     {
-      "Organization Headquarters": "Terran Orbital (USA)",
+      "Organization": "Terran Orbital (USA)",
       "Peak Power (W)": "1,500",
       "3-σ Pointing Control/ Knowledge": "0.014°/0.002°",
       "Comm Options": "UHF, S, X",
       "Intended Destination": "LEO, GEO, Lunar",
       "Maturity": "Flown LEO",
-      "US Office": "Yes"
-    },
-    {
-      "Organization Headquarters": "XPLORE (USA)",
-      "Peak Power (W)": "950",
-      "3-σ Pointing Control/ Knowledge": "0.17°/ 0.018°",
-      "Comm Options": "S, X",
-      "Intended Destination": "VLEO, LEO, Cislunar",
-      "Maturity": "Under Development",
-      "US Office": "Yes"
-    },
-    {
-      "Organization Headquarters": "York Space Systems (USA)",
-      "Peak Power (W)": "1,500",
-      "3-σ Pointing Control/ Knowledge": "0.008°/0.004°",
-      "Comm Options": "UHF, S, X, Ka, Ku, Optical",
-      "Intended Destination": "LEO, GEO, Lunar",
-      "Maturity": "Flown LEO Qualified GEO and Lunar",
       "US Office": "Yes"
     }
   ]

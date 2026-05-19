@@ -1,9 +1,10 @@
 # NASA Small Spacecraft Technology — State of the Art (SST-SOA)
 
-Machine-readable data extracted from NASA's *State-of-the-Art of Small Spacecraft Technology* report, latest 2024 edition.
+Machine-readable data extracted from NASA's *State-of-the-Art of Small Spacecraft Technology* report, 2026 edition.
 
 **Source:** [nasa.gov/smallsat-institute/sst-soa](https://www.nasa.gov/smallsat-institute/sst-soa/)  
-**Data scraped:** 2026-04-09  
+**Edition:** 2026 &nbsp;·&nbsp; the previous **2024** edition is archived, unchanged, on the [`master-2024-report`](../../tree/master-2024-report) branch  
+**Data scraped:** 2026-05-19  
 **Format:** JSON (one file per table or table subgroup)
 
 > **Attribution:** All data originates from NASA's Small Spacecraft Technology Program.  
@@ -18,7 +19,7 @@ Machine-readable data extracted from NASA's *State-of-the-Art of Small Spacecraf
 
 NASA publishes this report annually to document the current state of the art in small spacecraft (under ~180 kg) subsystem technologies. It covers 13 subsystem areas from complete spacecraft platforms to propulsion, power, communications, thermal control, and more. Each chapter surveys commercially and governmentally available hardware and technologies, organized in tabular form.
 
-This repository extracts every data table from the 2024 edition into structured JSON files, making the data accessible for programmatic use, analysis, and AI applications.
+This repository extracts every data table from the 2026 edition into structured JSON files, making the data accessible for programmatic use, analysis, and AI applications.
 
 ---
 
@@ -26,16 +27,16 @@ This repository extracts every data table from the 2024 edition into structured 
 
 ```
 nasa-smallsat-soa/
-├── 01-introduction/
-├── 02-platforms/                         (8 JSON files)
-├── 03-power-subsystems/                  (9 JSON files)
+├── 01-introduction/                      (no tables)
+├── 02-platforms/                         (9 JSON files)
+├── 03-power-subsystems/                  (8 JSON files)
 ├── 04-in-space-propulsion/               (21 JSON files)
 ├── 05-guidance-navigation-and-control/   (14 JSON files)
-├── 06-structures-materials-and-mechanisms/ (17 JSON files)
+├── 06-structures-materials-and-mechanisms/ (16 JSON files)
 ├── 07-thermal-control/                   (14 JSON files)
-├── 08-small-spacecraft-avionics/         (2 JSON files)
+├── 08-small-spacecraft-avionics/         (6 JSON files)
 ├── 09-communications/                    (5 JSON files)
-├── 10-integration-launch-and-deployment/ (1 JSON file)
+├── 10-integration-launch-and-deployment/ (4 JSON files)
 ├── 11-ground-data-systems-and-mission-operations/ (18 JSON files)
 ├── 12-identification-and-tracking-systems/ (1 JSON file)
 ├── 13-deorbit-systems/                   (3 JSON files)
@@ -47,7 +48,7 @@ Each chapter folder contains:
 - One JSON file per table (or per table subgroup — see below)
 - A `README.md` listing all files, table titles, table types, and the full chapter reference list
 
-**Total: 113 JSON files** across 13 chapters.
+**Total: 119 JSON files** (107 unique NASA tables; some split into subgroup files) across 13 chapters.
 
 ---
 
@@ -56,15 +57,15 @@ Each chapter folder contains:
 | Chapter | Folder | Files | Topics |
 |---------|--------|-------|--------|
 | 1 | [01-introduction](01-introduction/) | — | Overview, no tables |
-| 2 | [02-platforms](02-platforms/) | 8 | Complete spacecraft buses (CubeSat, ESPA-class, hosted payloads) |
-| 3 | [03-power-subsystems](03-power-subsystems/) | 9 | Solar cells, batteries, PMAD |
+| 2 | [02-platforms](02-platforms/) | 9 | Complete spacecraft buses (CubeSat, ESPA-class, hosted payloads) |
+| 3 | [03-power-subsystems](03-power-subsystems/) | 8 | Solar cells, batteries, PMAD |
 | 4 | [04-in-space-propulsion](04-in-space-propulsion/) | 21 | Chemical, electric, propellantless propulsion |
 | 5 | [05-guidance-navigation-and-control](05-guidance-navigation-and-control/) | 14 | Reaction wheels, star trackers, GPS, gyros |
-| 6 | [06-structures-materials-and-mechanisms](06-structures-materials-and-mechanisms/) | 17 | Structures, deployers, AM materials, mechanisms |
+| 6 | [06-structures-materials-and-mechanisms](06-structures-materials-and-mechanisms/) | 16 | Structures, deployers, AM materials, mechanisms |
 | 7 | [07-thermal-control](07-thermal-control/) | 14 | Passive/active thermal systems, coatings, heat pipes |
-| 8 | [08-small-spacecraft-avionics](08-small-spacecraft-avionics/) | 2 | Onboard computers, memory |
+| 8 | [08-small-spacecraft-avionics](08-small-spacecraft-avionics/) | 6 | Onboard computers, memory, AI applications, flight software, operating systems |
 | 9 | [09-communications](09-communications/) | 5 | Antennas, radios, lasercom |
-| 10 | [10-integration-launch-and-deployment](10-integration-launch-and-deployment/) | 1 | Orbital transfer/maneuvering vehicles |
+| 10 | [10-integration-launch-and-deployment](10-integration-launch-and-deployment/) | 4 | Small launch vehicles, dispensers/deployers, separation devices, orbital transfer/maneuvering vehicles |
 | 11 | [11-ground-data-systems-and-mission-operations](11-ground-data-systems-and-mission-operations/) | 18 | Ground networks, mission ops software |
 | 12 | [12-identification-and-tracking-systems](12-identification-and-tracking-systems/) | 1 | Tracking technologies |
 | 13 | [13-deorbit-systems](13-deorbit-systems/) | 3 | Passive/active deorbit, drag sails |
@@ -84,8 +85,8 @@ Each JSON file represents one table or one named subgroup within a table.
   "chapter_num": 13,
   "chapter_title": "Deorbit Systems",
   "source_url": "https://www.nasa.gov/smallsat-institute/sst-soa/deorbit-systems",
-  "edition": "2024",
-  "scrape_date": "2026-04-09",
+  "edition": "2026",
+  "scrape_date": "2026-05-19",
   "columns": ["Manufacturer", "Host Spacecraft", "Device Mass (kg)", "Drag Area (m²)", "Launch Year", "TRL"],
   "_notes": ["Note that all data is documented as provided in the references..."],
   "data": [
@@ -126,7 +127,7 @@ Files sharing the same `table_id` belong to the same original NASA table.
 | `chapter_num` | integer | Chapter number (1–13) |
 | `chapter_title` | string | Full chapter name |
 | `source_url` | string | URL of the NASA chapter page |
-| `edition` | string | Report edition year, `"2024"` |
+| `edition` | string | Report edition year, `"2026"` |
 | `scrape_date` | string | ISO 8601 date the data was scraped |
 | `type` | string | Table classification: `"products"`, `"specifications"`, or `"reference"` — see below |
 | `columns` | array of strings | Column headers exactly as shown in the report, including units |
@@ -143,9 +144,9 @@ Every JSON file includes a `type` field classifying the table's content:
 
 | Value | Description | Example |
 |-------|-------------|---------|
-| `"products"` | Rows are specific commercial or government products/services with technical specifications | Table 3-5 (Li-ion manufacturers), Table 5-3 (reaction wheels) |
+| `"products"` | Rows are specific commercial or government products/services with technical specifications | Table 3-5 (battery product table), Table 5-3 (reaction wheels) |
 | `"specifications"` | General parameters, design guidelines, standards, or comparison data — not specific products | Table 3-6 (battery vs. supercapacitor), Table 6-1 (CubeSat dimensions) |
-| `"reference"` | Overview, summary, classification, mission list, or contact information | Table 4-1 (propulsion technology summary), Table 2-8 (contact info) |
+| `"reference"` | Overview, summary, classification, mission list, or contact information | Table 4-1 (propulsion technology summary), Table 2-9 (contact info) |
 
 This field lets you quickly filter tables when searching across chapters:
 
@@ -176,7 +177,21 @@ Several chapters contain tables with named internal subgroups that divide produc
 
 ## Known Limitations
 
-- **Table 11-17** (European Optical Nucleus Network OGS Key Parameters): NASA published this table as a PNG image rather than HTML. It is not included in the scraped data.
+- **NASA duplicate table numbers (2026 edition):** NASA's 2026 pages reuse some
+  table numbers for two unrelated tables. `Table 4-1` labels both *Summary of
+  Propulsion Technologies Surveyed* and *Hydrazine Chemical Propulsion* (the
+  chapter prose references a "Table 4-2" for hydrazine, but no table is actually
+  labeled 4-2); `Table 6-7` labels both *Robotic Arms for Small Spacecraft* and
+  *Polylactic Acid Filaments*. The data is preserved exactly as NASA published
+  it — files share the NASA `table_id` but are kept as separate JSON files
+  distinguished by title. The `type` field reflects the legitimately numbered
+  table for that id.
+- **2026 restructuring:** NASA reorganized several chapters relative to 2024.
+  Avionics (Ch 8) expanded from 2 to 6 tables (adding AI applications, flight
+  software, and operating systems); Integration, Launch & Deployment (Ch 10)
+  expanded from 1 to 4 tables; and chapters 3, 4, and 6 dropped or renumbered
+  tables. The fully scraped 2024 edition remains available on the
+  [`master-2024-report`](../../tree/master-2024-report) branch.
 - Data accuracy depends on NASA's source pages. The report notes that "performance data may be speculative" and relies on manufacturer datasheets.
 - Some tables contain merged cells (rowspan) that the scraper expands by repeating the spanning value across all affected rows.
 
@@ -250,9 +265,15 @@ Options:
 
 The scraper uses a 1-second delay between chapter requests to avoid overloading NASA's servers.
 
-### Automated updates
+### Updating to a new edition
 
-A GitHub Actions workflow (`.github/workflows/scrape.yml`) is configured to re-run the scraper on February 1st each year, when NASA typically publishes a new edition. It can also be triggered manually from the Actions tab.
+NASA publishes a new edition annually. To regenerate this dataset for a newer
+edition, bump the `EDITION` constant in [`scraper/config.py`](scraper/config.py)
+(and the `title` of any renamed chapter), then re-run the scraper. Each run
+rewrites every table and **prunes stale files** — table JSONs no longer present
+in the new edition are removed automatically, so each scrape yields a clean
+single-edition snapshot. Archive the outgoing edition to its own branch (as the
+2024 edition is, on `master-2024-report`) before merging the new one.
 
 ---
 

@@ -1,0 +1,109 @@
+{
+  "table_id": "10-1",
+  "title": "Commercial dedicated small launch vehicles",
+  "chapter_num": 10,
+  "chapter_title": "Integration, Launch, Deployment, and Orbital Transport",
+  "source_url": "https://www.nasa.gov/smallsat-institute/sst-soa/integration-launch-and-deployment",
+  "edition": "2026",
+  "scrape_date": "2026-05-19",
+  "type": "products",
+  "columns": [
+    "Manufacturer Headquarters",
+    "Vehicle",
+    "Performance to LEO (kg)",
+    "Number of Stages",
+    "Propellant Type",
+    "Recent Flight"
+  ],
+  "_notes": [],
+  "data": [
+    {
+      "Manufacturer Headquarters": "Rocket Lab (USA) ()",
+      "Vehicle": "Electron",
+      "Performance to LEO (kg)": "200",
+      "Number of Stages": "2",
+      "Propellant Type": "Kerosene",
+      "Recent Flight": "February 2026"
+    },
+    {
+      "Manufacturer Headquarters": "Galactic Energy (China)",
+      "Vehicle": "Ceres-1",
+      "Performance to LEO (kg)": "420",
+      "Number of Stages": "4",
+      "Propellant Type": "Solid, Hydrazine",
+      "Recent Flight": "January 2026"
+    },
+    {
+      "Manufacturer Headquarters": "Indian Space Research Organisation (ISRO) (India)",
+      "Vehicle": "SSLV",
+      "Performance to LEO (kg)": "500",
+      "Number of Stages": "3",
+      "Propellant Type": "Solid",
+      "Recent Flight": "August 2024"
+    },
+    {
+      "Manufacturer Headquarters": "Firefly (USA)",
+      "Vehicle": "Alpha",
+      "Performance to LEO (kg)": "630",
+      "Number of Stages": "2",
+      "Propellant Type": "Kerosene, LOX",
+      "Recent Flight": "TBD"
+    },
+    {
+      "Manufacturer Headquarters": "Northrop Grumman (USA)",
+      "Vehicle": "Minotaur-1",
+      "Performance to LEO (kg)": "580",
+      "Number of Stages": "4",
+      "Propellant Type": "Solid,",
+      "Recent Flight": "June 2024"
+    },
+    {
+      "Manufacturer Headquarters": "Upcoming, in development",
+      "Vehicle": "Upcoming, in development",
+      "Performance to LEO (kg)": "Upcoming, in development",
+      "Number of Stages": "Upcoming, in development",
+      "Propellant Type": "Upcoming, in development",
+      "Recent Flight": "Upcoming, in development"
+    },
+    {
+      "Manufacturer Headquarters": "Astra (USA)",
+      "Vehicle": "Rocket 4",
+      "Performance to LEO (kg)": "750",
+      "Number of Stages": "2",
+      "Propellant Type": "RP-1/ LOX",
+      "Recent Flight": "TBD"
+    },
+    {
+      "Manufacturer Headquarters": "Innospace (South Korea)",
+      "Vehicle": "Hanbit-Nano HyPER",
+      "Performance to LEO (kg)": "90",
+      "Number of Stages": "2",
+      "Propellant Type": "Hybrid, Paraffin",
+      "Recent Flight": "December 2025"
+    },
+    {
+      "Manufacturer Headquarters": "Isar Aerospace (Germany)",
+      "Vehicle": "Spectrum",
+      "Performance to LEO (kg)": "1000",
+      "Number of Stages": "2",
+      "Propellant Type": "LOX/ Propane",
+      "Recent Flight": "March 2026"
+    },
+    {
+      "Manufacturer Headquarters": "Gilmour Space (Australia)",
+      "Vehicle": "Eris",
+      "Performance to LEO (kg)": "215",
+      "Number of Stages": "3",
+      "Propellant Type": "Hybrid",
+      "Recent Flight": "2026"
+    },
+    {
+      "Manufacturer Headquarters": "Space One (Japan)",
+      "Vehicle": "KAIROS",
+      "Performance to LEO (kg)": "150",
+      "Number of Stages": "4",
+      "Propellant Type": "Solid, Liquid",
+      "Recent Flight": "December 2024"
+    }
+  ]
+}

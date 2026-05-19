@@ -1,0 +1,31 @@
+{
+  "table_id": "9-5",
+  "title": "USTP Initiative Communication Projects",
+  "chapter_num": 9,
+  "chapter_title": "Communications",
+  "source_url": "https://www.nasa.gov/smallsat-institute/sst-soa/soa-communications",
+  "edition": "2026",
+  "scrape_date": "2026-05-19",
+  "type": "reference",
+  "columns": [
+    "Project",
+    "University",
+    "Current Status",
+    "Reference"
+  ],
+  "_notes": [],
+  "data": [
+    {
+      "Project": "FIGARO, 5G arrays for lunar relay operations",
+      "University": "San Diego State",
+      "Current Status": "Still in development",
+      "Reference": "USTP Technology Expo presentation"
+    },
+    {
+      "Project": "A Small Satellite Lunar Communications and Navigation System",
+      "University": "University of Colorado, Boulder",
+      "Current Status": "Still in development",
+      "Reference": "USTP Technology Expo presentation"
+    }
+  ]
+}

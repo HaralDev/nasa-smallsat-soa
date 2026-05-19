@@ -1,0 +1,79 @@
+{
+  "table_id": "2-8",
+  "title": "List of other companies that may offer spacecraft buses and/or Hosted Orbital Services",
+  "chapter_num": 2,
+  "chapter_title": "Complete Spacecraft Platforms",
+  "source_url": "https://www.nasa.gov/smallsat-institute/sst-soa/platforms",
+  "edition": "2026",
+  "scrape_date": "2026-05-19",
+  "type": "reference",
+  "columns": [
+    "Organization",
+    "PocketQubes",
+    "CubeSats",
+    "ESPA-Class"
+  ],
+  "_notes": [],
+  "data": [
+    {
+      "Organization": "Berlin Nanospacecraft Alliance",
+      "PocketQubes": "",
+      "CubeSats": "X",
+      "ESPA-Class": ""
+    },
+    {
+      "Organization": "General Atomics EMS",
+      "PocketQubes": "",
+      "CubeSats": "X",
+      "ESPA-Class": "X"
+    },
+    {
+      "Organization": "IMT",
+      "PocketQubes": "",
+      "CubeSats": "X",
+      "ESPA-Class": ""
+    },
+    {
+      "Organization": "In-Space Missions",
+      "PocketQubes": "",
+      "CubeSats": "X",
+      "ESPA-Class": "X"
+    },
+    {
+      "Organization": "Open Cosmos",
+      "PocketQubes": "",
+      "CubeSats": "X",
+      "ESPA-Class": "X"
+    },
+    {
+      "Organization": "Quantum Galactics",
+      "PocketQubes": "",
+      "CubeSats": "X",
+      "ESPA-Class": ""
+    },
+    {
+      "Organization": "Rocket Lab",
+      "PocketQubes": "",
+      "CubeSats": "",
+      "ESPA-Class": "X"
+    },
+    {
+      "Organization": "Satellogic",
+      "PocketQubes": "",
+      "CubeSats": "",
+      "ESPA-Class": "X"
+    },
+    {
+      "Organization": "Space Information Laboratories",
+      "PocketQubes": "",
+      "CubeSats": "X",
+      "ESPA-Class": ""
+    },
+    {
+      "Organization": "XDLINX Space Lab",
+      "PocketQubes": "",
+      "CubeSats": "X",
+      "ESPA-Class": "X"
+    }
+  ]
+}

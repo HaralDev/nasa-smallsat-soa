@@ -4,8 +4,8 @@
   "chapter_num": 5,
   "chapter_title": "Guidance, Navigation, and Control",
   "source_url": "https://www.nasa.gov/smallsat-institute/sst-soa/guidance-navigation-and-control",
-  "edition": "2024",
-  "scrape_date": "2026-04-09",
+  "edition": "2026",
+  "scrape_date": "2026-05-19",
   "type": "products",
   "columns": [
     "Manufacturer",
@@ -13,313 +13,323 @@
     "Mass (kg)",
     "Power (W)",
     "FOV",
-    "Cross axis Accuracy (3s)",
-    "Twist Accuracy(3s)",
-    "Radiation Tolerance (krad)"
+    "Cross axis Accuracy (1 or 3s)",
+    "Twist Accuracy(1 or 3s)",
+    "Rad. Tol. (krad)"
   ],
   "_notes": [
-    "*Mass includes Baffle.†SEE Immune"
+    "*Mass includes Baffle. †SEE Immune"
   ],
   "data": [
     {
-      "Manufacturer": "Arcsec",
+      "Manufacturer": "Arcsec (Belgium)",
       "Model": "Sagitta",
       "Mass (kg)": "0.275",
       "Power (W)": "1.4",
       "FOV": "25.4°",
-      "Cross axis Accuracy (3s)": "6",
-      "Twist Accuracy(3s)": "30",
-      "Radiation Tolerance (krad)": "20"
+      "Cross axis Accuracy (1 or 3s)": "6",
+      "Twist Accuracy(1 or 3s)": "30",
+      "Rad. Tol. (krad)": "20"
     },
     {
-      "Manufacturer": "Arcsec",
+      "Manufacturer": "Arcsec (Belgium)",
       "Model": "Twinkle",
       "Mass (kg)": "0.04",
       "Power (W)": "0.6",
       "FOV": "10.4°",
-      "Cross axis Accuracy (3s)": "30",
-      "Twist Accuracy(3s)": "180",
-      "Radiation Tolerance (krad)": "–"
+      "Cross axis Accuracy (1 or 3s)": "30",
+      "Twist Accuracy(1 or 3s)": "180",
+      "Rad. Tol. (krad)": "–"
     },
     {
-      "Manufacturer": "BAE Systems Inc, Space and Mission Systems",
+      "Manufacturer": "BAE Systems Inc, Space and Mission Systems (USA)",
       "Model": "CT-2020",
       "Mass (kg)": "3.000",
       "Power (W)": "8",
       "FOV": "–",
-      "Cross axis Accuracy (3s)": "1.5”",
-      "Twist Accuracy(3s)": "1”",
-      "Radiation Tolerance (krad)": "–"
+      "Cross axis Accuracy (1 or 3s)": "1.5”",
+      "Twist Accuracy(1 or 3s)": "1”",
+      "Rad. Tol. (krad)": "–"
     },
     {
-      "Manufacturer": "Berlin Space Technologies / AAC Clyde Space",
+      "Manufacturer": "Berlin Space Technologies (Germany) / AAC Clyde Space (Sweden)",
       "Model": "ST200",
       "Mass (kg)": "0.040, 0.106*",
       "Power (W)": "0.65",
       "FOV": "22°",
-      "Cross axis Accuracy (3s)": "30″",
-      "Twist Accuracy(3s)": "200″",
-      "Radiation Tolerance (krad)": "11"
+      "Cross axis Accuracy (1 or 3s)": "30″",
+      "Twist Accuracy(1 or 3s)": "200″",
+      "Rad. Tol. (krad)": "11"
     },
     {
-      "Manufacturer": "Berlin Space Technologies / AAC Clyde Space",
+      "Manufacturer": "Berlin Space Technologies (Germany) / AAC Clyde Space (Sweden)",
       "Model": "ST400",
       "Mass (kg)": "0.250, 0.270*",
       "Power (W)": "0.75",
       "FOV": "15°",
-      "Cross axis Accuracy (3s)": "15″",
-      "Twist Accuracy(3s)": "150″",
-      "Radiation Tolerance (krad)": "11"
+      "Cross axis Accuracy (1 or 3s)": "15″",
+      "Twist Accuracy(1 or 3s)": "150″",
+      "Rad. Tol. (krad)": "11"
     },
     {
-      "Manufacturer": "Blue Canyon Technologies",
+      "Manufacturer": "Blue Canyon Technologies (USA)",
       "Model": "Standard NST",
       "Mass (kg)": "0.350",
-      "Power (W)": "1.5",
+      "Power (W)": "<1.5(5V) or <3.5(28V)",
       "FOV": "10° x 12°",
-      "Cross axis Accuracy (3s)": "6″",
-      "Twist Accuracy(3s)": "40″",
-      "Radiation Tolerance (krad)": "–"
+      "Cross axis Accuracy (1 or 3s)": "Gen 2: 6″",
+      "Twist Accuracy(1 or 3s)": "Gen 2: 40″",
+      "Rad. Tol. (krad)": "–"
     },
     {
-      "Manufacturer": "Blue Canyon Technologies",
-      "Model": "Extended NST",
-      "Mass (kg)": "1.300",
-      "Power (W)": "1.5",
+      "Manufacturer": "Blue Canyon Technologies (USA)",
+      "Model": "Full-Extension NST",
+      "Mass (kg)": "0.85",
+      "Power (W)": "<1.5(5V) or <3.5(28V)",
       "FOV": "10° x 12°",
-      "Cross axis Accuracy (3s)": "6″",
-      "Twist Accuracy(3s)": "40″",
-      "Radiation Tolerance (krad)": "–"
+      "Cross axis Accuracy (1 or 3s)": "Gen 2: 6 Gen 3: 1",
+      "Twist Accuracy(1 or 3s)": "Gen 2: 40 Gen 3: 10",
+      "Rad. Tol. (krad)": ""
     },
     {
-      "Manufacturer": "Creare",
+      "Manufacturer": "Creare (USA)",
       "Model": "UST",
       "Mass (kg)": "0.840",
       "Power (W)": "–",
       "FOV": "–",
-      "Cross axis Accuracy (3s)": "7″",
-      "Twist Accuracy(3s)": "15″",
-      "Radiation Tolerance (krad)": "–"
+      "Cross axis Accuracy (1 or 3s)": "7″",
+      "Twist Accuracy(1 or 3s)": "15″",
+      "Rad. Tol. (krad)": "–"
     },
     {
-      "Manufacturer": "CubeSpace Satellite Systems",
+      "Manufacturer": "CubeSpace Satellite Systems (South Africa)",
       "Model": "CubeStar",
       "Mass (kg)": "0.047",
       "Power (W)": "0.271",
       "FOV": "59.4°",
-      "Cross axis Accuracy (3s)": "0.02°",
-      "Twist Accuracy(3s)": "0.06°",
-      "Radiation Tolerance (krad)": "24"
+      "Cross axis Accuracy (1 or 3s)": "0.02°",
+      "Twist Accuracy(1 or 3s)": "0.06°",
+      "Rad. Tol. (krad)": "24"
     },
     {
-      "Manufacturer": "Danish Technical University",
+      "Manufacturer": "Danish Technical University (Denmark)",
       "Model": "MicroASC",
       "Mass (kg)": "0.425",
       "Power (W)": "1.9",
       "FOV": "–",
-      "Cross axis Accuracy (3s)": "2”",
-      "Twist Accuracy(3s)": "–",
-      "Radiation Tolerance (krad)": "–"
+      "Cross axis Accuracy (1 or 3s)": "2”",
+      "Twist Accuracy(1 or 3s)": "–",
+      "Rad. Tol. (krad)": "–"
     },
     {
-      "Manufacturer": "Jena-Optronik",
+      "Manufacturer": "Jena-Optronik (Germany)",
       "Model": "ASTRO CL",
       "Mass (kg)": "0.305",
       "Power (W)": "<1.0",
       "FOV": "25° full cone",
-      "Cross axis Accuracy (3s)": "6″",
-      "Twist Accuracy(3s)": "48″",
-      "Radiation Tolerance (krad)": "50"
+      "Cross axis Accuracy (1 or 3s)": "6″",
+      "Twist Accuracy(1 or 3s)": "48″",
+      "Rad. Tol. (krad)": "50"
     },
     {
-      "Manufacturer": "Jena-Optronik",
+      "Manufacturer": "Jena-Optronik (Germany)",
       "Model": "ASTRO APS",
       "Mass (kg)": "~2",
       "Power (W)": "<6 (<12 w/ TEC)",
       "FOV": "20° full cone",
-      "Cross axis Accuracy (3s)": "3″",
-      "Twist Accuracy(3s)": "24″",
-      "Radiation Tolerance (krad)": "100"
+      "Cross axis Accuracy (1 or 3s)": "3″",
+      "Twist Accuracy(1 or 3s)": "24″",
+      "Rad. Tol. (krad)": "100"
     },
     {
-      "Manufacturer": "Jena-Optronik",
+      "Manufacturer": "Jena-Optronik (Germany)",
       "Model": "ASTRO APS3",
       "Mass (kg)": "1.8",
       "Power (W)": "<6 (<8 w/ TEC)",
       "FOV": "20° full cone",
-      "Cross axis Accuracy (3s)": "2.4″",
-      "Twist Accuracy(3s)": "21″",
-      "Radiation Tolerance (krad)": "100"
+      "Cross axis Accuracy (1 or 3s)": "2.4″",
+      "Twist Accuracy(1 or 3s)": "21″",
+      "Rad. Tol. (krad)": "100"
     },
     {
-      "Manufacturer": "Leonardo",
+      "Manufacturer": "Leonardo (Italy)",
       "Model": "Spacestar",
       "Mass (kg)": "1.600",
       "Power (W)": "6",
       "FOV": "20° x 20°",
-      "Cross axis Accuracy (3s)": "7.7″",
-      "Twist Accuracy(3s)": "10.6″",
-      "Radiation Tolerance (krad)": "–"
+      "Cross axis Accuracy (1 or 3s)": "7.7″",
+      "Twist Accuracy(1 or 3s)": "10.6″",
+      "Rad. Tol. (krad)": "–"
     },
     {
-      "Manufacturer": "NanoAvionics",
+      "Manufacturer": "NanoAvionics (Lithuania)",
       "Model": "ST-1",
       "Mass (kg)": "0.108",
       "Power (W)": "1.2",
       "FOV": "21° full-cone",
-      "Cross axis Accuracy (3s)": "8″",
-      "Twist Accuracy(3s)": "50″",
-      "Radiation Tolerance (krad)": "20"
+      "Cross axis Accuracy (1 or 3s)": "8″",
+      "Twist Accuracy(1 or 3s)": "50″",
+      "Rad. Tol. (krad)": "20"
     },
     {
-      "Manufacturer": "Redwire Space",
+      "Manufacturer": "Redwire Space (USA)",
       "Model": "Star Tracker",
       "Mass (kg)": "0.475",
       "Power (W)": "2.5",
       "FOV": "14×19",
-      "Cross axis Accuracy (3s)": "10/27″",
-      "Twist Accuracy(3s)": "51″",
-      "Radiation Tolerance (krad)": "75"
+      "Cross axis Accuracy (1 or 3s)": "10/27″",
+      "Twist Accuracy(1 or 3s)": "51″",
+      "Rad. Tol. (krad)": "75"
     },
     {
-      "Manufacturer": "Rocket Lab",
+      "Manufacturer": "Rocket Lab (USA)",
       "Model": "ST-16RT2",
       "Mass (kg)": "0.185",
       "Power (W)": "1",
       "FOV": "8° half-cone",
-      "Cross axis Accuracy (3s)": "5″",
-      "Twist Accuracy(3s)": "55″",
-      "Radiation Tolerance (krad)": "–"
+      "Cross axis Accuracy (1 or 3s)": "5″",
+      "Twist Accuracy(1 or 3s)": "55″",
+      "Rad. Tol. (krad)": "–"
     },
     {
-      "Manufacturer": "Sodern",
-      "Model": "Auriga",
+      "Manufacturer": "Sodern (France)",
+      "Model": "Auriga-CP",
       "Mass (kg)": "0.225",
       "Power (W)": "0.8",
       "FOV": "30°",
-      "Cross axis Accuracy (3s)": "10”",
-      "Twist Accuracy(3s)": "70”",
-      "Radiation Tolerance (krad)": "35"
+      "Cross axis Accuracy (1 or 3s)": "10”",
+      "Twist Accuracy(1 or 3s)": "70”",
+      "Rad. Tol. (krad)": "35"
     },
     {
-      "Manufacturer": "Sodern",
-      "Model": "Hydra",
+      "Manufacturer": "Sodern (France)",
+      "Model": "Hydra-M",
       "Mass (kg)": "1.4",
       "Power (W)": "0.7",
       "FOV": "22°",
-      "Cross axis Accuracy (3s)": "3”",
-      "Twist Accuracy(3s)": "30″",
-      "Radiation Tolerance (krad)": "50"
+      "Cross axis Accuracy (1 or 3s)": "3”",
+      "Twist Accuracy(1 or 3s)": "30″",
+      "Rad. Tol. (krad)": "50"
     },
     {
-      "Manufacturer": "Sodern",
-      "Model": "Horus",
+      "Manufacturer": "Sodern (France)",
+      "Model": "Hydra-TC",
       "Mass (kg)": "1.6",
       "Power (W)": "9.5",
       "FOV": "23,6°",
-      "Cross axis Accuracy (3s)": "3”",
-      "Twist Accuracy(3s)": "30”",
-      "Radiation Tolerance (krad)": "50"
+      "Cross axis Accuracy (1 or 3s)": "3”",
+      "Twist Accuracy(1 or 3s)": "30”",
+      "Rad. Tol. (krad)": "50"
     },
     {
-      "Manufacturer": "Solar MEMS Technologies",
+      "Manufacturer": "Solar MEMS Technologies (Spain)",
       "Model": "STNS",
       "Mass (kg)": "0.14",
       "Power (W)": "1",
       "FOV": "12°",
-      "Cross axis Accuracy (3s)": "40″",
-      "Twist Accuracy(3s)": "70″",
-      "Radiation Tolerance (krad)": "20"
+      "Cross axis Accuracy (1 or 3s)": "40″",
+      "Twist Accuracy(1 or 3s)": "70″",
+      "Rad. Tol. (krad)": "20"
     },
     {
-      "Manufacturer": "Space Micro",
+      "Manufacturer": "Space Inventor (Denmark)",
+      "Model": "ASTRO CL",
+      "Mass (kg)": "0.465",
+      "Power (W)": "1.5",
+      "FOV": "25°",
+      "Cross axis Accuracy (1 or 3s)": "2",
+      "Twist Accuracy(1 or 3s)": "12",
+      "Rad. Tol. (krad)": "100"
+    },
+    {
+      "Manufacturer": "Space Micro (USA)",
       "Model": "MIST",
       "Mass (kg)": "0.520",
       "Power (W)": "3",
       "FOV": "14.5°",
-      "Cross axis Accuracy (3s)": "15″",
-      "Twist Accuracy(3s)": "105″",
-      "Radiation Tolerance (krad)": "30"
+      "Cross axis Accuracy (1 or 3s)": "15″",
+      "Twist Accuracy(1 or 3s)": "105″",
+      "Rad. Tol. (krad)": "30"
     },
     {
-      "Manufacturer": "Space Micro",
+      "Manufacturer": "Space Micro (USA)",
       "Model": "µSTAR-100M",
       "Mass (kg)": "1.800",
       "Power (W)": "5",
       "FOV": "–",
-      "Cross axis Accuracy (3s)": "15″",
-      "Twist Accuracy(3s)": "105″",
-      "Radiation Tolerance (krad)": "100"
+      "Cross axis Accuracy (1 or 3s)": "15″",
+      "Twist Accuracy(1 or 3s)": "105″",
+      "Rad. Tol. (krad)": "100"
     },
     {
-      "Manufacturer": "Space Micro",
+      "Manufacturer": "Space Micro (USA)",
       "Model": "µSTAR-200M",
       "Mass (kg)": "2.100",
       "Power (W)": "8-10",
       "FOV": "–",
-      "Cross axis Accuracy (3s)": "15″",
-      "Twist Accuracy(3s)": "105″",
-      "Radiation Tolerance (krad)": "100"
+      "Cross axis Accuracy (1 or 3s)": "15″",
+      "Twist Accuracy(1 or 3s)": "105″",
+      "Rad. Tol. (krad)": "100"
     },
     {
-      "Manufacturer": "Space Micro",
+      "Manufacturer": "Space Micro (USA)",
       "Model": "µSTAR-200H",
       "Mass (kg)": "2.700",
       "Power (W)": "10",
       "FOV": "–",
-      "Cross axis Accuracy (3s)": "3″",
-      "Twist Accuracy(3s)": "21″",
-      "Radiation Tolerance (krad)": "100"
+      "Cross axis Accuracy (1 or 3s)": "3″",
+      "Twist Accuracy(1 or 3s)": "21″",
+      "Rad. Tol. (krad)": "100"
     },
     {
-      "Manufacturer": "Space Micro",
+      "Manufacturer": "Space Micro (USA)",
       "Model": "µSTAR-400M",
       "Mass (kg)": "3.300",
       "Power (W)": "18",
       "FOV": "–",
-      "Cross axis Accuracy (3s)": "15″",
-      "Twist Accuracy(3s)": "105″",
-      "Radiation Tolerance (krad)": "100"
+      "Cross axis Accuracy (1 or 3s)": "15″",
+      "Twist Accuracy(1 or 3s)": "105″",
+      "Rad. Tol. (krad)": "100"
     },
     {
-      "Manufacturer": "Terma",
+      "Manufacturer": "Terma (USA)",
       "Model": "T1",
       "Mass (kg)": "0.637 OH",
       "Power (W)": "0.8 OH*, 2.5",
       "FOV": "20° circular",
-      "Cross axis Accuracy (3s)": "3.0″",
-      "Twist Accuracy(3s)": "21″",
-      "Radiation Tolerance (krad)": "55†"
+      "Cross axis Accuracy (1 or 3s)": "3.0″",
+      "Twist Accuracy(1 or 3s)": "21″",
+      "Rad. Tol. (krad)": "55†"
     },
     {
-      "Manufacturer": "Terma",
+      "Manufacturer": "Terma (USA)",
       "Model": "T3",
       "Mass (kg)": "0.45 (DPU) 0.330",
       "Power (W)": "2",
       "FOV": "20° circular",
-      "Cross axis Accuracy (3s)": "3.2″",
-      "Twist Accuracy(3s)": "22″",
-      "Radiation Tolerance (krad)": "35"
+      "Cross axis Accuracy (1 or 3s)": "3.2″",
+      "Twist Accuracy(1 or 3s)": "22″",
+      "Rad. Tol. (krad)": "35"
     },
     {
-      "Manufacturer": "Vectronic Aerospace",
+      "Manufacturer": "Vectronic Aerospace (Germany)",
       "Model": "VST-41MN",
       "Mass (kg)": "0.7 – 0.9",
       "Power (W)": "2.5",
       "FOV": "14° x 14°",
-      "Cross axis Accuracy (3s)": "27″",
-      "Twist Accuracy(3s)": "183″",
-      "Radiation Tolerance (krad)": "20"
+      "Cross axis Accuracy (1 or 3s)": "27″",
+      "Twist Accuracy(1 or 3s)": "183″",
+      "Rad. Tol. (krad)": "20"
     },
     {
-      "Manufacturer": "Vectronic Aerospace",
+      "Manufacturer": "Vectronic Aerospace (Germany)",
       "Model": "VST-68M",
       "Mass (kg)": "0.470",
       "Power (W)": "3",
       "FOV": "14° x 14°",
-      "Cross axis Accuracy (3s)": "7.5″",
-      "Twist Accuracy(3s)": "45″",
-      "Radiation Tolerance (krad)": "20"
+      "Cross axis Accuracy (1 or 3s)": "7.5″",
+      "Twist Accuracy(1 or 3s)": "45″",
+      "Rad. Tol. (krad)": "20"
     }
   ]
 }

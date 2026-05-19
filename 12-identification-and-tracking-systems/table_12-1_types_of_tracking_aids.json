@@ -4,8 +4,8 @@
   "chapter_num": 12,
   "chapter_title": "Identification and Tracking Systems",
   "source_url": "https://www.nasa.gov/smallsat-institute/sst-soa/identification-and-tracking-systems",
-  "edition": "2024",
-  "scrape_date": "2026-04-09",
+  "edition": "2026",
+  "scrape_date": "2026-05-19",
   "type": "reference",
   "columns": [
     "Technology Scheme",
@@ -19,25 +19,25 @@
       "Technology Scheme": "CubeSat position and ID via radio",
       "Description and Reference Mission": "A position, navigation, and timing (PNT) receiver is attached to a CubeSat, along with a radio to transmit the information via a LEO communications provider (or directly to the ground); example: BlackBox, Blinker.",
       "TRL": "7-9",
-      "Citation": "(12) (13)"
+      "Citation": "(22)(23)"
     },
     {
       "Technology Scheme": "Coded light signals from light source on exterior of CubeSat",
       "Description and Reference Mission": "Exterior-mounted LEDs with large-aperture telescopes to receive the signal or diffused LED lasers with ground-based photon-counting cameras.",
       "TRL": "6-7",
-      "Citation": "(14) (15)"
+      "Citation": "(24)(25)"
     },
     {
       "Technology Scheme": "Radio Frequency interrogation of an exterior Van Atta array",
       "Description and Reference Mission": "For example, exterior mounted radio frequency identification (RFID) tag & commensurate radar.",
       "TRL": "7-9",
-      "Citation": "(16)"
+      "Citation": "(26)"
     },
     {
       "Technology Scheme": "Laser interrogated corner cube reflectors (CCR)",
       "Description and Reference Mission": "One or several small CCRs can be attached to CubeSat exterior; ground-based laser and receiver telescope needed to distinguish number of CCRs.",
       "TRL": "7-9",
-      "Citation": "(17)"
+      "Citation": "(27)"
     },
     {
       "Technology Scheme": "Passive augmentations to visibility",

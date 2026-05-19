@@ -4,8 +4,8 @@
   "chapter_num": 7,
   "chapter_title": "Thermal Control",
   "source_url": "https://www.nasa.gov/smallsat-institute/sst-soa/thermal-control",
-  "edition": "2024",
-  "scrape_date": "2026-04-09",
+  "edition": "2026",
+  "scrape_date": "2026-05-19",
   "type": "products",
   "columns": [
     "Manufacturer",
@@ -15,7 +15,7 @@
     "Mass (kg)",
     "Power (W)",
     "TRL",
-    "Notes"
+    "Notes:"
   ],
   "_notes": [
     "TRL values provided are specific to low-Earth environments for SmallSats <180 kg."
@@ -29,7 +29,7 @@
       "Mass (kg)": "0.350",
       "Power (W)": "15",
       "TRL": "7 – 9",
-      "Notes": "1 W cooling @150K cold tip. Integrated on LunIR CubeSat (launcher: Artemis I)."
+      "Notes:": "1 W cooling @150K cold tip. Integrated on LunIR CubeSat (launcher: Artemis I)."
     },
     {
       "Manufacturer": "Lockheed Martin Space",
@@ -39,7 +39,7 @@
       "Mass (kg)": "0.475",
       "Power (W)": "25",
       "TRL": "6",
-      "Notes": "2 W cooling @105K cold tip. Tested for MISE. Tentatively slated for integration into Europa Clipper."
+      "Notes:": "2 W cooling @105K cold tip. Tested for MISE. Tentatively slated for integration into Europa Clipper."
     },
     {
       "Manufacturer": "Lockheed Martin Space",
@@ -49,7 +49,7 @@
       "Mass (kg)": "",
       "Power (W)": "40",
       "TRL": "5",
-      "Notes": "Original design point: 1.4 W cooling @105K (40 W). Max Cooling: 2.9 W @200K (30 W)."
+      "Notes:": "Original design point: 1.4 W cooling @105K (40 W). Max Cooling: 2.9 W @200K (30 W)."
     },
     {
       "Manufacturer": "AIM Infrarot-Module GmbH",
@@ -59,7 +59,7 @@
       "Mass (kg)": "0.85",
       "Power (W)": "24",
       "TRL": "6 – 9",
-      "Notes": "0.6 W @80K cold tip. Slated from HyTi: Hyperspectral Thermal Imager (6U CubeSat)."
+      "Notes:": "0.6 W @80K cold tip. Slated from HyTi: Hyperspectral Thermal Imager (6U CubeSat)."
     },
     {
       "Manufacturer": "SunPower – Ametek",
@@ -69,7 +69,7 @@
       "Mass (kg)": "1.20",
       "Power (W)": "45",
       "TRL": "6",
-      "Notes": "1.8 W @77K (23°C reject). Op to 40K."
+      "Notes:": "1.8 W @77K (23°C reject). Op to 40K."
     },
     {
       "Manufacturer": "SunPower – Ametek",
@@ -79,7 +79,7 @@
       "Mass (kg)": "2.10",
       "Power (W)": "80",
       "TRL": "6",
-      "Notes": "5 W @77K (23°C reject). Op to 40K."
+      "Notes:": "5 W @77K (23°C reject). Op to 40K."
     },
     {
       "Manufacturer": "Ricor",
@@ -89,7 +89,7 @@
       "Mass (kg)": "0.475",
       "Power (W)": "5.5",
       "TRL": "4 – 6",
-      "Notes": "0.2 W @80K (23°C reject). Demo for ‘Active CryoCubeSat (ACCS)’ project."
+      "Notes:": "0.2 W @80K (23°C reject). Demo for ‘Active CryoCubeSat (ACCS)’ project."
     }
   ]
 }

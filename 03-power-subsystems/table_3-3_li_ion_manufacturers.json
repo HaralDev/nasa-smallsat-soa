@@ -1,0 +1,37 @@
+{
+  "table_id": "3-3",
+  "title": "Commercial and Space Li-ion Manufacturers",
+  "chapter_num": 3,
+  "chapter_title": "Power Subsystems",
+  "source_url": "https://www.nasa.gov/smallsat-institute/sst-soa/power-subsystems",
+  "edition": "2026",
+  "scrape_date": "2026-05-19",
+  "type": "products",
+  "columns": [
+    "Commercial Li-ion Manufacturing",
+    "Space Li-ion Manufacturing"
+  ],
+  "_notes": [],
+  "data": [
+    {
+      "Commercial Li-ion Manufacturing": "Panasonic",
+      "Space Li-ion Manufacturing": "Japan"
+    },
+    {
+      "Commercial Li-ion Manufacturing": "LG Chem",
+      "Space Li-ion Manufacturing": "South Korea"
+    },
+    {
+      "Commercial Li-ion Manufacturing": "Samsung",
+      "Space Li-ion Manufacturing": "South Korea"
+    },
+    {
+      "Commercial Li-ion Manufacturing": "E-one Moli",
+      "Space Li-ion Manufacturing": "Taiwan"
+    },
+    {
+      "Commercial Li-ion Manufacturing": "Sony",
+      "Space Li-ion Manufacturing": "Japan"
+    }
+  ]
+}

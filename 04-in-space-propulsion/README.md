@@ -1,8 +1,8 @@
 # Chapter 4 — In-Space Propulsion
 
 **Source:** https://www.nasa.gov/smallsat-institute/sst-soa/in-space_propulsion  
-**Edition:** 2024  
-**Data scraped:** 2026-04-09
+**Edition:** 2026  
+**Data scraped:** 2026-05-19
 
 ## Files in this folder
 
@@ -11,8 +11,8 @@
 | table_4-1_summary_4_6_1_chemical_propulsion_technologies.json | Table 4-1: Summary of Propulsion Technologies Surveyed | reference | 4.6.1 CHEMICAL PROPULSION TECHNOLOGIES |
 | table_4-1_summary_4_6_2_electric_propulsion_technologies.json | Table 4-1: Summary of Propulsion Technologies Surveyed | reference | 4.6.2 ELECTRIC PROPULSION TECHNOLOGIES |
 | table_4-1_summary_4_6_3_propellantless_propulsion_technologies.json | Table 4-1: Summary of Propulsion Technologies Surveyed | reference | 4.6.3 PROPELLANTLESS PROPULSION TECHNOLOGIES |
-| table_4-2_hydrazine_chemical_propulsion_integrated_systems.json | Table 4-2: Hydrazine Chemical Propulsion | products | Integrated Propulsion Systems |
-| table_4-2_hydrazine_chemical_propulsion_thruster_heads.json | Table 4-2: Hydrazine Chemical Propulsion | products | Thruster |
+| table_4-1_hydrazine_chemical_propulsion_integrated_systems.json | Table 4-1: Hydrazine Chemical Propulsion | reference | Integrated Propulsion Systems |
+| table_4-1_hydrazine_chemical_propulsion_thruster_heads.json | Table 4-1: Hydrazine Chemical Propulsion | reference | Thruster |
 | table_4-3_alt_monobiprop_integrated_systems.json | Table 4-3: Alternative Monopropellant and Bipropellant Propulsion | products | Integrated Propulsion Systems |
 | table_4-3_alt_monobiprop_thruster_heads.json | Table 4-3: Alternative Monopropellant and Bipropellant Propulsion | products | Thruster Heads |
 | table_4-4_hybrid_chemical.json | Table 4-4: Hybrid Chemical Propulsion | products | — |

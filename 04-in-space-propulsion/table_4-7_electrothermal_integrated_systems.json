@@ -5,8 +5,8 @@
   "chapter_num": 4,
   "chapter_title": "In-Space Propulsion",
   "source_url": "https://www.nasa.gov/smallsat-institute/sst-soa/in-space_propulsion",
-  "edition": "2024",
-  "scrape_date": "2026-04-09",
+  "edition": "2026",
+  "scrape_date": "2026-05-19",
   "type": "products",
   "columns": [
     "Manufacturer",
@@ -40,7 +40,7 @@
       "ACS": "N",
       "PMI Status": "D",
       "Missions": "–",
-      "References": "(311)"
+      "References": "(317)"
     },
     {
       "Manufacturer": "AIS (USA)",
@@ -55,7 +55,7 @@
       "ACS": "N",
       "PMI Status": "D",
       "Missions": "–",
-      "References": "(311)"
+      "References": "(317)"
     },
     {
       "Manufacturer": "AIS (USA)",
@@ -70,7 +70,7 @@
       "ACS": "N",
       "PMI Status": "D",
       "Missions": "–",
-      "References": "(311)"
+      "References": "(317)"
     },
     {
       "Manufacturer": "Aurora (Finland)",
@@ -85,7 +85,7 @@
       "ACS": "Y",
       "PMI Status": "E",
       "Missions": "AuroraSat-1 (2022), ORB-12 STRIDER",
-      "References": "(156) (158) (159) (276)"
+      "References": "(156) (158) (159) (280)"
     },
     {
       "Manufacturer": "Aurora (Finland)",
@@ -115,7 +115,7 @@
       "ACS": "Y",
       "PMI Status": "D",
       "Missions": "–",
-      "References": "(109)"
+      "References": "(104)"
     },
     {
       "Manufacturer": "Bradford Space (Netherlands)",
@@ -130,7 +130,7 @@
       "ACS": "N",
       "PMI Status": "F",
       "Missions": "HawkEye 360, Capella Space, Transporter 7",
-      "References": "(135) (136) (137) (138)"
+      "References": "(134) (135) (136) (137)"
     },
     {
       "Manufacturer": "Bradford Space (Netherlands)",
@@ -145,7 +145,7 @@
       "ACS": "N",
       "PMI Status": "F",
       "Missions": "BlackSky",
-      "References": "(135) (138) (139)"
+      "References": "(134) (137) (138)"
     },
     {
       "Manufacturer": "CU Aerospace (USA)",
@@ -160,7 +160,7 @@
       "ACS": "Y",
       "PMI Status": "D",
       "Missions": "–",
-      "References": "(313) (314) (315) (316)"
+      "References": "(319) (320) (321) (322)"
     },
     {
       "Manufacturer": "CU Aerospace (USA)",
@@ -175,7 +175,7 @@
       "ACS": "Y",
       "PMI Status": "D",
       "Missions": "–",
-      "References": "(313) (314) (315) (316)"
+      "References": "(319) (320) (321) (322)"
     },
     {
       "Manufacturer": "CU Aerospace (USA)",
@@ -190,7 +190,7 @@
       "ACS": "Y",
       "PMI Status": "D",
       "Missions": "–",
-      "References": "(313) (314) (315) (316)"
+      "References": "(319) (320) (321) (322)"
     },
     {
       "Manufacturer": "CU Aerospace and VACCO (USA)",
@@ -205,7 +205,7 @@
       "ACS": "N",
       "PMI Status": "E",
       "Missions": "8 flight units delivered to AFRL",
-      "References": "(140) (141) (142)"
+      "References": "(139) (140) (141)"
     },
     {
       "Manufacturer": "CU Aerospace (USA)",
@@ -219,8 +219,8 @@
       "Power": "45",
       "ACS": "N",
       "PMI Status": "E",
-      "Missions": "DUPLEX (launch 2024**)",
-      "References": "(143) (144) (145) (146)"
+      "Missions": "DUPLEX (2025)",
+      "References": "(142) (143) (144) (145) (154) (155)"
     },
     {
       "Manufacturer": "EPL (USA)",
@@ -235,7 +235,7 @@
       "ACS": "N",
       "PMI Status": "D",
       "Missions": "–",
-      "References": "(317)"
+      "References": "(323)"
     },
     {
       "Manufacturer": "EPL (USA)",
@@ -250,52 +250,52 @@
       "ACS": "N",
       "PMI Status": "E",
       "Missions": "Atomos Space (2024**)",
-      "References": "(317) (318)"
+      "References": "(323) (324)"
     },
     {
       "Manufacturer": "Pale Blue (Japan)",
-      "Product": "PBR-9",
+      "Product": "PBR-10",
       "Propellant": "Water",
       "Thrust*": "1.0",
-      "Specific Impulse*": "45",
-      "Total Impulse*": "35",
+      "Specific Impulse*": "–",
+      "Total Impulse*": "55",
       "Mass": "0.6 (†)",
       "Envelope": "0.5U",
-      "Power": "9",
+      "Power": "6",
       "ACS": "N",
-      "PMI Status": "D",
-      "Missions": "–",
-      "References": "(319)"
+      "PMI Status": "E",
+      "Missions": "ArkEdge AE1c",
+      "References": "(325) (326)"
     },
     {
       "Manufacturer": "Pale Blue (Japan)",
       "Product": "PBR-20",
       "Propellant": "Water",
       "Thrust*": "1.0",
-      "Specific Impulse*": "70",
-      "Total Impulse*": "200",
+      "Specific Impulse*": "–",
+      "Total Impulse*": "220",
       "Mass": "1.5 (†)",
       "Envelope": "1U",
       "Power": "20",
       "ACS": "N",
       "PMI Status": "E",
-      "Missions": "ArkEdge OPTIMAL-1",
-      "References": "(160) (319)"
+      "Missions": "ArkEdge OPTIMAL-1; SPHERE-1 EYE",
+      "References": "(160) (161) (325)"
     },
     {
       "Manufacturer": "Pale Blue (Japan)",
-      "Product": "Water Resistojet Propulsion System",
+      "Product": "PBR-30",
       "Propellant": "Water",
-      "Thrust*": "2.7",
-      "Specific Impulse*": "60",
-      "Total Impulse*": "170",
-      "Mass": "1.4 (†)",
-      "Envelope": "1.25U",
-      "Power": "< 30",
+      "Thrust*": "12",
+      "Specific Impulse*": "–",
+      "Total Impulse*": "400",
+      "Mass": "2.1 (†)",
+      "Envelope": "2U",
+      "Power": "35",
       "ACS": "N",
-      "PMI Status": "E",
-      "Missions": "SPHERE-1 EYE",
-      "References": "(161)"
+      "PMI Status": "D",
+      "Missions": "–",
+      "References": "(325)"
     },
     {
       "Manufacturer": "SteamJet Space Systems (UK)",
@@ -310,7 +310,7 @@
       "ACS": "N",
       "PMI Status": "D",
       "Missions": "–",
-      "References": "(147)"
+      "References": "(146)"
     },
     {
       "Manufacturer": "SteamJet Space Systems (UK)",
@@ -325,7 +325,7 @@
       "ACS": "N",
       "PMI Status": "D",
       "Missions": "–",
-      "References": "(148)"
+      "References": "(147)"
     }
   ]
 }

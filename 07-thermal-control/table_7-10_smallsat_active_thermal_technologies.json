@@ -4,30 +4,30 @@
   "chapter_num": 7,
   "chapter_title": "Thermal Control",
   "source_url": "https://www.nasa.gov/smallsat-institute/sst-soa/thermal-control",
-  "edition": "2024",
-  "scrape_date": "2026-04-09",
+  "edition": "2026",
+  "scrape_date": "2026-05-19",
   "type": "reference",
   "columns": [
     "Active Technology",
-    "(Description)"
+    "Description"
   ],
   "_notes": [],
   "data": [
     {
       "Active Technology": "Electrical Heaters",
-      "(Description)": "Space heaters use an electrical-resistance element in between two sheets of flexible electrically insulating material."
+      "Description": "Space heaters use an electrical-resistance element in between two sheets of flexible electrically insulating material."
     },
     {
       "Active Technology": "Cryocoolers",
-      "(Description)": "Miniature refrigeration system designed to cool components to extremely low temperatures."
+      "Description": "Miniature refrigeration system designed to cool components to extremely low temperatures."
     },
     {
       "Active Technology": "Thermoelectric Coolers (TEC)",
-      "(Description)": "miniature solid-state heat pumps which provide localized cooling via the Peltier effect, which is cooling resulting from passing electric current through a junction formed by two dissimilar metals"
+      "Description": "Miniature solid-state heat pumps which provide localized cooling via the Peltier effect, which is cooling resulting from passing electric current through a junction formed by two dissimilar metals"
     },
     {
       "Active Technology": "Fluid Loops",
-      "(Description)": "System that circulates a working fluid through the spacecraft to a heat sink."
+      "Description": "System that circulates a working fluid through the spacecraft to a heat sink."
     }
   ]
 }

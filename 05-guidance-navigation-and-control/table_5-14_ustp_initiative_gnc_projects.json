@@ -4,8 +4,8 @@
   "chapter_num": 5,
   "chapter_title": "Guidance, Navigation, and Control",
   "source_url": "https://www.nasa.gov/smallsat-institute/sst-soa/guidance-navigation-and-control",
-  "edition": "2024",
-  "scrape_date": "2026-04-09",
+  "edition": "2026",
+  "scrape_date": "2026-05-19",
   "type": "reference",
   "columns": [
     "Project",
@@ -15,6 +15,24 @@
   ],
   "_notes": [],
   "data": [
+    {
+      "Project": "DESPINA: X-Ray spectrometer optimized for deep space PNT using pulsar and other astrophysical X-ray sources",
+      "University": "University of Minnesota",
+      "Current Status": "Still in development",
+      "Reference": "(47)"
+    },
+    {
+      "Project": "ODIN: OPNAV instrument for deep space navigation",
+      "University": "Georgia Institute of Technology",
+      "Current Status": "Still in development",
+      "Reference": "(47)"
+    },
+    {
+      "Project": "High-TRL optical frequency combs (OFC) that enable planar on-chip navigation-grade oscillators with significantly better noise performance",
+      "University": "California Institute of Technology",
+      "Current Status": "Still in development",
+      "Reference": "(47)"
+    },
     {
       "Project": "On-Orbit Demonstration of Surface Feature-Based Navigation and Timing",
       "University": "University of Texas, Austin",
@@ -30,8 +48,8 @@
     {
       "Project": "Distributed multi-GNSS Timing and Localization (DiGiTaL)",
       "University": "Stanford University",
-      "Current Status": "Leveraged technology used in Starling mission",
-      "Reference": "STP Technology Expo presentation"
+      "Current Status": "Leveraged technology for ANS in Starling mission",
+      "Reference": "USTP Technology Expo presentation"
     },
     {
       "Project": "Mems Reaction Control and Maneuvering for Picosat beyond LEO",

@@ -4,11 +4,11 @@
   "chapter_num": 9,
   "chapter_title": "Communications",
   "source_url": "https://www.nasa.gov/smallsat-institute/sst-soa/soa-communications",
-  "edition": "2024",
-  "scrape_date": "2026-04-09",
+  "edition": "2026",
+  "scrape_date": "2026-05-19",
   "type": "reference",
   "columns": [
-    "Vendor/Developer",
+    "Vendor / Developer",
     "Terminal",
     "Platform",
     "Data Rate",
@@ -16,13 +16,12 @@
     "Power",
     "Wavelength",
     "Modulation",
-    "Launch Date",
-    "Reference"
+    "Launch Date"
   ],
   "_notes": [],
   "data": [
     {
-      "Vendor/Developer": "NICT",
+      "Vendor / Developer": "NICT",
       "Terminal": "SOTA",
       "Platform": "SOCRATES",
       "Data Rate": "10",
@@ -30,11 +29,10 @@
       "Power": "16",
       "Wavelength": "976/800/1549",
       "Modulation": "OOK",
-      "Launch Date": "5.2014",
-      "Reference": "21"
+      "Launch Date": "May 2014"
     },
     {
-      "Vendor/Developer": "DLR",
+      "Vendor / Developer": "DLR",
       "Terminal": "OSIRISv2",
       "Platform": "BiROS",
       "Data Rate": "1000",
@@ -42,11 +40,10 @@
       "Power": "37",
       "Wavelength": "1550",
       "Modulation": "OOK",
-      "Launch Date": "6.2016",
-      "Reference": "24"
+      "Launch Date": "June 2016"
     },
     {
-      "Vendor/Developer": "DLR",
+      "Vendor / Developer": "DLR",
       "Terminal": "OSIRISv1",
       "Platform": "Flying Laptop",
       "Data Rate": "200",
@@ -54,11 +51,10 @@
       "Power": "26",
       "Wavelength": "1550",
       "Modulation": "OOK",
-      "Launch Date": "7.2017",
-      "Reference": "23, 24, 25"
+      "Launch Date": "July 2017"
     },
     {
-      "Vendor/Developer": "Aerospace Corporation",
+      "Vendor / Developer": "Aerospace Corporation",
       "Terminal": "OCSD-B&C",
       "Platform": "AeroCube-7",
       "Data Rate": "200",
@@ -66,11 +62,10 @@
       "Power": "20",
       "Wavelength": "1064",
       "Modulation": "OOK",
-      "Launch Date": "12.2017",
-      "Reference": "16"
+      "Launch Date": "December2017"
     },
     {
-      "Vendor/Developer": "NICT",
+      "Vendor / Developer": "NICT",
       "Terminal": "VSOTA",
       "Platform": "RISESAT",
       "Data Rate": "1",
@@ -78,11 +73,10 @@
       "Power": "4.33",
       "Wavelength": "980/1550",
       "Modulation": "OOK/PPM",
-      "Launch Date": "1.2019",
-      "Reference": "22"
+      "Launch Date": "January 2019"
     },
     {
-      "Vendor/Developer": "Sony/JAXA",
+      "Vendor / Developer": "Sony/JAXA",
       "Terminal": "SOLISS",
       "Platform": "ISS",
       "Data Rate": "100",
@@ -90,11 +84,10 @@
       "Power": "36",
       "Wavelength": "1550",
       "Modulation": "OOK",
-      "Launch Date": "7.2019",
-      "Reference": "28, 29"
+      "Launch Date": "July 2019"
     },
     {
-      "Vendor/Developer": "DLR",
+      "Vendor / Developer": "DLR",
       "Terminal": "OSIRIS4CubeSat",
       "Platform": "PIXL-1",
       "Data Rate": "100",
@@ -102,11 +95,10 @@
       "Power": "10",
       "Wavelength": "1550",
       "Modulation": "OOK",
-      "Launch Date": "1.2021",
-      "Reference": "27"
+      "Launch Date": "January 2021"
     },
     {
-      "Vendor/Developer": "MIT Lincoln Labs",
+      "Vendor / Developer": "MIT Lincoln Labs",
       "Terminal": "TBIRD",
       "Platform": "PDT-3",
       "Data Rate": "200,000",
@@ -114,11 +106,10 @@
       "Power": "100",
       "Wavelength": "1550",
       "Modulation": "QPSK",
-      "Launch Date": "5.2022",
-      "Reference": "30"
+      "Launch Date": "May 2022"
     },
     {
-      "Vendor/Developer": "MIT",
+      "Vendor / Developer": "MIT",
       "Terminal": "CLICK-A",
       "Platform": "CLICK",
       "Data Rate": "10",
@@ -126,11 +117,10 @@
       "Power": "15",
       "Wavelength": "1550",
       "Modulation": "PPM",
-      "Launch Date": "7.2022",
-      "Reference": "26"
+      "Launch Date": "July 2022"
     },
     {
-      "Vendor/Developer": "AAC Clyde Space",
+      "Vendor / Developer": "AAC Clyde Space",
       "Terminal": "CubeCat",
       "Platform": "NorSat-TD",
       "Data Rate": "1000",
@@ -138,11 +128,10 @@
       "Power": "15",
       "Wavelength": "1550",
       "Modulation": "OOK",
-      "Launch Date": "4.2023",
-      "Reference": "31"
+      "Launch Date": "April 2023"
     },
     {
-      "Vendor/Developer": "MIT",
+      "Vendor / Developer": "MIT",
       "Terminal": "CLICK-B/C",
       "Platform": "CLICK",
       "Data Rate": "20",
@@ -150,11 +139,10 @@
       "Power": "30",
       "Wavelength": "1537/1563",
       "Modulation": "PPM",
-      "Launch Date": "Est. 2025",
-      "Reference": "26"
+      "Launch Date": "Est. 2026"
     },
     {
-      "Vendor/Developer": "DLR",
+      "Vendor / Developer": "DLR",
       "Terminal": "CubeISL",
       "Platform": "CubeISL",
       "Data Rate": "100",
@@ -162,8 +150,29 @@
       "Power": "30",
       "Wavelength": "1537/1553",
       "Modulation": "OOK",
-      "Launch Date": "Est. 2025",
-      "Reference": "LC5, LC6"
+      "Launch Date": "2025"
+    },
+    {
+      "Vendor / Developer": "CACI",
+      "Terminal": "Skylight",
+      "Platform": "",
+      "Data Rate": "100",
+      "Mass": "1.6",
+      "Power": "35",
+      "Wavelength": "1536/1553",
+      "Modulation": "PPM",
+      "Launch Date": "May 2024"
+    },
+    {
+      "Vendor / Developer": "Emxys",
+      "Terminal": "ODALCOM",
+      "Platform": "Optical transceiver",
+      "Data Rate": "200",
+      "Mass": "<1",
+      "Power": "2.6",
+      "Wavelength": "1550",
+      "Modulation": "Unipolar NRZ",
+      "Launch Date": "Est. 2026"
     }
   ]
 }

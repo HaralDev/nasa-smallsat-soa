@@ -4,8 +4,8 @@
   "chapter_num": 7,
   "chapter_title": "Thermal Control",
   "source_url": "https://www.nasa.gov/smallsat-institute/sst-soa/thermal-control",
-  "edition": "2024",
-  "scrape_date": "2026-04-09",
+  "edition": "2026",
+  "scrape_date": "2026-05-19",
   "type": "products",
   "columns": [
     "Manufacturer",
@@ -14,7 +14,7 @@
     "Mass",
     "Volume",
     "TRL",
-    "Notes"
+    "Notes:"
   ],
   "_notes": [
     "TRL values provided are specific to low-Earth environments for SmallSats <180 kg."
@@ -27,7 +27,7 @@
       "Mass": "–",
       "Volume": "< 1U",
       "TRL": "4 – 6",
-      "Notes": "Scalable to ≤ 200W"
+      "Notes:": "Scalable to ≤ 200W"
     },
     {
       "Manufacturer": "Lockheed Martin",
@@ -36,7 +36,7 @@
       "Mass": "0.2 kg",
       "Volume": "< 1U (Est.)",
       "TRL": "4 – 5",
-      "Notes": ""
+      "Notes:": ""
     }
   ]
 }
