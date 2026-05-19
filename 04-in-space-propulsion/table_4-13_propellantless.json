@@ -4,8 +4,8 @@
   "chapter_num": 4,
   "chapter_title": "In-Space Propulsion",
   "source_url": "https://www.nasa.gov/smallsat-institute/sst-soa/in-space_propulsion",
-  "edition": "2024",
-  "scrape_date": "2026-04-09",
+  "edition": "2026",
+  "scrape_date": "2026-05-19",
   "type": "products",
   "columns": [
     "Manufacturer",
@@ -54,7 +54,7 @@
       "ACS": "N",
       "PMI Status": "F",
       "Missions": "Prox-1, NPSat-1, DragRacer",
-      "References": "(302) (303) (304) (305) (306) (404)(306) (307) (308) (309) (310) (407) (305) (306) (404)"
+      "References": "(312) (313) (314) (315) (316) (426)"
     }
   ]
 }

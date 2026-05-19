@@ -5,8 +5,8 @@
   "chapter_num": 4,
   "chapter_title": "In-Space Propulsion",
   "source_url": "https://www.nasa.gov/smallsat-institute/sst-soa/in-space_propulsion",
-  "edition": "2024",
-  "scrape_date": "2026-04-09",
+  "edition": "2026",
+  "scrape_date": "2026-05-19",
   "type": "products",
   "columns": [
     "Manufacturer",
@@ -40,7 +40,7 @@
       "ACS": "–",
       "PMI Status": "E",
       "Missions": "PacSciSat",
-      "References": "(99) (100)"
+      "References": "(94) (95)"
     }
   ]
 }

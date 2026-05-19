@@ -1,0 +1,97 @@
+{
+  "table_id": "10-2",
+  "title": "Commercial Small Spacecraft Dispensers / Deployers",
+  "chapter_num": 10,
+  "chapter_title": "Integration, Launch, Deployment, and Orbital Transport",
+  "source_url": "https://www.nasa.gov/smallsat-institute/sst-soa/integration-launch-and-deployment",
+  "edition": "2026",
+  "scrape_date": "2026-05-19",
+  "type": "products",
+  "columns": [
+    "Manufacturer Headquarters",
+    "Product",
+    "Volume Configurations",
+    "Type"
+  ],
+  "_notes": [],
+  "data": [
+    {
+      "Manufacturer Headquarters": "Cal Poly (USA)",
+      "Product": "Dispenser",
+      "Volume Configurations": "1U, 3U",
+      "Type": "Tab"
+    },
+    {
+      "Manufacturer Headquarters": "COMAT (France)",
+      "Product": "Dispenser",
+      "Volume Configurations": "3U, 6U, 12U",
+      "Type": "Rail"
+    },
+    {
+      "Manufacturer Headquarters": "Dhruva Space (India)",
+      "Product": "DSOD",
+      "Volume Configurations": "1U, 3U, 6U, 12U, 16U",
+      "Type": "Rail"
+    },
+    {
+      "Manufacturer Headquarters": "Exolaunch (Germany)",
+      "Product": "EXOtube, EXOpod Nova Cubesat Deployer",
+      "Volume Configurations": "0.25U, 1U, 2U, 3U, 6U, 6U XL, 8U, 12U, 16U",
+      "Type": "Rail"
+    },
+    {
+      "Manufacturer Headquarters": "Gran Systems (Taiwan)",
+      "Product": "MyPOD and Test PODs",
+      "Volume Configurations": "3U, 6U, 12U, 16U",
+      "Type": "Rail"
+    },
+    {
+      "Manufacturer Headquarters": "ISISPACE (The Netherlands)",
+      "Product": "DuoPack, QuadPack",
+      "Volume Configurations": "1U, 2U, 3U, 4U, 6U, 8U, 12U, 6UXL, 12UXL, 16U",
+      "Type": "Rail"
+    },
+    {
+      "Manufacturer Headquarters": "Maverick Space Systems (USA)",
+      "Product": "Mercury series",
+      "Volume Configurations": "3U, 6U, 6T, 12U, 12T, 16U",
+      "Type": "Rail, Tab"
+    },
+    {
+      "Manufacturer Headquarters": "NPC Spacemind (Italy)",
+      "Product": "SMPOD",
+      "Volume Configurations": "1U,2U,3U,4U,6U,6U XL, 8U, 12U, 12U XL, 16U",
+      "Type": "Rail"
+    },
+    {
+      "Manufacturer Headquarters": "Rocket Lab (USA)",
+      "Product": "Canisterized Satellite Dispenser (CSD), and Advanced Satellite Dispenser (ASD)",
+      "Volume Configurations": "3U, 6U, 12U 6U, expandable to 3U–12U",
+      "Type": "Tab"
+    },
+    {
+      "Manufacturer Headquarters": "Tyvak (USA)",
+      "Product": "Railpod III, 6U NLAS, 12U Deployer",
+      "Volume Configurations": "3U, 6U, 12U",
+      "Type": "Rail"
+    },
+    {
+      "Manufacturer Headquarters": "UARX Space (Spain)",
+      "Product": "RAMI",
+      "Volume Configurations": "1U, 2U, 3U, 6U, 12U",
+      "Type": "Rail"
+    },
+    {
+      "Manufacturer Headquarters": "Voyager Space (USA)",
+      "Product": "NanoRacks CubeSat Deployer (NRCSD)",
+      "Volume Configurations": "1U, 2U, 3U, 6U",
+      "Type": "Rail"
+    },
+    {
+      "Manufacturer Headquarters": "Xterra (USA)",
+      "Product": "CubeSat Dispenser (XCD)",
+      "Volume Configurations": "1U, 2U, 3U, 6U, 6U XL, 8U, 12U, 16U",
+      "Type": "Rail"
+    }
+  ]
+}

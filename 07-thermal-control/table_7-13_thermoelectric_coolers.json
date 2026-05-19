@@ -4,8 +4,8 @@
   "chapter_num": 7,
   "chapter_title": "Thermal Control",
   "source_url": "https://www.nasa.gov/smallsat-institute/sst-soa/thermal-control",
-  "edition": "2024",
-  "scrape_date": "2026-04-09",
+  "edition": "2026",
+  "scrape_date": "2026-05-19",
   "type": "products",
   "columns": [
     "Manufacturer",
@@ -13,7 +13,7 @@
     "Cooling Capacity",
     "ΔT @ 27°C",
     "Operating Temp",
-    "Notes"
+    "Notes:"
   ],
   "_notes": [],
   "data": [
@@ -23,7 +23,7 @@
       "Cooling Capacity": "1.8 – 118 W18 – 71 W69 – 299 W7.7 – 322 W0.3 – 38 W",
       "ΔT @ 27°C": "68 – 74°C68 – 74°C68 – 74°C68 – 74°C81 – 129°C",
       "Operating Temp": "< 80°C< 80°C< 80°C< 150°C< 80°C",
-      "Notes": ""
+      "Notes:": ""
     },
     {
       "Manufacturer": "Custom Thermoelectric",
@@ -31,7 +31,7 @@
       "Cooling Capacity": "6.1 W",
       "ΔT @ 27°C": "70°C (Max)",
       "Operating Temp": "< 200°C",
-      "Notes": ""
+      "Notes:": ""
     },
     {
       "Manufacturer": "FerroTec",
@@ -39,23 +39,23 @@
       "Cooling Capacity": "4.1 W",
       "ΔT @ 27°C": "70°C (Max)",
       "Operating Temp": "",
-      "Notes": "Values @ 50°C"
+      "Notes:": "Values @ 50°C"
     },
     {
-      "Manufacturer": "II-IV Coherent",
-      "Product": "MT30-0.9A-21AN",
-      "Cooling Capacity": "2.2 W",
+      "Manufacturer": "Coherent(formerly Marlow)",
+      "Product": "Muti Stage SP2394-07AB",
+      "Cooling Capacity": "4.5 W",
+      "ΔT @ 27°C": "130°C (Max)",
+      "Operating Temp": "< 85°C",
+      "Notes:": "Values @27°C, Designed for zero/high G"
+    },
+    {
+      "Manufacturer": "Coherent(formerly Marlow)",
+      "Product": "Single Stage CT12-4",
+      "Cooling Capacity": "37.0 W",
       "ΔT @ 27°C": "70°C (Max)",
-      "Operating Temp": "",
-      "Notes": "Values @27°C, Designed for zero/high G"
-    },
-    {
-      "Manufacturer": "II-IV Coherent",
-      "Product": "CM23-1.9-08AC",
-      "Cooling Capacity": "3.4 W",
-      "ΔT @ 27°C": "71°C (Max)",
-      "Operating Temp": "",
-      "Notes": "Values @27°C, Designed for zero/high G"
+      "Operating Temp": "< 130°C",
+      "Notes:": "Values @27°C, Designed for zero/high G"
     }
   ]
 }

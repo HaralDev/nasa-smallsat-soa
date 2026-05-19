@@ -5,8 +5,8 @@
   "chapter_num": 4,
   "chapter_title": "In-Space Propulsion",
   "source_url": "https://www.nasa.gov/smallsat-institute/sst-soa/in-space_propulsion",
-  "edition": "2024",
-  "scrape_date": "2026-04-09",
+  "edition": "2026",
+  "scrape_date": "2026-05-19",
   "type": "products",
   "columns": [
     "Manufacturer",
@@ -40,7 +40,7 @@
       "ACS": "–",
       "PMI Status": "F",
       "Missions": "NMP ST5",
-      "References": "(69) (70)"
+      "References": "(64) (65)"
     },
     {
       "Manufacturer": "Moog (USA)",
@@ -55,7 +55,7 @@
       "ACS": "–",
       "PMI Status": "F",
       "Missions": "CHAMP, GRACE",
-      "References": "(129)"
+      "References": "(128)"
     },
     {
       "Manufacturer": "Moog (USA)",
@@ -70,7 +70,7 @@
       "ACS": "–",
       "PMI Status": "F",
       "Missions": "Spitzer Space Telescope",
-      "References": "(129)"
+      "References": "(128)"
     },
     {
       "Manufacturer": "Moog (USA)",
@@ -85,7 +85,7 @@
       "ACS": "–",
       "PMI Status": "F",
       "Missions": "Spitzer Space Telescope",
-      "References": "(129)"
+      "References": "(128)"
     },
     {
       "Manufacturer": "Moog (USA)",
@@ -100,7 +100,7 @@
       "ACS": "–",
       "PMI Status": "F",
       "Missions": "SAFER, Pluto Fast Flyby",
-      "References": "(129)"
+      "References": "(128)"
     },
     {
       "Manufacturer": "Moog (USA)",
@@ -115,7 +115,7 @@
       "ACS": "–",
       "PMI Status": "F",
       "Missions": "GEO applications",
-      "References": "(129)"
+      "References": "(128)"
     }
   ]
 }

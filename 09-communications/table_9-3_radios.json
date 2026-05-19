@@ -4,8 +4,8 @@
   "chapter_num": 9,
   "chapter_title": "Communications",
   "source_url": "https://www.nasa.gov/smallsat-institute/sst-soa/soa-communications",
-  "edition": "2024",
-  "scrape_date": "2026-04-09",
+  "edition": "2026",
+  "scrape_date": "2026-05-19",
   "type": "products",
   "columns": [
     "Manufacturer",
@@ -29,21 +29,21 @@
       "Frequency Band": "6",
       "Data Rate": "S",
       "Tx Power": "1840",
-      "Mass": "1840",
+      "Mass": "29 dBm RMS",
       "Dimensions": "29 dBm RMS",
-      "Flight Heritage": "29 dBm RMS"
+      "Flight Heritage": "575"
     },
     {
       "Manufacturer": "Vulcan Wireless",
-      "Product": "NSR-SDR-K/Ka",
+      "Product": "NSR-SDR",
       "Type": "Radio",
       "Min Frequency": "20.100-21200, 30000-31000",
       "Frequency Band": "20.100-21200, 30000-31000",
-      "Data Rate": "K",
+      "Data Rate": "K/Ka",
       "Tx Power": "200,000",
-      "Mass": "200,000",
+      "Mass": "5W",
       "Dimensions": "5W",
-      "Flight Heritage": "5W"
+      "Flight Heritage": "615"
     },
     {
       "Manufacturer": "Aerospacelab",
@@ -53,9 +53,9 @@
       "Frequency Band": "58",
       "Data Rate": "X",
       "Tx Power": "206,000",
-      "Mass": "206,000",
+      "Mass": "29 dBm RMS",
       "Dimensions": "29 dBm RMS",
-      "Flight Heritage": "29 dBm RMS"
+      "Flight Heritage": "555"
     },
     {
       "Manufacturer": "Space Micro",
@@ -65,9 +65,9 @@
       "Frequency Band": "70-3000",
       "Data Rate": "VHF, UHF, L, S, C",
       "Tx Power": "42,000",
-      "Mass": "42,000",
+      "Mass": "0",
       "Dimensions": "0",
-      "Flight Heritage": "0"
+      "Flight Heritage": "750"
     },
     {
       "Manufacturer": "Rincon Research",
@@ -77,9 +77,9 @@
       "Frequency Band": "70-6000",
       "Data Rate": "VHF, UHF, L, S, C",
       "Tx Power": "—",
-      "Mass": "—",
+      "Mass": "5 dBm",
       "Dimensions": "5 dBm",
-      "Flight Heritage": "5 dBm"
+      "Flight Heritage": "95"
     },
     {
       "Manufacturer": "GomSpace",
@@ -91,7 +91,7 @@
       "Tx Power": "—",
       "Mass": "—",
       "Dimensions": "—",
-      "Flight Heritage": "—"
+      "Flight Heritage": "271"
     },
     {
       "Manufacturer": "NI Ettus Research",
@@ -101,9 +101,9 @@
       "Frequency Band": "70-6000",
       "Data Rate": "VHF, UHF, L, S, X",
       "Tx Power": "—",
-      "Mass": "—",
+      "Mass": "10 dBm",
       "Dimensions": "10 dBm",
-      "Flight Heritage": "10 dBm"
+      "Flight Heritage": "24"
     },
     {
       "Manufacturer": "Alén Space",
@@ -113,9 +113,9 @@
       "Frequency Band": "70 – 6000",
       "Data Rate": "VHF, UHF, L, S",
       "Tx Power": "–",
-      "Mass": "–",
+      "Mass": "7 dBm",
       "Dimensions": "7 dBm",
-      "Flight Heritage": "7 dBm"
+      "Flight Heritage": "130"
     },
     {
       "Manufacturer": "Alén Space",
@@ -125,9 +125,9 @@
       "Frequency Band": "70 – 6000",
       "Data Rate": "VHF, UHF, L, S",
       "Tx Power": "–",
-      "Mass": "–",
+      "Mass": "7 dBm",
       "Dimensions": "7 dBm",
-      "Flight Heritage": "7 dBm"
+      "Flight Heritage": "<714"
     },
     {
       "Manufacturer": "Vulcan Wireless",
@@ -137,21 +137,9 @@
       "Frequency Band": "300-320, 360-380",
       "Data Rate": "UHF",
       "Tx Power": "64",
-      "Mass": "64",
+      "Mass": "8W",
       "Dimensions": "8W",
-      "Flight Heritage": "8W"
-    },
-    {
-      "Manufacturer": "Alén Space",
-      "Product": "TRISKEL",
-      "Type": "TTC",
-      "Min Frequency": "395 – 410, 430 – 440",
-      "Frequency Band": "395 – 410, 430 – 440",
-      "Data Rate": "UHF",
-      "Tx Power": "2.2 – 1.9.2",
-      "Mass": "2.2 – 1.9.2",
-      "Dimensions": "30 dBm",
-      "Flight Heritage": "30 dBm"
+      "Flight Heritage": "450"
     },
     {
       "Manufacturer": "AAC Clyde Space",
@@ -161,9 +149,9 @@
       "Frequency Band": "—",
       "Data Rate": "VHF, UHF",
       "Tx Power": "9.6",
-      "Mass": "9.6",
+      "Mass": "1.5 W",
       "Dimensions": "1.5 W",
-      "Flight Heritage": "1.5 W"
+      "Flight Heritage": "100"
     },
     {
       "Manufacturer": "SkyLabs",
@@ -172,10 +160,10 @@
       "Min Frequency": "130-470",
       "Frequency Band": "130-470",
       "Data Rate": "VHF, UHF",
-      "Tx Power": "Up to 25",
-      "Mass": "Up to 25",
+      "Tx Power": "< 25",
+      "Mass": "31 dBm",
       "Dimensions": "31 dBm",
-      "Flight Heritage": "31 dBm"
+      "Flight Heritage": "110"
     },
     {
       "Manufacturer": "AstroDev",
@@ -185,9 +173,9 @@
       "Frequency Band": "120-150, 400-450",
       "Data Rate": "VHF, UHF",
       "Tx Power": "38.4",
-      "Mass": "38.4",
+      "Mass": "3 W",
       "Dimensions": "3 W",
-      "Flight Heritage": "3 W"
+      "Flight Heritage": "78"
     },
     {
       "Manufacturer": "AstroDev",
@@ -197,9 +185,9 @@
       "Frequency Band": "130-450",
       "Data Rate": "VHF, UHF",
       "Tx Power": "9.6",
-      "Mass": "9.6",
+      "Mass": "0.25-4 W",
       "Dimensions": "0.25-4 W",
-      "Flight Heritage": "0.25-4 W"
+      "Flight Heritage": "48"
     },
     {
       "Manufacturer": "AstroDev",
@@ -209,9 +197,9 @@
       "Frequency Band": "130-450",
       "Data Rate": "VHF, UHF",
       "Tx Power": "9.6",
-      "Mass": "9.6",
+      "Mass": "0.25-4 W",
       "Dimensions": "0.25-4 W",
-      "Flight Heritage": "0.25-4 W"
+      "Flight Heritage": "52"
     },
     {
       "Manufacturer": "GomSpace",
@@ -221,21 +209,21 @@
       "Frequency Band": "143-150, 430-440",
       "Data Rate": "VHF, UHF",
       "Tx Power": "0.1-38.4",
-      "Mass": "0.1-38.4",
+      "Mass": "30 dBm",
       "Dimensions": "30 dBm",
-      "Flight Heritage": "30 dBm"
+      "Flight Heritage": "24.5"
     },
     {
       "Manufacturer": "Spacemanic",
-      "Product": "Murgas_trx_VHF",
+      "Product": "Murgas",
       "Type": "Transceiver",
-      "Min Frequency": "144",
-      "Frequency Band": "144",
+      "Min Frequency": "145 400 435",
+      "Frequency Band": "145 400 435",
       "Data Rate": "VHF, UHF",
-      "Tx Power": "9.6",
-      "Mass": "9.6",
-      "Dimensions": "+30dBm",
-      "Flight Heritage": "+30dBm"
+      "Tx Power": "0.1 – 38.4 9.6",
+      "Mass": "30dBm",
+      "Dimensions": "30dBm",
+      "Flight Heritage": "25"
     },
     {
       "Manufacturer": "LY3H",
@@ -245,9 +233,9 @@
       "Frequency Band": "144-146, 430-440",
       "Data Rate": "VHF, UHF",
       "Tx Power": "—",
-      "Mass": "—",
+      "Mass": "217 mW",
       "Dimensions": "217 mW",
-      "Flight Heritage": "217 mW"
+      "Flight Heritage": "59"
     },
     {
       "Manufacturer": "ISISPACE",
@@ -257,9 +245,33 @@
       "Frequency Band": "145.8-150.05, 400.15-440",
       "Data Rate": "VHF, UHF",
       "Tx Power": "9.6",
-      "Mass": "9.6",
+      "Mass": "27 dBm",
       "Dimensions": "27 dBm",
-      "Flight Heritage": "27 dBm"
+      "Flight Heritage": "75"
+    },
+    {
+      "Manufacturer": "Needronix",
+      "Product": "Cormorant",
+      "Type": "Transceiver, DNxD-capable digipeater, Morse beacon",
+      "Min Frequency": "145 – 220 or 390 – 500",
+      "Frequency Band": "145 – 220 or 390 – 500",
+      "Data Rate": "VHF or UHF",
+      "Tx Power": "9.6",
+      "Mass": "30",
+      "Dimensions": "30",
+      "Flight Heritage": "22"
+    },
+    {
+      "Manufacturer": "Emxys",
+      "Product": "ODALISS TTC",
+      "Type": "Transceiver",
+      "Min Frequency": "200",
+      "Frequency Band": "200",
+      "Data Rate": "VHF, UHF",
+      "Tx Power": "1.2",
+      "Mass": "1 W (31 dBm)",
+      "Dimensions": "1 W (31 dBm)",
+      "Flight Heritage": "<50"
     },
     {
       "Manufacturer": "CesiumAstro",
@@ -269,9 +281,9 @@
       "Frequency Band": "300",
       "Data Rate": "UHF, L, S, C",
       "Tx Power": "",
-      "Mass": "",
+      "Mass": "-5 to 6",
       "Dimensions": "-5 to 6",
-      "Flight Heritage": "-5 to 6"
+      "Flight Heritage": "110"
     },
     {
       "Manufacturer": "CesiumAstro",
@@ -281,9 +293,9 @@
       "Frequency Band": "600",
       "Data Rate": "L, S, C, X",
       "Tx Power": "",
-      "Mass": "",
+      "Mass": "-5 to 6",
       "Dimensions": "-5 to 6",
-      "Flight Heritage": "-5 to 6"
+      "Flight Heritage": "900"
     },
     {
       "Manufacturer": "CesiumAstro",
@@ -293,9 +305,9 @@
       "Frequency Band": "300, 24500",
       "Data Rate": "UHF, L, S, C, Ka",
       "Tx Power": "",
-      "Mass": "",
+      "Mass": "-5 to 6",
       "Dimensions": "-5 to 6",
-      "Flight Heritage": "-5 to 6"
+      "Flight Heritage": "3500"
     },
     {
       "Manufacturer": "CeisumAstro",
@@ -304,10 +316,10 @@
       "Min Frequency": "300 – 6000",
       "Frequency Band": "300 – 6000",
       "Data Rate": "UHF, L, S, C",
-      "Tx Power": "up to 62,500",
-      "Mass": "up to 62,500",
+      "Tx Power": "< 62,500",
+      "Mass": "–",
       "Dimensions": "–",
-      "Flight Heritage": "–"
+      "Flight Heritage": "100"
     },
     {
       "Manufacturer": "AAC Clyde Space",
@@ -317,9 +329,9 @@
       "Frequency Band": "390-450",
       "Data Rate": "UHF",
       "Tx Power": "19.2",
-      "Mass": "19.2",
+      "Mass": "2",
       "Dimensions": "2",
-      "Flight Heritage": "2"
+      "Flight Heritage": "140"
     },
     {
       "Manufacturer": "NanoAvionics",
@@ -329,21 +341,9 @@
       "Frequency Band": "395-440",
       "Data Rate": "VHF, UHF",
       "Tx Power": "2.4-38.4",
-      "Mass": "2.4-38.4",
+      "Mass": "3 W",
       "Dimensions": "3 W",
-      "Flight Heritage": "3 W"
-    },
-    {
-      "Manufacturer": "Spacemanic",
-      "Product": "Murgas_trx_UHFlow",
-      "Type": "Transceiver",
-      "Min Frequency": "399",
-      "Frequency Band": "399",
-      "Data Rate": "UHF",
-      "Tx Power": "9.6",
-      "Mass": "9.6",
-      "Dimensions": "+30dBm",
-      "Flight Heritage": "+30dBm"
+      "Flight Heritage": "7.5"
     },
     {
       "Manufacturer": "EnduroSat",
@@ -353,21 +353,33 @@
       "Frequency Band": "400-403, 430-440",
       "Data Rate": "UHF",
       "Tx Power": "≤ 9.6",
-      "Mass": "≤ 9.6",
+      "Mass": "30 – 33 dBm",
       "Dimensions": "30 – 33 dBm",
-      "Flight Heritage": "30 – 33 dBm"
+      "Flight Heritage": "94"
     },
     {
-      "Manufacturer": "Spacemanic",
-      "Product": "Murgas_trx_UHF",
-      "Type": "Transceiver",
-      "Min Frequency": "420 MHz",
-      "Frequency Band": "420 MHz",
+      "Manufacturer": "SatRev S.A.",
+      "Product": "UHF Radio",
+      "Type": "Transceiver with AES128 encryption",
+      "Min Frequency": "400-405",
+      "Frequency Band": "400-405",
       "Data Rate": "UHF",
-      "Tx Power": "UHF",
-      "Mass": "9.6",
-      "Dimensions": "+30dBm",
-      "Flight Heritage": "+30dBm"
+      "Tx Power": "0.45",
+      "Mass": "<2W",
+      "Dimensions": "<2W",
+      "Flight Heritage": "158"
+    },
+    {
+      "Manufacturer": "SENyT",
+      "Product": "Q-COMM",
+      "Type": "Transceiver",
+      "Min Frequency": "410-475 2400-2480",
+      "Frequency Band": "410-475 2400-2480",
+      "Data Rate": "UHF, S",
+      "Tx Power": "500",
+      "Mass": "27 dBm",
+      "Dimensions": "27 dBm",
+      "Flight Heritage": "< 150"
     },
     {
       "Manufacturer": "L3 CommunicationsInc. /SDL",
@@ -376,10 +388,10 @@
       "Min Frequency": "450",
       "Frequency Band": "450",
       "Data Rate": "VHF, UHF",
-      "Tx Power": "VHF, UHF",
-      "Mass": "3,000",
+      "Tx Power": "3,000",
+      "Mass": "—",
       "Dimensions": "—",
-      "Flight Heritage": "—"
+      "Flight Heritage": "200"
     },
     {
       "Manufacturer": "CesiumAstro",
@@ -388,10 +400,10 @@
       "Min Frequency": "600",
       "Frequency Band": "600",
       "Data Rate": "L, S, C, X",
-      "Tx Power": "L, S, C, X",
-      "Mass": "",
+      "Tx Power": "",
+      "Mass": "-5 to 6",
       "Dimensions": "-5 to 6",
-      "Flight Heritage": "-5 to 6"
+      "Flight Heritage": "5000"
     },
     {
       "Manufacturer": "sci_Zone, Inc.",
@@ -400,10 +412,10 @@
       "Min Frequency": "1610-1625",
       "Frequency Band": "1610-1625",
       "Data Rate": "L",
-      "Tx Power": "L",
-      "Mass": "0.009",
+      "Tx Power": "0.009",
+      "Mass": "—",
       "Dimensions": "—",
-      "Flight Heritage": "—"
+      "Flight Heritage": "48"
     },
     {
       "Manufacturer": "Qualcomm",
@@ -412,10 +424,10 @@
       "Min Frequency": "1610-1626.5, 2483.5-2500",
       "Frequency Band": "1610-1626.5, 2483.5-2500",
       "Data Rate": "L, S",
-      "Tx Power": "L, S",
-      "Mass": "9.6",
+      "Tx Power": "9.6",
+      "Mass": "31 dBm",
       "Dimensions": "31 dBm",
-      "Flight Heritage": "31 dBm"
+      "Flight Heritage": "60"
     },
     {
       "Manufacturer": "NAL Research Corporation",
@@ -424,22 +436,22 @@
       "Min Frequency": "1616-1626.5",
       "Frequency Band": "1616-1626.5",
       "Data Rate": "L",
-      "Tx Power": "L",
-      "Mass": "—",
+      "Tx Power": "—",
+      "Mass": "1 W",
       "Dimensions": "1 W",
-      "Flight Heritage": "1 W"
+      "Flight Heritage": "136"
     },
     {
-      "Manufacturer": "NearSpace Launch",
+      "Manufacturer": "Near Space Launch",
       "Product": "EyeStar-S4 Iridium",
       "Type": "Transceiver",
       "Min Frequency": "1618.75",
       "Frequency Band": "1618.75",
       "Data Rate": "L",
-      "Tx Power": "L",
-      "Mass": "0.1",
+      "Tx Power": "0.1",
+      "Mass": "31.96 dBm",
       "Dimensions": "31.96 dBm",
-      "Flight Heritage": "31.96 dBm"
+      "Flight Heritage": "29"
     },
     {
       "Manufacturer": "L3Harris",
@@ -448,10 +460,10 @@
       "Min Frequency": "1700-2100",
       "Frequency Band": "1700-2100",
       "Data Rate": "L, S",
-      "Tx Power": "L, S",
-      "Mass": "20,000",
+      "Tx Power": "20,000",
+      "Mass": "1-5 W",
       "Dimensions": "1-5 W",
-      "Flight Heritage": "1-5 W"
+      "Flight Heritage": "1360"
     },
     {
       "Manufacturer": "Tethers Unlimited",
@@ -460,10 +472,10 @@
       "Min Frequency": "1700-2500",
       "Frequency Band": "1700-2500",
       "Data Rate": "S",
-      "Tx Power": "S",
-      "Mass": "6,000",
+      "Tx Power": "6,000",
+      "Mass": "33 dBm",
       "Dimensions": "33 dBm",
-      "Flight Heritage": "33 dBm"
+      "Flight Heritage": "300"
     },
     {
       "Manufacturer": "Tethers Unlimited",
@@ -472,10 +484,10 @@
       "Min Frequency": "1700-2500, 7000-8500",
       "Frequency Band": "1700-2500, 7000-8500",
       "Data Rate": "S, X",
-      "Tx Power": "S, X",
-      "Mass": "6,000-25,000",
+      "Tx Power": "6,000-25,000",
+      "Mass": "34 dBm",
       "Dimensions": "34 dBm",
-      "Flight Heritage": "34 dBm"
+      "Flight Heritage": "800"
     },
     {
       "Manufacturer": "AAC Clyde Space",
@@ -484,22 +496,34 @@
       "Min Frequency": "2000-2300",
       "Frequency Band": "2000-2300",
       "Data Rate": "S",
-      "Tx Power": "S",
-      "Mass": "6,000",
+      "Tx Power": "6,000",
+      "Mass": "2.5",
       "Dimensions": "2.5",
-      "Flight Heritage": "2.5"
+      "Flight Heritage": "70"
     },
     {
       "Manufacturer": "Syrlinks",
-      "Product": "EWC27 + OPT27-SRX S/X Transceiver",
+      "Product": "EWC27 + OPT27-SRX",
       "Type": "Transceiver",
       "Min Frequency": "2025-2110",
       "Frequency Band": "2025-2110",
       "Data Rate": "S",
-      "Tx Power": "S",
-      "Mass": "100,000",
+      "Tx Power": "100,000",
+      "Mass": "27-33 dBm",
       "Dimensions": "27-33 dBm",
-      "Flight Heritage": "27-33 dBm"
+      "Flight Heritage": "400"
+    },
+    {
+      "Manufacturer": "Dragonfly Aerospace",
+      "Product": "CTRS",
+      "Type": "Transceiver",
+      "Min Frequency": "2200-2290",
+      "Frequency Band": "2200-2290",
+      "Data Rate": "S",
+      "Tx Power": "150400",
+      "Mass": "up to 0.5W",
+      "Dimensions": "up to 0.5W",
+      "Flight Heritage": "460"
     },
     {
       "Manufacturer": "Vulcan Wireless",
@@ -508,10 +532,22 @@
       "Min Frequency": "2025-2115, 2200-2300",
       "Frequency Band": "2025-2115, 2200-2300",
       "Data Rate": "S",
-      "Tx Power": "S",
-      "Mass": "4,000",
+      "Tx Power": "4,000",
+      "Mass": "4W",
       "Dimensions": "4W",
-      "Flight Heritage": "4W"
+      "Flight Heritage": "375"
+    },
+    {
+      "Manufacturer": "Dragonfly Aerospace",
+      "Product": "CTRS",
+      "Type": "Transceiver",
+      "Min Frequency": "2025-2115,2200-2300",
+      "Frequency Band": "2025-2115,2200-2300",
+      "Data Rate": "S",
+      "Tx Power": "512",
+      "Mass": "up to 2W",
+      "Dimensions": "up to 2W",
+      "Flight Heritage": "1000"
     },
     {
       "Manufacturer": "Vulcan Wireless",
@@ -520,10 +556,10 @@
       "Min Frequency": "2025-2115, 8000-8500",
       "Frequency Band": "2025-2115, 8000-8500",
       "Data Rate": "S, X",
-      "Tx Power": "S, X",
-      "Mass": "10,000",
+      "Tx Power": "10,000",
+      "Mass": "5W",
       "Dimensions": "5W",
-      "Flight Heritage": "5W"
+      "Flight Heritage": "375"
     },
     {
       "Manufacturer": "Vulcan Wireless",
@@ -532,10 +568,22 @@
       "Min Frequency": "2025-2115, 8000-8500",
       "Frequency Band": "2025-2115, 8000-8500",
       "Data Rate": "S, X",
-      "Tx Power": "S, X",
-      "Mass": "10,000",
+      "Tx Power": "10,000",
+      "Mass": "10 W",
       "Dimensions": "10 W",
-      "Flight Heritage": "10 W"
+      "Flight Heritage": "615"
+    },
+    {
+      "Manufacturer": "Orion Space Solutions",
+      "Product": "Triton-XST",
+      "Type": "Transmitter",
+      "Min Frequency": "2200, 8000",
+      "Frequency Band": "2200, 8000",
+      "Data Rate": "S, X",
+      "Tx Power": "<670 Mbps",
+      "Mass": "25-50 W",
+      "Dimensions": "25-50 W",
+      "Flight Heritage": "500g"
     },
     {
       "Manufacturer": "CesiumAstro",
@@ -544,34 +592,34 @@
       "Min Frequency": "17000 27000",
       "Frequency Band": "17000 27000",
       "Data Rate": "Ka",
-      "Tx Power": "Ka",
-      "Mass": "",
+      "Tx Power": "—",
+      "Mass": "-5 to 6",
       "Dimensions": "-5 to 6",
-      "Flight Heritage": "-5 to 6"
+      "Flight Heritage": "7400"
     },
     {
-      "Manufacturer": "IQ Technologies for Earth and Space GmbH",
+      "Manufacturer": "IQ spacecom",
       "Product": "HISPICO",
       "Type": "Transmitter",
       "Min Frequency": "2100-2500",
       "Frequency Band": "2100-2500",
       "Data Rate": "S",
-      "Tx Power": "S",
+      "Tx Power": "1,000",
       "Mass": "1,000",
-      "Dimensions": "1,000",
-      "Flight Heritage": "27 dBm"
+      "Dimensions": "27 dBm",
+      "Flight Heritage": "100"
     },
     {
       "Manufacturer": "Innoflight, Inc.",
       "Product": "SCR-104",
       "Type": "SDR with AES-256 Encryption",
-      "Min Frequency": "Tx: 2200-2290Rx: 1760-1840Rx: 2025-2110",
-      "Frequency Band": "Tx: 2200-2290Rx: 1760-1840Rx: 2025-2110",
-      "Data Rate": "Tx: SRx: L/S",
-      "Tx Power": "Tx: SRx: L/S",
-      "Mass": "Tx: >4,500Rx: 1000",
-      "Dimensions": "Tx: >4,500Rx: 1000",
-      "Flight Heritage": "—"
+      "Min Frequency": "2200-2290 1760-18402025-2110",
+      "Frequency Band": "2200-2290 1760-18402025-2110",
+      "Data Rate": "SL/S",
+      "Tx Power": ">4,5001000",
+      "Mass": ">4,5001000",
+      "Dimensions": "—",
+      "Flight Heritage": "250 –290"
     },
     {
       "Manufacturer": "CUBECOM",
@@ -580,10 +628,10 @@
       "Min Frequency": "2200-2290 2400-2480",
       "Frequency Band": "2200-2290 2400-2480",
       "Data Rate": "S",
-      "Tx Power": "S",
+      "Tx Power": "25,000",
       "Mass": "25,000",
-      "Dimensions": "25,000",
-      "Flight Heritage": "—"
+      "Dimensions": "—",
+      "Flight Heritage": "137"
     },
     {
       "Manufacturer": "Emhiser Research, Inc.",
@@ -592,10 +640,10 @@
       "Min Frequency": "2200-2400",
       "Frequency Band": "2200-2400",
       "Data Rate": "S",
-      "Tx Power": "S",
+      "Tx Power": "—",
       "Mass": "—",
-      "Dimensions": "—",
-      "Flight Heritage": "1 W"
+      "Dimensions": "1 W",
+      "Flight Heritage": "57"
     },
     {
       "Manufacturer": "Quasonix",
@@ -604,22 +652,22 @@
       "Min Frequency": "2200.5-2394.5",
       "Frequency Band": "2200.5-2394.5",
       "Data Rate": "S",
-      "Tx Power": "S",
+      "Tx Power": "50",
       "Mass": "50",
-      "Dimensions": "50",
-      "Flight Heritage": "1-10 W"
+      "Dimensions": "1-10 W",
+      "Flight Heritage": "—"
     },
     {
-      "Manufacturer": "IQ Technologies for Earth and Space GmbH",
+      "Manufacturer": "IQ spacecom",
       "Product": "SLINK-PHY",
       "Type": "Transceiver",
       "Min Frequency": "2200-2290, 2025-2110",
       "Frequency Band": "2200-2290, 2025-2110",
       "Data Rate": "S",
-      "Tx Power": "S",
+      "Tx Power": "64-4000",
       "Mass": "64-4000",
-      "Dimensions": "64-4000",
-      "Flight Heritage": "30 dBm"
+      "Dimensions": "30 dBm",
+      "Flight Heritage": "275"
     },
     {
       "Manufacturer": "ISISPACE",
@@ -628,10 +676,46 @@
       "Min Frequency": "2200-2290",
       "Frequency Band": "2200-2290",
       "Data Rate": "S",
-      "Tx Power": "S",
+      "Tx Power": "4.3",
       "Mass": "4.3",
-      "Dimensions": "4.3",
-      "Flight Heritage": "27-33 dBm"
+      "Dimensions": "27-33 dBm",
+      "Flight Heritage": "132"
+    },
+    {
+      "Manufacturer": "Space Inventor",
+      "Product": "STTC-P3",
+      "Type": "SDR",
+      "Min Frequency": "2200-2290",
+      "Frequency Band": "2200-2290",
+      "Data Rate": "S, X",
+      "Tx Power": "9 – 10,000",
+      "Mass": "9 – 10,000",
+      "Dimensions": "33 dBm",
+      "Flight Heritage": "230"
+    },
+    {
+      "Manufacturer": "Satlab",
+      "Product": "SRS-3",
+      "Type": "Transceiver",
+      "Min Frequency": "2200-2290",
+      "Frequency Band": "2200-2290",
+      "Data Rate": "S",
+      "Tx Power": "512",
+      "Mass": "512",
+      "Dimensions": "30 dbM",
+      "Flight Heritage": "190"
+    },
+    {
+      "Manufacturer": "Satlab",
+      "Product": "SRS-4",
+      "Type": "Transceiver",
+      "Min Frequency": "2200-2290",
+      "Frequency Band": "2200-2290",
+      "Data Rate": "S",
+      "Tx Power": "–",
+      "Mass": "–",
+      "Dimensions": "33 dbM",
+      "Flight Heritage": "253"
     },
     {
       "Manufacturer": "Syrlinks",
@@ -640,10 +724,70 @@
       "Min Frequency": "2200–2290",
       "Frequency Band": "2200–2290",
       "Data Rate": "S",
-      "Tx Power": "S",
+      "Tx Power": "8-2000",
       "Mass": "8-2000",
-      "Dimensions": "8-2000",
-      "Flight Heritage": "27-33 dBm"
+      "Dimensions": "27-33 dBm",
+      "Flight Heritage": "—"
+    },
+    {
+      "Manufacturer": "Syrlinks",
+      "Product": "EWC15-NG",
+      "Type": "Transceiver",
+      "Min Frequency": "2025-21102200-2290",
+      "Frequency Band": "2025-21102200-2290",
+      "Data Rate": "S",
+      "Tx Power": "5122,000",
+      "Mass": "5122,000",
+      "Dimensions": "33 dBm",
+      "Flight Heritage": "1280"
+    },
+    {
+      "Manufacturer": "Syrlinks",
+      "Product": "EWC31",
+      "Type": "Transceiver",
+      "Min Frequency": "2025-21102200-2290",
+      "Frequency Band": "2025-21102200-2290",
+      "Data Rate": "S",
+      "Tx Power": "2562,000",
+      "Mass": "2562,000",
+      "Dimensions": "33 dBm",
+      "Flight Heritage": "405"
+    },
+    {
+      "Manufacturer": "Syrlinks",
+      "Product": "EWC31-NG",
+      "Type": "Transceiver",
+      "Min Frequency": "2025-21102200-2290",
+      "Frequency Band": "2025-21102200-2290",
+      "Data Rate": "S",
+      "Tx Power": "5122,000",
+      "Mass": "5122,000",
+      "Dimensions": "33 dBm",
+      "Flight Heritage": "360"
+    },
+    {
+      "Manufacturer": "EnduroSat",
+      "Product": "S-band Transceiver II",
+      "Type": "Transceiver",
+      "Min Frequency": "2200 – 2290, 2025 – 2110",
+      "Frequency Band": "2200 – 2290, 2025 – 2110",
+      "Data Rate": "S",
+      "Tx Power": "< 125",
+      "Mass": "< 125",
+      "Dimensions": "27-33 dBm",
+      "Flight Heritage": "246"
+    },
+    {
+      "Manufacturer": "EnduroSat",
+      "Product": "S-Band Transceiver III",
+      "Type": "Transceiver",
+      "Min Frequency": "2200 – 2290,2025 – 2110,",
+      "Frequency Band": "2200 – 2290,2025 – 2110,",
+      "Data Rate": "S",
+      "Tx Power": "≤ 3000",
+      "Mass": "≤ 3000",
+      "Dimensions": "27 – 33 dBm",
+      "Flight Heritage": "340"
     },
     {
       "Manufacturer": "EnduroSat",
@@ -652,82 +796,82 @@
       "Min Frequency": "2200-2290, 2400-2450",
       "Frequency Band": "2200-2290, 2400-2450",
       "Data Rate": "S",
-      "Tx Power": "S",
+      "Tx Power": "≤ 20000",
       "Mass": "≤ 20000",
-      "Dimensions": "≤ 20000",
-      "Flight Heritage": "27 – 33 dBm"
+      "Dimensions": "27 – 33 dBm",
+      "Flight Heritage": "250"
     },
     {
       "Manufacturer": "General Dynamics",
       "Product": "S-Band TDRSS/DSN",
       "Type": "Transponder",
-      "Min Frequency": "Tx: 2200-2300 Rx: 2025-2220",
-      "Frequency Band": "Tx: 2200-2300 Rx: 2025-2220",
+      "Min Frequency": "2200-2300 2025-2220",
+      "Frequency Band": "2200-2300 2025-2220",
       "Data Rate": "S",
-      "Tx Power": "S",
+      "Tx Power": "12,000",
       "Mass": "12,000",
-      "Dimensions": "12,000",
-      "Flight Heritage": "0.03 W"
+      "Dimensions": "0.03 W",
+      "Flight Heritage": "4900"
+    },
+    {
+      "Manufacturer": "SkyLabs",
+      "Product": "NANOlink-S base Gen2",
+      "Type": "Transceiver",
+      "Min Frequency": "2200-2300",
+      "Frequency Band": "S",
+      "Data Rate": "S",
+      "Tx Power": "< 4000",
+      "Mass": "< 4000",
+      "Dimensions": "30 dBm",
+      "Flight Heritage": "126"
+    },
+    {
+      "Manufacturer": "SkyLabs",
+      "Product": "NANOlink-S boost Gen2",
+      "Type": "Transceiver",
+      "Min Frequency": "2200-2300",
+      "Frequency Band": "S",
+      "Data Rate": "S",
+      "Tx Power": "< 4000",
+      "Mass": "< 4000",
+      "Dimensions": "37 dBm",
+      "Flight Heritage": "250"
+    },
+    {
+      "Manufacturer": "SkyLabs",
+      "Product": "NANOlink-S boost-dp Gen2",
+      "Type": "Transceiver",
+      "Min Frequency": "2200-2300",
+      "Frequency Band": "S",
+      "Data Rate": "S",
+      "Tx Power": "< 4000",
+      "Mass": "< 4000",
+      "Dimensions": "31.5 dBm",
+      "Flight Heritage": "391"
     },
     {
       "Manufacturer": "Microhard",
       "Product": "Nano N2420",
       "Type": "Modem",
       "Min Frequency": "2400-2483.5",
-      "Frequency Band": "2400-2483.5",
+      "Frequency Band": "S",
       "Data Rate": "S",
-      "Tx Power": "S",
+      "Tx Power": "230",
       "Mass": "230",
-      "Dimensions": "230",
-      "Flight Heritage": "0.1-1 W"
+      "Dimensions": "0.1-1 W",
+      "Flight Heritage": "210"
     },
     {
-      "Manufacturer": "Laboratory for Atmospheric and Space Physics (LASP)/Blue Canyon Technologies (BCT)",
-      "Product": "X-band Radio",
-      "Type": "SDR",
-      "Min Frequency": "Tx: 2200-2500, 8000-8500, 21000-33000 Rx: 1760-1840, 2000-2110, 21000-23000",
-      "Frequency Band": "Tx: 2200-2500, 8000-8500, 21000-33000 Rx: 1760-1840, 2000-2110, 21000-23000",
-      "Data Rate": "Downlink: S, X, Ka Uplink: L, S, Ka",
-      "Tx Power": "Downlink: S, X, Ka Uplink: L, S, Ka",
-      "Mass": "100000",
-      "Dimensions": "100000",
-      "Flight Heritage": "30 dBm"
-    },
-    {
-      "Manufacturer": "SkyLabs",
-      "Product": "NANOlink-base Gen2",
-      "Type": "SDR",
-      "Min Frequency": "2200-2300",
+      "Manufacturer": "Paradigma Technologies",
+      "Product": "PFES-1ISL S Band TDD Front End",
+      "Type": "Transceiver",
+      "Min Frequency": "2400-2500",
       "Frequency Band": "S",
       "Data Rate": "S",
-      "Tx Power": "S",
-      "Mass": "Up to 4000",
-      "Dimensions": "Up to 4000",
-      "Flight Heritage": "30 dBm"
-    },
-    {
-      "Manufacturer": "SkyLabs",
-      "Product": "NANOlink-boost Gen2",
-      "Type": "SDR",
-      "Min Frequency": "2200-2300",
-      "Frequency Band": "S",
-      "Data Rate": "S",
-      "Tx Power": "S",
-      "Mass": "Up to 4000",
-      "Dimensions": "Up to 4000",
-      "Flight Heritage": "37 dBm"
-    },
-    {
-      "Manufacturer": "SkyLabs",
-      "Product": "NANOlink-boost-dp Gen2",
-      "Type": "SDR",
-      "Min Frequency": "2200-2300",
-      "Frequency Band": "S",
-      "Data Rate": "S",
-      "Tx Power": "S",
-      "Mass": "Up to 4000",
-      "Dimensions": "Up to 4000",
-      "Flight Heritage": "31.5 dBm"
+      "Tx Power": "–",
+      "Mass": "–",
+      "Dimensions": "25 dBm",
+      "Flight Heritage": "150"
     },
     {
       "Manufacturer": "Tethers Unlimited",
@@ -736,10 +880,10 @@
       "Min Frequency": "7000-8500",
       "Frequency Band": "X",
       "Data Rate": "X",
-      "Tx Power": "X",
+      "Tx Power": "25,000",
       "Mass": "25,000",
-      "Dimensions": "25,000",
-      "Flight Heritage": "33 dBm"
+      "Dimensions": "33 dBm",
+      "Flight Heritage": "300"
     },
     {
       "Manufacturer": "General Dynamics",
@@ -748,46 +892,58 @@
       "Min Frequency": "7145-7230, 8400-8500",
       "Frequency Band": "X",
       "Data Rate": "X",
-      "Tx Power": "X",
+      "Tx Power": "100,000",
       "Mass": "100,000",
-      "Dimensions": "100,000",
-      "Flight Heritage": "0.06"
+      "Dimensions": "0.06",
+      "Flight Heritage": "3200"
     },
     {
       "Manufacturer": "Space Dynamics Laboratory",
       "Product": "IRIS V2.2",
       "Type": "SDR Transponder",
-      "Min Frequency": "RX: 7145–7235 GHz TX: 8400–8500 GHz",
+      "Min Frequency": "7145–7235 GHz 8400–8500 GHz",
       "Frequency Band": "X, Ka, S, or UHF",
       "Data Rate": "X, Ka, S, or UHF",
-      "Tx Power": "X, Ka, S, or UHF",
+      "Tx Power": "0.1 – 10000",
       "Mass": "0.1 – 10000",
-      "Dimensions": "0.1 – 10000",
-      "Flight Heritage": "36"
+      "Dimensions": "36",
+      "Flight Heritage": "875"
+    },
+    {
+      "Manufacturer": "Paradigma Technologies",
+      "Product": "PTX-1",
+      "Type": "Transmitter",
+      "Min Frequency": "7700 – 8500",
+      "Frequency Band": "X",
+      "Data Rate": "X",
+      "Tx Power": "–",
+      "Mass": "–",
+      "Dimensions": "43.5 dBm",
+      "Flight Heritage": "800"
     },
     {
       "Manufacturer": "Innoflight, Inc.",
       "Product": "SCR-106",
       "Type": "SDR with AES-256 Encryption",
-      "Min Frequency": "Tx: 7800-8500 Rx: 1760-1840 Rx: 2025-2110",
-      "Frequency Band": "Tx: XRx: L/S",
-      "Data Rate": "Tx: XRx: L/S",
-      "Tx Power": "Tx: XRx: L/S",
-      "Mass": "Tx: 20,000Rx: 1,000",
-      "Dimensions": "Tx: 20,000Rx: 1,000",
-      "Flight Heritage": "0.02-2.5 W"
+      "Min Frequency": "7800-8500 760-1840 2025-2110",
+      "Frequency Band": "XL/S",
+      "Data Rate": "XL/S",
+      "Tx Power": "20,0001,000",
+      "Mass": "20,0001,000",
+      "Dimensions": "0.02-2.5 W",
+      "Flight Heritage": "250 –290"
     },
     {
       "Manufacturer": "Innoflight, Inc.",
       "Product": "SCR-108",
       "Type": "SDR with AES-256 Encryption",
-      "Min Frequency": "Tx: 19200-21200Rx: 29000- 31000",
-      "Frequency Band": "Tx: KaRx: Ka",
-      "Data Rate": "Tx: KaRx: Ka",
-      "Tx Power": "Tx: KaRx: Ka",
-      "Mass": "Tx: 100,000Rx: 20,000",
-      "Dimensions": "Tx: 100,000Rx: 20,000",
-      "Flight Heritage": "0.02-3 W"
+      "Min Frequency": "19200-2120029000- 31000",
+      "Frequency Band": "KaKa",
+      "Data Rate": "KaKa",
+      "Tx Power": "1 Gbps20,000",
+      "Mass": "1 Gbps20,000",
+      "Dimensions": "0.02-3 W",
+      "Flight Heritage": "404"
     },
     {
       "Manufacturer": "EnduroSat",
@@ -796,46 +952,46 @@
       "Min Frequency": "7900-8400",
       "Frequency Band": "X",
       "Data Rate": "X",
-      "Tx Power": "X",
-      "Mass": "≤ 150000",
-      "Dimensions": "≤ 150000",
-      "Flight Heritage": "27-33 dBm"
+      "Tx Power": "≤1.5 Gbps",
+      "Mass": "≤1.5 Gbps",
+      "Dimensions": "27-33 dBm",
+      "Flight Heritage": "270"
     },
     {
-      "Manufacturer": "EnduroSat",
-      "Product": "S-band Transceiver II",
-      "Type": "Transceiver",
-      "Min Frequency": "2200-2290 (downlink)",
-      "Frequency Band": "S",
-      "Data Rate": "S",
-      "Tx Power": "S",
-      "Mass": "< 125",
-      "Dimensions": "< 125",
-      "Flight Heritage": "27-33 dBm"
+      "Manufacturer": "Dragonfly Aerospace",
+      "Product": "HDRTX-1.5",
+      "Type": "Transmitter",
+      "Min Frequency": "8025-8400",
+      "Frequency Band": "X",
+      "Data Rate": "X",
+      "Tx Power": "1.5 Gbps",
+      "Mass": "1.5 Gbps",
+      "Dimensions": "< 4W",
+      "Flight Heritage": "1600"
     },
     {
-      "Manufacturer": "EnduroSat",
-      "Product": "S-band Transceiver ISL",
-      "Type": "Transceiver",
-      "Min Frequency": "2025 – 2110 (TM & TC)",
-      "Frequency Band": "S",
-      "Data Rate": "S",
-      "Tx Power": "S",
-      "Mass": "< 50",
-      "Dimensions": "< 50",
-      "Flight Heritage": "27-33 dBm"
+      "Manufacturer": "Dragonfly Aerospace",
+      "Product": "HDRTx-3",
+      "Type": "Transmitter",
+      "Min Frequency": "8025-8400",
+      "Frequency Band": "X",
+      "Data Rate": "X",
+      "Tx Power": "3 Gbps",
+      "Mass": "3 Gbps",
+      "Dimensions": "up to 4W",
+      "Flight Heritage": "1600"
     },
     {
-      "Manufacturer": "EnduroSat",
-      "Product": "S-Band Transceiver III",
-      "Type": "Transceiver",
-      "Min Frequency": "2200 – 2290 (TM),2025 – 2110 (TC)",
-      "Frequency Band": "S",
-      "Data Rate": "S",
-      "Tx Power": "S",
-      "Mass": "≤ 3000",
-      "Dimensions": "≤ 3000",
-      "Flight Heritage": "27 – 33 dBm"
+      "Manufacturer": "SkyLabs",
+      "Product": "NANOcast",
+      "Type": "Transmitter",
+      "Min Frequency": "8025-8500",
+      "Frequency Band": "X",
+      "Data Rate": "X",
+      "Tx Power": "<1 Gbps",
+      "Mass": "<1 Gbps",
+      "Dimensions": "37 dBm",
+      "Flight Heritage": "164"
     },
     {
       "Manufacturer": "CUBECOM",
@@ -844,10 +1000,10 @@
       "Min Frequency": "8025-8400",
       "Frequency Band": "X",
       "Data Rate": "X",
-      "Tx Power": "X",
-      "Mass": "250,000",
-      "Dimensions": "250,000",
-      "Flight Heritage": "—"
+      "Tx Power": "2.5 Gbps",
+      "Mass": "2.5 Gbps",
+      "Dimensions": "—",
+      "Flight Heritage": "137"
     },
     {
       "Manufacturer": "CUBECOM",
@@ -856,10 +1012,10 @@
       "Min Frequency": "8025-8400",
       "Frequency Band": "X",
       "Data Rate": "X",
-      "Tx Power": "X",
-      "Mass": "1,500,000",
-      "Dimensions": "1,500,000",
-      "Flight Heritage": "—"
+      "Tx Power": "1.5 Gbps",
+      "Mass": "1.5 Gbps",
+      "Dimensions": "—",
+      "Flight Heritage": "250"
     },
     {
       "Manufacturer": "CUBECOM",
@@ -868,22 +1024,46 @@
       "Min Frequency": "8025-8400",
       "Frequency Band": "X",
       "Data Rate": "X",
-      "Tx Power": "X",
-      "Mass": "1,000,000",
-      "Dimensions": "1,000,000",
-      "Flight Heritage": "—"
+      "Tx Power": "1 Gbps",
+      "Mass": "1 Gbps",
+      "Dimensions": "—",
+      "Flight Heritage": "250"
     },
     {
-      "Manufacturer": "IQ Technologies for Earth and Space GmbH",
+      "Manufacturer": "Satlab",
+      "Product": "SRX-8",
+      "Type": "Transmitter",
+      "Min Frequency": "8024-8400",
+      "Frequency Band": "X",
+      "Data Rate": "X",
+      "Tx Power": "<1 Gbps",
+      "Mass": "<1 Gbps",
+      "Dimensions": "33 dBm",
+      "Flight Heritage": "300"
+    },
+    {
+      "Manufacturer": "IQ spacecom",
       "Product": "XLINK",
       "Type": "Transceiver",
       "Min Frequency": "8025-8500, 7145-7250",
       "Frequency Band": "X",
       "Data Rate": "X",
-      "Tx Power": "X",
+      "Tx Power": "64-25,000",
       "Mass": "64-25,000",
-      "Dimensions": "64-25,000",
-      "Flight Heritage": "30 dBm"
+      "Dimensions": "30 dBm",
+      "Flight Heritage": "—"
+    },
+    {
+      "Manufacturer": "SkyLabs",
+      "Product": "NANOcast",
+      "Type": "Transmitter",
+      "Min Frequency": "8025-8500",
+      "Frequency Band": "X",
+      "Data Rate": "X",
+      "Tx Power": "< 1 Gbps",
+      "Mass": "< 1 Gbps",
+      "Dimensions": "37 dBm",
+      "Flight Heritage": "164"
     },
     {
       "Manufacturer": "Syrlinks",
@@ -892,94 +1072,58 @@
       "Min Frequency": "8025-8500",
       "Frequency Band": "X",
       "Data Rate": "X",
-      "Tx Power": "X",
-      "Mass": "140,000",
-      "Dimensions": "140,000",
-      "Flight Heritage": "27-33 dBm"
+      "Tx Power": "1.4 Gbps",
+      "Mass": "1.4 Gbps",
+      "Dimensions": "27-33 dBm",
+      "Flight Heritage": "235"
     },
     {
       "Manufacturer": "Syrlinks",
       "Product": "EWC27 + OPT27-SRX",
       "Type": "Transceiver",
-      "Min Frequency": "Rx: 2025-2110Tx: 8025-8500",
+      "Min Frequency": "2025-21108025-8500",
       "Frequency Band": "S, X",
       "Data Rate": "S, X",
-      "Tx Power": "S, X",
-      "Mass": "RX: 256TX:100000",
-      "Dimensions": "RX: 256TX:100000",
-      "Flight Heritage": "33 dBm"
-    },
-    {
-      "Manufacturer": "Syrlinks",
-      "Product": "EWC31",
-      "Type": "Transceiver",
-      "Min Frequency": "Rx: 2025-2110Tx: 2200-2290",
-      "Frequency Band": "S",
-      "Data Rate": "S",
-      "Tx Power": "S",
-      "Mass": "RX: 256TX: 2,000",
-      "Dimensions": "RX: 256TX: 2,000",
-      "Flight Heritage": "33 dBm"
-    },
-    {
-      "Manufacturer": "Syrlinks",
-      "Product": "EWC31-NG",
-      "Type": "Transceiver",
-      "Min Frequency": "Rx: 2025-2110Tx : 2200-2290",
-      "Frequency Band": "S",
-      "Data Rate": "S",
-      "Tx Power": "S",
-      "Mass": "RX: 512TX: 2,000",
-      "Dimensions": "RX: 512TX: 2,000",
-      "Flight Heritage": "33 dBm"
+      "Tx Power": "2561 Gbps",
+      "Mass": "2561 Gbps",
+      "Dimensions": "33 dBm",
+      "Flight Heritage": "320"
     },
     {
       "Manufacturer": "Syrlinks",
       "Product": "N-XONOS",
       "Type": "Transmitter",
-      "Min Frequency": "Rx: 2025-2110Tx: 8025-8400",
+      "Min Frequency": "2025-21108025-8400",
       "Frequency Band": "S, X",
       "Data Rate": "S, X",
-      "Tx Power": "S, X",
-      "Mass": "RX: 256TX: 400,000",
-      "Dimensions": "RX: 256TX: 400,000",
-      "Flight Heritage": "33 dBm"
-    },
-    {
-      "Manufacturer": "Syrlinks",
-      "Product": "EWC15-NG",
-      "Type": "Transceiver",
-      "Min Frequency": "Rx: 2025-2110Tx: 2200-2290",
-      "Frequency Band": "S",
-      "Data Rate": "S",
-      "Tx Power": "S",
-      "Mass": "RX: 512TX: 2,000",
-      "Dimensions": "RX: 512TX: 2,000",
-      "Flight Heritage": "33 dBm"
+      "Tx Power": "2564 Gbps",
+      "Mass": "2564 Gbps",
+      "Dimensions": "33 dBm",
+      "Flight Heritage": "385"
     },
     {
       "Manufacturer": "Syrlinks",
       "Product": "XONOS",
       "Type": "Transmitter",
-      "Min Frequency": "Rx: 2025-2110Tx: 8025-8500",
-      "Frequency Band": "X/S",
-      "Data Rate": "X/S",
-      "Tx Power": "X/S",
-      "Mass": "RX: 256TX: 628,000",
-      "Dimensions": "RX: 256TX: 628,000",
-      "Flight Heritage": "40 dBm"
+      "Min Frequency": "2025-21108025-8500",
+      "Frequency Band": "S, X",
+      "Data Rate": "S, X",
+      "Tx Power": "256 6.3 Gbps",
+      "Mass": "256 6.3 Gbps",
+      "Dimensions": "40 dBm",
+      "Flight Heritage": "2400"
     },
     {
       "Manufacturer": "Argotec",
       "Product": "UST-Lite",
       "Type": "Transponder",
-      "Min Frequency": "2025 – 21202200 – 23007145 – 72358400 – 850022550 – 2355025500 – 27500",
+      "Min Frequency": "2025-21202200-23007145-72358400-850022550-2355025500-27500",
       "Frequency Band": "S, X, K, Ka",
       "Data Rate": "S, X, K, Ka",
-      "Tx Power": "S, X, K, Ka",
-      "Mass": "Up to 100, 000(higher possible with NRE)",
-      "Dimensions": "Up to 100, 000(higher possible with NRE)",
-      "Flight Heritage": "8 dBm(input to SSPA)"
+      "Tx Power": "< 1 Gbps(higher possible with NRE)",
+      "Mass": "< 1 Gbps(higher possible with NRE)",
+      "Dimensions": "8 dBm(input to SSPA)",
+      "Flight Heritage": "<4000(quad-band)"
     },
     {
       "Manufacturer": "Tethers Unlimited",
@@ -988,10 +1132,10 @@
       "Min Frequency": "20200-21200 24000-27000",
       "Frequency Band": "Ka",
       "Data Rate": "Ka",
-      "Tx Power": "Ka",
+      "Tx Power": "25,000",
       "Mass": "25,000",
-      "Dimensions": "25,000",
-      "Flight Heritage": "33 dBm"
+      "Dimensions": "33 dBm",
+      "Flight Heritage": "300"
     },
     {
       "Manufacturer": "Tethers Unlimited",
@@ -1000,10 +1144,10 @@
       "Min Frequency": "24000-27000",
       "Frequency Band": "Ka",
       "Data Rate": "Ka",
-      "Tx Power": "Ka",
+      "Tx Power": "—",
       "Mass": "—",
-      "Dimensions": "—",
-      "Flight Heritage": "35 dBm"
+      "Dimensions": "35 dBm",
+      "Flight Heritage": "1,000"
     },
     {
       "Manufacturer": "SpaceMicro",
@@ -1012,10 +1156,10 @@
       "Min Frequency": "25250-27250",
       "Frequency Band": "K",
       "Data Rate": "K",
-      "Tx Power": "K",
-      "Mass": "1,000,000",
-      "Dimensions": "1,000,000",
-      "Flight Heritage": "2"
+      "Tx Power": "1 Gbps",
+      "Mass": "1 Gbps",
+      "Dimensions": "2 W",
+      "Flight Heritage": "1000"
     },
     {
       "Manufacturer": "AAC Clyde Space",
@@ -1024,46 +1168,58 @@
       "Min Frequency": "—",
       "Frequency Band": "X",
       "Data Rate": "X",
-      "Tx Power": "X",
+      "Tx Power": "50,000",
       "Mass": "50,000",
-      "Dimensions": "50,000",
-      "Flight Heritage": "2 W"
+      "Dimensions": "2 W",
+      "Flight Heritage": "130"
     },
     {
       "Manufacturer": "EnduroSat",
-      "Product": "X-band Transmitter II",
+      "Product": "X-band SDR",
       "Type": "Transmitter",
       "Min Frequency": "8000 – 8400",
       "Frequency Band": "X",
       "Data Rate": "X",
-      "Tx Power": "X",
-      "Mass": "≤ 350,000",
-      "Dimensions": "≤ 350,000",
-      "Flight Heritage": "27 – 33 dBm"
+      "Tx Power": "≤ 6 Gbps",
+      "Mass": "≤ 6 Gbps",
+      "Dimensions": "27 – 33 dBm",
+      "Flight Heritage": "<2500"
+    },
+    {
+      "Manufacturer": "Paradigma Technologies",
+      "Product": "PTRKU-1",
+      "Type": "Transponder / Transceiver",
+      "Min Frequency": "10700-1270012750-14000",
+      "Frequency Band": "Ku",
+      "Data Rate": "Ku",
+      "Tx Power": "–",
+      "Mass": "–",
+      "Dimensions": "33 dBm",
+      "Flight Heritage": "350"
     },
     {
       "Manufacturer": "EnduroSat",
-      "Product": "K-band Transmitter",
+      "Product": "K-band SDR",
       "Type": "Transmitter",
-      "Min Frequency": "25500 – 27000",
+      "Min Frequency": "25500-27000",
       "Frequency Band": "K",
       "Data Rate": "K",
-      "Tx Power": "K",
-      "Mass": "≤ 1,000,000",
-      "Dimensions": "≤ 1,000,000",
-      "Flight Heritage": "27 – 33 dBm"
+      "Tx Power": "≤ 2 Gbps",
+      "Mass": "≤ 2 Gbps",
+      "Dimensions": "27 – 33 dBm",
+      "Flight Heritage": "<5000"
     },
     {
       "Manufacturer": "AAC Clyde Space",
-      "Product": "PULSAR-DATA STX S-Band Transmitter",
+      "Product": "PULSAR-DATA STX",
       "Type": "SDR",
       "Min Frequency": "—",
       "Frequency Band": "—",
       "Data Rate": "S",
-      "Tx Power": "S",
+      "Tx Power": "7,500",
       "Mass": "7,500",
-      "Dimensions": "7,500",
-      "Flight Heritage": "1 W"
+      "Dimensions": "1 W",
+      "Flight Heritage": "100"
     },
     {
       "Manufacturer": "Honeywell",
@@ -1072,22 +1228,22 @@
       "Min Frequency": "—",
       "Frequency Band": "—",
       "Data Rate": "S",
-      "Tx Power": "S",
+      "Tx Power": "6,250",
       "Mass": "6,250",
-      "Dimensions": "6,250",
-      "Flight Heritage": "3.16 W"
+      "Dimensions": "3.16 W",
+      "Flight Heritage": "1000"
     },
     {
       "Manufacturer": "Innoflight, Inc.",
       "Product": "SCR-106HDR",
       "Type": "SDR with AES-256 Encryption",
-      "Min Frequency": "Tx: 7800-8500Rx: 1760-1840Rx: 2025-2110",
-      "Frequency Band": "Tx: 7800-8500Rx: 1760-1840Rx: 2025-2110",
-      "Data Rate": "Tx: XRx: L/S",
-      "Tx Power": "Tx: XRx: L/S",
-      "Mass": "Tx: 100,000Rx: 20,000",
-      "Dimensions": "Tx: 100,000Rx: 20,000",
-      "Flight Heritage": "–"
+      "Min Frequency": "7800-85001760-18402025-2110",
+      "Frequency Band": "7800-85001760-18402025-2110",
+      "Data Rate": "XL S",
+      "Tx Power": "1 Gbps20,000",
+      "Mass": "1 Gbps20,000",
+      "Dimensions": "–",
+      "Flight Heritage": "250 –290"
     },
     {
       "Manufacturer": "EnduroSat",
@@ -1096,10 +1252,10 @@
       "Min Frequency": "75 – 6000",
       "Frequency Band": "75 – 6000",
       "Data Rate": "VHF, UHF, L, S, C",
-      "Tx Power": "VHF, UHF, L, S, C",
+      "Tx Power": "982,000",
       "Mass": "982,000",
-      "Dimensions": "982,000",
-      "Flight Heritage": "-10 dBm"
+      "Dimensions": "-10 dBm",
+      "Flight Heritage": "<1500"
     },
     {
       "Manufacturer": "Trident",
@@ -1108,10 +1264,10 @@
       "Min Frequency": "100",
       "Frequency Band": "100",
       "Data Rate": "L/S",
-      "Tx Power": "L/S",
-      "Mass": "8-channels 250MHz – 6554MHz TX, 8-channels 250MHz – 4096MHz RX",
-      "Dimensions": "8-channels 250MHz – 6554MHz TX, 8-channels 250MHz – 4096MHz RX",
-      "Flight Heritage": "-1 dBm Full-scale"
+      "Tx Power": "8-channels 250MHz, 6554MH, 8-channels 250MHz, 4096MHz",
+      "Mass": "8-channels 250MHz, 6554MH, 8-channels 250MHz, 4096MHz",
+      "Dimensions": "-1 dBm Full-scale",
+      "Flight Heritage": "571"
     },
     {
       "Manufacturer": "Trident",
@@ -1119,11 +1275,11 @@
       "Type": "SDR – MPSoC Basecard and -SP converters – RX only",
       "Min Frequency": "100",
       "Frequency Band": "100",
-      "Data Rate": "L/S/C",
-      "Tx Power": "L/S/C",
+      "Data Rate": "L, S, C",
+      "Tx Power": "6.4GSPS single channel, 3.2 GSPS dual-channel",
       "Mass": "6.4GSPS single channel, 3.2 GSPS dual-channel",
-      "Dimensions": "6.4GSPS single channel, 3.2 GSPS dual-channel",
-      "Flight Heritage": "2.8dBm Full scale input"
+      "Dimensions": "2.8dBm Full scale input",
+      "Flight Heritage": "690"
     },
     {
       "Manufacturer": "Space Dynamics Laboratory",
@@ -1131,59 +1287,59 @@
       "Type": "SDR Transponder",
       "Min Frequency": "Various",
       "Frequency Band": "Various",
-      "Data Rate": "Simultaneous Multiband: X, Ka, and S",
-      "Tx Power": "Simultaneous Multiband: X, Ka, and S",
+      "Data Rate": "Simultaneous Multiband: X, Ka, S",
+      "Tx Power": "0.1 – 10000",
       "Mass": "0.1 – 10000",
-      "Dimensions": "0.1 – 10000",
-      "Flight Heritage": "34"
+      "Dimensions": "34",
+      "Flight Heritage": "720"
     },
     {
       "Manufacturer": "PICOSATS",
-      "Product": "RADIOSAT Ka band transponder",
+      "Product": "RADIOSAT",
       "Type": "Transponder",
-      "Min Frequency": "TX 17300 – 21200 RX 27000 – 31000",
-      "Frequency Band": "TX 17300 – 21200 RX 27000 – 31000",
+      "Min Frequency": "17300 – 21200 27000 – 31000",
+      "Frequency Band": "17300 – 21200 27000 – 31000",
       "Data Rate": "K/Ka",
-      "Tx Power": "K/Ka",
+      "Tx Power": "–",
       "Mass": "–",
-      "Dimensions": "–",
-      "Flight Heritage": "5"
+      "Dimensions": "5",
+      "Flight Heritage": "690"
     },
     {
       "Manufacturer": "PICOSATS",
-      "Product": "RADIOSAT Ku band transponder",
+      "Product": "RADIOSAT",
       "Type": "Transponder",
-      "Min Frequency": "TX 10700 -12750 RX 12750 -13250 RX 13750 -14800",
-      "Frequency Band": "TX 10700 -12750 RX 12750 -13250 RX 13750 -14800",
+      "Min Frequency": "10700 -12750 12750 -13250 13750 -14800",
+      "Frequency Band": "10700 -12750 12750 -13250 13750 -14800",
       "Data Rate": "Ku",
-      "Tx Power": "Ku",
+      "Tx Power": "–",
       "Mass": "–",
-      "Dimensions": "–",
-      "Flight Heritage": "5"
+      "Dimensions": "5",
+      "Flight Heritage": "< 1000"
     },
     {
       "Manufacturer": "PICOSATS",
-      "Product": "RADIOSAT Ka band transceiver",
+      "Product": "RADIOSAT",
       "Type": "Transceiver",
-      "Min Frequency": "TX 17300 – 21200 RX 27000 – 31000",
-      "Frequency Band": "TX 17300 – 21200 RX 27000 – 31000",
+      "Min Frequency": "17300 – 21200 27000 – 31000",
+      "Frequency Band": "17300 – 21200 27000 – 31000",
       "Data Rate": "K/Ka",
-      "Tx Power": "K/Ka",
-      "Mass": "TX 4000000RX 1000000",
-      "Dimensions": "TX 4000000RX 1000000",
-      "Flight Heritage": "5"
+      "Tx Power": "4 Gbps1 Gbps",
+      "Mass": "4 Gbps1 Gbps",
+      "Dimensions": "5",
+      "Flight Heritage": "900"
     },
     {
       "Manufacturer": "PICOSATS",
-      "Product": "BEAMSAT Ku band transceiver",
+      "Product": "BEAMSAT",
       "Type": "Transceiver",
-      "Min Frequency": "TX 10700 -12750 RX 12750 -13250 RX 13750 -14800",
-      "Frequency Band": "TX 10700 -12750 RX 12750 -13250 RX 13750 -14800",
+      "Min Frequency": "10700 -12750 12750 -13250 13750 -14800",
+      "Frequency Band": "10700 -12750 12750 -13250 13750 -14800",
       "Data Rate": "Ku",
-      "Tx Power": "Ku",
-      "Mass": "TX 4000000RX 1000000",
-      "Dimensions": "TX 4000000RX 1000000",
-      "Flight Heritage": "5"
+      "Tx Power": "4 Gbps1 Gbps",
+      "Mass": "4 Gbps1 Gbps",
+      "Dimensions": "5",
+      "Flight Heritage": "1000"
     },
     {
       "Manufacturer": "PICOSATS",
@@ -1192,22 +1348,82 @@
       "Min Frequency": "300 – 7000",
       "Frequency Band": "300 – 7000",
       "Data Rate": "UHF, L, S, C",
-      "Tx Power": "UHF, L, S, C",
-      "Mass": "TX 4000000RX 1000000",
-      "Dimensions": "TX 4000000RX 1000000",
-      "Flight Heritage": "0,001"
+      "Tx Power": "4 Gbps 1 Gbps",
+      "Mass": "4 Gbps 1 Gbps",
+      "Dimensions": "0,001",
+      "Flight Heritage": "< 500"
+    },
+    {
+      "Manufacturer": "Paradigma Technologies",
+      "Product": "PEWR-1Wideband Receiver",
+      "Type": "Receiver",
+      "Min Frequency": "100 – 22000",
+      "Frequency Band": "100 – 22000",
+      "Data Rate": "VHF to Ka",
+      "Tx Power": "–",
+      "Mass": "–",
+      "Dimensions": "0 dBm",
+      "Flight Heritage": "550"
+    },
+    {
+      "Manufacturer": "Paradigma Technologies",
+      "Product": "PTRKA-1",
+      "Type": "Transponder / Transceiver",
+      "Min Frequency": "17200 – 2120027000 – 31000",
+      "Frequency Band": "17200 – 2120027000 – 31000",
+      "Data Rate": "K/Ka",
+      "Tx Power": "–",
+      "Mass": "–",
+      "Dimensions": "33 dBm",
+      "Flight Heritage": "350"
     },
     {
       "Manufacturer": "PICOSATS",
-      "Product": "BEAMSAT Ka band transmitter",
+      "Product": "BEAMSAT",
       "Type": "Transmitter",
       "Min Frequency": "25500 – 27000",
       "Frequency Band": "25500 – 27000",
       "Data Rate": "Ka",
-      "Tx Power": "Ka",
-      "Mass": "4000000",
-      "Dimensions": "4000000",
-      "Flight Heritage": "5"
+      "Tx Power": "4 Gbps",
+      "Mass": "4 Gbps",
+      "Dimensions": "5",
+      "Flight Heritage": "900"
+    },
+    {
+      "Manufacturer": "Paradigma Technologies",
+      "Product": "PTRQV-1",
+      "Type": "Transponder / Transceiver",
+      "Min Frequency": "37500 – 4250047200 – 52400",
+      "Frequency Band": "37500 – 4250047200 – 52400",
+      "Data Rate": "K/Ka",
+      "Tx Power": "–",
+      "Mass": "–",
+      "Dimensions": "30 dBm",
+      "Flight Heritage": "350"
+    },
+    {
+      "Manufacturer": "Paradigma Technologies",
+      "Product": "PTQ-1",
+      "Type": "Transmitter",
+      "Min Frequency": "37500 – 42500",
+      "Frequency Band": "37500 – 42500",
+      "Data Rate": "Q",
+      "Tx Power": "–",
+      "Mass": "–",
+      "Dimensions": "22 dBm",
+      "Flight Heritage": "350"
+    },
+    {
+      "Manufacturer": "Paradigma Technologies",
+      "Product": "PTRQV-1",
+      "Type": "Transponder / Transceiver",
+      "Min Frequency": "37500 – 4250047200 – 52400",
+      "Frequency Band": "37500 – 4250047200 – 52400",
+      "Data Rate": "QV",
+      "Tx Power": "–",
+      "Mass": "–",
+      "Dimensions": "30 dBm",
+      "Flight Heritage": "350"
     }
   ]
 }

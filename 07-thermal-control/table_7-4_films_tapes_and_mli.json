@@ -4,8 +4,8 @@
   "chapter_num": 7,
   "chapter_title": "Thermal Control",
   "source_url": "https://www.nasa.gov/smallsat-institute/sst-soa/thermal-control",
-  "edition": "2024",
-  "scrape_date": "2026-04-09",
+  "edition": "2026",
+  "scrape_date": "2026-05-19",
   "type": "products",
   "columns": [
     "Manufacturer",
@@ -76,22 +76,22 @@
     },
     {
       "Manufacturer": "NASA GSFC",
-      "Film Product": "GSFC Aluminum Composite Coating/200HN Kapton",
+      "Film Product": "GSFC Aluminum Composite Coating/ 200HN Kapton",
       "Typical Solar Absorptivity BOL": "0.14"
     },
     {
       "Manufacturer": "NASA GSFC",
-      "Film Product": "GSFC Aluminum Composite Coating/100XC Kapton",
+      "Film Product": "GSFC Aluminum Composite Coating/ 100XC Kapton",
       "Typical Solar Absorptivity BOL": "0.2"
     },
     {
       "Manufacturer": "NASA GSFC",
-      "Film Product": "GSFC Aluminum Composite Coating/275XC Kapton",
+      "Film Product": "GSFC Aluminum Composite Coating/ 275XC Kapton",
       "Typical Solar Absorptivity BOL": "0.28"
     },
     {
       "Manufacturer": "NASA GSFC",
-      "Film Product": "GSFC Tailorable Emittance Coating/200HN Kapton",
+      "Film Product": "GSFC Tailorable Emittance Coating/ 200HN Kapton",
       "Typical Solar Absorptivity BOL": "0.14"
     },
     {

@@ -1,0 +1,57 @@
+{
+  "table_id": "8-2",
+  "title": "Common bus electrical interfaces",
+  "chapter_num": 8,
+  "chapter_title": "Small Spacecraft Avionics",
+  "source_url": "https://www.nasa.gov/smallsat-institute/sst-soa/small-spacecraft-avionics",
+  "edition": "2026",
+  "scrape_date": "2026-05-19",
+  "type": "specifications",
+  "columns": [
+    "Electrical Interfaces",
+    "Interface Standards"
+  ],
+  "_notes": [],
+  "data": [
+    {
+      "Electrical Interfaces": "Serial Communication Interfaces (SCI)",
+      "Interface Standards": "RS-232, RS-422, RS-485 etc."
+    },
+    {
+      "Electrical Interfaces": "Synchronous Serial Communication Interface",
+      "Interface Standards": "I2C, SPI, SSC and Enhanced Synchronous Serial Interface (ESSI)"
+    },
+    {
+      "Electrical Interfaces": "Networks",
+      "Interface Standards": "Ethernet, LonWorks, etc."
+    },
+    {
+      "Electrical Interfaces": "Fieldbuses",
+      "Interface Standards": "CAN Bus, LIN-Bus, PROFIBUS, etc."
+    },
+    {
+      "Electrical Interfaces": "Timers",
+      "Interface Standards": "PLL(s), Capture/Compare and Time Processing Units"
+    },
+    {
+      "Electrical Interfaces": "Discrete IO",
+      "Interface Standards": "General Purpose Input/Output (GPIO)"
+    },
+    {
+      "Electrical Interfaces": "A/D, D/A",
+      "Interface Standards": "Analog to Digital/Digital to Analog (ADC/DAC)"
+    },
+    {
+      "Electrical Interfaces": "Debugging",
+      "Interface Standards": "JTAG, ISP, ICSP, BDM Port, BITP, etc."
+    },
+    {
+      "Electrical Interfaces": "SpaceWire/SpaceFibre",
+      "Interface Standards": "a standard for high-speed serial links and networks"
+    },
+    {
+      "Electrical Interfaces": "High-speed data",
+      "Interface Standards": "RapidIO, XAUI, SerDes and MGT protocols are common in routing large quantities of mission data in the gigabit per second speeds"
+    }
+  ]
+}

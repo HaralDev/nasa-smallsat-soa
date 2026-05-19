@@ -4,394 +4,320 @@
   "chapter_num": 13,
   "chapter_title": "Deorbit Systems",
   "source_url": "https://www.nasa.gov/smallsat-institute/sst-soa/deorbit-systems",
-  "edition": "2024",
-  "scrape_date": "2026-04-09",
+  "edition": "2026",
+  "scrape_date": "2026-05-19",
   "type": "products",
   "columns": [
-    "Product/Mission",
+    "Product / Mission",
     "Manufacturer",
     "Mission host and launch mass",
     "Device mass (kg)",
     "Initial orbit (alt and inc.)",
     "Launch Year",
     "Deployment Year",
-    "Drag Area (m2)",
-    "Ref.",
-    "TRL"
+    "Drag Area (m2)"
   ],
   "_notes": [],
   "data": [
     {
-      "Product/Mission": "NanoSail-D2",
+      "Product / Mission": "NanoSail-D2",
       "Manufacturer": "NASA MSFC/ARC",
       "Mission host and launch mass": "FASTSAT (4.2 kg)",
       "Device mass (kg)": "N/A",
       "Initial orbit (alt and inc.)": "650 km 72 deg",
       "Launch Year": "2010",
       "Deployment Year": "2011",
-      "Drag Area (m2)": "10",
-      "Ref.": "(3)",
-      "TRL": "7-9"
+      "Drag Area (m2)": "10"
     },
     {
-      "Product/Mission": "Drag-Net",
+      "Product / Mission": "Drag-Net",
       "Manufacturer": "MMA Design",
       "Mission host and launch mass": "ORS-3 Deployed a Minotaur Upper Stage (100 kg)",
       "Device mass (kg)": "2.8",
       "Initial orbit (alt and inc.)": "N/A",
       "Launch Year": "2016",
       "Deployment Year": "2016",
-      "Drag Area (m2)": "14",
-      "Ref.": "(14)",
-      "TRL": "7-9"
+      "Drag Area (m2)": "14"
     },
     {
-      "Product/Mission": "Drag-Net",
+      "Product / Mission": "Drag-Net",
       "Manufacturer": "MMA Design",
       "Mission host and launch mass": "General Atomics GAzelle Satellite",
       "Device mass (kg)": "2.8",
       "Initial orbit (alt and inc.)": "N/A",
       "Launch Year": "2022",
       "Deployment Year": "TBC",
-      "Drag Area (m2)": "14",
-      "Ref.": "(15)",
-      "TRL": "7-9"
+      "Drag Area (m2)": "14"
     },
     {
-      "Product/Mission": "Icarus-1",
+      "Product / Mission": "Icarus-1",
       "Manufacturer": "Cranfield Aerospace Solutions",
       "Mission host and launch mass": "SSTL TechDemoSat-1 (157 kg)",
       "Device mass (kg)": "3.5",
       "Initial orbit (alt and inc.)": "635 km",
       "Launch Year": "2014",
       "Deployment Year": "2019",
-      "Drag Area (m2)": "6.7",
-      "Ref.": "(16)",
-      "TRL": "7-9"
+      "Drag Area (m2)": "6.7"
     },
     {
-      "Product/Mission": "Icarus-3",
+      "Product / Mission": "Icarus-3",
       "Manufacturer": "Cranfield Aerospace Solutions",
       "Mission host and launch mass": "Carbonite-1 (80 kg)",
       "Device mass (kg)": "2.3",
       "Initial orbit (alt and inc.)": "650 km 98 deg",
       "Launch Year": "2015",
-      "Deployment Year": "Future (in-orbit)",
-      "Drag Area (m2)": "2",
-      "Ref.": "(16)",
-      "TRL": "7-9"
+      "Deployment Year": "2018",
+      "Drag Area (m2)": "2"
     },
     {
-      "Product/Mission": "DOM",
+      "Product / Mission": "DOM",
       "Manufacturer": "Cranfield Aerospace Solutions",
       "Mission host and launch mass": "ESEO (45 kg)",
       "Device mass (kg)": "0.5",
-      "Initial orbit (alt and inc.)": "572 km × 588 km 97.77 deg",
+      "Initial orbit (alt and inc.)": "572 × 588 km 97.77 deg",
       "Launch Year": "2018",
-      "Deployment Year": "Future (in-orbit)",
-      "Drag Area (m2)": "0.5",
-      "Ref.": "(16)",
-      "TRL": "7-9"
+      "Deployment Year": "2020",
+      "Drag Area (m2)": "0.5"
     },
     {
-      "Product/Mission": "Terminator Tape",
+      "Product / Mission": "Terminator Tape",
       "Manufacturer": "Tethers Unlimited, Inc.",
       "Mission host and launch mass": "Prox-1 (71 kg)",
       "Device mass (kg)": "0.808",
       "Initial orbit (alt and inc.)": "717 km 24 deg",
       "Launch Year": "2019",
       "Deployment Year": "2019",
-      "Drag Area (m2)": "10.5",
-      "Ref.": "(17)",
-      "TRL": "7-9"
+      "Drag Area (m2)": "10.5"
     },
     {
-      "Product/Mission": "DragSail",
+      "Product / Mission": "DragSail",
       "Manufacturer": "Surrey Space Centre",
       "Mission host and launch mass": "InflateSail (3.2 kg)",
       "Device mass (kg)": "N/A",
       "Initial orbit (alt and inc.)": "505 km 97.44 deg",
       "Launch Year": "2017",
       "Deployment Year": "2017",
-      "Drag Area (m2)": "10",
-      "Ref.": "(18)",
-      "TRL": "7-9"
+      "Drag Area (m2)": "10"
     },
     {
-      "Product/Mission": "Exo-Brake",
+      "Product / Mission": "Exo-Brake",
       "Manufacturer": "NASA",
       "Mission host and launch mass": "TechEdSat 5 (3.4 kg)",
       "Device mass (kg)": "N/A",
       "Initial orbit (alt and inc.)": "405 km 51.5 deg",
       "Launch Year": "2014",
       "Deployment Year": "2015",
-      "Drag Area (m2)": "0.35",
-      "Ref.": "(19)",
-      "TRL": "7-9"
+      "Drag Area (m2)": "0.35"
     },
     {
-      "Product/Mission": "Exo-Brake",
+      "Product / Mission": "Exo-Brake",
       "Manufacturer": "NASA",
       "Mission host and launch mass": "TechEdSat 7 (3 kg)",
       "Device mass (kg)": "N/A",
       "Initial orbit (alt and inc.)": "485 x 513 km 60.7 deg",
       "Launch Year": "2021",
       "Deployment Year": "2021",
-      "Drag Area (m2)": "1.2",
-      "Ref.": "(20)",
-      "TRL": "8-9"
+      "Drag Area (m2)": "1.2"
     },
     {
-      "Product/Mission": "Exo-Brake",
+      "Product / Mission": "Exo-Brake",
       "Manufacturer": "NASA",
       "Mission host and launch mass": "TechEdSat 13 (4 kg)",
       "Device mass (kg)": "N/A",
       "Initial orbit (alt and inc.)": "499 x 509 km 45 deg",
       "Launch Year": "2022",
       "Deployment Year": "2022",
-      "Drag Area (m2)": "0.083",
-      "Ref.": "(20)",
-      "TRL": "8-9"
+      "Drag Area (m2)": "0.083"
     },
     {
-      "Product/Mission": "Exo-Brake",
+      "Product / Mission": "Exo-Brake",
       "Manufacturer": "NASA",
       "Mission host and launch mass": "TechEdSat 15 (4.5 kg)",
       "Device mass (kg)": "N/A",
       "Initial orbit (alt and inc.)": "215 x 285 km 137 deg",
       "Launch Year": "2022",
       "Deployment Year": "2022",
-      "Drag Area (m2)": "0.087",
-      "Ref.": "(20)",
-      "TRL": "8-9"
+      "Drag Area (m2)": "0.087"
     },
     {
-      "Product/Mission": "removeDebris",
+      "Product / Mission": "removeDebris",
       "Manufacturer": "Surrey Space Centre",
       "Mission host and launch mass": "removeDebris (100 kg)",
       "Device mass (kg)": "N/A",
       "Initial orbit (alt and inc.)": "405 km 51.5 deg",
       "Launch Year": "2018",
       "Deployment Year": "2019",
-      "Drag Area (m2)": "16",
-      "Ref.": "(21)",
-      "TRL": "7-9"
+      "Drag Area (m2)": "16"
     },
     {
-      "Product/Mission": "CanX-7",
+      "Product / Mission": "CanX-7",
       "Manufacturer": "UTIAS-SFL",
       "Mission host and launch mass": "3U CubeSat (3.6 kg)",
       "Device mass (kg)": "0.8 (4 modules of 0.200)",
       "Initial orbit (alt and inc.)": "688 km 98 deg",
       "Launch Year": "2016",
       "Deployment Year": "2017",
-      "Drag Area (m2)": "4",
-      "Ref.": "(22)",
-      "TRL": "7-9"
+      "Drag Area (m2)": "4"
     },
     {
-      "Product/Mission": "NABEO-1",
+      "Product / Mission": "NABEO-1",
       "Manufacturer": "HPS",
       "Mission host and launch mass": "1U CubeSat (attached to Rocket Lab Kick Stage)",
       "Device mass (kg)": "0.85",
       "Initial orbit (alt and inc.)": "500 km",
       "Launch Year": "2018",
       "Deployment Year": "2018",
-      "Drag Area (m2)": "2.5",
-      "Ref.": "(23)",
-      "TRL": "8-9"
+      "Drag Area (m2)": "2.5"
     },
     {
-      "Product/Mission": "ADEO-2",
+      "Product / Mission": "ADEO-2",
       "Manufacturer": "HPS",
       "Mission host and launch mass": "1U CubeSat (attached to the D-orbit ION carrier)",
       "Device mass (kg)": "3.4",
       "Initial orbit (alt and inc.)": "N/A",
       "Launch Year": "2021",
       "Deployment Year": "2022",
-      "Drag Area (m2)": "3.6",
-      "Ref.": "(24)",
-      "TRL": "9"
+      "Drag Area (m2)": "3.6"
     },
     {
-      "Product/Mission": "ADEO-Cube series",
+      "Product / Mission": "ADEO-Cube series",
       "Manufacturer": "HPS",
       "Mission host and launch mass": "1-50 kg",
       "Device mass (kg)": "0.5",
       "Initial orbit (alt and inc.)": "LEO",
       "Launch Year": "N/A",
       "Deployment Year": "N/A",
-      "Drag Area (m2)": "2",
-      "Ref.": "(25)",
-      "TRL": "7"
+      "Drag Area (m2)": "2"
     },
     {
-      "Product/Mission": "ADEO-N series",
+      "Product / Mission": "ADEO-N series",
       "Manufacturer": "HPS",
       "Mission host and launch mass": "20-250 kg",
       "Device mass (kg)": "0.8",
       "Initial orbit (alt and inc.)": "LEO",
       "Launch Year": "N/A",
       "Deployment Year": "N/A",
-      "Drag Area (m2)": "5±2",
-      "Ref.": "(26)",
-      "TRL": "9"
+      "Drag Area (m2)": "5±2"
     },
     {
-      "Product/Mission": "ADEO-M series",
+      "Product / Mission": "ADEO-M series",
       "Manufacturer": "HPS",
       "Mission host and launch mass": "100-700 kg",
       "Device mass (kg)": "4",
       "Initial orbit (alt and inc.)": "LEO",
       "Launch Year": "N/A",
       "Deployment Year": "N/A",
-      "Drag Area (m2)": "15±5",
-      "Ref.": "(27)",
-      "TRL": "6"
+      "Drag Area (m2)": "15±5"
     },
     {
-      "Product/Mission": "ADEO-L series",
+      "Product / Mission": "ADEO-L series",
       "Manufacturer": "HPS",
       "Mission host and launch mass": "500-1500 kg",
       "Device mass (kg)": "9.5",
       "Initial orbit (alt and inc.)": "LEO",
       "Launch Year": "N/A",
       "Deployment Year": "N/A",
-      "Drag Area (m2)": "20±100",
-      "Ref.": "(25)",
-      "TRL": "7"
+      "Drag Area (m2)": "20±100"
     },
     {
-      "Product/Mission": "ARTICA (ALPHA)",
+      "Product / Mission": "ARTICA (ALPHA)",
       "Manufacturer": "NPC Spacemind",
       "Mission host and launch mass": "1U CubeSat",
       "Device mass (kg)": "0.285 (0.3U)",
       "Initial orbit (alt and inc.)": "5865 Km, 70.16 deg",
       "Launch Year": "2020",
       "Deployment Year": "2020",
-      "Drag Area (m2)": "2.2",
-      "Ref.": "(28)",
-      "TRL": "7-9"
+      "Drag Area (m2)": "2.2"
     },
     {
-      "Product/Mission": "ARTICA(FUTURA SM 3)",
+      "Product / Mission": "ARTICA(FUTURA SM 3)",
       "Manufacturer": "NPC Spacemind",
       "Mission host and launch mass": "6U CubeSat",
       "Device mass (kg)": "0.285 (0.3U)",
       "Initial orbit (alt and inc.)": "N/A",
       "Launch Year": "2023",
       "Deployment Year": "N/A",
-      "Drag Area (m2)": "2.2",
-      "Ref.": "(29)",
-      "TRL": "7-9"
+      "Drag Area (m2)": "2.2"
     },
     {
-      "Product/Mission": "ARTICA (DANTESAT)",
+      "Product / Mission": "ARTICA (DANTESAT)",
       "Manufacturer": "NPC Spacemind",
       "Mission host and launch mass": "3U CubeSat",
       "Device mass (kg)": "0.285 (0.3U)",
       "Initial orbit (alt and inc.)": "415 km",
       "Launch Year": "2022",
       "Deployment Year": "2022",
-      "Drag Area (m2)": "2.2",
-      "Ref.": "(29)",
-      "TRL": "7-9"
+      "Drag Area (m2)": "2.2"
     },
     {
-      "Product/Mission": "ARTICA (URSA MAIOR)",
+      "Product / Mission": "ARTICA (URSA MAIOR)",
       "Manufacturer": "NPC Spacemind",
       "Mission host and launch mass": "3U CubeSat",
       "Device mass (kg)": "0.285 (0.3U)",
       "Initial orbit (alt and inc.)": "450 km, 97.1 deg",
       "Launch Year": "2017",
       "Deployment Year": "2019",
-      "Drag Area (m2)": "2.2",
-      "Ref.": "(28)",
-      "TRL": "7-9"
+      "Drag Area (m2)": "2.2"
     },
     {
-      "Product/Mission": "ARTICA (1KUNS)",
+      "Product / Mission": "ARTICA (1KUNS)",
       "Manufacturer": "NPC Spacemind",
       "Mission host and launch mass": "1U CubeSat",
       "Device mass (kg)": "0.285 (0.3U)",
       "Initial orbit (alt and inc.)": "N/A",
       "Launch Year": "2018",
       "Deployment Year": "2019",
-      "Drag Area (m2)": "2.2",
-      "Ref.": "(28)",
-      "TRL": "7-9"
+      "Drag Area (m2)": "2.2"
     },
     {
-      "Product/Mission": "LightSail – 2",
+      "Product / Mission": "LightSail – 2",
       "Manufacturer": "The Planetary Society",
       "Mission host and launch mass": "3U CubeSat",
       "Device mass (kg)": "N/A",
       "Initial orbit (alt and inc.)": "720 km",
       "Launch Year": "2019",
       "Deployment Year": "2022",
-      "Drag Area (m2)": "32",
-      "Ref.": "(30)",
-      "TRL": "9"
+      "Drag Area (m2)": "32"
     },
     {
-      "Product/Mission": "ACS3",
+      "Product / Mission": "ACS3",
       "Manufacturer": "NASA",
       "Mission host and launch mass": "12U CubeSat",
       "Device mass (kg)": "1 (6U)",
       "Initial orbit (alt and inc.)": "1000 km SSO",
       "Launch Year": "2024",
       "Deployment Year": "2024",
-      "Drag Area (m2)": "81",
-      "Ref.": "(31)",
-      "TRL": "8"
+      "Drag Area (m2)": "81"
     },
     {
-      "Product/Mission": "Gama ALPHA",
+      "Product / Mission": "Gama ALPHA",
       "Manufacturer": "Gama",
       "Mission host and launch mass": "6U CubeSat",
       "Device mass (kg)": "N/A",
       "Initial orbit (alt and inc.)": "550 km",
       "Launch Year": "2023",
       "Deployment Year": "N/A",
-      "Drag Area (m2)": "73.3",
-      "Ref.": "(32)",
-      "TRL": "8-9"
+      "Drag Area (m2)": "73.3"
     },
     {
-      "Product/Mission": "NANO dragsail",
+      "Product / Mission": "NANO dragsail (28)",
       "Manufacturer": "Frond Space Systems",
       "Mission host and launch mass": "2U-12U CubeSat",
       "Device mass (kg)": "0.25",
       "Initial orbit (alt and inc.)": "<650 km",
       "Launch Year": "2025",
       "Deployment Year": "N/A",
-      "Drag Area (m2)": "1",
-      "Ref.": "(33)",
-      "TRL": "5-6"
+      "Drag Area (m2)": "1"
     },
     {
-      "Product/Mission": "MICRO dragsail",
+      "Product / Mission": "MICRO dragsail (29)",
       "Manufacturer": "Frond Space Systems",
       "Mission host and launch mass": "50-100 kg spacecraft",
       "Device mass (kg)": "<1600",
       "Initial orbit (alt and inc.)": "<650 km",
       "Launch Year": "2025",
       "Deployment Year": "N/A",
-      "Drag Area (m2)": "10",
-      "Ref.": "(34)",
-      "TRL": "5-6"
-    },
-    {
-      "Product/Mission": "",
-      "Manufacturer": "",
-      "Mission host and launch mass": "",
-      "Device mass (kg)": "",
-      "Initial orbit (alt and inc.)": "",
-      "Launch Year": "",
-      "Deployment Year": "",
-      "Drag Area (m2)": "",
-      "Ref.": "",
-      "TRL": ""
+      "Drag Area (m2)": "10"
     }
   ]
 }

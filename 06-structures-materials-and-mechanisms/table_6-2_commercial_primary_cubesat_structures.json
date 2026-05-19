@@ -4,8 +4,8 @@
   "chapter_num": 6,
   "chapter_title": "Structures, Materials, and Mechanisms",
   "source_url": "https://www.nasa.gov/smallsat-institute/sst-soa/structures-materials-and-mechanisms",
-  "edition": "2024",
-  "scrape_date": "2026-04-09",
+  "edition": "2026",
+  "scrape_date": "2026-05-19",
   "type": "products",
   "columns": [
     "Manufacturer Headquarters",
@@ -14,12 +14,16 @@
   "_notes": [],
   "data": [
     {
+      "Manufacturer Headquarters": "2NDSpace (Italy)",
+      "Structure (U)": "VERSE 1U, 2U, 3U, 6U, 8U, 12U, 16U"
+    },
+    {
       "Manufacturer Headquarters": "AAC Clyde Space (Sweden)",
       "Structure (U)": "ZAPHOD 1U, 2U, 3U, 6U, 12U"
     },
     {
-      "Manufacturer Headquarters": "C3S Electronics Development LLC (Hungary)",
-      "Structure (U)": "3U/3U Plus, 6U, 12U, 16U"
+      "Manufacturer Headquarters": "C3S Electronics Development (Hungary)",
+      "Structure (U)": "3U, 6U, 8U, 12U, 16U"
     },
     {
       "Manufacturer Headquarters": "Cervos Space (Turkey)",
@@ -30,6 +34,10 @@
       "Structure (U)": "1U, 1.5U, 3U, 6UXL, 8U 12UXL, 16U"
     },
     {
+      "Manufacturer Headquarters": "Exobotics (UK)",
+      "Structure (U)": "1U, 2U, 3U, 6U, 12U, 16U"
+    },
+    {
       "Manufacturer Headquarters": "German Orbital Systems (Germany)",
       "Structure (U)": "1U, 2U, 3U, 6U, 12U"
     },
@@ -38,8 +46,8 @@
       "Structure (U)": "3U, 6U, 8U, 12U, 16U"
     },
     {
-      "Manufacturer Headquarters": "Gran Systems (USA)",
-      "Structure (U)": "1U, 1.5U, 2U, 3U, 6U, 6UXL"
+      "Manufacturer Headquarters": "Gran Systems (Taiwan)",
+      "Structure (U)": "1U, 1.5U, 2U, 3U, 6U, 6UXL, 8U, 12UXL, 16U, 27U, 64U"
     },
     {
       "Manufacturer Headquarters": "Gumush (Istanbul)",
@@ -68,6 +76,14 @@
     {
       "Manufacturer Headquarters": "Nara Space (South Korea)",
       "Structure (U)": "12U, 16U"
+    },
+    {
+      "Manufacturer Headquarters": "SatRev (Poland)",
+      "Structure (U)": "6U"
+    },
+    {
+      "Manufacturer Headquarters": "Space Inventor (Denmark)",
+      "Structure (U)": "3U, 6U, 8U, 12U, 16U"
     }
   ]
 }

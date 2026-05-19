@@ -4,8 +4,8 @@
   "chapter_num": 5,
   "chapter_title": "Guidance, Navigation, and Control",
   "source_url": "https://www.nasa.gov/smallsat-institute/sst-soa/guidance-navigation-and-control",
-  "edition": "2024",
-  "scrape_date": "2026-04-09",
+  "edition": "2026",
+  "scrape_date": "2026-05-19",
   "type": "products",
   "columns": [
     "Manufacturer",
@@ -13,33 +13,33 @@
     "Mass (kg)",
     "Rx Power (W)",
     "Bands",
-    "Radiation Tolerance (krad)"
+    "Rad. Tol. (krad)"
   ],
   "_notes": [],
   "data": [
     {
-      "Manufacturer": "General Dynamics",
+      "Manufacturer": "General Dynamics (USA)",
       "Model": "SDST",
       "Mass (kg)": "3.2",
       "Rx Power (W)": "12.5",
       "Bands": "X, Ka",
-      "Radiation Tolerance (krad)": "50"
+      "Rad. Tol. (krad)": "50"
     },
     {
-      "Manufacturer": "Space Dynamics Laboratory",
+      "Manufacturer": "Space Dynamics Laboratory (USA)",
       "Model": "IRIS V2.1",
       "Mass (kg)": "1.1",
       "Rx Power (W)": "10.3",
       "Bands": "X, Ka, S, or UHF",
-      "Radiation Tolerance (krad)": "25"
+      "Rad. Tol. (krad)": "25"
     },
     {
-      "Manufacturer": "Space Dynamics Laboratory",
+      "Manufacturer": "Space Dynamics Laboratory (USA)",
       "Model": "Iris Radio V3",
       "Mass (kg)": "0.8",
       "Rx Power (W)": "10",
       "Bands": "Simultaneous Multi-band: X, Ka, S",
-      "Radiation Tolerance (krad)": "25"
+      "Rad. Tol. (krad)": "25"
     }
   ]
 }

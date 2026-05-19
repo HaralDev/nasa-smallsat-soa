@@ -5,8 +5,8 @@
   "chapter_num": 4,
   "chapter_title": "In-Space Propulsion",
   "source_url": "https://www.nasa.gov/smallsat-institute/sst-soa/in-space_propulsion",
-  "edition": "2024",
-  "scrape_date": "2026-04-09",
+  "edition": "2026",
+  "scrape_date": "2026-05-19",
   "type": "products",
   "columns": [
     "Manufacturer",
@@ -24,24 +24,10 @@
     "References"
   ],
   "_notes": [
+    "Note that all data is documented as provided in the references. Unless otherwise published, do not assume the data has been independently verified. † denotes a wet mass, ‡ denotes a dry mass, “-“ = denotes data not available or applicable, * denotes mass of propellant throughput, rather than total impulse, BOL = Beginning of Life, EOL = End of Life",
     "Note that all data is documented as provided in the references. Unless otherwise published, do not assume the data has been independently verified. † denotes a wet mass, ‡ denotes a dry mass, “-“ = denotes data not available or applicable, * denotes mass of propellant throughput, rather than total impulse"
   ],
   "data": [
-    {
-      "Manufacturer": "Aerojet Rocketdyne (USA)",
-      "Product": "GR-M1",
-      "Propellant": "ASCENT",
-      "Thrust per Thruster (Quantity)": "0.25 – 0.5",
-      "Specific Impulse": "206",
-      "Total Impulse": "(3.4 kg)*",
-      "Mass": "—",
-      "Envelope": "—",
-      "Power": "14 (max)",
-      "ACS": "–",
-      "PMI Status": "D",
-      "Missions": "–",
-      "References": "(48)"
-    },
     {
       "Manufacturer": "Aerojet Rocketdyne (USA)",
       "Product": "GR-1",
@@ -55,7 +41,7 @@
       "ACS": "–",
       "PMI Status": "F",
       "Missions": "GPIM",
-      "References": "(8) (32) (33) (48)"
+      "References": "(8) (30) (31)"
     },
     {
       "Manufacturer": "Aerojet Rocketdyne (USA)",
@@ -70,7 +56,7 @@
       "ACS": "–",
       "PMI Status": "F",
       "Missions": "GPIM",
-      "References": "(8) (32) (33)"
+      "References": "(8) (30) (31)"
     },
     {
       "Manufacturer": "Benchmark Space Systems (USA)",
@@ -85,7 +71,7 @@
       "ACS": "–",
       "PMI Status": "E",
       "Missions": "Transporter 2 (Undisclosed missions)",
-      "References": "(38) (109)"
+      "References": "(36) (104)"
     },
     {
       "Manufacturer": "Benchmark Space Systems (USA)",
@@ -100,7 +86,7 @@
       "ACS": "–",
       "PMI Status": "D",
       "Missions": "–",
-      "References": "(109)"
+      "References": "(104)"
     },
     {
       "Manufacturer": "Benchmark Space Systems (USA)",
@@ -115,7 +101,7 @@
       "ACS": "–",
       "PMI Status": "F",
       "Missions": "Sherpa-TLC2",
-      "References": "(36) (37) (109)"
+      "References": "(34) (35) (104)"
     },
     {
       "Manufacturer": "ECAPS (Sweden)",
@@ -130,7 +116,7 @@
       "ACS": "–",
       "PMI Status": "F",
       "Missions": "ArgoMoon",
-      "References": "(26) (29) (112)"
+      "References": "(24) (27) (107)"
     },
     {
       "Manufacturer": "ECAPS (Sweden)",
@@ -145,7 +131,7 @@
       "ACS": "–",
       "PMI Status": "F",
       "Missions": "PRISMA, SkySat, ELSA-d",
-      "References": "(26) (27) (28) (29) (112) (113)"
+      "References": "(24) (25) (26) (27) (107) (108)"
     },
     {
       "Manufacturer": "ECAPS (Sweden)",
@@ -160,7 +146,7 @@
       "ACS": "–",
       "PMI Status": "D",
       "Missions": "",
-      "References": "(113)"
+      "References": "(108)"
     },
     {
       "Manufacturer": "ECAPS (Sweden)",
@@ -175,7 +161,7 @@
       "ACS": "–",
       "PMI Status": "D",
       "Missions": "–",
-      "References": "(112)"
+      "References": "(107)"
     },
     {
       "Manufacturer": "ECAPS (Sweden)",
@@ -190,7 +176,7 @@
       "ACS": "–",
       "PMI Status": "D",
       "Missions": "–",
-      "References": "(112)"
+      "References": "(107)"
     },
     {
       "Manufacturer": "Dawn Aerospace (New Zealand)",
@@ -205,7 +191,7 @@
       "ACS": "–",
       "PMI Status": "F",
       "Missions": "numerous",
-      "References": "(52)"
+      "References": "(45)"
     },
     {
       "Manufacturer": "Dawn Aerospace (New Zealand)",
@@ -220,67 +206,52 @@
       "ACS": "–",
       "PMI Status": "F",
       "Missions": "numerous",
-      "References": "(52)"
+      "References": "(45)"
     },
     {
       "Manufacturer": "Rubicon Space Systems (USA)",
       "Product": "0.1N",
       "Propellant": "ASCENT",
-      "Thrust per Thruster (Quantity)": "0.03 – 0.28",
-      "Specific Impulse": "215 – 235",
-      "Total Impulse": "(3.1 kg)*",
+      "Thrust per Thruster (Quantity)": "0.1",
+      "Specific Impulse": ">195",
+      "Total Impulse": "5.7",
       "Mass": "0.06",
-      "Envelope": "–",
-      "Power": "7 – 9",
+      "Envelope": "2.5 dia x 4",
+      "Power": "8",
       "ACS": "–",
       "PMI Status": "E",
-      "Missions": "Lunar Flashlight",
-      "References": "(34) (35) (49)"
+      "Missions": "Lunar Flashlight, GPDM",
+      "References": "(32) (33) (109) (110) (111)"
     },
     {
       "Manufacturer": "Rubicon Space Systems (USA)",
-      "Product": "1N",
+      "Product": "1N LT (HT)",
       "Propellant": "ASCENT",
-      "Thrust per Thruster (Quantity)": "0.2 – 1.1",
-      "Specific Impulse": "236 – 250",
-      "Total Impulse": "(> 7 kg)*",
-      "Mass": "0.18",
-      "Envelope": "–",
-      "Power": "< 15",
-      "ACS": "–",
-      "PMI Status": "D",
-      "Missions": "–",
-      "References": "(49)"
-    },
-    {
-      "Manufacturer": "Rubicon Space Systems (USA)",
-      "Product": "5N LT",
-      "Propellant": "ASCENT",
-      "Thrust per Thruster (Quantity)": "1 – 6",
-      "Specific Impulse": "221 – 261",
-      "Total Impulse": "(3 kg)*",
+      "Thrust per Thruster (Quantity)": "1",
+      "Specific Impulse": ">250",
+      "Total Impulse": "12 (33)",
       "Mass": "0.25",
-      "Envelope": "–",
-      "Power": "< 25",
+      "Envelope": "6 dia x 16",
+      "Power": "15 (25)",
       "ACS": "–",
       "PMI Status": "D",
       "Missions": "–",
-      "References": "(49)"
+      "References": "(109)"
     },
     {
       "Manufacturer": "Rubicon Space Systems (USA)",
-      "Product": "5N HT",
+      "Product": "5N LT (HT)",
       "Propellant": "ASCENT",
-      "Thrust per Thruster (Quantity)": "1 – 6",
-      "Specific Impulse": "221 – 261",
-      "Total Impulse": "(110 kg)*",
+      "Thrust per Thruster (Quantity)": "5",
+      "Specific Impulse": ">250",
+      "Total Impulse": "12 (118)",
       "Mass": "0.30",
-      "Envelope": "–",
-      "Power": "< 25",
+      "Envelope": "6 dia x 16",
+      "Power": "25",
       "ACS": "–",
       "PMI Status": "D",
       "Missions": "–",
-      "References": "(49)"
+      "References": "(109)"
     }
   ]
 }

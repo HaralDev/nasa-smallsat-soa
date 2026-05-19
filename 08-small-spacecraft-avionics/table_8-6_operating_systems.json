@@ -1,0 +1,55 @@
+{
+  "table_id": "8-6",
+  "title": "Operating Systems",
+  "chapter_num": 8,
+  "chapter_title": "Small Spacecraft Avionics",
+  "source_url": "https://www.nasa.gov/smallsat-institute/sst-soa/small-spacecraft-avionics",
+  "edition": "2026",
+  "scrape_date": "2026-05-19",
+  "type": "products",
+  "columns": [
+    "Name",
+    "Description",
+    "Real-time?",
+    "Implementation Language",
+    "Open-Source?"
+  ],
+  "_notes": [],
+  "data": [
+    {
+      "Name": "VxWorks",
+      "Description": "Deterministic, hard real‑time operating system.",
+      "Real-time?": "Yes",
+      "Implementation Language": "C, C++",
+      "Open-Source?": "No"
+    },
+    {
+      "Name": "RTEMS",
+      "Description": "Hard real‑time OS designed for embedded and space systems.",
+      "Real-time?": "Yes",
+      "Implementation Language": "C",
+      "Open-Source?": "Yes, RTEMS License"
+    },
+    {
+      "Name": "FreeRTO",
+      "Description": "Lightweight real‑time kernel for microcontrollers.",
+      "Real-time?": "Yes",
+      "Implementation Language": "C",
+      "Open-Source?": "Yes, MIT License"
+    },
+    {
+      "Name": "Linux",
+      "Description": "Free, open‑source operating system kernel.",
+      "Real-time?": "Not standard",
+      "Implementation Language": "C",
+      "Open-Source?": "Yes, GNU GPL"
+    },
+    {
+      "Name": "Zephyr OS",
+      "Description": "Real‑time OS for embedded systems.",
+      "Real-time?": "Yes",
+      "Implementation Language": "C",
+      "Open-Source?": "Yes, Apache 2.0 License"
+    }
+  ]
+}

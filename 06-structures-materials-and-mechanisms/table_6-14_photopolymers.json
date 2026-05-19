@@ -1,0 +1,83 @@
+{
+  "table_id": "6-14",
+  "title": "Photopolymers",
+  "chapter_num": 6,
+  "chapter_title": "Structures, Materials, and Mechanisms",
+  "source_url": "https://www.nasa.gov/smallsat-institute/sst-soa/structures-materials-and-mechanisms",
+  "edition": "2026",
+  "scrape_date": "2026-05-19",
+  "type": "products",
+  "columns": [
+    "Photopolymer Name (Citation)",
+    "ISO 75/ASTM D648 HDT (°C)",
+    "ISO 179-1/ASTM D256-10A (J/m)",
+    "ISO 527-1/ASTM D638 Tensile (MPa)",
+    "ASTM D790 Flexural (MPa)",
+    "Density (g/cc) at 25°C",
+    "ESD Risk (Ω-cm)",
+    "Manufacturing and/or Machine Type"
+  ],
+  "_notes": [],
+  "data": [
+    {
+      "Photopolymer Name (Citation)": "Accura Bluestone (73)",
+      "ISO 75/ASTM D648 HDT (°C)": "267-284",
+      "ISO 179-1/ASTM D256-10A (J/m)": "13-17",
+      "ISO 527-1/ASTM D638 Tensile (MPa)": "66-68",
+      "ASTM D790 Flexural (MPa)": "124-154",
+      "Density (g/cc) at 25°C": "1.78",
+      "ESD Risk (Ω-cm)": "ND",
+      "Manufacturing and/or Machine Type": "3D Systems ProX 800"
+    },
+    {
+      "Photopolymer Name (Citation)": "VisiJet M2S-HT250 (74)",
+      "ISO 75/ASTM D648 HDT (°C)": "250",
+      "ISO 179-1/ASTM D256-10A (J/m)": "10",
+      "ISO 527-1/ASTM D638 Tensile (MPa)": "51",
+      "ASTM D790 Flexural (MPa)": "83",
+      "Density (g/cc) at 25°C": "1.15",
+      "ESD Risk (Ω-cm)": "ND",
+      "Manufacturing and/or Machine Type": "3DS MJP 2500 Plus"
+    },
+    {
+      "Photopolymer Name (Citation)": "DSM Somos® Watershed XC",
+      "ISO 75/ASTM D648 HDT (°C)": "50",
+      "ISO 179-1/ASTM D256-10A (J/m)": "25",
+      "ISO 527-1/ASTM D638 Tensile (MPa)": "50",
+      "ASTM D790 Flexural (MPa)": "69",
+      "Density (g/cc) at 25°C": "1.12",
+      "ESD Risk (Ω-cm)": "ND",
+      "Manufacturing and/or Machine Type": "Stratasys V650 Flex SL"
+    },
+    {
+      "Photopolymer Name (Citation)": "Henkel LOCTITE® IND402 A70 Flex (75)",
+      "ISO 75/ASTM D648 HDT (°C)": "N/A",
+      "ISO 179-1/ASTM D256-10A (J/m)": "N/A",
+      "ISO 527-1/ASTM D638 Tensile (MPa)": "5.5",
+      "ASTM D790 Flexural (MPa)": "N/A",
+      "Density (g/cc) at 25°C": "1.068",
+      "ESD Risk (Ω-cm)": "ND",
+      "Manufacturing and/or Machine Type": "Several"
+    },
+    {
+      "Photopolymer Name (Citation)": "Henkel LOCTITE® 3D 3843 (76)",
+      "ISO 75/ASTM D648 HDT (°C)": "80",
+      "ISO 179-1/ASTM D256-10A (J/m)": "54",
+      "ISO 527-1/ASTM D638 Tensile (MPa)": "60",
+      "ASTM D790 Flexural (MPa)": "81",
+      "Density (g/cc) at 25°C": "N/A",
+      "ESD Risk (Ω-cm)": "ND",
+      "Manufacturing and/or Machine Type": "DLP SLA types only"
+    },
+    {
+      "Photopolymer Name (Citation)": "Somos® Perform",
+      "ISO 75/ASTM D648 HDT (°C)": "132-268",
+      "ISO 179-1/ASTM D256-10A (J/m)": "17-20",
+      "ISO 527-1/ASTM D638 Tensile (MPa)": "68-80",
+      "ASTM D790 Flexural (MPa)": "120-146",
+      "Density (g/cc) at 25°C": "1.61",
+      "ESD Risk (Ω-cm)": "N/A",
+      "Manufacturing and/or Machine Type": "SLA types only"
+    }
+  ]
+}

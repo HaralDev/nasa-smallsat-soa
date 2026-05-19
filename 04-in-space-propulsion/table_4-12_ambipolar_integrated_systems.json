@@ -5,8 +5,8 @@
   "chapter_num": 4,
   "chapter_title": "In-Space Propulsion",
   "source_url": "https://www.nasa.gov/smallsat-institute/sst-soa/in-space_propulsion",
-  "edition": "2024",
-  "scrape_date": "2026-04-09",
+  "edition": "2026",
+  "scrape_date": "2026-05-19",
   "type": "products",
   "columns": [
     "Manufacturer",
@@ -40,7 +40,7 @@
       "ACS": "N",
       "PMI Status": "F",
       "Missions": "Capella",
-      "References": "(293) (295) (397) (398) (399) (400)"
+      "References": "(299) (301) (416) (417) (418) (419)"
     },
     {
       "Manufacturer": "Phase Four (USA)",
@@ -55,7 +55,7 @@
       "ACS": "N",
       "PMI Status": "E",
       "Missions": "(Mission Not Specified)",
-      "References": "(400) (401) (294)"
+      "References": "(419) (420) (300)"
     },
     {
       "Manufacturer": "Phase Four (USA)",
@@ -70,7 +70,7 @@
       "ACS": "N",
       "PMI Status": "D",
       "Missions": "–",
-      "References": "(294) (402)"
+      "References": "(300) (421)"
     },
     {
       "Manufacturer": "T4i (Italy)",
@@ -85,7 +85,7 @@
       "ACS": "N",
       "PMI Status": "E",
       "Missions": "UniSat-7",
-      "References": "(296) (297) (403) (298) (404)"
+      "References": "(302) (303) (422) (304) (423)"
     },
     {
       "Manufacturer": "T4i (Italy)",
@@ -100,7 +100,7 @@
       "ACS": "N",
       "PMI Status": "D",
       "Missions": "–",
-      "References": "(404)"
+      "References": "(423)"
     },
     {
       "Manufacturer": "Miles Space (USA)",
@@ -115,7 +115,7 @@
       "ACS": "N",
       "PMI Status": "E",
       "Missions": "Team Miles",
-      "References": "(299) (300) (405) (405)"
+      "References": "(305) (306) (424) (424)"
     }
   ]
 }
