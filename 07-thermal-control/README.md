@@ -1,8 +1,8 @@
 # Chapter 7 — Thermal Control
 
 **Source:** https://www.nasa.gov/smallsat-institute/sst-soa/thermal-control  
-**Edition:** 2024  
-**Data scraped:** 2026-04-09
+**Edition:** 2026  
+**Data scraped:** 2026-05-19
 
 ## Files in this folder
 

@@ -4,8 +4,8 @@
   "chapter_num": 5,
   "chapter_title": "Guidance, Navigation, and Control",
   "source_url": "https://www.nasa.gov/smallsat-institute/sst-soa/guidance-navigation-and-control",
-  "edition": "2024",
-  "scrape_date": "2026-04-09",
+  "edition": "2026",
+  "scrape_date": "2026-05-19",
   "type": "products",
   "columns": [
     "Manufacturer",
@@ -14,92 +14,83 @@
     "Mass (kg)",
     "Power (W)",
     "Frequency Range (MHz)",
-    "Rad Tolerance (krad)",
-    "TRL"
+    "Rad Tolerance (krad)"
   ],
   "_notes": [
-    "– Represents unknown data"
+    "– Represents unknown data*Company offers several options viable for Smallsats"
   ],
   "data": [
     {
-      "Manufacturer": "AccuBeat",
-      "Model": "Ultra Stable Oscillator",
-      "Dimensions (mm)": "131 x 120 x 105",
-      "Mass (kg)": "2",
-      "Power (W)": "6.5",
-      "Frequency Range (MHz)": "57.51852",
-      "Rad Tolerance (krad)": "50",
-      "TRL": "7-9"
-    },
-    {
-      "Manufacturer": "Bliley Technologies",
+      "Manufacturer": "Bliley Technologies (USA)",
       "Model": "Iris Series 1″x1″ OCXO for LEO",
       "Dimensions (mm)": "19 x 11 x 19",
       "Mass (kg)": "0.016",
       "Power (W)": "1.5",
       "Frequency Range (MHz)": "10 -100",
-      "Rad Tolerance (krad)": "39",
-      "TRL": "7-9"
+      "Rad Tolerance (krad)": "39"
     },
     {
-      "Manufacturer": "Bliley Technologies",
+      "Manufacturer": "Bliley Technologies (USA)",
       "Model": "Aether Series TCVCXO for LEO",
       "Dimensions (mm)": "21 x 14 x 8",
       "Mass (kg)": "–",
       "Power (W)": "0.056",
       "Frequency Range (MHz)": "10 – 150",
-      "Rad Tolerance (krad)": "37",
-      "TRL": "–"
+      "Rad Tolerance (krad)": "37"
     },
     {
-      "Manufacturer": "Microsemi",
-      "Model": "Space Chip Scale Atomic Clock (CSAC)",
+      "Manufacturer": "Microchip (USA)",
+      "Model": "Chip Scale Atomic Clocks (CSACs)",
       "Dimensions (mm)": "41 x 36 x 12",
       "Mass (kg)": "0.035",
       "Power (W)": "0.12",
       "Frequency Range (MHz)": "10",
-      "Rad Tolerance (krad)": "20",
-      "TRL": "5-6"
+      "Rad Tolerance (krad)": "20"
     },
     {
-      "Manufacturer": "Safran Timing Technologies SA",
+      "Manufacturer": "Safran Timing Technologies SA (France)",
       "Model": "MO",
       "Dimensions (mm)": "44 x 54 x 57",
       "Mass (kg)": "0.22",
       "Power (W)": "3.5 Nom 5.5 Max",
       "Frequency Range (MHz)": "10",
-      "Rad Tolerance (krad)": "100",
-      "TRL": "–"
+      "Rad Tolerance (krad)": "100"
     },
     {
-      "Manufacturer": "Safran Timing Technologies SA",
-      "Model": "Space Qualified mRO-50",
+      "Manufacturer": "Safran Timing Technologies SA (France)",
+      "Model": "mRO-50",
       "Dimensions (mm)": "51 x 51 x 20",
       "Mass (kg)": "0.080",
       "Power (W)": "0.4 Nom",
       "Frequency Range (MHz)": "10",
-      "Rad Tolerance (krad)": "25 Min",
-      "TRL": "–"
+      "Rad Tolerance (krad)": "25 Min"
     },
     {
-      "Manufacturer": "Safran Timing Technologies SA",
+      "Manufacturer": "Safran Timing Technologies SA (France)",
       "Model": "miniRAFS",
       "Dimensions (mm)": "108 x 53 x 68",
       "Mass (kg)": "0.45",
       "Power (W)": "< 12 Max",
       "Frequency Range (MHz)": "60 and 10",
-      "Rad Tolerance (krad)": "—",
-      "TRL": "–"
+      "Rad Tolerance (krad)": "–"
     },
     {
-      "Manufacturer": "Safran Timing Technologies SA",
+      "Manufacturer": "Safran Timing Technologies SA (France)",
       "Model": "LNMO",
       "Dimensions (mm)": "50 x 50 x 30",
       "Mass (kg)": "0.1",
       "Power (W)": "1.5 Nom 2.5 Max",
       "Frequency Range (MHz)": "5 – 40",
-      "Rad Tolerance (krad)": "100",
-      "TRL": "–"
+      "Rad Tolerance (krad)": "100"
+    },
+    {
+      "Manufacturer": "*Q‑Tech Corporation (USA)",
+      "Model": "Class B+ Products Hybrid Crystal Clock Oscillators",
+      "Dimensions (mm)": "5×7",
+      "Mass (kg)": "–",
+      "Power (W)": "–",
+      "Frequency Range (MHz)": "–",
+      "Rad Tolerance (krad)": "–"
     }
   ]
 }

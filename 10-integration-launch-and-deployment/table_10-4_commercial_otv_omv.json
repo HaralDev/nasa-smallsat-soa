@@ -1,0 +1,247 @@
+{
+  "table_id": "10-4",
+  "title": "Commercial Orbital Transfer / Maneuvering Vehicles",
+  "chapter_num": 10,
+  "chapter_title": "Integration, Launch, Deployment, and Orbital Transport",
+  "source_url": "https://www.nasa.gov/smallsat-institute/sst-soa/integration-launch-and-deployment",
+  "edition": "2026",
+  "scrape_date": "2026-05-19",
+  "type": "products",
+  "columns": [
+    "Company Headquarters",
+    "Vehicle",
+    "Heritage",
+    "Operational Altitudes",
+    "Maximum Payload Capacity (kg)",
+    "Delta-V (m/s, max payload)"
+  ],
+  "_notes": [
+    "Information not disclosed or unknown is represented as –"
+  ],
+  "data": [
+    {
+      "Company Headquarters": "Atomos Space (USA)",
+      "Vehicle": "Quark",
+      "Heritage": "Flown",
+      "Operational Altitudes": "LEO",
+      "Maximum Payload Capacity (kg)": "400",
+      "Delta-V (m/s, max payload)": "–"
+    },
+    {
+      "Company Headquarters": "Blue Origin (USA)",
+      "Vehicle": "Blue Ring",
+      "Heritage": "Upcoming",
+      "Operational Altitudes": "–",
+      "Maximum Payload Capacity (kg)": "–",
+      "Delta-V (m/s, max payload)": "–"
+    },
+    {
+      "Company Headquarters": "D-Orbit (Italy)",
+      "Vehicle": "ION",
+      "Heritage": "Flown Successfully",
+      "Operational Altitudes": "–",
+      "Maximum Payload Capacity (kg)": "–",
+      "Delta-V (m/s, max payload)": "–"
+    },
+    {
+      "Company Headquarters": "Epic Aerospace (Argentina)",
+      "Vehicle": "Chimera LEO Block 0",
+      "Heritage": "Flown Successfully",
+      "Operational Altitudes": "+/- 450 km from LEO deployment",
+      "Maximum Payload Capacity (kg)": "300",
+      "Delta-V (m/s, max payload)": "200"
+    },
+    {
+      "Company Headquarters": "Epic Aerospace (Argentina)",
+      "Vehicle": "Chimera LEO Block 1",
+      "Heritage": "Upcoming",
+      "Operational Altitudes": "+/- 450 km from LEO deployment",
+      "Maximum Payload Capacity (kg)": "300",
+      "Delta-V (m/s, max payload)": "950"
+    },
+    {
+      "Company Headquarters": "Epic Aerospace (Argentina)",
+      "Vehicle": "Chimera GEO Block 0",
+      "Heritage": "Upcoming",
+      "Operational Altitudes": "GTO to TLI",
+      "Maximum Payload Capacity (kg)": "300",
+      "Delta-V (m/s, max payload)": "1800"
+    },
+    {
+      "Company Headquarters": "Epic Aerospace (Argentina)",
+      "Vehicle": "Chimera GEO Block 0 / Bus",
+      "Heritage": "Upcoming",
+      "Operational Altitudes": "GTO to TLI",
+      "Maximum Payload Capacity (kg)": "290",
+      "Delta-V (m/s, max payload)": "1800"
+    },
+    {
+      "Company Headquarters": "Exolaunch (Germany)",
+      "Vehicle": "Reliant Standard",
+      "Heritage": "Upcoming",
+      "Operational Altitudes": "+/- 275 km from LEO(?) deployment",
+      "Maximum Payload Capacity (kg)": "200",
+      "Delta-V (m/s, max payload)": "–"
+    },
+    {
+      "Company Headquarters": "Exolaunch (Germany)",
+      "Vehicle": "Reliant Pro",
+      "Heritage": "Upcoming",
+      "Operational Altitudes": "+/- 275 km from LEO(?) deployment",
+      "Maximum Payload Capacity (kg)": "260",
+      "Delta-V (m/s, max payload)": "–"
+    },
+    {
+      "Company Headquarters": "Exotrail (France)",
+      "Vehicle": "Spacevan LEO",
+      "Heritage": "Flown Successfully",
+      "Operational Altitudes": "LEO (~400-2000 km)",
+      "Maximum Payload Capacity (kg)": "~200",
+      "Delta-V (m/s, max payload)": "~500"
+    },
+    {
+      "Company Headquarters": "Exotrail (France)",
+      "Vehicle": "Spacevan GEO",
+      "Heritage": "Upcoming",
+      "Operational Altitudes": "Above LEO (e.g., MEO, GEO, Cislunar >2000 km)",
+      "Maximum Payload Capacity (kg)": "~150",
+      "Delta-V (m/s, max payload)": "~2200"
+    },
+    {
+      "Company Headquarters": "Firefly (USA)",
+      "Vehicle": "Elytra Dawn",
+      "Heritage": "Upcoming",
+      "Operational Altitudes": "LEO",
+      "Maximum Payload Capacity (kg)": "–",
+      "Delta-V (m/s, max payload)": "–"
+    },
+    {
+      "Company Headquarters": "Firefly (USA)",
+      "Vehicle": "Elytra Dusk",
+      "Heritage": "Upcoming",
+      "Operational Altitudes": "LEO to GEO",
+      "Maximum Payload Capacity (kg)": "–",
+      "Delta-V (m/s, max payload)": "–"
+    },
+    {
+      "Company Headquarters": "Firefly (USA)",
+      "Vehicle": "Elytra Dark",
+      "Heritage": "Upcoming",
+      "Operational Altitudes": "LEO to Lunar/Planetary",
+      "Maximum Payload Capacity (kg)": "–",
+      "Delta-V (m/s, max payload)": "–"
+    },
+    {
+      "Company Headquarters": "Gilmour Space Technologies (Australia)",
+      "Vehicle": "ElaraSat bus",
+      "Heritage": "Flown Successfully",
+      "Operational Altitudes": "LEO",
+      "Maximum Payload Capacity (kg)": "30",
+      "Delta-V (m/s, max payload)": "–"
+    },
+    {
+      "Company Headquarters": "Impulse Space (USA)",
+      "Vehicle": "Mira",
+      "Heritage": "Flown Successfully",
+      "Operational Altitudes": "LEO",
+      "Maximum Payload Capacity (kg)": "300",
+      "Delta-V (m/s, max payload)": "500"
+    },
+    {
+      "Company Headquarters": "Impulse Space (USA)",
+      "Vehicle": "Helios",
+      "Heritage": "Upcoming",
+      "Operational Altitudes": "GEO",
+      "Maximum Payload Capacity (kg)": "–",
+      "Delta-V (m/s, max payload)": "–"
+    },
+    {
+      "Company Headquarters": "Intuitive Machines (USA)",
+      "Vehicle": "Nebula",
+      "Heritage": "Flown",
+      "Operational Altitudes": "MEO, GEO, Lagrange Points, NRHO, LLO",
+      "Maximum Payload Capacity (kg)": "–",
+      "Delta-V (m/s, max payload)": "–"
+    },
+    {
+      "Company Headquarters": "Kall Morris Inc. (USA)",
+      "Vehicle": "Laelaps",
+      "Heritage": "Upcoming",
+      "Operational Altitudes": "LEO",
+      "Maximum Payload Capacity (kg)": "–",
+      "Delta-V (m/s, max payload)": "–"
+    },
+    {
+      "Company Headquarters": "Moog (USA)",
+      "Vehicle": "SL-OMV",
+      "Heritage": "Upcoming",
+      "Operational Altitudes": "400 – 700 km",
+      "Maximum Payload Capacity (kg)": "6 x 12 (+ additional, if containerized)",
+      "Delta-V (m/s, max payload)": "< 200"
+    },
+    {
+      "Company Headquarters": "Moog (USA)",
+      "Vehicle": "METEORITE",
+      "Heritage": "Upcoming",
+      "Operational Altitudes": "500 – 1200 km",
+      "Maximum Payload Capacity (kg)": "100 (or more, with caveats)",
+      "Delta-V (m/s, max payload)": ">175"
+    },
+    {
+      "Company Headquarters": "Moog (USA)",
+      "Vehicle": "METEOR",
+      "Heritage": "Upcoming",
+      "Operational Altitudes": "500 – 1200 km",
+      "Maximum Payload Capacity (kg)": "750",
+      "Delta-V (m/s, max payload)": ">400"
+    },
+    {
+      "Company Headquarters": "Momentus (USA)",
+      "Vehicle": "Vigoride",
+      "Heritage": "Flown Successfully",
+      "Operational Altitudes": "250 – 2000 km (GEO and LLO also available)",
+      "Maximum Payload Capacity (kg)": "800",
+      "Delta-V (m/s, max payload)": "< 2000"
+    },
+    {
+      "Company Headquarters": "Rocket Lab (USA)",
+      "Vehicle": "Photon",
+      "Heritage": "Flown Successfully",
+      "Operational Altitudes": "LEO, MEO, GEO, and beyond",
+      "Maximum Payload Capacity (kg)": "–",
+      "Delta-V (m/s, max payload)": "–"
+    },
+    {
+      "Company Headquarters": "Space Machines Company (Australia)",
+      "Vehicle": "Optimus Viper",
+      "Heritage": "Flown",
+      "Operational Altitudes": "300 – 700 km",
+      "Maximum Payload Capacity (kg)": "50",
+      "Delta-V (m/s, max payload)": "500"
+    },
+    {
+      "Company Headquarters": "TransAstra (USA)",
+      "Vehicle": "WorkerBee (multiple configurations)",
+      "Heritage": "Upcoming",
+      "Operational Altitudes": "LEO, MEO, GEO, HEO, Lunar/Planetary",
+      "Maximum Payload Capacity (kg)": "200 – 2000",
+      "Delta-V (m/s, max payload)": "–"
+    },
+    {
+      "Company Headquarters": "UARX Space (Spain)",
+      "Vehicle": "OSSIE",
+      "Heritage": "Upcoming",
+      "Operational Altitudes": "350 – 1000 km",
+      "Maximum Payload Capacity (kg)": "400",
+      "Delta-V (m/s, max payload)": "690"
+    },
+    {
+      "Company Headquarters": "Quantum Space (USA)",
+      "Vehicle": "RANGER",
+      "Heritage": "Upcoming",
+      "Operational Altitudes": "LEO, MEO, GEO, cislunar",
+      "Maximum Payload Capacity (kg)": "6000",
+      "Delta-V (m/s, max payload)": "Up to 10 km/s"
+    }
+  ]
+}

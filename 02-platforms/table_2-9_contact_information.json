@@ -1,0 +1,517 @@
+{
+  "table_id": "2-9",
+  "title": "List of Contact Information for Organizations in this Chapter",
+  "chapter_num": 2,
+  "chapter_title": "Complete Spacecraft Platforms",
+  "source_url": "https://www.nasa.gov/smallsat-institute/sst-soa/platforms",
+  "edition": "2026",
+  "scrape_date": "2026-05-19",
+  "type": "reference",
+  "columns": [
+    "Organization",
+    "Source",
+    "Contact Email",
+    "Website"
+  ],
+  "_notes": [],
+  "data": [
+    {
+      "Organization": "2NDSpace",
+      "Source": "Current",
+      "Contact Email": "giulio@2ndspace.eu",
+      "Website": "2ndspace.eu"
+    },
+    {
+      "Organization": "AAC Clyde Space",
+      "Source": "Current",
+      "Contact Email": "enquiries@aac-clydespace.com",
+      "Website": "aac-clyde.space"
+    },
+    {
+      "Organization": "Aerospacelab",
+      "Source": "Previous",
+      "Contact Email": "gerry.jansson@aerospacelab.com",
+      "Website": "aerospacelab.com"
+    },
+    {
+      "Organization": "Airbus US Space & Defense",
+      "Source": "Current",
+      "Contact Email": "deborah.horn@airbusus.com",
+      "Website": "airbusus.com"
+    },
+    {
+      "Organization": "Alba Orbital",
+      "Source": "Current",
+      "Contact Email": "contact@albaorbital.com",
+      "Website": "albaorbital.com"
+    },
+    {
+      "Organization": "Alén Space",
+      "Source": "Current",
+      "Contact Email": "sales@alen.space",
+      "Website": "alen.space"
+    },
+    {
+      "Organization": "Apex",
+      "Source": "Current",
+      "Contact Email": "General Inquiries Page",
+      "Website": "apexspace.com"
+    },
+    {
+      "Organization": "Argotec",
+      "Source": "Current",
+      "Contact Email": "info@argotecgroup.com",
+      "Website": "argotecgroup.com"
+    },
+    {
+      "Organization": "Artemis Space Technologies",
+      "Source": "Current",
+      "Contact Email": "info@spaceartemis.com",
+      "Website": "spaceartemis.com"
+    },
+    {
+      "Organization": "Astranis Space Technologies Corp.",
+      "Source": "Current",
+      "Contact Email": "scott@astranis.com",
+      "Website": "astranis.com"
+    },
+    {
+      "Organization": "Astro Digital",
+      "Source": "Current",
+      "Contact Email": "brian@astrodigital.com",
+      "Website": "astrodigital.com"
+    },
+    {
+      "Organization": "Astroscale",
+      "Source": "Previous",
+      "Contact Email": "k.shahady@astroscale-us.com",
+      "Website": "astroscale-us.com"
+    },
+    {
+      "Organization": "Axelspace",
+      "Source": "Current",
+      "Contact Email": "Contact Page",
+      "Website": "axelspace.com"
+    },
+    {
+      "Organization": "BAE Systems, Inc. SMS",
+      "Source": "Current",
+      "Contact Email": "Contact Form",
+      "Website": "baesystems.com"
+    },
+    {
+      "Organization": "Berlin Nanospacecraft Alliance",
+      "Source": "New",
+      "Contact Email": "info@bna-space.de",
+      "Website": "bna-space.de"
+    },
+    {
+      "Organization": "Berlin Space Technologies",
+      "Source": "Previous",
+      "Contact Email": "info@berlin-space-tech.com",
+      "Website": "berlin-space-tech.com"
+    },
+    {
+      "Organization": "BlackSky",
+      "Source": "Previous",
+      "Contact Email": "Contact Form",
+      "Website": "blacksky.com"
+    },
+    {
+      "Organization": "Blue Canyon Technologies",
+      "Source": "Current",
+      "Contact Email": "info@bluecanyontech.com",
+      "Website": "bluecanyontech.com"
+    },
+    {
+      "Organization": "C3S Electronics Development",
+      "Source": "Current",
+      "Contact Email": "info@c3s.hu",
+      "Website": "c3s.hu"
+    },
+    {
+      "Organization": "CesiumAstro",
+      "Source": "Current",
+      "Contact Email": "info@cesiumastro.com",
+      "Website": "cesiumastro.com"
+    },
+    {
+      "Organization": "CREOTECH",
+      "Source": "Current",
+      "Contact Email": "space@creotech.pl",
+      "Website": "creotech.pl/space"
+    },
+    {
+      "Organization": "D-Orbit- Italy",
+      "Source": "Current",
+      "Contact Email": "eleonora.luraschi@dorbit.space",
+      "Website": "dorbit.space"
+    },
+    {
+      "Organization": "D-Orbit- USA",
+      "Source": "Current",
+      "Contact Email": "mike.kaplan@dorbit.com",
+      "Website": "dorbit.com"
+    },
+    {
+      "Organization": "Deimos Space",
+      "Source": "Previous",
+      "Contact Email": "cmentrena@deimos-space.com",
+      "Website": "elecnor-deimos.com"
+    },
+    {
+      "Organization": "DIYSATELLITE",
+      "Source": "Previous",
+      "Contact Email": "gus@diysatellite.com",
+      "Website": "diysatellite.com"
+    },
+    {
+      "Organization": "EnduroSat",
+      "Source": "Current",
+      "Contact Email": "Contact Page",
+      "Website": "endurosat.com"
+    },
+    {
+      "Organization": "Exobotics",
+      "Source": "New",
+      "Contact Email": "Contact Page",
+      "Website": "exobotics.space"
+    },
+    {
+      "Organization": "FOSSA Systems",
+      "Source": "Current",
+      "Contact Email": "contact@fossa.systems",
+      "Website": "fossa.systems"
+    },
+    {
+      "Organization": "General Atomics EMS",
+      "Source": "Obsolete",
+      "Contact Email": "Chris.white@ga.com",
+      "Website": "ga.com/EMS"
+    },
+    {
+      "Organization": "German Orbital Systems",
+      "Source": "Current",
+      "Contact Email": "info@orbitalsystems.de",
+      "Website": "orbitalsystems.de"
+    },
+    {
+      "Organization": "GomSpace",
+      "Source": "Current",
+      "Contact Email": "info@gomspace.com",
+      "Website": "gomspace.com"
+    },
+    {
+      "Organization": "Gran Systems",
+      "Source": "Current",
+      "Contact Email": "info@gransystems.com",
+      "Website": "gransystems.com"
+    },
+    {
+      "Organization": "GUMUSH AeroSpace",
+      "Source": "Previous",
+      "Contact Email": "gumush@gumush.com.tr",
+      "Website": "gumush.com.tr"
+    },
+    {
+      "Organization": "Harpy Aerospace",
+      "Source": "Current",
+      "Contact Email": "jayakumar@harpyaerospace.in",
+      "Website": "harpyaerospace.in"
+    },
+    {
+      "Organization": "Hemeria",
+      "Source": "Previous",
+      "Contact Email": "Contact Form",
+      "Website": "hemeria-group.com/en"
+    },
+    {
+      "Organization": "HEX20",
+      "Source": "Current",
+      "Contact Email": "info@hex20.space",
+      "Website": "Hex20.space"
+    },
+    {
+      "Organization": "Hydra Space Systems",
+      "Source": "Current",
+      "Contact Email": "contacto@hydra-space.com",
+      "Website": "hydra-space.com"
+    },
+    {
+      "Organization": "IMT",
+      "Source": "Obsolete",
+      "Contact Email": "giovanni.cucinella@imtsrl.it",
+      "Website": "imtsrl.it"
+    },
+    {
+      "Organization": "In-Space Missions",
+      "Source": "Obsolete",
+      "Contact Email": "info@inspace.co.uk",
+      "Website": "in-space.co.uk"
+    },
+    {
+      "Organization": "Innova Space",
+      "Source": "Previous",
+      "Contact Email": "info@innova-space.com",
+      "Website": "innova-space.com/en"
+    },
+    {
+      "Organization": "ISISPACE",
+      "Source": "Previous",
+      "Contact Email": "sales@isispace.nl",
+      "Website": "isispace.nl"
+    },
+    {
+      "Organization": "Lockheed Martin",
+      "Source": "Previous",
+      "Contact Email": "timothy.m.linn@lmco.com",
+      "Website": "–"
+    },
+    {
+      "Organization": "Loft Orbital",
+      "Source": "Current",
+      "Contact Email": "justin.tilman@loftorbital.com",
+      "Website": "loftorbital.com"
+    },
+    {
+      "Organization": "Magellan Aerospace",
+      "Source": "Current",
+      "Contact Email": "rushi.ghadawala@magellan.aero",
+      "Website": "magellan.aero"
+    },
+    {
+      "Organization": "Malin Space Science Systems",
+      "Source": "Current",
+      "Contact Email": "yee@msss.com",
+      "Website": "msss.com"
+    },
+    {
+      "Organization": "Momentus Space",
+      "Source": "Current",
+      "Contact Email": "sales@momentus.space",
+      "Website": "momentus.space"
+    },
+    {
+      "Organization": "Moog",
+      "Source": "Current",
+      "Contact Email": "ddusza@moog.com",
+      "Website": "moog.com/markets/space"
+    },
+    {
+      "Organization": "Muon Space",
+      "Source": "Current",
+      "Contact Email": "info@muonspace.com",
+      "Website": "muonspace.com"
+    },
+    {
+      "Organization": "NanoAvionics",
+      "Source": "Previous",
+      "Contact Email": "info@nanoavionics.com",
+      "Website": "nanoavionics.com"
+    },
+    {
+      "Organization": "Nara Space",
+      "Source": "Current",
+      "Contact Email": "sales@naraspace.com",
+      "Website": "naraspace.com"
+    },
+    {
+      "Organization": "NearSpace Launch",
+      "Source": "Previous",
+      "Contact Email": "nsl@nearspacelaunch.com",
+      "Website": "nearspacelaunch.com"
+    },
+    {
+      "Organization": "Northrop Grumman",
+      "Source": "Previous",
+      "Contact Email": "John.Dyster@ngc.com",
+      "Website": "–"
+    },
+    {
+      "Organization": "NovaWurks",
+      "Source": "Current",
+      "Contact Email": "info@NovaWurks.com",
+      "Website": "novawurks.com"
+    },
+    {
+      "Organization": "NPC SPACEMIND",
+      "Source": "Current",
+      "Contact Email": "info@npcspacemind.com",
+      "Website": "npcspacemind.com"
+    },
+    {
+      "Organization": "OHB LuxSpace",
+      "Source": "Previous",
+      "Contact Email": "info@luxspace.lu",
+      "Website": "luxspace.lu"
+    },
+    {
+      "Organization": "OHB Sweden",
+      "Source": "Current",
+      "Contact Email": "spacesales@ohb-sweden.se",
+      "Website": "ohb-sweden.se"
+    },
+    {
+      "Organization": "Open Cosmos",
+      "Source": "Obsolete",
+      "Contact Email": "partnerships@open-cosmos.com",
+      "Website": "open-cosmos.com"
+    },
+    {
+      "Organization": "Orbital Astronautics",
+      "Source": "Current",
+      "Contact Email": "hello@orbastro.com",
+      "Website": "orbastro.com"
+    },
+    {
+      "Organization": "Orion Space Solutions",
+      "Source": "Current",
+      "Contact Email": "orioncontact@arcfield.com",
+      "Website": "orionspace.com"
+    },
+    {
+      "Organization": "Pumpkin Space Systems",
+      "Source": "Current",
+      "Contact Email": "sales@pumpkininc.com",
+      "Website": "pumpkinspace.com"
+    },
+    {
+      "Organization": "Quantum Galactics",
+      "Source": "New",
+      "Contact Email": "info@quantumgalactics.com",
+      "Website": "quantumgalactics.com"
+    },
+    {
+      "Organization": "Quantum Space",
+      "Source": "Previous",
+      "Contact Email": "sales@quantumspace.us",
+      "Website": "quantumspace.us"
+    },
+    {
+      "Organization": "Quub, Inc.",
+      "Source": "Current",
+      "Contact Email": "info@quub.space",
+      "Website": "quub.space"
+    },
+    {
+      "Organization": "Redwire Space",
+      "Source": "Current",
+      "Contact Email": "sales@rdw.com",
+      "Website": "rdw.com"
+    },
+    {
+      "Organization": "Reflex Aerospace",
+      "Source": "Current",
+      "Contact Email": "sales@reflexaerospace.com",
+      "Website": "reflexaerospace.com"
+    },
+    {
+      "Organization": "Rocket Lab",
+      "Source": "New",
+      "Contact Email": "enquiries@rocketlabusa.com",
+      "Website": "rocketlabusa.com"
+    },
+    {
+      "Organization": "Satellogic",
+      "Source": "New",
+      "Contact Email": "info@satellogic.com",
+      "Website": "satellogic.com"
+    },
+    {
+      "Organization": "SatRev",
+      "Source": "Current",
+      "Contact Email": "contact@satrev.space",
+      "Website": "satrev.space"
+    },
+    {
+      "Organization": "SFL Missions Inc.",
+      "Source": "Current",
+      "Contact Email": "info@sflmissions.com",
+      "Website": "sflmissions.com"
+    },
+    {
+      "Organization": "Sierra Space",
+      "Source": "Previous",
+      "Contact Email": "spaceapps@sierraspace.com",
+      "Website": "sierraspace.com"
+    },
+    {
+      "Organization": "SITAEL",
+      "Source": "Previous",
+      "Contact Email": "sales.space@sitael.com",
+      "Website": "sitael.com"
+    },
+    {
+      "Organization": "Southwest Research Institute",
+      "Source": "Current",
+      "Contact Email": "spacecraft-info@swri.org",
+      "Website": "–"
+    },
+    {
+      "Organization": "Space Dynamics Laboratory",
+      "Source": "Current",
+      "Contact Email": "info@sdl.usu.edu",
+      "Website": "sdl.usu.edu"
+    },
+    {
+      "Organization": "Space Information Laboratories",
+      "Source": "Obsolete",
+      "Contact Email": "sales@spaceinformationlabs.com",
+      "Website": "spaceinformationlabs.com"
+    },
+    {
+      "Organization": "Space Inventor",
+      "Source": "Current",
+      "Contact Email": "sales@space-inventor.com",
+      "Website": "space-inventor.com"
+    },
+    {
+      "Organization": "Spacemanic",
+      "Source": "Current",
+      "Contact Email": "sales@spacemanic.com",
+      "Website": "spacemanic.com"
+    },
+    {
+      "Organization": "Spire Global",
+      "Source": "Current",
+      "Contact Email": "sales@spire.com",
+      "Website": "spire.com"
+    },
+    {
+      "Organization": "Surrey Satellite Technology Ltd.",
+      "Source": "Previous",
+      "Contact Email": "info@sstl.co.uk",
+      "Website": "sstl.co.uk"
+    },
+    {
+      "Organization": "Terran Orbital",
+      "Source": "Current",
+      "Contact Email": "info@terranorbital.com",
+      "Website": "terranorbital.com"
+    },
+    {
+      "Organization": "U-Space",
+      "Source": "Current",
+      "Contact Email": "contact@u-space.fr",
+      "Website": "u-space.fr"
+    },
+    {
+      "Organization": "Varda Space Industries",
+      "Source": "Current",
+      "Contact Email": "john.boyer@varda.com",
+      "Website": "varda.com"
+    },
+    {
+      "Organization": "XDLINX Space Lab",
+      "Source": "New",
+      "Contact Email": "info@xdlinx.space",
+      "Website": "xdlinx.space"
+    },
+    {
+      "Organization": "York Space Systems",
+      "Source": "Current",
+      "Contact Email": "BD@yorkspacesystems.com",
+      "Website": "yorkspacesystems.com"
+    }
+  ]
+}

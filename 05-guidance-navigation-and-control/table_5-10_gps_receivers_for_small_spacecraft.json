@@ -4,8 +4,8 @@
   "chapter_num": 5,
   "chapter_title": "Guidance, Navigation, and Control",
   "source_url": "https://www.nasa.gov/smallsat-institute/sst-soa/guidance-navigation-and-control",
-  "edition": "2024",
-  "scrape_date": "2026-04-09",
+  "edition": "2026",
+  "scrape_date": "2026-05-19",
   "type": "products",
   "columns": [
     "Manufacturer",
@@ -13,91 +13,147 @@
     "Mass (kg)",
     "Power (W)",
     "Accuracy (m)",
-    "Radiation Tolerance (krad)"
+    "Rad. Tol. (krad)"
   ],
   "_notes": [
-    "*Heavy ions (61 MeV) No destructive event Except OEM719 receiver which is protected by smart current limit"
+    "*Circular Error Probable"
   ],
   "data": [
     {
-      "Manufacturer": "AAC Clyde Space",
+      "Manufacturer": "",
+      "Model": "–",
+      "Mass (kg)": "–",
+      "Power (W)": "–",
+      "Accuracy (m)": "–",
+      "Rad. Tol. (krad)": "–"
+    },
+    {
+      "Manufacturer": "AAC Clyde Space (Sweden)",
       "Model": "GNSS-701",
       "Mass (kg)": "0.16",
       "Power (W)": "—",
-      "Accuracy (m)": "<5",
-      "Radiation Tolerance (krad)": "10"
+      "Accuracy (m)": "< 5",
+      "Rad. Tol. (krad)": "10"
     },
     {
-      "Manufacturer": "APL",
+      "Manufacturer": "APL (USA)",
       "Model": "Frontier Radio Lite",
       "Mass (kg)": "0.4",
       "Power (W)": "1.4",
       "Accuracy (m)": "15",
-      "Radiation Tolerance (krad)": "20"
+      "Rad. Tol. (krad)": "20"
     },
     {
-      "Manufacturer": "Aerospacelab",
+      "Manufacturer": "Aerospacelab (Belgium)",
       "Model": "GNSS-VSP",
       "Mass (kg)": "0.394",
       "Power (W)": "2.4",
       "Accuracy (m)": "1.5 (RMS)",
-      "Radiation Tolerance (krad)": "*"
+      "Rad. Tol. (krad)": "–"
     },
     {
-      "Manufacturer": "General Dynamics",
+      "Manufacturer": "General Dynamics (USA)",
       "Model": "Explorer",
       "Mass (kg)": "1.2",
       "Power (W)": "8",
       "Accuracy (m)": "15",
-      "Radiation Tolerance (krad)": "–"
+      "Rad. Tol. (krad)": "–"
     },
     {
-      "Manufacturer": "General Dynamics",
+      "Manufacturer": "General Dynamics (USA)",
       "Model": "Viceroy-4",
       "Mass (kg)": "1.1",
       "Power (W)": "8",
       "Accuracy (m)": "15",
-      "Radiation Tolerance (krad)": "–"
+      "Rad. Tol. (krad)": "–"
     },
     {
-      "Manufacturer": "GomSpace",
+      "Manufacturer": "GomSpace (Denmark)",
       "Model": "0.285",
       "Mass (kg)": "3",
       "Power (W)": "< 10",
-      "Accuracy (m)": "<20",
-      "Radiation Tolerance (krad)": "0.285"
+      "Accuracy (m)": "< 20",
+      "Rad. Tol. (krad)": "0.285"
     },
     {
-      "Manufacturer": "NovaTel",
+      "Manufacturer": "NovaTel (Canada)",
       "Model": "OEM 719",
       "Mass (kg)": "0.031",
       "Power (W)": "0.9",
       "Accuracy (m)": "–",
-      "Radiation Tolerance (krad)": "*"
+      "Rad. Tol. (krad)": "–"
     },
     {
-      "Manufacturer": "SkyFox Labs",
+      "Manufacturer": "SENyT (Argentina)",
+      "Model": "Q Series",
+      "Mass (kg)": "0.14",
+      "Power (W)": "2",
+      "Accuracy (m)": "< 3",
+      "Rad. Tol. (krad)": "–"
+    },
+    {
+      "Manufacturer": "Septentrio (Belgium)",
+      "Model": "AsteRx-m3 ProBase",
+      "Mass (kg)": "0.0027",
+      "Power (W)": "1",
+      "Accuracy (m)": "0.0013",
+      "Rad. Tol. (krad)": "–"
+    },
+    {
+      "Manufacturer": "SkyFox Labs (Czech Republic)",
       "Model": "piNAV-NG",
       "Mass (kg)": "0.024",
       "Power (W)": "0.124",
       "Accuracy (m)": "10",
-      "Radiation Tolerance (krad)": "30"
+      "Rad. Tol. (krad)": "30"
     },
     {
-      "Manufacturer": "Spacemanic",
-      "Model": "Celeste_gnss_rx",
+      "Manufacturer": "Space Inventor (Denmark)",
+      "Model": "GNSS-3",
+      "Mass (kg)": "0.1",
+      "Power (W)": "0.2",
+      "Accuracy (m)": "2 (CEP)*",
+      "Rad. Tol. (krad)": "–"
+    },
+    {
+      "Manufacturer": "Space Inventor (Denmark)",
+      "Model": "Mosaic-T",
+      "Mass (kg)": "0.0068",
+      "Power (W)": "0.6",
+      "Accuracy (m)": "1.2, 1.9",
+      "Rad. Tol. (krad)": "–"
+    },
+    {
+      "Manufacturer": "Space Inventor (Denmark)",
+      "Model": "AsteRx SBi3 Pro+",
+      "Mass (kg)": "0.49",
+      "Power (W)": "1.5",
+      "Accuracy (m)": "1.2, 1.9",
+      "Rad. Tol. (krad)": "–"
+    },
+    {
+      "Manufacturer": "Spacemanic (Czech Republic)",
+      "Model": "Celeste GNSS",
       "Mass (kg)": "0.025",
-      "Power (W)": "~0.1",
-      "Accuracy (m)": "1.5",
-      "Radiation Tolerance (krad)": "40"
+      "Power (W)": "0.25",
+      "Accuracy (m)": "2 (CEP)*",
+      "Rad. Tol. (krad)": "–"
     },
     {
-      "Manufacturer": "Surrey Satellite Technology",
+      "Manufacturer": "Surrey Satellite Technology (UK)",
       "Model": "SGR-Ligo",
       "Mass (kg)": "0.09",
       "Power (W)": "0.5",
       "Accuracy (m)": "5",
-      "Radiation Tolerance (krad)": "5"
+      "Rad. Tol. (krad)": "5"
+    },
+    {
+      "Manufacturer": "U‑blox (Switzerland)",
+      "Model": "ZED‑F9P-05B",
+      "Mass (kg)": "0.0018",
+      "Power (W)": "0.01",
+      "Accuracy (m)": "1.5, 2.25",
+      "Rad. Tol. (krad)": "–"
     }
   ]
 }

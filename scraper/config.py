@@ -1,5 +1,9 @@
 from dataclasses import dataclass, field
 
+# Report edition year. NASA publishes a new edition annually; bump this when
+# re-scraping a newer edition. Used in every table JSON and chapter README.
+EDITION = "2026"
+
 
 @dataclass
 class ChapterConfig:
@@ -77,7 +81,7 @@ CHAPTERS: list[ChapterConfig] = [
     ChapterConfig(
         chapter_num=10,
         slug="integration-launch-and-deployment",
-        title="Integration, Launch, and Deployment",
+        title="Integration, Launch, Deployment, and Orbital Transport",
         url="https://www.nasa.gov/smallsat-institute/sst-soa/integration-launch-and-deployment",
         output_folder="10-integration-launch-and-deployment",
     ),

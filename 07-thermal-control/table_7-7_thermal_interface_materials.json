@@ -4,8 +4,8 @@
   "chapter_num": 7,
   "chapter_title": "Thermal Control",
   "source_url": "https://www.nasa.gov/smallsat-institute/sst-soa/thermal-control",
-  "edition": "2024",
-  "scrape_date": "2026-04-09",
+  "edition": "2026",
+  "scrape_date": "2026-05-19",
   "type": "products",
   "columns": [
     "Manufacturer",
@@ -53,6 +53,11 @@
       "Manufacturer": "Indium Corporation",
       "Product": "Indium foil 0.005″",
       "Recommended Conductance (W/in2-C)": "0.9"
+    },
+    {
+      "Manufacturer": "Carbice Corporation",
+      "Product": "Structured Space Pad",
+      "Recommended Conductance (W/in2-C)": "1.94"
     }
   ]
 }

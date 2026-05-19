@@ -5,8 +5,8 @@
   "chapter_num": 4,
   "chapter_title": "In-Space Propulsion",
   "source_url": "https://www.nasa.gov/smallsat-institute/sst-soa/in-space_propulsion",
-  "edition": "2024",
-  "scrape_date": "2026-04-09",
+  "edition": "2026",
+  "scrape_date": "2026-05-19",
   "type": "products",
   "columns": [
     "Manufacturer",
@@ -40,7 +40,7 @@
       "ACS": "Y",
       "PMI Status": "E",
       "Missions": "STS-113 and STS-116",
-      "References": "(68)"
+      "References": "(63)"
     },
     {
       "Manufacturer": "Benchmark Space Systems (USA)",
@@ -55,7 +55,7 @@
       "ACS": "Y",
       "PMI Status": "D",
       "Missions": "–",
-      "References": "(109)"
+      "References": "(104)"
     },
     {
       "Manufacturer": "GomSpace (Sweden)",
@@ -70,7 +70,7 @@
       "ACS": "Y",
       "PMI Status": "E",
       "Missions": "TW-1",
-      "References": "(76) (78) (79) (126)"
+      "References": "(71) (73) (74) (124)"
     },
     {
       "Manufacturer": "GomSpace (Sweden)",
@@ -85,7 +85,7 @@
       "ACS": "Y",
       "PMI Status": "F",
       "Missions": "GOMX-4B",
-      "References": "(76) (77) (127)"
+      "References": "(71) (72) (125)"
     },
     {
       "Manufacturer": "Lightsey Space Research (USA)",
@@ -100,7 +100,7 @@
       "ACS": "Y",
       "PMI Status": "E",
       "Missions": "BioSentinel",
-      "References": "(80) (81) (82) (83)"
+      "References": "(75) (76) (77) (78)"
     },
     {
       "Manufacturer": "Microspace Rapid Pte Ltd (Singapore)",
@@ -115,7 +115,37 @@
       "ACS": "–",
       "PMI Status": "E",
       "Missions": "POPSAT-HIP1",
-      "References": "(75)"
+      "References": "(70)"
+    },
+    {
+      "Manufacturer": "T4i (Italy)",
+      "Product": "IANUS",
+      "Propellant": "R134a",
+      "Thrust (Quantity)": "6.8/10.6/26.2 (x/y/z)",
+      "Specific Impulse": "40",
+      "Total Impulse": "38",
+      "Mass": "0.5 (‡)",
+      "Envelope": "0.5",
+      "Power": "<40",
+      "ACS": "Y",
+      "PMI Status": "E",
+      "Missions": "Hera Milani",
+      "References": "(126)"
+    },
+    {
+      "Manufacturer": "T4i (Italy)",
+      "Product": "PERSEUS",
+      "Propellant": "R134a",
+      "Thrust (Quantity)": "27/9/9 (x/y/z)",
+      "Specific Impulse": "40",
+      "Total Impulse": "450",
+      "Mass": "2.5 (‡)",
+      "Envelope": "2.5",
+      "Power": "<20",
+      "ACS": "Y",
+      "PMI Status": "F",
+      "Missions": "Iperdrone.0",
+      "References": "(126)"
     },
     {
       "Manufacturer": "ThrustMe (France)",
@@ -130,7 +160,7 @@
       "ACS": "N",
       "PMI Status": "F",
       "Missions": "Xiaoxiang 1-08, NAPA-2, Spire L3C Demo, Robusta-3A (2024**)",
-      "References": "(84) (85) (86) (87)"
+      "References": "(79) (80) (81) (82)"
     },
     {
       "Manufacturer": "UTIAS/SFL (Canada)",
@@ -145,7 +175,7 @@
       "ACS": "N",
       "PMI Status": "F",
       "Missions": "CanX-4/CanX-5",
-      "References": "(71) (72) (73) (74)"
+      "References": "(66) (67) (68) (69)"
     },
     {
       "Manufacturer": "VACCO (USA)",
@@ -160,7 +190,7 @@
       "ACS": "Y",
       "PMI Status": "E",
       "Missions": "NEA Scout",
-      "References": "(95) (96) (97)"
+      "References": "(90) (91) (92)"
     },
     {
       "Manufacturer": "VACCO (USA)",
@@ -175,7 +205,7 @@
       "ACS": "Y",
       "PMI Status": "D",
       "Missions": "–",
-      "References": "(128)"
+      "References": "(127)"
     },
     {
       "Manufacturer": "VACCO (USA)",
@@ -190,7 +220,7 @@
       "ACS": "Y",
       "PMI Status": "E",
       "Missions": "MarCO-A & -B",
-      "References": "(91) (92) (93) (94)"
+      "References": "(86) (87) (88) (89)"
     },
     {
       "Manufacturer": "VACCO (USA)",
@@ -205,7 +235,7 @@
       "ACS": "Y",
       "PMI Status": "E",
       "Missions": "CPOD",
-      "References": "(88) (89) (90)"
+      "References": "(83) (84) (85)"
     }
   ]
 }

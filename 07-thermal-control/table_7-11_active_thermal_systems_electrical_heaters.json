@@ -4,8 +4,8 @@
   "chapter_num": 7,
   "chapter_title": "Thermal Control",
   "source_url": "https://www.nasa.gov/smallsat-institute/sst-soa/thermal-control",
-  "edition": "2024",
-  "scrape_date": "2026-04-09",
+  "edition": "2026",
+  "scrape_date": "2026-05-19",
   "type": "products",
   "columns": [
     "Manufacturer",
@@ -13,7 +13,7 @@
     "Power(W/cm2)",
     "Temp Limits",
     "Material",
-    "Notes"
+    "Notes:"
   ],
   "_notes": [],
   "data": [
@@ -23,7 +23,7 @@
       "Power(W/cm2)": "0.4 to 1.56",
       "Temp Limits": "-40°C to 149°C (w/PSA)-57°C to 232°C (w/o PSA)",
       "Material": "Kapton (polyimide)",
-      "Notes": "Various sizes, rectangular/square/round, w & w/o pressure sensitive adhesive (PSA), Low-Outgassing"
+      "Notes:": "Various sizes, rectangular/square/round, w & w/o pressure sensitive adhesive (PSA), Low-Outgassing"
     },
     {
       "Manufacturer": "Omega",
@@ -31,7 +31,7 @@
       "Power(W/cm2)": "0.4 to 1.56",
       "Temp Limits": "-200°C to 200°C (w/PSA)",
       "Material": "Kapton (polyimide)",
-      "Notes": "Various shapes. Temp limit max for short excursions. 149°C for continuous ops due to PSA limits."
+      "Notes:": "Various shapes. 149°C for continuous ops due to PSA limits."
     },
     {
       "Manufacturer": "Tempco",
@@ -39,7 +39,23 @@
       "Power(W/cm2)": "0.8 to 6.2",
       "Temp Limits": "-35°C to 150°C (w/ Al Foil)",
       "Material": "Kapton (polyimide)Some w/ Al Foil",
-      "Notes": "Rectangular/square/round, w/ (PSA). Some model available w/ AL foil for extended temp limits."
+      "Notes:": "Rectangular/square/round, w/ (PSA). Some model available w/ AL foil for extended temp limits."
+    },
+    {
+      "Manufacturer": "Tayco",
+      "Product": "Flexible Circuit Heater",
+      "Power(W/cm2)": "Up to 3.1",
+      "Temp Limits": "-200°C to 200°C",
+      "Material": "Kapton (polyimide)",
+      "Notes:": "Various shapes and watt densities."
+    },
+    {
+      "Manufacturer": "Hi-Heat Industries",
+      "Product": "Polyimide Flexible",
+      "Power(W/cm2)": "Up to 3.1",
+      "Temp Limits": "-200°C to 200°C",
+      "Material": "Kapton (polyimide)",
+      "Notes:": "Quick turnaround for custom sizes and resistances"
     },
     {
       "Manufacturer": "Minco",
@@ -47,7 +63,7 @@
       "Power(W/cm2)": "0.8 to 5.1",
       "Temp Limits": "-200°C to 200°C -200°C to 150°C (w/ Al Foil)",
       "Material": "Kapton (polyimide)Some w/ Al Foil",
-      "Notes": "Mountings: #12 & arcrylic PSA, epoxy, shrink band, stretch tape, clamping.NASA rated for materials & vacuum."
+      "Notes:": "Mountings: #12 & arcrylic PSA, epoxy, shrink band, stretch tape, clamping.NASA rated for materials & vacuum."
     },
     {
       "Manufacturer": "Birk Manufacturing",
@@ -55,7 +71,7 @@
       "Power(W/cm2)": "0.02 to 3.1",
       "Temp Limits": "See Notes",
       "Material": "Kapton (polyimide)",
-      "Notes": "Max Temps: FEP-Bonded & All Polyimide(260°C); Acrylic Bonded(120°C)."
+      "Notes:": "Max Temps: FEP-Bonded & All Polyimide(260°C); Acrylic Bonded(120°C)."
     },
     {
       "Manufacturer": "Birk Manufacturing",
@@ -63,7 +79,7 @@
       "Power(W/cm2)": "0.02 to 7.75",
       "Temp Limits": "See Notes",
       "Material": "Kapton (polyimide)",
-      "Notes": "Max Temp: up to 300°C"
+      "Notes:": "Max Temp: up to 300°C"
     },
     {
       "Manufacturer": "Chromalox",
@@ -71,7 +87,7 @@
       "Power(W/cm2)": "0.4 to 1.56",
       "Temp Limits": "-200°C to 200°C* -200°C to 121°C**",
       "Material": "Kapton (polyimide)",
-      "Notes": "* FEP Construction, Acrylic construction"
+      "Notes:": "* FEP Construction, Acrylic construction"
     },
     {
       "Manufacturer": "All Flex Solutions",
@@ -79,7 +95,7 @@
       "Power(W/cm2)": "",
       "Temp Limits": "",
       "Material": "",
-      "Notes": "See website for design guide, options."
+      "Notes:": "See website for design guide, options."
     }
   ]
 }

@@ -1,0 +1,54 @@
+{
+  "table_id": "11-5",
+  "subgroup": "Forward (Command) Communications",
+  "title": "NSN Direct to Earth Command and Telemetry Capabilities per Frequency",
+  "chapter_num": 11,
+  "chapter_title": "Ground Data Systems and Mission Operations",
+  "source_url": "https://www.nasa.gov/smallsat-institute/sst-soa/ground-data-systems-and-mission-operations",
+  "edition": "2026",
+  "scrape_date": "2026-05-19",
+  "type": "specifications",
+  "columns": [
+    "Interface/ Capability1",
+    "Direct to Earth",
+    "Space Relay"
+  ],
+  "_notes": [],
+  "data": [
+    {
+      "Interface/ Capability1": "FrequencyBands(Near-Earth Use)",
+      "Direct to Earth": "S-band: 2025-2110 MHzX-band: 7190-7235 MHz",
+      "Space Relay": "S-band: 2025-2110 MHzKu-band: 13.775 GHzKa-band: 22.55-23.55 GHz (4)"
+    },
+    {
+      "Interface/ Capability1": "Maximum Bandwidth",
+      "Direct to Earth": "S-band: 5 MHz X-band: 10 MHz",
+      "Space Relay": "S-band: 6 MHz Ku-band: 50 MHz Ka-band: 50 MHz (4)"
+    },
+    {
+      "Interface/ Capability1": "Forward Max Data Rate (1,2) (prior to encoding)",
+      "Direct to Earth": "S-band: 5 Mbps X-band: 5 Mbps",
+      "Space Relay": "S-band MA: 300 KbpsS-band SA: 4.2 MbpsKu-band: 50 MbpsKa-band SA: 50 Mbps (4)"
+    },
+    {
+      "Interface/ Capability1": "Antenna System EIRP (dBW) (1)",
+      "Direct to Earth": "S-band: 51-81 (56 Typical) X-band: 85-86",
+      "Space Relay": "S-band MA: 42 (4) S-band SA: 48.5 (4) Ku-band SA: 48.5 (4) Ka-band SA: 63 (4)"
+    },
+    {
+      "Interface/ Capability1": "Modulation (2,3)",
+      "Direct to Earth": "PM, FM, PCM, PCM/PM, PCM/PSK/PM, BPSK, QPSK, OQPSK, UQPSK",
+      "Space Relay": "Spread spectrum: BPSK or UQPSK Non-spread: BPSK, QPSK, OQPSK, PCM/PM, or PCM/PSK/PM"
+    },
+    {
+      "Interface/ Capability1": "Encoding (2,3)",
+      "Direct to Earth": "Uncoded, or LDPC ½ or 7/8",
+      "Space Relay": "Uncoded, Rate ½ Conv., Reed- Solomon, Concatenated (½ Conv. + RS), LDPC ½ or 7/8"
+    },
+    {
+      "Interface/ Capability1": "Polarization",
+      "Direct to Earth": "Circular (LHC, RHC)",
+      "Space Relay": "Circular (LHC, RHC) (LHC only for MA services)"
+    }
+  ]
+}

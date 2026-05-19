@@ -5,8 +5,8 @@
   "chapter_num": 4,
   "chapter_title": "In-Space Propulsion",
   "source_url": "https://www.nasa.gov/smallsat-institute/sst-soa/in-space_propulsion",
-  "edition": "2024",
-  "scrape_date": "2026-04-09",
+  "edition": "2026",
+  "scrape_date": "2026-05-19",
   "type": "products",
   "columns": [
     "Manufacturer",
@@ -42,7 +42,7 @@
       "Cathode Type": "RF",
       "PMI Status": "D",
       "Missions": "–",
-      "References": "(353) (354) (355) (356) (357) (358)"
+      "References": "(361) (362) (363) (364) (365) (366)"
     },
     {
       "Manufacturer": "Ariane Group (Germany)",
@@ -58,7 +58,7 @@
       "Cathode Type": "Hollow",
       "PMI Status": "E",
       "Missions": "(Identical to flight-heritage RIT-10 with contemporary grid design)",
-      "References": "(353) (355) (359)"
+      "References": "(361) (363) (367)"
     },
     {
       "Manufacturer": "QinetiQ (UK)",

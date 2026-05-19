@@ -4,9 +4,9 @@
   "chapter_num": 11,
   "chapter_title": "Ground Data Systems and Mission Operations",
   "source_url": "https://www.nasa.gov/smallsat-institute/sst-soa/ground-data-systems-and-mission-operations",
-  "edition": "2024",
-  "scrape_date": "2026-04-09",
-  "type": "reference",
+  "edition": "2026",
+  "scrape_date": "2026-05-19",
+  "type": "products",
   "columns": [
     "Product",
     "Manufacturer",
@@ -58,6 +58,21 @@
       "Product": "Integrated Testing Systems (EGSE) & Ground Station TT&C Modems",
       "Manufacturer": "Celestia Satellite Test & Simulation",
       "Type of Product": "Hardware and software elements all operating within a single reference platform and environment"
+    },
+    {
+      "Product": "Tracking Antenna",
+      "Manufacturer": "SatRev S.A.",
+      "Type of Product": "Antennas for small satellites in and UHF and S-band frequencies"
+    },
+    {
+      "Product": "Modem, for TT&C and Payload Reception",
+      "Manufacturer": "SatRev S.A.",
+      "Type of Product": "UHF for TT&C and Payload Reception"
+    },
+    {
+      "Product": "Radome",
+      "Manufacturer": "SatRev S.A.",
+      "Type of Product": "Antenna radomes"
     }
   ]
 }

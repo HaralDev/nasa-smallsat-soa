@@ -1,0 +1,71 @@
+{
+  "table_id": "6-15",
+  "title": "Shields-1 Experimental Total Ionizing Dose Measurements in PLEO",
+  "chapter_num": 6,
+  "chapter_title": "Structures, Materials, and Mechanisms",
+  "source_url": "https://www.nasa.gov/smallsat-institute/sst-soa/structures-materials-and-mechanisms",
+  "edition": "2026",
+  "scrape_date": "2026-05-19",
+  "type": "specifications",
+  "columns": [
+    "Shielding",
+    "Areal Density (g/cm2)",
+    "Thickness (cm)",
+    "Trapped Belts TID Total (Rad (Si)/Year)",
+    "SPE King Sphere Model, (Rad (Si))"
+  ],
+  "_notes": [
+    "Shields-1 Experimental total ionizing dose measurements in PLEO in comparison to typical 0.20 cm aluminum shielding commercially available for CubeSats and SPE additional contributions to dose. Bold values Shields-1 experimental results. SL = Slab, Vault = Z-Shielding electronics enclosure. # sphere Space Environment Information System (SPENVIS) Multi-layered Shielding Simulation Software (MULASSIS) AP8 Min AE8 Max modeled results. SPE King Sphere Model SPENVIS MULASSIS modeled results."
+  ],
+  "data": [
+    {
+      "Shielding": "Al",
+      "Areal Density (g/cm2)": "0.535",
+      "Thickness (cm)": "0.198",
+      "Trapped Belts TID Total (Rad (Si)/Year)": "1383+/-47 #",
+      "SPE King Sphere Model, (Rad (Si))": "750+/-5"
+    },
+    {
+      "Shielding": "Al",
+      "Areal Density (g/cm2)": "1.26",
+      "Thickness (cm)": "0.465",
+      "Trapped Belts TID Total (Rad (Si)/Year)": "90.9 +/-2.7 (SL)",
+      "SPE King Sphere Model, (Rad (Si))": "432 +/- 7"
+    },
+    {
+      "Shielding": "Al",
+      "Areal Density (g/cm2)": "1.69",
+      "Thickness (cm)": "0.624",
+      "Trapped Belts TID Total (Rad (Si)/Year)": "84.3 +/-2.5 (SL)",
+      "SPE King Sphere Model, (Rad (Si))": "345 +/- 9"
+    },
+    {
+      "Shielding": "Al",
+      "Areal Density (g/cm2)": "3.02",
+      "Thickness (cm)": "1.11",
+      "Trapped Belts TID Total (Rad (Si)/Year)": "73.6 +/-3.2 (SL)",
+      "SPE King Sphere Model, (Rad (Si))": "183 +/- 11"
+    },
+    {
+      "Shielding": "AlTi",
+      "Areal Density (g/cm2)": "1.33",
+      "Thickness (cm)": "0.378",
+      "Trapped Belts TID Total (Rad (Si)/Year)": "89.7 +/-2.7 (SL)",
+      "SPE King Sphere Model, (Rad (Si))": "451 +/- 6"
+    },
+    {
+      "Shielding": "AlTiTa20",
+      "Areal Density (g/cm2)": "2.08",
+      "Thickness (cm)": "0.429",
+      "Trapped Belts TID Total (Rad (Si)/Year)": "84.3 +/-2.5 (SL)",
+      "SPE King Sphere Model, (Rad (Si))": "338 +/- 6"
+    },
+    {
+      "Shielding": "AlTiTa40",
+      "Areal Density (g/cm2)": "3.02",
+      "Thickness (cm)": "0.483",
+      "Trapped Belts TID Total (Rad (Si)/Year)": "81.9 +/-3.4 (SL) 75.6+/-3.2 (Vault)",
+      "SPE King Sphere Model, (Rad (Si))": "253 +/- 6"
+    }
+  ]
+}

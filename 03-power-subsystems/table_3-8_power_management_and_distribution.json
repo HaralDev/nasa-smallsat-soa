@@ -1,0 +1,515 @@
+{
+  "table_id": "3-8",
+  "title": "Power Management and Distribution System Products",
+  "chapter_num": 3,
+  "chapter_title": "Power Subsystems",
+  "source_url": "https://www.nasa.gov/smallsat-institute/sst-soa/power-subsystems",
+  "edition": "2026",
+  "scrape_date": "2026-05-19",
+  "type": "products",
+  "columns": [
+    "Company",
+    "Product",
+    "Mass (kg)",
+    "Volume (cm3)",
+    "Peak Power Output (W)",
+    "Input Voltages (VDC)",
+    "Output Voltages (VDC)",
+    "Max Efficiency (%)"
+  ],
+  "_notes": [
+    "* Available with inquiry to manufacturer** Configuration dependent† Standard Configuration⁑ Optional radiation shielding case¥Flexible stacking options Standard options"
+  ],
+  "data": [
+    {
+      "Company": "2NDSpace (Italy)",
+      "Product": "SOLO-EPS 4",
+      "Mass (kg)": "0.465",
+      "Volume (cm3)": "428",
+      "Peak Power Output (W)": "104",
+      "Input Voltages (VDC)": "16.8",
+      "Output Voltages (VDC)": "3.3V; 5V; 12V; 16.8V",
+      "Max Efficiency (%)": "92"
+    },
+    {
+      "Company": "2NDSpace (Italy)",
+      "Product": "SOLO-EPS 8",
+      "Mass (kg)": "0.67",
+      "Volume (cm3)": "606",
+      "Peak Power Output (W)": "160",
+      "Input Voltages (VDC)": "16.8",
+      "Output Voltages (VDC)": "3.3, 5, 12, 16.8",
+      "Max Efficiency (%)": "92"
+    },
+    {
+      "Company": "AAC Clyde Space (Sweden)",
+      "Product": "Starbuck Micro",
+      "Mass (kg)": "2.45",
+      "Volume (cm3)": "3968",
+      "Peak Power Output (W)": "80.4",
+      "Input Voltages (VDC)": "28",
+      "Output Voltages (VDC)": "28 / 5",
+      "Max Efficiency (%)": "97"
+    },
+    {
+      "Company": "AAC Clyde Space (Sweden)",
+      "Product": "Starbuck Mini",
+      "Mass (kg)": "5.9",
+      "Volume (cm3)": "13133",
+      "Peak Power Output (W)": "1200",
+      "Input Voltages (VDC)": "*",
+      "Output Voltages (VDC)": "22-34/5/8/12/15",
+      "Max Efficiency (%)": "*"
+    },
+    {
+      "Company": "AAC Clyde Space (Sweden)",
+      "Product": "Starbuck Nano",
+      "Mass (kg)": "0.086",
+      "Volume (cm3)": "140",
+      "Peak Power Output (W)": "*",
+      "Input Voltages (VDC)": "*",
+      "Output Voltages (VDC)": "3.3/5/12",
+      "Max Efficiency (%)": "*"
+    },
+    {
+      "Company": "Aerospacelab (Belgium)",
+      "Product": "PCDU",
+      "Mass (kg)": "1.635",
+      "Volume (cm3)": "1715.5",
+      "Peak Power Output (W)": "960",
+      "Input Voltages (VDC)": "[0; 65] V",
+      "Output Voltages (VDC)": "5V [4.75, 5.25] V 12V [11.4, 12.6]",
+      "Max Efficiency (%)": ">97"
+    },
+    {
+      "Company": "Argotec (Italy)",
+      "Product": "PCDU VOLTA",
+      "Mass (kg)": "0.97",
+      "Volume (cm3)": "600",
+      "Peak Power Output (W)": "100",
+      "Input Voltages (VDC)": "18-22",
+      "Output Voltages (VDC)": "1x 3.3 V, 1x 5 V, and 2x 12 V",
+      "Max Efficiency (%)": "75"
+    },
+    {
+      "Company": "Argotec (Italy)",
+      "Product": "PCDU ZEUS",
+      "Mass (kg)": "0.56",
+      "Volume (cm3)": "532",
+      "Peak Power Output (W)": "220 (Solar + battery power)",
+      "Input Voltages (VDC)": "8.5-24 V",
+      "Output Voltages (VDC)": "3.3 V; 5 V; 12 V; 28 V (unregulated)",
+      "Max Efficiency (%)": "85"
+    },
+    {
+      "Company": "Argotec (Italy)",
+      "Product": "PCDU PHOENIX",
+      "Mass (kg)": "1.5",
+      "Volume (cm3)": "1400",
+      "Peak Power Output (W)": "250",
+      "Input Voltages (VDC)": "31-55 V",
+      "Output Voltages (VDC)": "3.3 V; 5 V; 12 V; 28 V (unregulated)",
+      "Max Efficiency (%)": "85"
+    },
+    {
+      "Company": "Berlin Space Technologies (Germany)",
+      "Product": "PCU-110",
+      "Mass (kg)": "1.08",
+      "Volume (cm3)": "1190",
+      "Peak Power Output (W)": "180",
+      "Input Voltages (VDC)": "standard: 20-28 optional: 12, 15, 18",
+      "Output Voltages (VDC)": "standard: 2x 12, 12x 5, 5x 3.8 optional: 1.8 – 28",
+      "Max Efficiency (%)": "*"
+    },
+    {
+      "Company": "Bradford Space (Luxembourg)",
+      "Product": "SuperNova modular PCDU",
+      "Mass (kg)": "2.9",
+      "Volume (cm3)": "3045",
+      "Peak Power Output (W)": "1500",
+      "Input Voltages (VDC)": "22 – 34",
+      "Output Voltages (VDC)": "3.3/5/12/unreg. batt",
+      "Max Efficiency (%)": "95"
+    },
+    {
+      "Company": "C3S Electronics Development LLC (Budapest)",
+      "Product": "EPS1000",
+      "Mass (kg)": "0.811",
+      "Volume (cm3)": "748.5",
+      "Peak Power Output (W)": "70",
+      "Input Voltages (VDC)": "6-25V SA",
+      "Output Voltages (VDC)": "9.9-12.3V, 3.3V, 5.1V",
+      "Max Efficiency (%)": "90"
+    },
+    {
+      "Company": "C3S Electronics Development LLC (Budapest)",
+      "Product": "EPS2000",
+      "Mass (kg)": "5.8",
+      "Volume (cm3)": "7000",
+      "Peak Power Output (W)": "2kW",
+      "Input Voltages (VDC)": "6V-25V or 30-70V (SA)",
+      "Output Voltages (VDC)": "28V unregulated",
+      "Max Efficiency (%)": "97"
+    },
+    {
+      "Company": "DHV Technologies (Spain)",
+      "Product": "MicroEPS",
+      "Mass (kg)": "1.250~2.850*",
+      "Volume (cm3)": "392~1045*",
+      "Peak Power Output (W)": "592 in eclipse / 693 in sunlight",
+      "Input Voltages (VDC)": "9-40",
+      "Output Voltages (VDC)": "3.3/5/12 Batt",
+      "Max Efficiency (%)": ">90"
+    },
+    {
+      "Company": "DHV Technologies (Spain)",
+      "Product": "NanoEPS",
+      "Mass (kg)": "0.175~0.540*",
+      "Volume (cm3)": "283~600*",
+      "Peak Power Output (W)": "59 in eclipse / 124 in sunlight",
+      "Input Voltages (VDC)": "9-28 (X/Y) / 3-18 (Z)",
+      "Output Voltages (VDC)": "3.3/5/12 Batt",
+      "Max Efficiency (%)": ">93"
+    },
+    {
+      "Company": "DHV Technologies (Spain)",
+      "Product": "PicoEPS",
+      "Mass (kg)": "0.110~0.315*",
+      "Volume (cm3)": "140~197*",
+      "Peak Power Output (W)": "29 in eclipse / 74 in sunlight",
+      "Input Voltages (VDC)": "3-18",
+      "Output Voltages (VDC)": "3.3/5/12 Batt",
+      "Max Efficiency (%)": ">93"
+    },
+    {
+      "Company": "DHV Technologies (Spain)",
+      "Product": "Battery Module",
+      "Mass (kg)": "~3.1",
+      "Volume (cm3)": "~2200",
+      "Peak Power Output (W)": "~930",
+      "Input Voltages (VDC)": "24",
+      "Output Voltages (VDC)": "33.6",
+      "Max Efficiency (%)": "–"
+    },
+    {
+      "Company": "DHV Technologies (Spain)",
+      "Product": "PCDU",
+      "Mass (kg)": "3.4~3.9",
+      "Volume (cm3)": "4704~5720",
+      "Peak Power Output (W)": "~900",
+      "Input Voltages (VDC)": "20~70",
+      "Output Voltages (VDC)": "3.3/5/12 Batt",
+      "Max Efficiency (%)": ">90"
+    },
+    {
+      "Company": "Dragonfly Aerospace (South Africa)",
+      "Product": "EPS-LP-1k5(PCDU)",
+      "Mass (kg)": "3.3(Cfg: EPS-LP-12333)",
+      "Volume (cm3)": "5650(Cfg: EPS-LP-12333)",
+      "Peak Power Output (W)": "1500",
+      "Input Voltages (VDC)": "29.7 (22 to 36)",
+      "Output Voltages (VDC)": "Battery Bus: 29.7 Regulated: 12 / 5",
+      "Max Efficiency (%)": "98"
+    },
+    {
+      "Company": "Dragonfly Aerospace (South Africa)",
+      "Product": "EPS-LP-1k5 + HPIU-28V",
+      "Mass (kg)": "7",
+      "Volume (cm3)": "10170",
+      "Peak Power Output (W)": "4200",
+      "Input Voltages (VDC)": "29.7 (22 to 36)",
+      "Output Voltages (VDC)": "Battery Bus: 29.7 Regulated: 12 / 5",
+      "Max Efficiency (%)": "95"
+    },
+    {
+      "Company": "Dragonfly Aerospace (South Africa)",
+      "Product": "EPS-LP-1k5 + HPIU-48V",
+      "Mass (kg)": "10",
+      "Volume (cm3)": "11187",
+      "Peak Power Output (W)": "7200",
+      "Input Voltages (VDC)": "49.5 (42 to 60)",
+      "Output Voltages (VDC)": "Regulated: 28 / 12 / 5 Battery Bus: 49.5",
+      "Max Efficiency (%)": "92"
+    },
+    {
+      "Company": "Ecarver GmBH (Germany)",
+      "Product": "PCU-SB7",
+      "Mass (kg)": "1.5",
+      "Volume (cm3)": "1800",
+      "Peak Power Output (W)": "250",
+      "Input Voltages (VDC)": "0-24",
+      "Output Voltages (VDC)": "0-24",
+      "Max Efficiency (%)": "85"
+    },
+    {
+      "Company": "Emxys (Spain)",
+      "Product": "ODALISS PDCU",
+      "Mass (kg)": "0.36",
+      "Volume (cm3)": "416.3",
+      "Peak Power Output (W)": "36",
+      "Input Voltages (VDC)": "14-36",
+      "Output Voltages (VDC)": "Main 7.6V unreg/ Redundant 7.7V unreg/ Regulated 3.3V/ Regulated 5.0V",
+      "Max Efficiency (%)": "95"
+    },
+    {
+      "Company": "EnduroSat (Bulgaria)",
+      "Product": "EPS II",
+      "Mass (kg)": "1.28",
+      "Volume (cm3)": "742",
+      "Peak Power Output (W)": "250",
+      "Input Voltages (VDC)": "10-36",
+      "Output Voltages (VDC)": "3.3/5/6-12/Batt",
+      "Max Efficiency (%)": "89"
+    },
+    {
+      "Company": "EnduroSat (Bulgaria)",
+      "Product": "CubeSat EPS",
+      "Mass (kg)": "1-6",
+      "Volume (cm3)": "860-4000",
+      "Peak Power Output (W)": "500",
+      "Input Voltages (VDC)": "0-45",
+      "Output Voltages (VDC)": "3.3/5/12/Batt",
+      "Max Efficiency (%)": "87"
+    },
+    {
+      "Company": "EnduroSat (Bulgaria)",
+      "Product": "EPS IV",
+      "Mass (kg)": "4.5",
+      "Volume (cm3)": "7208",
+      "Peak Power Output (W)": "7200",
+      "Input Voltages (VDC)": "0 -70",
+      "Output Voltages (VDC)": "12/28/Batt",
+      "Max Efficiency (%)": "90"
+    },
+    {
+      "Company": "GomSpace (Denmark)",
+      "Product": "P31U",
+      "Mass (kg)": "0.1",
+      "Volume (cm3)": "127",
+      "Peak Power Output (W)": "30",
+      "Input Voltages (VDC)": "0-8",
+      "Output Voltages (VDC)": "3.3/5",
+      "Max Efficiency (%)": "96"
+    },
+    {
+      "Company": "GomSpace (Denmark)",
+      "Product": "P60",
+      "Mass (kg)": "**",
+      "Volume (cm3)": "**",
+      "Peak Power Output (W)": "100",
+      "Input Voltages (VDC)": "16/32 V",
+      "Output Voltages (VDC)": "3.3/5/8/12/18/ 24",
+      "Max Efficiency (%)": "–"
+    },
+    {
+      "Company": "GomSpace (Denmark)",
+      "Product": "P80",
+      "Mass (kg)": "360-610g (¥)",
+      "Volume (cm3)": "350–586",
+      "Peak Power Output (W)": "300",
+      "Input Voltages (VDC)": "0-25",
+      "Output Voltages (VDC)": "3.3/5/12/18V & Vbat",
+      "Max Efficiency (%)": "–"
+    },
+    {
+      "Company": "GUMUSH AeroSpace (Istanbul)",
+      "Product": "n-ART EPS",
+      "Mass (kg)": "0.098",
+      "Volume (cm3)": "160",
+      "Peak Power Output (W)": "100",
+      "Input Voltages (VDC)": "4.5-30",
+      "Output Voltages (VDC)": "3.3/5/8-36/Batt",
+      "Max Efficiency (%)": "94"
+    },
+    {
+      "Company": "Ibeos (USA)",
+      "Product": "150 W CubeSat EPS",
+      "Mass (kg)": "0.14",
+      "Volume (cm3)": "124",
+      "Peak Power Output (W)": "150",
+      "Input Voltages (VDC)": "18-42",
+      "Output Voltages (VDC)": "3.3/5/12/Unreg Batt",
+      "Max Efficiency (%)": "95"
+    },
+    {
+      "Company": "Ibeos (USA)",
+      "Product": "200 W CubeSat EPS",
+      "Mass (kg)": "0.14",
+      "Volume (cm3)": "124",
+      "Peak Power Output (W)": "200",
+      "Input Voltages (VDC)": "12-34",
+      "Output Voltages (VDC)": "3.3/5/12/Unreg Batt",
+      "Max Efficiency (%)": "96"
+    },
+    {
+      "Company": "Ibeos (USA)",
+      "Product": "Modular EPS",
+      "Mass (kg)": "Starting at <1",
+      "Volume (cm3)": "Starting at 1150",
+      "Peak Power Output (W)": "500 – 2,000",
+      "Input Voltages (VDC)": "12-26",
+      "Output Voltages (VDC)": "5/12/Unreg Batt",
+      "Max Efficiency (%)": "98"
+    },
+    {
+      "Company": "ISISPACE (The) (Netherlands)",
+      "Product": "ICEPS2 Type A",
+      "Mass (kg)": "0.184 (¥)",
+      "Volume (cm3)": "223",
+      "Peak Power Output (W)": "39.2",
+      "Input Voltages (VDC)": "—",
+      "Output Voltages (VDC)": "3.3/5/Unreg",
+      "Max Efficiency (%)": "96"
+    },
+    {
+      "Company": "ISISPACE (The) (Netherlands)",
+      "Product": "ICEPS2 Type B",
+      "Mass (kg)": "0.31",
+      "Volume (cm3)": "275",
+      "Peak Power Output (W)": "78.4",
+      "Input Voltages (VDC)": "—",
+      "Output Voltages (VDC)": "3.3/5/Unreg",
+      "Max Efficiency (%)": "95"
+    },
+    {
+      "Company": "ISISPACE (The) (Netherlands)",
+      "Product": "ICEPS2 Type C",
+      "Mass (kg)": "0.36",
+      "Volume (cm3)": "317",
+      "Peak Power Output (W)": "78.4",
+      "Input Voltages (VDC)": "—",
+      "Output Voltages (VDC)": "3.3/5/28.2/Unreg",
+      "Max Efficiency (%)": "95"
+    },
+    {
+      "Company": "Nanoavionics (Lithuania)",
+      "Product": "CubeSat EPS (EPS 1.0)",
+      "Mass (kg)": "*",
+      "Volume (cm3)": "*",
+      "Peak Power Output (W)": "175",
+      "Input Voltages (VDC)": "2.6-12",
+      "Output Voltages (VDC)": "3.3 / 5 / 3-12",
+      "Max Efficiency (%)": "96"
+    },
+    {
+      "Company": "NPC SPACEMIND (Italy)",
+      "Product": "GEMINI",
+      "Mass (kg)": "0.3",
+      "Volume (cm3)": "215",
+      "Peak Power Output (W)": "200",
+      "Input Voltages (VDC)": "10 to 24",
+      "Output Voltages (VDC)": "1 or 2 X 3.3 1 or 2X 5.0 2X 12V Reg up to 24V",
+      "Max Efficiency (%)": "88"
+    },
+    {
+      "Company": "Pumpkin Space Systems (USA)",
+      "Product": "EPSM 1",
+      "Mass (kg)": "0.3",
+      "Volume (cm3)": "180",
+      "Peak Power Output (W)": "300",
+      "Input Voltages (VDC)": "4-32",
+      "Output Voltages (VDC)": "3.3-28",
+      "Max Efficiency (%)": "99"
+    },
+    {
+      "Company": "Pumpkin Space Systems (USA)",
+      "Product": "AMPS",
+      "Mass (kg)": "1.3",
+      "Volume (cm3)": "360",
+      "Peak Power Output (W)": "1200",
+      "Input Voltages (VDC)": "5-32",
+      "Output Voltages (VDC)": "—",
+      "Max Efficiency (%)": "99"
+    },
+    {
+      "Company": "SatRev S.A (Poland)",
+      "Product": "EPS 3S1P",
+      "Mass (kg)": "0.483",
+      "Volume (cm3)": "397",
+      "Peak Power Output (W)": "80 W",
+      "Input Voltages (VDC)": "4.5 – 20",
+      "Output Voltages (VDC)": "Unreg 9.6-12.6",
+      "Max Efficiency (%)": "> 95"
+    },
+    {
+      "Company": "SatRev S.A (Poland)",
+      "Product": "EPS 3S2P",
+      "Mass (kg)": "0.751",
+      "Volume (cm3)": "630",
+      "Peak Power Output (W)": "160 W",
+      "Input Voltages (VDC)": "4.5 – 20",
+      "Output Voltages (VDC)": "Unreg 9.6-12.6",
+      "Max Efficiency (%)": "> 95"
+    },
+    {
+      "Company": "SatRev S.A (Poland)",
+      "Product": "EPS 3S3P",
+      "Mass (kg)": "0.989",
+      "Volume (cm3)": "865",
+      "Peak Power Output (W)": "240 W",
+      "Input Voltages (VDC)": "4.5 – 20",
+      "Output Voltages (VDC)": "Unreg 9.6-12.6",
+      "Max Efficiency (%)": "> 95"
+    },
+    {
+      "Company": "SkyLabs (Slovenia)",
+      "Product": "SKY-NANOeps-PCDU-23c-5d",
+      "Mass (kg)": "0.2",
+      "Volume (cm3)": "216.125",
+      "Peak Power Output (W)": "72",
+      "Input Voltages (VDC)": "10V Unreg",
+      "Output Voltages (VDC)": "3.3, 5, 12, 10 Unreg",
+      "Max Efficiency (%)": "99"
+    },
+    {
+      "Company": "Spacemanic (Czech Republic)",
+      "Product": "Amun 1U",
+      "Mass (kg)": "0.2",
+      "Volume (cm3)": "175",
+      "Peak Power Output (W)": "20",
+      "Input Voltages (VDC)": "~ 2.5 – 5.5",
+      "Output Voltages (VDC)": "3.3 / 5 / Batt",
+      "Max Efficiency (%)": "~ 90"
+    },
+    {
+      "Company": "Space Inventor (Denmark)",
+      "Product": "PDU-3V3",
+      "Mass (kg)": "0.104",
+      "Volume (cm3)": "69",
+      "Peak Power Output (W)": "80W",
+      "Input Voltages (VDC)": "12 to 33.6V",
+      "Output Voltages (VDC)": "3.3V",
+      "Max Efficiency (%)": "95"
+    },
+    {
+      "Company": "Space Inventor (Denmark)",
+      "Product": "PDU-5V",
+      "Mass (kg)": "0.104",
+      "Volume (cm3)": "69",
+      "Peak Power Output (W)": "120W",
+      "Input Voltages (VDC)": "12V to 33.6V",
+      "Output Voltages (VDC)": "5.0V",
+      "Max Efficiency (%)": "95"
+    },
+    {
+      "Company": "Space Inventor (Denmark)",
+      "Product": "PDU-12V",
+      "Mass (kg)": "0.104",
+      "Volume (cm3)": "69",
+      "Peak Power Output (W)": "290 W",
+      "Input Voltages (VDC)": "14V to 33.6V",
+      "Output Voltages (VDC)": "12V",
+      "Max Efficiency (%)": "95"
+    },
+    {
+      "Company": "Space Inventor (Denmark)",
+      "Product": "PDU-VBAT",
+      "Mass (kg)": "0.104",
+      "Volume (cm3)": "69",
+      "Peak Power Output (W)": "1000W",
+      "Input Voltages (VDC)": "12V to 33.6V",
+      "Output Voltages (VDC)": "12V to 33.6V",
+      "Max Efficiency (%)": "99"
+    }
+  ]
+}

@@ -4,8 +4,8 @@
   "chapter_num": 5,
   "chapter_title": "Guidance, Navigation, and Control",
   "source_url": "https://www.nasa.gov/smallsat-institute/sst-soa/guidance-navigation-and-control",
-  "edition": "2024",
-  "scrape_date": "2026-04-09",
+  "edition": "2026",
+  "scrape_date": "2026-05-19",
   "type": "products",
   "columns": [
     "Manufacturer",
@@ -15,561 +15,671 @@
     "Peak Torque (Nm)",
     "Momentum Capacity (Nms)",
     "# Wheels",
-    "Radiation Tolerance (krad)"
+    "Rad. Tol. (krad)"
   ],
   "_notes": [
     "*Printed Circuit Board (PCB) level"
   ],
   "data": [
     {
-      "Manufacturer": "AAC Clyde Space",
+      "Manufacturer": "AAC Clyde Space (Sweden)",
       "Model": "RW210",
       "Mass (kg)": "0.48",
       "Peak Power (W)": "0.8",
       "Peak Torque (Nm)": "0.0001",
       "Momentum Capacity (Nms)": "0.006",
       "# Wheels": "1",
-      "Radiation Tolerance (krad)": "36"
+      "Rad. Tol. (krad)": "36"
     },
     {
-      "Manufacturer": "AAC Clyde Space",
+      "Manufacturer": "AAC Clyde Space (Sweden)",
       "Model": "RW400",
       "Mass (kg)": "0.375",
       "Peak Power (W)": "15",
       "Peak Torque (Nm)": "0.008",
       "Momentum Capacity (Nms)": "0.050",
       "# Wheels": "1",
-      "Radiation Tolerance (krad)": "36"
+      "Rad. Tol. (krad)": "36"
     },
     {
-      "Manufacturer": "AAC Clyde Space",
+      "Manufacturer": "AAC Clyde Space (Sweden)",
       "Model": "Trillian-1",
       "Mass (kg)": "1.5",
       "Peak Power (W)": "24",
       "Peak Torque (Nm)": "47.1",
       "Momentum Capacity (Nms)": "1.2",
       "# Wheels": "1",
-      "Radiation Tolerance (krad)": "—"
+      "Rad. Tol. (krad)": "—"
     },
     {
-      "Manufacturer": "Astrofein",
+      "Manufacturer": "Astrofein (Germany)",
       "Model": "RW1 Type A",
       "Mass (kg)": "≤ 0.025",
       "Peak Power (W)": "< 0.375 + PWDE",
       "Peak Torque (Nm)": "23e-6",
       "Momentum Capacity (Nms)": "5.8e-4",
       "# Wheels": "1",
-      "Radiation Tolerance (krad)": "/"
+      "Rad. Tol. (krad)": "/"
     },
     {
-      "Manufacturer": "Astrofein",
+      "Manufacturer": "Astrofein (Germany)",
       "Model": "RW1 Type B",
       "Mass (kg)": "≤ 0.012",
       "Peak Power (W)": "< 0.3 + PWDE",
       "Peak Torque (Nm)": "4e-6",
       "Momentum Capacity (Nms)": "1.0e-4",
       "# Wheels": "1",
-      "Radiation Tolerance (krad)": "/"
+      "Rad. Tol. (krad)": "/"
     },
     {
-      "Manufacturer": "Astrofein",
+      "Manufacturer": "Astrofein (Germany)",
       "Model": "RW25",
       "Mass (kg)": "≤ 0.2",
       "Peak Power (W)": "< 2.8",
       "Peak Torque (Nm)": "0.002",
       "Momentum Capacity (Nms)": "0.03",
       "# Wheels": "1",
-      "Radiation Tolerance (krad)": "/"
+      "Rad. Tol. (krad)": "/"
     },
     {
-      "Manufacturer": "Astrofein",
+      "Manufacturer": "Astrofein (Germany)",
       "Model": "RW35",
       "Mass (kg)": "≤ 0.5",
       "Peak Power (W)": "≤ 9",
       "Peak Torque (Nm)": "0.005",
       "Momentum Capacity (Nms)": "0.1",
       "# Wheels": "1",
-      "Radiation Tolerance (krad)": "20"
+      "Rad. Tol. (krad)": "20"
     },
     {
-      "Manufacturer": "Astrofein",
+      "Manufacturer": "Astrofein (Germany)",
       "Model": "RW90",
       "Mass (kg)": "≤ 0.9",
       "Peak Power (W)": "≤ 16.5",
       "Peak Torque (Nm)": "0.015",
       "Momentum Capacity (Nms)": "0.35",
       "# Wheels": "1",
-      "Radiation Tolerance (krad)": "20"
+      "Rad. Tol. (krad)": "20"
     },
     {
-      "Manufacturer": "Astrofein",
+      "Manufacturer": "Astrofein (Germany)",
       "Model": "RW100",
       "Mass (kg)": "≤ 0.8",
       "Peak Power (W)": "≤ 25",
       "Peak Torque (Nm)": "0.02",
       "Momentum Capacity (Nms)": "0.4",
       "# Wheels": "1",
-      "Radiation Tolerance (krad)": "20"
+      "Rad. Tol. (krad)": "20"
     },
     {
-      "Manufacturer": "Astrofein",
+      "Manufacturer": "Astrofein (Germany)",
       "Model": "RW150",
       "Mass (kg)": "≤ 1.3",
       "Peak Power (W)": "≤ 42",
       "Peak Torque (Nm)": "0.03",
       "Momentum Capacity (Nms)": "1",
       "# Wheels": "1",
-      "Radiation Tolerance (krad)": "20"
+      "Rad. Tol. (krad)": "20"
     },
     {
-      "Manufacturer": "Astrofein",
+      "Manufacturer": "Astrofein (Germany)",
       "Model": "RWT150",
       "Mass (kg)": "≤ 1.5",
       "Peak Power (W)": "≤ 120",
       "Peak Torque (Nm)": "0.1",
       "Momentum Capacity (Nms)": "1",
       "# Wheels": "1",
-      "Radiation Tolerance (krad)": "20"
+      "Rad. Tol. (krad)": "20"
     },
     {
-      "Manufacturer": "Astrofein",
+      "Manufacturer": "Astrofein (Germany)",
       "Model": "RW250",
       "Mass (kg)": "≤ 2.75",
       "Peak Power (W)": "≤ 100",
       "Peak Torque (Nm)": "0.1",
       "Momentum Capacity (Nms)": "4",
       "# Wheels": "1",
-      "Radiation Tolerance (krad)": "20"
+      "Rad. Tol. (krad)": "20"
     },
     {
-      "Manufacturer": "Astrofein",
+      "Manufacturer": "Astrofein (Germany)",
       "Model": "RWT250",
       "Mass (kg)": "≤ 2.75",
       "Peak Power (W)": "≤ 200",
       "Peak Torque (Nm)": "0.3",
       "Momentum Capacity (Nms)": "4",
       "# Wheels": "1",
-      "Radiation Tolerance (krad)": "20"
+      "Rad. Tol. (krad)": "20"
     },
     {
-      "Manufacturer": "Berlin Space Technologies",
+      "Manufacturer": "Berlin Space Technologies (Germany)",
       "Model": "RWA05",
       "Mass (kg)": "1.700",
       "Peak Power (W)": "23.5",
       "Peak Torque (Nm)": "0.016",
       "Momentum Capacity (Nms)": "0.5",
       "# Wheels": "1",
-      "Radiation Tolerance (krad)": "30"
+      "Rad. Tol. (krad)": "30"
     },
     {
-      "Manufacturer": "Blue Canyon Technologies",
-      "Model": "RWP015",
+      "Manufacturer": "Blue Canyon Technologies (USA)",
+      "Model": "RWp015",
       "Mass (kg)": "0.130",
-      "Peak Power (W)": "1",
+      "Peak Power (W)": "5.5",
       "Peak Torque (Nm)": "0.004",
       "Momentum Capacity (Nms)": "0.015",
       "# Wheels": "1",
-      "Radiation Tolerance (krad)": "—"
+      "Rad. Tol. (krad)": "—"
     },
     {
-      "Manufacturer": "Blue Canyon Technologies",
-      "Model": "RWP050",
+      "Manufacturer": "Blue Canyon Technologies (USA)",
+      "Model": "RWp050",
       "Mass (kg)": "0.240",
-      "Peak Power (W)": "1",
+      "Peak Power (W)": "9",
       "Peak Torque (Nm)": "0.007",
       "Momentum Capacity (Nms)": "0.050",
       "# Wheels": "1",
-      "Radiation Tolerance (krad)": "—"
+      "Rad. Tol. (krad)": "—"
     },
     {
-      "Manufacturer": "Blue Canyon Technologies",
-      "Model": "RWP100",
+      "Manufacturer": "Blue Canyon Technologies (USA)",
+      "Model": "RWp100",
       "Mass (kg)": "0.330",
-      "Peak Power (W)": "1",
+      "Peak Power (W)": "9",
       "Peak Torque (Nm)": "0.007",
       "Momentum Capacity (Nms)": "0.100",
       "# Wheels": "1",
-      "Radiation Tolerance (krad)": "—"
+      "Rad. Tol. (krad)": "—"
     },
     {
-      "Manufacturer": "Blue Canyon Technologies",
-      "Model": "RWP500",
+      "Manufacturer": "Blue Canyon Technologies (USA)",
+      "Model": "RWp500",
       "Mass (kg)": "0.750",
-      "Peak Power (W)": "6",
+      "Peak Power (W)": "25",
       "Peak Torque (Nm)": "0.025",
       "Momentum Capacity (Nms)": "0.500",
       "# Wheels": "1",
-      "Radiation Tolerance (krad)": "—"
+      "Rad. Tol. (krad)": "—"
     },
     {
-      "Manufacturer": "Blue Canyon Technologies",
+      "Manufacturer": "Blue Canyon Technologies (USA)",
       "Model": "RW1",
       "Mass (kg)": "0.950",
-      "Peak Power (W)": "10",
+      "Peak Power (W)": "100",
       "Peak Torque (Nm)": "0.07",
       "Momentum Capacity (Nms)": "1.000",
       "# Wheels": "1",
-      "Radiation Tolerance (krad)": "—"
+      "Rad. Tol. (krad)": "—"
     },
     {
-      "Manufacturer": "Blue Canyon Technologies",
+      "Manufacturer": "Blue Canyon Technologies (USA)",
       "Model": "RW4",
       "Mass (kg)": "3.200",
-      "Peak Power (W)": "10",
+      "Peak Power (W)": "204",
       "Peak Torque (Nm)": "0.250",
       "Momentum Capacity (Nms)": "4.000",
       "# Wheels": "1",
-      "Radiation Tolerance (krad)": "—"
+      "Rad. Tol. (krad)": "—"
     },
     {
-      "Manufacturer": "Blue Canyon Technologies",
+      "Manufacturer": "Blue Canyon Technologies (USA)",
       "Model": "RW8",
       "Mass (kg)": "4.400",
-      "Peak Power (W)": "10",
+      "Peak Power (W)": "204",
       "Peak Torque (Nm)": "0.250",
       "Momentum Capacity (Nms)": "8.000",
       "# Wheels": "1",
-      "Radiation Tolerance (krad)": "—"
+      "Rad. Tol. (krad)": "—"
     },
     {
-      "Manufacturer": "Comat",
+      "Manufacturer": "Blue Canyon Technologies (USA)",
+      "Model": "RW16",
+      "Mass (kg)": "7.5",
+      "Peak Power (W)": "204",
+      "Peak Torque (Nm)": "0.25",
+      "Momentum Capacity (Nms)": "16",
+      "# Wheels": "1",
+      "Rad. Tol. (krad)": "—"
+    },
+    {
+      "Manufacturer": "Comat (France)",
       "Model": "RW20",
       "Mass (kg)": "0.180",
       "Peak Power (W)": "1",
       "Peak Torque (Nm)": "0.002",
       "Momentum Capacity (Nms)": "0.02",
       "# Wheels": "1",
-      "Radiation Tolerance (krad)": "Up to 20Krad*"
+      "Rad. Tol. (krad)": "20*"
     },
     {
-      "Manufacturer": "Comat",
+      "Manufacturer": "Comat (France)",
       "Model": "RW40",
       "Mass (kg)": "0.230",
       "Peak Power (W)": "1",
       "Peak Torque (Nm)": "0.004",
       "Momentum Capacity (Nms)": "0.04",
       "# Wheels": "1",
-      "Radiation Tolerance (krad)": "Up to 20Krad*"
+      "Rad. Tol. (krad)": "20*"
     },
     {
-      "Manufacturer": "Comat",
+      "Manufacturer": "Comat (France)",
       "Model": "RW60",
       "Mass (kg)": "0.275",
       "Peak Power (W)": "1",
       "Peak Torque (Nm)": "0.006",
       "Momentum Capacity (Nms)": "0.06",
       "# Wheels": "1",
-      "Radiation Tolerance (krad)": "Up to 20Krad*"
+      "Rad. Tol. (krad)": "20*"
     },
     {
-      "Manufacturer": "CubeSpace Satellite Systems",
+      "Manufacturer": "CubeSpace Satellite Systems (South Africa)",
       "Model": "CubeWheel CW0017",
       "Mass (kg)": "0.06",
       "Peak Power (W)": "0.85",
       "Peak Torque (Nm)": "0.23",
       "Momentum Capacity (Nms)": "0.0017",
-      "# Wheels": "1/3/4(Pyramid)",
-      "Radiation Tolerance (krad)": "24"
+      "# Wheels": "1/3/4 (Pyramid)",
+      "Rad. Tol. (krad)": "24"
     },
     {
-      "Manufacturer": "CubeSpace Satellite Systems",
+      "Manufacturer": "CubeSpace Satellite Systems (South Africa)",
       "Model": "CubeWheel CW0057",
       "Mass (kg)": "0.115",
       "Peak Power (W)": "2.7",
       "Peak Torque (Nm)": "2",
       "Momentum Capacity (Nms)": "0.0057",
-      "# Wheels": "1/3/4(Pyramid)",
-      "Radiation Tolerance (krad)": "24"
+      "# Wheels": "1/3/4 (Pyramid)",
+      "Rad. Tol. (krad)": "24"
     },
     {
-      "Manufacturer": "CubeSpace Satellite Systems",
+      "Manufacturer": "CubeSpace Satellite Systems (South Africa)",
       "Model": "CubeWheel CW0162",
       "Mass (kg)": "0.144",
       "Peak Power (W)": "7.2",
       "Peak Torque (Nm)": "7",
       "Momentum Capacity (Nms)": "0.0162",
-      "# Wheels": "1/3/4(Pyramid)",
-      "Radiation Tolerance (krad)": "24"
+      "# Wheels": "1/3/4 (Pyramid)",
+      "Rad. Tol. (krad)": "24"
     },
     {
-      "Manufacturer": "CubeSpace Satellite Systems",
+      "Manufacturer": "CubeSpace Satellite Systems (South Africa)",
       "Model": "CubeWheel CW0500",
       "Mass (kg)": "0.310",
       "Peak Power (W)": "15",
       "Peak Torque (Nm)": "16",
       "Momentum Capacity (Nms)": "0.05",
-      "# Wheels": "1/3/4(Pyramid)",
-      "Radiation Tolerance (krad)": "24"
+      "# Wheels": "1/3/4 (Pyramid)",
+      "Rad. Tol. (krad)": "24"
     },
     {
-      "Manufacturer": "CubeSpace Satellite Systems",
+      "Manufacturer": "CubeSpace Satellite Systems (South Africa)",
       "Model": "CubeWheel CW1200",
       "Mass (kg)": "0.450*",
       "Peak Power (W)": "32",
       "Peak Torque (Nm)": "20",
       "Momentum Capacity (Nms)": "0.12",
-      "# Wheels": "1/3/4(Pyramid)",
-      "Radiation Tolerance (krad)": "24"
+      "# Wheels": "1/3/4 (Pyramid)",
+      "Rad. Tol. (krad)": "24"
     },
     {
-      "Manufacturer": "CubeSpace Satellite Systems",
+      "Manufacturer": "CubeSpace Satellite Systems (South Africa)",
       "Model": "CubeWheel CW2500",
       "Mass (kg)": "0.750*",
       "Peak Power (W)": "33",
       "Peak Torque (Nm)": "27",
       "Momentum Capacity (Nms)": "0.25",
-      "# Wheels": "1/3/4(Pyramid)",
-      "Radiation Tolerance (krad)": "24"
+      "# Wheels": "1/3/4 (Pyramid)",
+      "Rad. Tol. (krad)": "24"
     },
     {
-      "Manufacturer": "CubeSpace Satellite Systems",
+      "Manufacturer": "CubeSpace Satellite Systems (South Africa)",
       "Model": "CubeWheel CW5000",
       "Mass (kg)": "1.084",
       "Peak Power (W)": "48",
       "Peak Torque (Nm)": "37",
       "Momentum Capacity (Nms)": "0.5",
-      "# Wheels": "1/3/4(Pyramid)",
-      "Radiation Tolerance (krad)": "24"
+      "# Wheels": "1/3/4 (Pyramid)",
+      "Rad. Tol. (krad)": "24"
     },
     {
-      "Manufacturer": "CubeSpace Satellite Systems",
+      "Manufacturer": "CubeSpace Satellite Systems (South Africa)",
       "Model": "CubeWheel CW10K",
       "Mass (kg)": "2.1*",
       "Peak Power (W)": "50",
       "Peak Torque (Nm)": "37",
       "Momentum Capacity (Nms)": "1",
-      "# Wheels": "1/3/4(Pyramid)",
-      "Radiation Tolerance (krad)": "24"
+      "# Wheels": "1/3/4 (Pyramid)",
+      "Rad. Tol. (krad)": "24"
     },
     {
-      "Manufacturer": "CubeSpace Satellite Systems",
+      "Manufacturer": "CubeSpace Satellite Systems (South Africa)",
       "Model": "CubeWheel CW40K",
       "Mass (kg)": "2.2*",
       "Peak Power (W)": "85",
       "Peak Torque (Nm)": "37",
       "Momentum Capacity (Nms)": "4",
-      "# Wheels": "1/3/4(Pyramid)",
-      "Radiation Tolerance (krad)": "24"
+      "# Wheels": "1/3/4 (Pyramid)",
+      "Rad. Tol. (krad)": "24"
     },
     {
-      "Manufacturer": "GomSpace",
+      "Manufacturer": "GomSpace (Denmark)",
       "Model": "NanoTorque GSW-600",
       "Mass (kg)": "0.940",
       "Peak Power (W)": "0.3",
       "Peak Torque (Nm)": "0.0015",
       "Momentum Capacity (Nms)": "0.019",
       "# Wheels": "1",
-      "Radiation Tolerance (krad)": "—"
+      "Rad. Tol. (krad)": "—"
     },
     {
-      "Manufacturer": "NanoAvionics",
+      "Manufacturer": "NanoAvionics (Lithuania)",
       "Model": "RWO",
       "Mass (kg)": "0.137",
       "Peak Power (W)": "3.25",
       "Peak Torque (Nm)": "0.0032",
       "Momentum Capacity (Nms)": "0.020",
       "# Wheels": "1",
-      "Radiation Tolerance (krad)": "20"
+      "Rad. Tol. (krad)": "20"
     },
     {
-      "Manufacturer": "NanoAvionics",
+      "Manufacturer": "NanoAvionics (Lithuania)",
       "Model": "4RWO",
       "Mass (kg)": "0.665",
       "Peak Power (W)": "6",
       "Peak Torque (Nm)": "0.0059",
       "Momentum Capacity (Nms)": "0.037",
       "# Wheels": "4",
-      "Radiation Tolerance (krad)": "20"
+      "Rad. Tol. (krad)": "20"
     },
     {
-      "Manufacturer": "NewSpace Systems",
+      "Manufacturer": "NewSpace Systems (South Africa)",
       "Model": "NRWA-T6",
       "Mass (kg)": "<5",
       "Peak Power (W)": "136",
       "Peak Torque (Nm)": "0.3",
       "Momentum Capacity (Nms)": "0.00783",
       "# Wheels": "1",
-      "Radiation Tolerance (krad)": "20"
+      "Rad. Tol. (krad)": "20"
     },
     {
-      "Manufacturer": "NewSpace Systems",
+      "Manufacturer": "NewSpace Systems (South Africa)",
       "Model": "NRWA-T065",
       "Mass (kg)": "1.55",
       "Peak Power (W)": "1.7",
       "Peak Torque (Nm)": "0.02",
       "Momentum Capacity (Nms)": "0.00094",
       "# Wheels": "1",
-      "Radiation Tolerance (krad)": "10"
+      "Rad. Tol. (krad)": "10"
     },
     {
-      "Manufacturer": "NewSpace Systems",
+      "Manufacturer": "NewSpace Systems (South Africa)",
       "Model": "NRWA-T2",
       "Mass (kg)": "2.8",
       "Peak Power (W)": "0.4",
       "Peak Torque (Nm)": "0.09",
       "Momentum Capacity (Nms)": "0.00163",
       "# Wheels": "1",
-      "Radiation Tolerance (krad)": "10"
+      "Rad. Tol. (krad)": "10"
     },
     {
-      "Manufacturer": "Rocket Lab",
+      "Manufacturer": "Rocket Lab (USA)",
       "Model": "RW-0.03",
       "Mass (kg)": "0.185",
       "Peak Power (W)": "1.8",
       "Peak Torque (Nm)": "0.002",
       "Momentum Capacity (Nms)": "0.040",
       "# Wheels": "1",
-      "Radiation Tolerance (krad)": "20"
+      "Rad. Tol. (krad)": "20"
     },
     {
-      "Manufacturer": "Rocket Lab",
+      "Manufacturer": "Rocket Lab (USA)",
       "Model": "RW-0.003",
       "Mass (kg)": "0.048",
       "Peak Power (W)": "—",
       "Peak Torque (Nm)": "0.001",
       "Momentum Capacity (Nms)": "0.005",
       "# Wheels": "1",
-      "Radiation Tolerance (krad)": "10"
+      "Rad. Tol. (krad)": "10"
     },
     {
-      "Manufacturer": "Rocket Lab",
+      "Manufacturer": "Rocket Lab (USA)",
       "Model": "RW-0.01",
       "Mass (kg)": "0.122",
       "Peak Power (W)": "1.05",
       "Peak Torque (Nm)": "0.001",
       "Momentum Capacity (Nms)": "0.018",
       "# Wheels": "1",
-      "Radiation Tolerance (krad)": "20"
+      "Rad. Tol. (krad)": "20"
     },
     {
-      "Manufacturer": "Rocket Lab",
+      "Manufacturer": "Rocket Lab (USA)",
       "Model": "RW3-0.06",
       "Mass (kg)": "0.235",
       "Peak Power (W)": "23.4",
       "Peak Torque (Nm)": "0.020",
       "Momentum Capacity (Nms)": "0.180",
       "# Wheels": "1",
-      "Radiation Tolerance (krad)": "20"
+      "Rad. Tol. (krad)": "20"
     },
     {
-      "Manufacturer": "Rocket Lab",
+      "Manufacturer": "Rocket Lab (USA)",
       "Model": "RW4-0.2",
       "Mass (kg)": "0.6",
       "Peak Power (W)": "—",
       "Peak Torque (Nm)": "0.1",
       "Momentum Capacity (Nms)": "0.2",
       "# Wheels": "1",
-      "Radiation Tolerance (krad)": "60"
+      "Rad. Tol. (krad)": "60"
     },
     {
-      "Manufacturer": "Rocket Lab",
+      "Manufacturer": "Rocket Lab (USA)",
       "Model": "RW4-0.4",
       "Mass (kg)": "0.77",
       "Peak Power (W)": "—",
       "Peak Torque (Nm)": "0.1",
       "Momentum Capacity (Nms)": "0.4",
       "# Wheels": "1",
-      "Radiation Tolerance (krad)": "60"
+      "Rad. Tol. (krad)": "60"
     },
     {
-      "Manufacturer": "Rocket Lab",
+      "Manufacturer": "Rocket Lab (USA)",
       "Model": "RW4-1.0",
       "Mass (kg)": "1.38",
       "Peak Power (W)": "43",
       "Peak Torque (Nm)": "0.1",
       "Momentum Capacity (Nms)": "1",
       "# Wheels": "1",
-      "Radiation Tolerance (krad)": "60"
+      "Rad. Tol. (krad)": "60"
     },
     {
-      "Manufacturer": "Vectronic Aerospace",
-      "Model": "VRW-A-1",
-      "Mass (kg)": "1.90",
-      "Peak Power (W)": "110",
-      "Peak Torque (Nm)": "0.090",
-      "Momentum Capacity (Nms)": "6.000",
+      "Manufacturer": "Space Inventor (Denmark)",
+      "Model": "WHL-100",
+      "Mass (kg)": "0.35",
+      "Peak Power (W)": "TBD",
+      "Peak Torque (Nm)": "20",
+      "Momentum Capacity (Nms)": "100",
       "# Wheels": "1",
-      "Radiation Tolerance (krad)": "20"
+      "Rad. Tol. (krad)": "—"
     },
     {
-      "Manufacturer": "Vectronic Aerospace",
-      "Model": "VRW-B-2",
-      "Mass (kg)": "1.00",
+      "Manufacturer": "Space Inventor (Denmark)",
+      "Model": "WHL-200",
+      "Mass (kg)": "0.42",
+      "Peak Power (W)": "TBD",
+      "Peak Torque (Nm)": "25",
+      "Momentum Capacity (Nms)": "200",
+      "# Wheels": "1",
+      "Rad. Tol. (krad)": "—"
+    },
+    {
+      "Manufacturer": "Space Inventor (Denmark)",
+      "Model": "WHL-500",
+      "Mass (kg)": "0.8",
+      "Peak Power (W)": "TBD",
+      "Peak Torque (Nm)": "50",
+      "Momentum Capacity (Nms)": "500",
+      "# Wheels": "1",
+      "Rad. Tol. (krad)": "—"
+    },
+    {
+      "Manufacturer": "Space Inventor (Denmark)",
+      "Model": "WHL-1000",
+      "Mass (kg)": "1.175",
+      "Peak Power (W)": "180",
+      "Peak Torque (Nm)": "100",
+      "Momentum Capacity (Nms)": "1000",
+      "# Wheels": "1",
+      "Rad. Tol. (krad)": "—"
+    },
+    {
+      "Manufacturer": "Space Inventor (Denmark)",
+      "Model": "WHL-12000",
+      "Mass (kg)": "5.9",
+      "Peak Power (W)": "—",
+      "Peak Torque (Nm)": "1200",
+      "Momentum Capacity (Nms)": "12000",
+      "# Wheels": "1",
+      "Rad. Tol. (krad)": "—"
+    },
+    {
+      "Manufacturer": "Vectronic Aerospace (Germany)",
+      "Model": "VRW-B-02",
+      "Mass (kg)": "1",
       "Peak Power (W)": "45",
-      "Peak Torque (Nm)": "0.020",
-      "Momentum Capacity (Nms)": "0.200",
+      "Peak Torque (Nm)": "0.02",
+      "Momentum Capacity (Nms)": "0.2",
       "# Wheels": "1",
-      "Radiation Tolerance (krad)": "20"
+      "Rad. Tol. (krad)": "20"
     },
     {
-      "Manufacturer": "Vectronic Aerospace",
+      "Manufacturer": "Vectronic Aerospace (Germany)",
+      "Model": "VRW-C-05",
+      "Mass (kg)": "1.2",
+      "Peak Power (W)": "65",
+      "Peak Torque (Nm)": "0.05",
+      "Momentum Capacity (Nms)": "0.6",
+      "# Wheels": "1",
+      "Rad. Tol. (krad)": "20"
+    },
+    {
+      "Manufacturer": "Vectronic Aerospace (Germany)",
       "Model": "VRW-C-1",
       "Mass (kg)": "2.3",
-      "Peak Power (W)": "45",
-      "Peak Torque (Nm)": "0.020",
-      "Momentum Capacity (Nms)": "1.20",
+      "Peak Power (W)": "65",
+      "Peak Torque (Nm)": "0.05",
+      "Momentum Capacity (Nms)": "1.2",
       "# Wheels": "1",
-      "Radiation Tolerance (krad)": "20"
+      "Rad. Tol. (krad)": "20"
     },
     {
-      "Manufacturer": "Vectronic Aerospace",
+      "Manufacturer": "Vectronic Aerospace (Germany)",
+      "Model": "VRW-D-1",
+      "Mass (kg)": "1.9",
+      "Peak Power (W)": "65",
+      "Peak Torque (Nm)": "0.05",
+      "Momentum Capacity (Nms)": "1.2",
+      "# Wheels": "1",
+      "Rad. Tol. (krad)": "20"
+    },
+    {
+      "Manufacturer": "Vectronic Aerospace (Germany)",
+      "Model": "VRW-D-16",
+      "Mass (kg)": "1.8",
+      "Peak Power (W)": "65",
+      "Peak Torque (Nm)": "0.05",
+      "Momentum Capacity (Nms)": "1.6",
+      "# Wheels": "1",
+      "Rad. Tol. (krad)": "20"
+    },
+    {
+      "Manufacturer": "Vectronic Aerospace (Germany)",
       "Model": "VRW-D-2",
       "Mass (kg)": "2",
       "Peak Power (W)": "65",
       "Peak Torque (Nm)": "0.05",
       "Momentum Capacity (Nms)": "2.0",
       "# Wheels": "1",
-      "Radiation Tolerance (krad)": "20"
+      "Rad. Tol. (krad)": "20"
     },
     {
-      "Manufacturer": "Vectronic Aerospace",
+      "Manufacturer": "Vectronic Aerospace (Germany)",
+      "Model": "VRW-D-27",
+      "Mass (kg)": "2.45",
+      "Peak Power (W)": "65",
+      "Peak Torque (Nm)": "0.05",
+      "Momentum Capacity (Nms)": "2.7",
+      "# Wheels": "1",
+      "Rad. Tol. (krad)": "20"
+    },
+    {
+      "Manufacturer": "Vectronic Aerospace (Germany)",
+      "Model": "VRW-D-4",
+      "Mass (kg)": "2.5",
+      "Peak Power (W)": "65/110",
+      "Peak Torque (Nm)": "0.05/0.09",
+      "Momentum Capacity (Nms)": "4.0",
+      "# Wheels": "1",
+      "Rad. Tol. (krad)": "20"
+    },
+    {
+      "Manufacturer": "Vectronic Aerospace (Germany)",
       "Model": "VRW-D-6",
       "Mass (kg)": "3",
-      "Peak Power (W)": "110",
-      "Peak Torque (Nm)": "0.09",
-      "Momentum Capacity (Nms)": "6",
+      "Peak Power (W)": "65/110",
+      "Peak Torque (Nm)": "0.05/0.09",
+      "Momentum Capacity (Nms)": "6.0",
       "# Wheels": "1",
-      "Radiation Tolerance (krad)": "20"
+      "Rad. Tol. (krad)": "20"
     },
     {
-      "Manufacturer": "VEOWARE",
+      "Manufacturer": "Vectronic Aerospace (Germany)",
+      "Model": "VRW-D-8",
+      "Mass (kg)": "3.5",
+      "Peak Power (W)": "110",
+      "Peak Torque (Nm)": "0.09",
+      "Momentum Capacity (Nms)": "8.0",
+      "# Wheels": "1",
+      "Rad. Tol. (krad)": "20"
+    },
+    {
+      "Manufacturer": "VEOWARE (Belgium)",
       "Model": "WHL-100",
       "Mass (kg)": "0.35",
       "Peak Power (W)": "—",
       "Peak Torque (Nm)": "0.02",
       "Momentum Capacity (Nms)": "0.1",
       "# Wheels": "1",
-      "Radiation Tolerance (krad)": "—"
+      "Rad. Tol. (krad)": "—"
     },
     {
-      "Manufacturer": "VEOWARE",
+      "Manufacturer": "VEOWARE (Belgium)",
       "Model": "WHL-200",
       "Mass (kg)": "0.43",
       "Peak Power (W)": "—",
       "Peak Torque (Nm)": "0.025",
       "Momentum Capacity (Nms)": "0.2",
       "# Wheels": "1",
-      "Radiation Tolerance (krad)": "—"
+      "Rad. Tol. (krad)": "—"
     },
     {
-      "Manufacturer": "VEOWARE",
+      "Manufacturer": "VEOWARE (Belgium)",
       "Model": "WHL-500",
       "Mass (kg)": "0.8",
       "Peak Power (W)": "—",
       "Peak Torque (Nm)": "0.5",
       "Momentum Capacity (Nms)": "0.5",
       "# Wheels": "1",
-      "Radiation Tolerance (krad)": "—"
+      "Rad. Tol. (krad)": "—"
     },
     {
-      "Manufacturer": "VEOWARE",
+      "Manufacturer": "VEOWARE (Belgium)",
       "Model": "WHL-100",
       "Mass (kg)": "1.2",
       "Peak Power (W)": "—",
       "Peak Torque (Nm)": "0.1",
       "Momentum Capacity (Nms)": "1",
       "# Wheels": "1",
-      "Radiation Tolerance (krad)": "—"
+      "Rad. Tol. (krad)": "—"
     }
   ]
 }

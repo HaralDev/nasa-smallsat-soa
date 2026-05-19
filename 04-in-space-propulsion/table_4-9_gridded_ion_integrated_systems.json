@@ -5,8 +5,8 @@
   "chapter_num": 4,
   "chapter_title": "In-Space Propulsion",
   "source_url": "https://www.nasa.gov/smallsat-institute/sst-soa/in-space_propulsion",
-  "edition": "2024",
-  "scrape_date": "2026-04-09",
+  "edition": "2026",
+  "scrape_date": "2026-05-19",
   "type": "products",
   "columns": [
     "Manufacturer",
@@ -42,7 +42,7 @@
       "Cathode Type": "Hollow",
       "PMI Status": "D",
       "Missions": "–",
-      "References": "(338) (339)"
+      "References": "(345) (346)"
     },
     {
       "Manufacturer": "Busek (USA)",
@@ -58,23 +58,23 @@
       "Cathode Type": "RF",
       "PMI Status": "E",
       "Missions": "Lunar IceCube; LunaH-Map",
-      "References": "(188) (189) (190) (191) (192) (193) (340) (341) (342) (343) (344) (345)"
+      "References": "(188) (189) (190) (191) (192) (193) (347) (348) (349) (350) (351) (352)"
     },
     {
       "Manufacturer": "Pale Blue (Japan)",
-      "Product": "PBI-40 Hybrid",
-      "Type": "RF Ion (Resistojet)",
-      "Propellant": "Water (Water)",
-      "Thrust*": "0.15 (0.9)",
-      "Specific Impulse*": "> 500 (40)",
-      "Total Impulse*": "–",
-      "Mass": "< 2.5 (†)",
-      "Envelope": "9 x 12 x 12",
-      "Power": "28 23",
+      "Product": "PBI",
+      "Type": "RF Ion",
+      "Propellant": "Water",
+      "Thrust*": "0.35",
+      "Specific Impulse*": "2000",
+      "Total Impulse*": "7",
+      "Mass": "1.6 (†)",
+      "Envelope": "10 x 10 x 11",
+      "Power": "60",
       "Cathode Type": "RF",
       "PMI Status": "E",
-      "Missions": "RAISE-3 (DDL); RAISE-4 (2024**)",
-      "References": "(346) (347) (348) (349)"
+      "Missions": "ON-SCV 018; ON-SCV 021",
+      "References": "(353) (354) (355) (356) (357)"
     },
     {
       "Manufacturer": "ThrustMe (France)",
@@ -89,8 +89,8 @@
       "Power": "< 81",
       "Cathode Type": "Thermionic",
       "PMI Status": "F",
-      "Missions": "Beihangkongshi-1; NORSAT-TD; INSPIRESAT-4 (2023**); GOMX-5 (2024**); DROID.002 (2024**)",
-      "References": "(182) (183) (184) (185) (186) (187) (350) (351) (352)"
+      "Missions": "Beihangkongshi-1; NORSAT-TD",
+      "References": "(182) (183) (184) (185) (186) (187) (358) (359) (360)"
     }
   ]
 }

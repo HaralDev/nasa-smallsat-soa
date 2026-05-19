@@ -4,8 +4,8 @@
   "chapter_num": 5,
   "chapter_title": "Guidance, Navigation, and Control",
   "source_url": "https://www.nasa.gov/smallsat-institute/sst-soa/guidance-navigation-and-control",
-  "edition": "2024",
-  "scrape_date": "2026-04-09",
+  "edition": "2026",
+  "scrape_date": "2026-05-19",
   "type": "products",
   "columns": [
     "Manufacturer",
@@ -14,102 +14,92 @@
     "Actuators",
     "Sensors",
     "Processor",
-    "Pointing Accuracy",
-    "Ref"
+    "Pointing Accuracy"
   ],
   "_notes": [
-    "*Mass may vary if actuators are integrated inside CubeADCS core.†Configuration dependent."
+    "*Mass may vary if actuators are integrated inside CubeADCS core.†Configuration dependent"
   ],
   "data": [
     {
-      "Manufacturer": "AAC Clyde Space",
+      "Manufacturer": "AAC Clyde Space (Sweden)",
       "Model": "iADCS-200",
       "Mass (kg)": "0.470",
       "Actuators": "3 reaction wheels3 magnetic torquers",
-      "Sensors": "1 star tracker1 IMU, Optionally high precision magnetometer and sun sensors",
+      "Sensors": "1 star tracker,1 IMU, Optionally high precision magnetometer and sun sensors",
       "Processor": "Yes",
-      "Pointing Accuracy": "<1°",
-      "Ref": "(7)"
+      "Pointing Accuracy": "<1°"
     },
     {
-      "Manufacturer": "AAC Clyde Space",
+      "Manufacturer": "AAC Clyde Space (Sweden)",
       "Model": "iADCS-400",
       "Mass (kg)": "1.7",
       "Actuators": "3 reaction wheels3 magnetorquers",
       "Sensors": "1 star tracker, 1 IMU, Optionally high precision magnetometer and sun sensors",
       "Processor": "Yes",
-      "Pointing Accuracy": "<1°",
-      "Ref": "(8)"
+      "Pointing Accuracy": "<1°"
     },
     {
-      "Manufacturer": "Arcsec",
+      "Manufacturer": "Arcsec (Belgium)",
       "Model": "Arcus ADC",
       "Mass (kg)": "0.715",
       "Actuators": "3 reaction wheels 3 magnetic torquers",
-      "Sensors": "1 star tracker 3 gyros 6 photodiodes 3 magnetometers",
+      "Sensors": "1 star tracker, 3 gyros 6 photodiodes 3 magnetometers",
       "Processor": "Yes",
-      "Pointing Accuracy": "0.1°",
-      "Ref": "(9)"
+      "Pointing Accuracy": "0.1°"
     },
     {
-      "Manufacturer": "Berlin Space Technologies",
+      "Manufacturer": "Berlin Space Technologies (Germany)",
       "Model": "IADCS-100",
       "Mass (kg)": "0.4",
       "Actuators": "3 reaction wheels3 magnetic torquers",
-      "Sensors": "1 star tracker3 gyros,1 magnetometer,1 accelerometer",
+      "Sensors": "1 star tracker,3 gyros,1 magnetometer,1 accelerometer",
       "Processor": "Yes",
-      "Pointing Accuracy": "<<1 deg",
-      "Ref": "(10)"
+      "Pointing Accuracy": "<<1 deg"
     },
     {
-      "Manufacturer": "Blue Canyon Technologies",
+      "Manufacturer": "Blue Canyon Technologies (USA)",
       "Model": "XACT-15",
       "Mass (kg)": "0.885",
       "Actuators": "3 reaction wheels3 magnetorquers",
-      "Sensors": "1 star tracker3-axis magnetometer",
+      "Sensors": "1-2 Star Trackers, 1-4 Sun Sensors, IMU, Magnetometer, GPS",
       "Processor": "Yes",
-      "Pointing Accuracy": "0.003/0.007°",
-      "Ref": "(11)"
+      "Pointing Accuracy": "0.003/0.007°"
     },
     {
-      "Manufacturer": "Blue Canyon Technologies",
+      "Manufacturer": "Blue Canyon Technologies (USA)",
       "Model": "XACT-50",
       "Mass (kg)": "1.230",
       "Actuators": "3 reaction wheels3 magnetorquers",
-      "Sensors": "1 star tracker3-axis magnetometer",
+      "Sensors": "1-2 Star Trackers, 1-4 Sun Sensors, IMU, Magnetometer, GPS",
       "Processor": "Yes",
-      "Pointing Accuracy": "0.003/0.007°",
-      "Ref": "(11)"
+      "Pointing Accuracy": "0.003/0.007°"
     },
     {
-      "Manufacturer": "Blue Canyon Technologies",
+      "Manufacturer": "Blue Canyon Technologies (USA)",
       "Model": "XACT-100",
       "Mass (kg)": "1.813",
-      "Actuators": "3 reaction wheels3 magnetorquers",
-      "Sensors": "1 star tracker3-axis magnetometer",
-      "Processor": "Yes",
-      "Pointing Accuracy": "0.003/0.007°",
-      "Ref": "(11)"
-    },
-    {
-      "Manufacturer": "Blue Canyon Technologies",
-      "Model": "Flexcore",
-      "Mass (kg)": "(†) ()",
       "Actuators": "3 – 4 reaction wheels3 magnetorquers",
-      "Sensors": "2 star trackers3-axis magnetometer",
+      "Sensors": "1-2 Star Trackers, 1-4 Sun Sensors, IMU, Magnetometer, GPS",
       "Processor": "Yes",
-      "Pointing Accuracy": "0.002°",
-      "Ref": "(11)"
+      "Pointing Accuracy": "0.003/0.007°"
     },
     {
-      "Manufacturer": "CubeSpace Satellite Systems",
+      "Manufacturer": "Blue Canyon Technologies (USA)",
+      "Model": "Flexcore",
+      "Mass (kg)": "(†)",
+      "Actuators": "3 – 4 reaction wheels3 magnetorquers",
+      "Sensors": "1-2 Star Trackers, 1-4 Sun Sensors, IMU, Magnetometer, GPS",
+      "Processor": "Yes",
+      "Pointing Accuracy": "0.002°"
+    },
+    {
+      "Manufacturer": "CubeSpace Satellite Systems (South Africa)",
       "Model": "CubeADCS",
       "Mass (kg)": "0.26*",
       "Actuators": "3/4(Pyramid) x reaction wheels, 3 x Magnetorquers distributed or integrated with ADCS core (3U/6U only)",
       "Sensors": "Up to 4 x FSS, 2 x EHS, 2 x STR, 2 x MGTM. All distributed",
       "Processor": "5Hz",
-      "Pointing Accuracy": "~70 arcsec (3 sigma) (†) ()",
-      "Ref": "(12)"
+      "Pointing Accuracy": "~70 arcsec (3 sigma) (†)"
     }
   ]
 }

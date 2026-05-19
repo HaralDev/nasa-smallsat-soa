@@ -1,0 +1,53 @@
+{
+  "table_id": "8-3",
+  "title": "Examples of AI Space Applications",
+  "chapter_num": 8,
+  "chapter_title": "Small Spacecraft Avionics",
+  "source_url": "https://www.nasa.gov/smallsat-institute/sst-soa/small-spacecraft-avionics",
+  "edition": "2026",
+  "scrape_date": "2026-05-19",
+  "type": "reference",
+  "columns": [
+    "AI Space Application",
+    "Description",
+    "Example(s)"
+  ],
+  "_notes": [],
+  "data": [
+    {
+      "AI Space Application": "Spacecraft Image Analysis",
+      "Description": "AI-driven computer vision greatly accelerates the interpretation of satellite imagery.",
+      "Example(s)": "The Advanced Intelligent Monitoring System (AIMS) rapidly analyzes data collected by GOES-R spacecraft and provides actionable information that has improved both operational efficiency and mission resilience (13)."
+    },
+    {
+      "AI Space Application": "Autonomous Navigation & Robotics",
+      "Description": "Spacecraft can navigate and make decisions w/o human command.",
+      "Example(s)": "NASA’s Starling mission of four CubeSats formation flying"
+    },
+    {
+      "AI Space Application": "Space Debris Tracking & Collision Avoidance",
+      "Description": "Machine learning can improve the tracking and predictive modeling of objects in orbit, helping identify high-risk conjunctions.",
+      "Example(s)": "LeoLabs and Neuraspace similarly use AI to sift sensor data and predict close approaches, issuing automated “conjunction” warnings (14)(15)."
+    },
+    {
+      "AI Space Application": "Space Weather Forecasting",
+      "Description": "Predicts solar storms or other events that could harm spacecraft or power grids.",
+      "Example(s)": "NOAA has several AI-based systems that leverage various data sources to generate weather forecasts comparable to those produced by traditional weather prediction systems; and DAGGER (Deep Learning Geomagnetic Perturbation) analyzes satellite measurements of the solar wind to predict the impact of solar storms on Earth with 30 minutes of advance warning (17)."
+    },
+    {
+      "AI Space Application": "Mission Planning and Optimization",
+      "Description": "Allows the spacecraft to perform automated, resource-efficient sequences of activities—such as maneuvering, data collection, and constellation inter-communication– in various approaches with mathematical algorithms.",
+      "Example(s)": "By Jet Propulsion Laboratory, the ASPEN Mission Planner is an AI-assisted tool that helps streamline space mission planning and scheduling, optimizing mission efficiency; and CLASP (Coverage Planning & Scheduling) is for resource allocation and scheduling, ensuring mission activities are executed seamlessly."
+    },
+    {
+      "AI Space Application": "Communications and Data Transmission",
+      "Description": "Cognitive communications research aims to mitigate the increasing communication complexity for mission users by increasing the autonomy of links, networks, and service scheduling.",
+      "Example(s)": "Cognitive Communications project at NASA Glenn Research Center (GRC) aims to develop decentralized space networks with artificial intelligence (AI) agents optimizing communication link throughput, data routing, and system-wide asset management to mitigate this challenge (16)."
+    },
+    {
+      "AI Space Application": "Satellite Health Monitoring & Predictive Maintenance",
+      "Description": "Implementing AI, machine learning, and advanced telemetry analysis systems to detect, diagnose, and mitigate potential spacecraft failures before they impact missions.",
+      "Example(s)": ""
+    }
+  ]
+}

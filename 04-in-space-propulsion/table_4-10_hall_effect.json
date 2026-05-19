@@ -4,8 +4,8 @@
   "chapter_num": 4,
   "chapter_title": "In-Space Propulsion",
   "source_url": "https://www.nasa.gov/smallsat-institute/sst-soa/in-space_propulsion",
-  "edition": "2024",
-  "scrape_date": "2026-04-09",
+  "edition": "2026",
+  "scrape_date": "2026-05-19",
   "type": "products",
   "columns": [
     "Manufacturer",
@@ -39,7 +39,7 @@
       "Cathode Type": "None",
       "PMI Status": "E",
       "Missions": "NuX-1",
-      "References": "(271) (272) (273) (274) (275)"
+      "References": "(275) (276) (277) (278) (279)"
     },
     {
       "Manufacturer": "Aliena Pte Ltd (Singapore)",
@@ -54,7 +54,7 @@
       "Cathode Type": "EM-HL",
       "PMI Status": "E",
       "Missions": "ORB-12 STRIDER",
-      "References": "(271) (275) (276)"
+      "References": "(275) (279) (280)"
     },
     {
       "Manufacturer": "Astra (USA)",
@@ -68,8 +68,8 @@
       "Thruster Power*": "400 (‡)",
       "Cathode Type": "CM-HL",
       "PMI Status": "F",
-      "Missions": "Sherpa-LTE, Aries (2024**), ELSA-M (2024**)",
-      "References": "(218) (220) (219) (220) (221) (222) (223) (224)"
+      "Missions": "Sherpa-LTE",
+      "References": "(218) (220) (219) (220) (221) (223) (224)"
     },
     {
       "Manufacturer": "Astra (USA)",
@@ -99,7 +99,7 @@
       "Cathode Type": "EM-SH",
       "PMI Status": "D",
       "Missions": "–",
-      "References": "(203) (360)"
+      "References": "(203) (368)"
     },
     {
       "Manufacturer": "Busek (USA)",
@@ -144,7 +144,7 @@
       "Cathode Type": "EM-SH",
       "PMI Status": "F",
       "Missions": "OneWeb Satellites",
-      "References": "(256) (257) (258) (259)"
+      "References": "(260) (261) (262) (263)"
     },
     {
       "Manufacturer": "Busek (USA)",
@@ -159,7 +159,7 @@
       "Cathode Type": "EM-SH",
       "PMI Status": "E",
       "Missions": "US Government",
-      "References": "(203) (260) (261) (361) (362)"
+      "References": "(203) (264) (265) (369) (370)"
     },
     {
       "Manufacturer": "Busek (USA)",
@@ -174,7 +174,7 @@
       "Cathode Type": "EM-SH",
       "PMI Status": "D",
       "Missions": "–",
-      "References": "(206) (361) (362) (363)"
+      "References": "(206) (369) (370) (371)"
     },
     {
       "Manufacturer": "EDB Fakel (Russia)",
@@ -189,7 +189,7 @@
       "Cathode Type": "EM-SH",
       "PMI Status": "F",
       "Missions": "Canopus-V",
-      "References": "(198) (199) (200) (201) (364)"
+      "References": "(198) (199) (200) (201) (372)"
     },
     {
       "Manufacturer": "EDB Fakel (Russia)",
@@ -204,7 +204,7 @@
       "Cathode Type": "EM-SH",
       "PMI Status": "D",
       "Missions": "–",
-      "References": "(364)"
+      "References": "(372)"
     },
     {
       "Manufacturer": "EDB Fakel (Russia)",
@@ -263,8 +263,8 @@
       "Thruster Power*": "400 (‡)",
       "Cathode Type": "CM-HL",
       "PMI Status": "F",
-      "Missions": "Tipping Point (2024**), Blackjack",
-      "References": "(243) (244) (245) (246) (247) (248) (249)"
+      "Missions": "Blackjack",
+      "References": "(243) (244) (245) (246) (247) (248) (249) (250) (251)"
     },
     {
       "Manufacturer": "ExoTerra (USA)",
@@ -279,7 +279,7 @@
       "Cathode Type": "CM-HL",
       "PMI Status": "D",
       "Missions": "–",
-      "References": "(365)"
+      "References": "(373)"
     },
     {
       "Manufacturer": "ExoTerra (USA)",
@@ -293,8 +293,8 @@
       "Thruster Power*": "1,000 (‡)",
       "Cathode Type": "CM-HL",
       "PMI Status": "E (1)",
-      "Missions": "Unnamed Flights",
-      "References": "(250) (251) (252) (366)"
+      "Missions": "Undisclosed mission",
+      "References": "(252) (253) (254) (374)"
     },
     {
       "Manufacturer": "ExoTerra (USA)",
@@ -309,7 +309,7 @@
       "Cathode Type": "CM-HL",
       "PMI Status": "D (1)",
       "Missions": "–",
-      "References": "(367)"
+      "References": "(375)"
     },
     {
       "Manufacturer": "Exotrail (France)",
@@ -323,8 +323,8 @@
       "Thruster Power*": "60",
       "Cathode Type": "EM-SH",
       "PMI Status": "F",
-      "Missions": "M6P Demo, Arthur, ELO3 and ELO4, Otter Pup, INCUS (2026)",
-      "References": "(227) (228) (229) (230) (231) (232) (233) (234) (235)"
+      "Missions": "M6P Demo, Arthur, ELO3 and ELO4, Otter Pup, INCUS (2027)",
+      "References": "(226) (227) (228) (229) (230) (231) (232) (233) (234)"
     },
     {
       "Manufacturer": "Exotrail (France)",
@@ -337,9 +337,9 @@
       "Envelope": "960",
       "Thruster Power*": "150",
       "Cathode Type": "EM-SH",
-      "PMI Status": "E",
-      "Missions": "York Space (2023**), SpaceVan (2023**), Astro Digital (2024), Satrec Initiative (2025), Muon Space (2026)",
-      "References": "(227) (230) (236) (237) (238) (239) (240) (241)"
+      "PMI Status": "F",
+      "Missions": "York Space (2023**), SpaceVan, Astro Digital (2024**), Satrec Initiative (2025**), Muon Space (2026**)",
+      "References": "(226) (229) (235) (236) (237) (238) (239) (240) (241)"
     },
     {
       "Manufacturer": "Exotrail (France)",
@@ -354,7 +354,7 @@
       "Cathode Type": "EM-SH",
       "PMI Status": "E",
       "Missions": "Airbus’ Earth Observation satellite platform portfolio",
-      "References": "(227) (242)"
+      "References": "(226) (242)"
     },
     {
       "Manufacturer": "JPL (USA)",
@@ -369,7 +369,7 @@
       "Cathode Type": "CM-HL",
       "PMI Status": "D",
       "Missions": "–",
-      "References": "(250) (251) (368) (369) (370) (371) (372) (373) (374) (375) (376) (377) (378) (379)"
+      "References": "(252) (253) (376) (377) (378) (379) (380) (381) (382) (383) (384) (385) (386) (387)"
     },
     {
       "Manufacturer": "Northrop Grumman (USA)",
@@ -383,23 +383,53 @@
       "Thruster Power*": "900",
       "Cathode Type": "CM-SH",
       "PMI Status": "E",
-      "Missions": "MEP (2025**)",
-      "References": "(262) (263) (264) (265) (266) (267) (268)"
+      "Missions": "MEP (2026)",
+      "References": "(266) (267) (268) (269) (270) (271) (272)"
     },
     {
       "Manufacturer": "Orbion (USA)",
       "Product": "Aurora",
       "Propellant": "Xenon",
-      "Thrust*": "15",
-      "Specific Impulse*": "1,320",
-      "Total Impulse*": "200",
+      "Thrust*": "15.6",
+      "Specific Impulse*": "1,280",
+      "Total Impulse*": "400",
       "Mass": "1.5",
-      "Envelope": "1,500",
-      "Thruster Power*": "250",
+      "Envelope": "–",
+      "Thruster Power*": "300",
       "Cathode Type": "EM-SH",
-      "PMI Status": "E",
-      "Missions": "GA-EMS (**)",
-      "References": "(253) (254) (255)"
+      "PMI Status": "F",
+      "Missions": "Capella-17, GA-EMS, York Space Constellation",
+      "References": "(256) (257) (258) (259) (388) (389) (390) (391) (392) (393)"
+    },
+    {
+      "Manufacturer": "Pale Blue (Japan)",
+      "Product": "PBH-100",
+      "Propellant": "Xenon",
+      "Thrust*": "8",
+      "Specific Impulse*": "–",
+      "Total Impulse*": "50",
+      "Mass": "–",
+      "Envelope": "–",
+      "Thruster Power*": "190",
+      "Cathode Type": "mwave",
+      "PMI Status": "D",
+      "Missions": "–",
+      "References": "(394)"
+    },
+    {
+      "Manufacturer": "Pulsar Fusion (UK)",
+      "Product": "LeoBear",
+      "Propellant": "Xenon",
+      "Thrust*": "–",
+      "Specific Impulse*": "–",
+      "Total Impulse*": "–",
+      "Mass": "3.0",
+      "Envelope": "13 x 13 x 15",
+      "Thruster Power*": "500",
+      "Cathode Type": "EM-SH",
+      "PMI Status": "D",
+      "Missions": "–",
+      "References": "(395) (396)"
     },
     {
       "Manufacturer": "Rafael (Israel)",
@@ -414,7 +444,7 @@
       "Cathode Type": "EM-HL",
       "PMI Status": "D",
       "Missions": "–",
-      "References": "(208) (380) (381)"
+      "References": "(208) (397) (398)"
     },
     {
       "Manufacturer": "Rafael (Israel)",
@@ -444,7 +474,7 @@
       "Cathode Type": "EM-HL",
       "PMI Status": "D",
       "Missions": "–",
-      "References": "(208) (382)"
+      "References": "(208) (399)"
     },
     {
       "Manufacturer": "Safran (France)",
@@ -454,12 +484,12 @@
       "Specific Impulse*": "1,530",
       "Total Impulse*": "1,000",
       "Mass": "< 3.2",
-      "Envelope": "–",
+      "Envelope": "22 x 17 x 14",
       "Thruster Power*": "650",
       "Cathode Type": "EM-SH",
-      "PMI Status": "D",
-      "Missions": "–",
-      "References": "(383) (384) (385)"
+      "PMI Status": "E",
+      "Missions": "Vestri (2026**)",
+      "References": "(400) (401) (402) (403) (404)"
     },
     {
       "Manufacturer": "SITAEL (Italy)",
@@ -473,8 +503,8 @@
       "Thruster Power*": "175",
       "Cathode Type": "EM-SH",
       "PMI Status": "E",
-      "Missions": "uHETSat (2023**)",
-      "References": "(213) (214) (215) (216)"
+      "Missions": "uHETSat, Platino-1 (2026**), Platino-2 (2026**)",
+      "References": "(213) (214) (215) (216) (217)"
     },
     {
       "Manufacturer": "SITAEL (Italy)",
@@ -488,8 +518,8 @@
       "Thruster Power*": "615",
       "Cathode Type": "EM-SH",
       "PMI Status": "D",
-      "Missions": "",
-      "References": "(386) (387) (388)"
+      "Missions": "–",
+      "References": "(405) (406) (407)"
     },
     {
       "Manufacturer": "SETS (Ukraine)",
@@ -497,14 +527,14 @@
       "Propellant": "Xenon",
       "Thrust*": "7.6",
       "Specific Impulse*": "1,000",
-      "Total Impulse*": "82",
+      "Total Impulse*": "115",
       "Mass": "0.95 (with 2 cathodes)",
-      "Envelope": "1,003",
+      "Envelope": "12 x 10 x 7.3",
       "Thruster Power*": "140",
       "Cathode Type": "EM-SH",
-      "PMI Status": "E",
+      "PMI Status": "F",
       "Missions": "EOS SAT-1",
-      "References": "(269) (270) (389) (390)"
+      "References": "(273) (274) (408) (409)"
     },
     {
       "Manufacturer": "SETS (Ukraine)",
@@ -512,14 +542,14 @@
       "Propellant": "Xenon",
       "Thrust*": "25",
       "Specific Impulse*": "1,450",
-      "Total Impulse*": "400",
-      "Mass": "1.2 (with 2 cathodes)",
-      "Envelope": "1,170",
+      "Total Impulse*": "350",
+      "Mass": "1.5 (with 2 cathodes)",
+      "Envelope": "18 x 11 x 13",
       "Thruster Power*": "450",
-      "Cathode Type": "EM-HL",
+      "Cathode Type": "EM-SH",
       "PMI Status": "D",
       "Missions": "–",
-      "References": "(391)"
+      "References": "(410)"
     }
   ]
 }

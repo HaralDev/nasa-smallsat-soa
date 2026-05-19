@@ -16,6 +16,8 @@ import unicodedata
 
 from bs4 import BeautifulSoup, Tag
 
+from scraper.config import EDITION
+
 # Matches "Table 4-7", "Table 4‑7" (non-breaking hyphen), "Table 4–7" (en-dash)
 TABLE_TITLE_RE = re.compile(r"Table\s+(\d+)\s*[-\u2011\u2013]\s*(\d+)", re.IGNORECASE)
 CONT_RE = re.compile(r"\(cont\.?\)", re.IGNORECASE)
@@ -414,7 +416,7 @@ def extract_tables(html: str, chapter_config) -> list[dict]:
             "chapter_num": chapter_config.chapter_num,
             "chapter_title": chapter_config.title,
             "source_url": chapter_config.url,
-            "edition": "2024",
+            "edition": EDITION,
             "columns": headers,
             "_notes": unique_footnotes,
         }
