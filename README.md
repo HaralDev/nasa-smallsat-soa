@@ -3,6 +3,7 @@
 Machine-readable data extracted from NASA's *State-of-the-Art of Small Spacecraft Technology* report, 2026 edition.
 
 **Source:** [nasa.gov/smallsat-institute/sst-soa](https://www.nasa.gov/smallsat-institute/sst-soa/)  
+**Edition:** 2026 &nbsp;·&nbsp; the previous **2024** edition is archived, unchanged, on the [`master-2024-report`](../../tree/master-2024-report) branch  
 **Data scraped:** 2026-05-19  
 **Format:** JSON (one file per table or table subgroup)
 
@@ -11,10 +12,6 @@ Machine-readable data extracted from NASA's *State-of-the-Art of Small Spacecraf
 > This repository is not affiliated with or endorsed by NASA.  
 > NASA content is U.S. government work and is in the public domain.  
 > The scraper code in this repository is released under the MIT License.
-
-> **Previous editions:** This branch tracks the **2026** edition. The fully
-> scraped **2024** edition is archived, unchanged, on the
-> [`master-2024-report`](../../tree/master-2024-report) branch.
 
 ---
 
